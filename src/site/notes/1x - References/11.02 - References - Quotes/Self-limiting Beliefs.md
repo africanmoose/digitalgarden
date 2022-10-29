@@ -14,4 +14,4 @@ fs.blog
 
 ## Related
 - [[1x - References/11.03 - References - Ideas/Growth Mindset|../11.03 - References - Ideas/Growth Mindset]]
-- [[1x - References/11.15 - References - how to learn a skill|../11.15 - References - how to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill|../11.03 - References - Ideas/How to learn a skill]]
