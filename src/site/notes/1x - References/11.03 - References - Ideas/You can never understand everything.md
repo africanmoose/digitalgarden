@@ -16,9 +16,6 @@
 ### References
 - The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills, Information, and Abilities - [Peter Hollins](https://www.goodreads.com/author/show/16593818.Peter_Hollins)
 
-### Quotes
--
-
 ### Interesting Related
 - [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
 - [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills|Pareto principle in learning new skills]]
