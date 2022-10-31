@@ -18,4 +18,4 @@
 
 ### Interesting Related
 - [[1x - References/11.03 - References - Ideas/Zettelkasten Principles|Zettelkasten Principles]]
-- [[1x - References/11.05 - References - Persons/11.05 - Claude Shannon|11.05 - References - Persons/11.05 - Claude Shannon]]
+- [[1x - References/11.05 - References - Persons/Claude Shannon|../11.05 - References - Persons/Claude Shannon]]
