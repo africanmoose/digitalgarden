@@ -13,9 +13,6 @@
 ### References
 - Art of Manliness podcast - Neil Pasricha: simple rules for happiness
 
-### Quotes
--
-
 ### Interesting Related
 [[1x - References/11.03 - References - Ideas/Minimalism|Minimalism]]
 [[1x - References/11.03 - References - Ideas/Productivity Principles|Productivity Principles]]
