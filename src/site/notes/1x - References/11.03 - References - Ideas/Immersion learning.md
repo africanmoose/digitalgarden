@@ -14,7 +14,7 @@
 	- [[1x - References/11.03 - References - Ideas/Beginners mindset|Beginners mindset]]
 	- [[1x - References/11.03 - References - Ideas/Skill Stacking|Skill Stacking]]
 	- [[1x - References/11.03 - References - Ideas/Curiousity is a powerful learning tool|Curiousity is a powerful learning tool]]
-	- [[1x - References/11.03 - References - Ideas/Bloom's Taxonomy method of learning|Bloom's Taxonomy method of learning]]
+	- [[1x - References/11.03 - References - Ideas/Blooms Taxonomy method of learning|Blooms Taxonomy method of learning]]
 	- [[1x - References/11.03 - References - Ideas/Good mentors help learning|Good mentors help learning]]
 	- [[1x - References/11.03 - References - Ideas/Feynman technique of learning|Feynman technique of learning]]
 	- [[1x - References/11.03 - References - Ideas/The Why chain|The Why chain]]
