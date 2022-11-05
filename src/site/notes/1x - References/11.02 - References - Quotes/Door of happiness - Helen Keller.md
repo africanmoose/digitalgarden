@@ -15,5 +15,5 @@ Helen Keller
 -
 
 ## Related
-- [[3x - Spiritual/36.01 - Spiritual - Study Project - Joy|../../3x - Spiritual/36.01 - Spiritual - Study Project - Joy]]
+- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project]]
 - [[1x - References/11.02 - References - Quotes/Making others think we are happy - Francois de la Rochefoucauld|Making others think we are happy - Francois de la Rochefoucauld]]
