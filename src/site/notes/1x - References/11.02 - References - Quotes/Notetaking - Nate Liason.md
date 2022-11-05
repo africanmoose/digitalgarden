@@ -14,4 +14,4 @@ https://strikingloo.github.io/wiki/archiving
 
 ## Related
 [[1x - References/11.03 - References - Ideas/Notetaking|../11.03 - References - Ideas/Notetaking]]
-[[1x - References/11.03 - References - Ideas/Zettelkasten Principles|../11.03 - References - Ideas/Zettelkasten Principles]]
+[[1x - References/11.03 - References - Ideas/Zettelkasten Method|../11.03 - References - Ideas/Zettelkasten Method]]
