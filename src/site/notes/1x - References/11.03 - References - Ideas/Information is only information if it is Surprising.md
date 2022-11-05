@@ -14,5 +14,5 @@
 - https://en.wikipedia.org/wiki/Entropy_(information_theory)
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Zettelkasten Principles|Zettelkasten Principles]]
+- [[1x - References/11.03 - References - Ideas/Zettelkasten Method|Zettelkasten Method]]
 - [[1x - References/11.05 - References - Persons/Claude Shannon|../11.05 - References - Persons/Claude Shannon]]
