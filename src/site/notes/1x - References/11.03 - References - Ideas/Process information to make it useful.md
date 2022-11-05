@@ -20,7 +20,7 @@
 
 ### Interesting Related
 - [[1x - References/11.03 - References - Ideas/Learn Slow|Learn Slow]]
-- [[1x - References/11.03 - References - Ideas/Zettelkasten Principles|Zettelkasten Principles]]
+- [[1x - References/11.03 - References - Ideas/Zettelkasten Method|Zettelkasten Method]]
 - [[1x - References/11.06 - References - Structure Notes/Zettelkasten Principles|../11.06 - References - Structure Notes/Zettelkasten Principles]]
 - [[1x - References/11.02 - References - Quotes/Keep learning - James Clear|../11.02 - References - Quotes/Keep learning - James Clear]]
 - [[1x - References/11.03 - References - Ideas/Reading is Thinking|Reading is Thinking]]
