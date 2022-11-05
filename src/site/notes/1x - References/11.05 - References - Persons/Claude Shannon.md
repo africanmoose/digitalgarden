@@ -24,6 +24,6 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Zettelkasten Principles|../11.03 - References - Ideas/Zettelkasten Principles]]
+- [[1x - References/11.03 - References - Ideas/Zettelkasten Method|../11.03 - References - Ideas/Zettelkasten Method]]
 - [[1x - References/11.03 - References - Ideas/Information is only information if it is Surprising|../11.03 - References - Ideas/Information is only information if it is Surprising]]
 - [[1x - References/11.05 - References - Persons/Vannevar Bush|Vannevar Bush]]
