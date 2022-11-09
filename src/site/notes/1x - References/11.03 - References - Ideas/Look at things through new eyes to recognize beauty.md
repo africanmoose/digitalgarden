@@ -16,7 +16,7 @@
 - Beauty can arise in the simplest of things - a conversation, a walk
 
 ### References
-- [[4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### Related
 - [[3x - Spiritual/31.02 - Spiritual - Illustrations/Humans like geode beautiful on the inside|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Humans like geode beautiful on the inside]]
