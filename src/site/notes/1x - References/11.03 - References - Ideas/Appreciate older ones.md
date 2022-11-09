@@ -10,7 +10,7 @@
 - Likely we admire many who are older than ourselves, yet we dont admire age in ourselves and spend time and money trying to hide our age
 
 ### References
-- [[4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### Quotes
 - "If you think about who you truly admire, it’s likely that you will include someone older than you in your list. And yet we find it hard to see the value of ageing in ourselves. We spend valuable time and money trying to cling to our youth on the surface, while ignoring the beauty and wisdom of age underneath."
