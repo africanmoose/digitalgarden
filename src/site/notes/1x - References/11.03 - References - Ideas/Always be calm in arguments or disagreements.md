@@ -12,7 +12,7 @@
 - use 'calm tools' to hav ea better conversation
 
 ### References
-- [[4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### Quotes
 - "We all want to be heard and understood, and keeping calm when we communicate can help us do that so much better. When someone talks to us in an aggressive way, forces an opinion on us, says something hurtful or something we strongly disagree with, we have a choice: we can choose to react in a way that escalates the negative energy and aggression, or we can choose to respond calmly in a way that brings a more considered discussion, or even closure of the conversation. This isn’t about always agreeing, or giving in, but it’s about using calm tools to have better conversations and avoid additional stress''
