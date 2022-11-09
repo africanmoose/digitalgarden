@@ -13,7 +13,7 @@
 - Projecting onto them this ideal may make us disappointed later on if they dont meet up to it
 
 ### References
-- [[4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### Quotes
 - "When the very people we admire and follow are the people who trigger a feeling of insufficiency in us, it is often because we are projecting an unrealistic ideal of perfection onto them. When that happens, we either have to change our outlook, or change who we follow."
