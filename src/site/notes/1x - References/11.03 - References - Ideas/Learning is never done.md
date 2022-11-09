@@ -20,4 +20,5 @@
 - [[1x - References/11.02 - References - Quotes/Keep learning - James Clear|1x - References/11.02 - References - Quotes/Keep learning - James Clear]]
 - [[3x - Spiritual/32.07 - Spiritual - Morning Worships/2022-11-08 Will you continue to speak|3x - Spiritual/32.07 - Spiritual - Morning Worships/2022-11-08 Will you continue to speak]]
 - [[1x - References/11.03 - References - Ideas/4 Stages of learning|1x - References/11.03 - References - Ideas/4 Stages of learning]]
+- [Leon weaver life story](https://wol.jw.org/en/wol/pc/r1/lp-e/1200273453/553/0)
 
