@@ -19,4 +19,4 @@
 - [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
 - [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points]]
 - [[1x - References/11.03 - References - Ideas/Positive view of others|Positive view of others]]
-- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project]]
+- [[3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project|../../3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project]]
