@@ -44,4 +44,4 @@
 - https://www.goodreads.com/book/show/39692401-wabi-sabi
 
 ### Related
-- [[3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Ciru|../../3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Ciru]]
+- [[3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Shiroh|../../3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Shiroh]]
