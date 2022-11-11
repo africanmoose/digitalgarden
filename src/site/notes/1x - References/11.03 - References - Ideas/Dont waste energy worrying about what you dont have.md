@@ -21,4 +21,4 @@
 - [[1x - References/11.02 - References - Quotes/Appreciate not expect everything|../11.02 - References - Quotes/Appreciate not expect everything]]
 - [[3x - Spiritual/31.02 - Spiritual - Illustrations/Show appreciation to Jehovah|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Show appreciation to Jehovah]]
 - [[1x - References/11.02 - References - Quotes/Showing people that they are appreciated|../11.02 - References - Quotes/Showing people that they are appreciated]]
-- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project]]
+- [[3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project|../../3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project]]
