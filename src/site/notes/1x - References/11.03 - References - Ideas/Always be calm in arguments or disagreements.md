@@ -20,4 +20,4 @@
 
 ### Related
 - [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Peace|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Peace]]
-- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy - Study Project]]
+- [[3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project|../../3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project]]
