@@ -4,7 +4,8 @@
 
 
 ### Summary
-- 
+- This book goes room by room through the house and gives suggestions for cleaning up and minimalist living.
+- It is more practical if you actually own a large house with many rooms, so for me it didn't apply so much, but there were a few useful tips.
 
 ### Details
 - [[1x - References/11.03 - References - Ideas/Dorothy tries new adventures in Oz|Try new adventures and experiences to grow as a person]]
