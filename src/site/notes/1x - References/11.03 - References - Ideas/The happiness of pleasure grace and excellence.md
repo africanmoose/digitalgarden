@@ -15,7 +15,7 @@
 - The happiness of excellence - when we work for something great. Not the ending when we achieve it but the process, work, flow
 
 ### References
-- [[0x - System/01.02 - Inbox/101 essays that will change your life - Brianna Wiest|../../0x - System/01.02 - Inbox/101 essays that will change your life - Brianna Wiest]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
 
 ### Quotes
 - "And then there is the happiness of excellence. The kind of happiness that comes from the pursuit of something great. Not the moment you arrive at the top of the mountain and raise your fists in victory, but the process of falling in love with the hike. It is meaningful work. It is flow. It is the purpose that sears identity and builds character and channels our energy toward something greater than the insatiable, daily pursuit of our fleeting desire"
