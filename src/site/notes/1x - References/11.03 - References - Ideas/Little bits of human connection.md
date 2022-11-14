@@ -13,7 +13,7 @@
 - vendor/street person you greet regularly
 
 ### References
-- [[0x - System/01.02 - Inbox/101 essays that will change your life - Brianna Wiest|../../0x - System/01.02 - Inbox/101 essays that will change your life - Brianna Wiest]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
 
 ### Related
 - [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Joy]]
