@@ -13,7 +13,7 @@
 - 67% of men and 25% of women chose to shock themsleves than sit quietly and think
 
 ### References
-- [[0x - System/01.02 - Inbox/101 essays that will change your life - Brianna Wiest|../../0x - System/01.02 - Inbox/101 essays that will change your life - Brianna Wiest]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
 - [www.Science.org](https://www.science.org/content/article/people-would-rather-be-electrically-shocked-left-alone-their-thoughts)
 
 ### Quotes
