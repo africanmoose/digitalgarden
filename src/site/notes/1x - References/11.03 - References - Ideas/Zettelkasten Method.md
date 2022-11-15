@@ -4,8 +4,8 @@
 
 
 ### references
-- zettelkasten.de
-- https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
+- [zettelkasten.de site](https://zettelkasten.de)
+- [Article on luhman](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 
 ### points to apply
 - write notes in your words
