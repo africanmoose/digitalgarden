@@ -4,7 +4,7 @@
 
 
 ### references
-- [zettelkasten.de site](https://zettelkasten.de)
+- [zettelkasten.de site](https://zettelkasten.de/posts/overview/)
 - [Article on luhman](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 
 ### points to apply
