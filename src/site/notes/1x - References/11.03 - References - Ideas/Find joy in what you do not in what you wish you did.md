@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/find-joy-in-what-you-do-not-in-what-you-wish-you-did/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Find joy in what you do not in what you wish you did","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 2:12:13 pm","date modified":"Sunday, November 13th 2022, 2:12:30 pm","permalink":"/1x-references/11-03-references-ideas/find-joy-in-what-you-do-not-in-what-you-wish-you-did/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
