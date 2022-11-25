@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cannot-control-what-people-think-of-you/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"permanent note","dg-publish":true,"tags":null,"date created":"2022-11-12 21:52","date modified":null,"permalink":"/1x-references/11-03-references-ideas/cannot-control-what-people-think-of-you/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
