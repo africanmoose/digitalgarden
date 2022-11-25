@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/how-to-argue-and-disagree/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"How to argue and disagree","dg-publish":true,"tags":null,"date created":"Saturday, November 5th 2022, 3:12:35 pm","date modified":"Monday, November 14th 2022, 9:30:01 pm","permalink":"/1x-references/11-03-references-ideas/how-to-argue-and-disagree/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
