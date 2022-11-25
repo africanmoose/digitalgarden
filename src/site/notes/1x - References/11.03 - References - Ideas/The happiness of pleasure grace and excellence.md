@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-happiness-of-pleasure-grace-and-excellence/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Untitled","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 7:32:36 pm","date modified":"Saturday, November 12th 2022, 7:32:45 pm","permalink":"/1x-references/11-03-references-ideas/the-happiness-of-pleasure-grace-and-excellence/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
