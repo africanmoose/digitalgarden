@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/people-would-rather-get-electric-shock-than-sit-with-their-own-thoughts/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"People would rather get electric shock than sit with their own thoughts","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 8:16:59 pm","date modified":"Sunday, November 13th 2022, 8:17:23 pm","permalink":"/1x-references/11-03-references-ideas/people-would-rather-get-electric-shock-than-sit-with-their-own-thoughts/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
