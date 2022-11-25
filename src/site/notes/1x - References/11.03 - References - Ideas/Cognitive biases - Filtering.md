@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-biases-filtering/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Cognitive biases - Filtering","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 12:23:05 pm","date modified":"Monday, November 14th 2022, 12:23:24 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-biases-filtering/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
