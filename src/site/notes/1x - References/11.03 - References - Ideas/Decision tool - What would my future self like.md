@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/decision-tool-what-would-my-future-self-like/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Decision tool - What would my future self like","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 9:12:25 pm","date modified":"Monday, November 14th 2022, 9:22:09 pm","permalink":"/1x-references/11-03-references-ideas/decision-tool-what-would-my-future-self-like/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
