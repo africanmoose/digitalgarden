@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/you-dont-need-many-close-friends/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Untitled","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 7:26:33 pm","date modified":"Saturday, November 12th 2022, 7:26:42 pm","permalink":"/1x-references/11-03-references-ideas/you-dont-need-many-close-friends/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
