@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/appreciate-people-for-who-they-are-not-how-you-want-them-to-be/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Its not your job to fix other people","dg-publish":true,"tags":null,"date created":"Sunday, November 13th 2022, 12:18:19 pm","date modified":"Sunday, November 13th 2022, 12:18:31 pm","permalink":"/1x-references/11-03-references-ideas/appreciate-people-for-who-they-are-not-how-you-want-them-to-be/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
