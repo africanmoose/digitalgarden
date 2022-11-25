@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/social-media-makes-us-more-emotionally-disconnected/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Social media makes us more emotionally disconnected","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 11:36:54 am","date modified":"Sunday, November 13th 2022, 11:37:31 am","permalink":"/1x-references/11-03-references-ideas/social-media-makes-us-more-emotionally-disconnected/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
