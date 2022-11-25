@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/any-idiot-can-enjoy-positive-things/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Any idiot can enjoy positive things","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 11:52:21 pm","date modified":"Sunday, November 13th 2022, 11:52:38 pm","permalink":"/1x-references/11-03-references-ideas/any-idiot-can-enjoy-positive-things/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
