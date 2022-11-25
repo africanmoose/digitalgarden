@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/competing-with-others-only-exists-in-our-head/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Untitled","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 8:44:33 pm","date modified":"Sunday, November 13th 2022, 8:44:40 pm","permalink":"/1x-references/11-03-references-ideas/competing-with-others-only-exists-in-our-head/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
