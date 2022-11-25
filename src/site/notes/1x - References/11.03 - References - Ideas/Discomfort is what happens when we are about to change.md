@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/discomfort-is-what-happens-when-we-are-about-to-change/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Discomfort is what happens when we are about to change","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 7:14:11 pm","date modified":"Saturday, November 12th 2022, 7:14:58 pm","permalink":"/1x-references/11-03-references-ideas/discomfort-is-what-happens-when-we-are-about-to-change/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
