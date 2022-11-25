@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dont-argue-with-people-who-only-want-to-win/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Dont argue with people who only want to win","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 2:25:44 pm","date modified":"Saturday, November 12th 2022, 2:26:06 pm","permalink":"/1x-references/11-03-references-ideas/dont-argue-with-people-who-only-want-to-win/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
