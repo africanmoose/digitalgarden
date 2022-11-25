@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/diderot-effect-beware-the-contamination-of-sudden-wealth/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Diderot Effect","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 5:57:28 pm","date modified":"Sunday, November 13th 2022, 5:57:40 pm","permalink":"/1x-references/11-02-references-quotes/diderot-effect-beware-the-contamination-of-sudden-wealth/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
