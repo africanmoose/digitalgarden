@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-only-failure-is-to-avoid-creating-in-the-first-place/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"The only failure is to avoid creating in the first place","dg-publish":true,"tags":null,"date created":"Tuesday, November 8th 2022, 3:37:13 pm","date modified":"Tuesday, November 8th 2022, 10:36:26 pm","date":"2022-11-08 15:37","permalink":"/1x-references/11-03-references-ideas/the-only-failure-is-to-avoid-creating-in-the-first-place/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
