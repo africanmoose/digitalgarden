@@ -1,5 +1,5 @@
 ---
-{"title":"permanent note","dg-publish":true,"tags":null,"date created":"2022-11-12 08:02","date modified":null,"permalink":"/1x-references/11-03-references-ideas/not-directly-accuse-someone-of-being-wrong/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/not-directly-accuse-someone-of-being-wrong/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
