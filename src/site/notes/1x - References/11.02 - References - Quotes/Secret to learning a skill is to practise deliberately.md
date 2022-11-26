@@ -1,5 +1,5 @@
 ---
-{"title":"Secret to learning a skill is to practise deliberately","dg-publish":true,"tags":null,"date created":"Sunday, October 30th 2022, 3:12:00 pm","date modified":"Tuesday, November 8th 2022, 10:18:04 pm","permalink":"/1x-references/11-02-references-quotes/secret-to-learning-a-skill-is-to-practise-deliberately/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/secret-to-learning-a-skill-is-to-practise-deliberately/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 ---
