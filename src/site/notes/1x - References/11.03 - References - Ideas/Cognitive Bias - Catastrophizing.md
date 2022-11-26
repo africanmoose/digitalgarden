@@ -1,5 +1,5 @@
 ---
-{"title":"Untitled","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 7:57:18 pm","date modified":"Monday, November 14th 2022, 7:57:25 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-bias-catastrophizing/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-catastrophizing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
