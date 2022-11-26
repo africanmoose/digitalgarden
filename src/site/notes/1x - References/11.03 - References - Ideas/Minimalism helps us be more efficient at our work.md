@@ -1,5 +1,5 @@
 ---
-{"title":"Minimalism helps us be more efficient at our work","dg-publish":true,"tags":[],"date created":"Thursday, November 10th 2022, 11:46:13 pm","date modified":"Thursday, November 10th 2022, 11:52:09 pm","permalink":"/1x-references/11-03-references-ideas/minimalism-helps-us-be-more-efficient-at-our-work/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/minimalism-helps-us-be-more-efficient-at-our-work/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
