@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive bias - Always trying to prove you are right","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 8:53:59 pm","date modified":"Monday, November 14th 2022, 9:22:28 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-bias-always-trying-to-prove-you-are-right/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-always-trying-to-prove-you-are-right/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
