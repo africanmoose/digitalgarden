@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/helen-keller/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Helen Keller","dg-publish":true,"tags":null,"date created":"Friday, November 11th 2022, 11:15:37 pm","date modified":"Friday, November 11th 2022, 11:15:44 pm","permalink":"/1x-references/11-05-references-persons/helen-keller/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
