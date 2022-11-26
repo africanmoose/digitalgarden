@@ -1,5 +1,5 @@
 ---
-{"title":"permanent note","dg-publish":true,"tags":null,"date created":"2022-11-14 12:57","date modified":null,"permalink":"/1x-references/11-03-references-ideas/cognitive-biases-overgeneralization/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-biases-overgeneralization/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
