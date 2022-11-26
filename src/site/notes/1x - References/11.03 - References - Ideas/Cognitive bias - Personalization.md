@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive bias - Personalization","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 8:08:05 pm","date modified":"Monday, November 14th 2022, 8:09:56 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-bias-personalization/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-personalization/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
