@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/minimalist-gives-us-the-space-to-change/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Minimalist gives us the space to change","dg-publish":true,"tags":[],"date created":"Friday, November 11th 2022, 7:46:44 am","date modified":"Friday, November 11th 2022, 7:47:14 am","permalink":"/1x-references/11-03-references-ideas/minimalist-gives-us-the-space-to-change/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
