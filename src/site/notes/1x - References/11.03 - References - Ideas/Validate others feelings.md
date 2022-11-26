@@ -1,5 +1,5 @@
 ---
-{"title":"Validate others feelings","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 8:46:41 am","date modified":"Saturday, November 12th 2022, 8:46:56 am","permalink":"/1x-references/11-03-references-ideas/validate-others-feelings/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/validate-others-feelings/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
