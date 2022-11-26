@@ -1,5 +1,5 @@
 ---
-{"title":"What you read will affect who you will be for the rest of your life","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 9:05:45 pm","date modified":"Monday, November 14th 2022, 9:22:19 pm","permalink":"/1x-references/11-03-references-ideas/what-you-read-will-affect-who-you-will-be-for-the-rest-of-your-life/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/what-you-read-will-affect-who-you-will-be-for-the-rest-of-your-life/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
