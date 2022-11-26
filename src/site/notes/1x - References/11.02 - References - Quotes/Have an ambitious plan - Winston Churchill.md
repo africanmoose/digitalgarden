@@ -1,12 +1,7 @@
 ---
-{"title":"Have an ambitious plan - Winston Churchill","dg-publish":true,"description":"It is better to have an ambitious plan than none at all.","tags":null,"date created":"Thursday, November 3rd 2022, 10:58:57 pm","date modified":"Tuesday, November 8th 2022, 10:18:04 pm","permalink":"/1x-references/11-02-references-quotes/have-an-ambitious-plan-winston-churchill/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/have-an-ambitious-plan-winston-churchill/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
-
-<div class=rss>
-<p class=date>November 3, 2022<p>
-<p class=description>It is better to have an ambitious plan than none at all.</p>
-</div>
 
 ## Quote
 “it is better to have an ambitious plan than none at all."
