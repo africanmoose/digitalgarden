@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/focus-on-producing-quality-rather-than-quantity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Focus on producing quality rather than quantity","dg-publish":true,"tags":[],"date created":"Monday, November 21st 2022, 12:30:55 pm","date modified":"Saturday, November 26th 2022, 4:56:51 pm","permalink":"/1x-references/11-03-references-ideas/focus-on-producing-quality-rather-than-quantity/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
