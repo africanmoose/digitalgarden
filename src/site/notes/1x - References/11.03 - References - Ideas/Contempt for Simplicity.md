@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/contempt-for-simplicity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Contempt for Simplicity","dg-publish":true,"tags":[],"date created":"Wednesday, November 9th 2022, 8:30:29 pm","date modified":"Wednesday, November 9th 2022, 8:32:44 pm","date":null,"permalink":"/1x-references/11-03-references-ideas/contempt-for-simplicity/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
