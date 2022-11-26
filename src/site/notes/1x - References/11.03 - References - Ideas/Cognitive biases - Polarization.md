@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive biases - Polarization","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 12:53:16 pm","date modified":"Monday, November 14th 2022, 12:53:49 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-biases-polarization/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-biases-polarization/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
