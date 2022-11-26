@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-11-08 09:18","permalink":"/1x-references/11-03-references-ideas/learning-is-never-done/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/learning-is-never-done/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
