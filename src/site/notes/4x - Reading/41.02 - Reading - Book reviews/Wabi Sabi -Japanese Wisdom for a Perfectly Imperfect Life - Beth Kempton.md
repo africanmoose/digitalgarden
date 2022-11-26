@@ -1,5 +1,5 @@
 ---
-{"title":"Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton","dg-publish":true,"tags":null,"date created":"Monday, November 7th 2022, 12:28:18 pm","date modified":"Wednesday, November 9th 2022, 8:23:35 pm","permalink":"/4x-reading/41-02-reading-book-reviews/wabi-sabi-japanese-wisdom-for-a-perfectly-imperfect-life-beth-kempton/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/wabi-sabi-japanese-wisdom-for-a-perfectly-imperfect-life-beth-kempton/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
