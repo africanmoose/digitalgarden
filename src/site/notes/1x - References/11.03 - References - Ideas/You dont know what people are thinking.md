@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/you-dont-know-what-people-are-thinking/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"You dont know what people are thinking","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 4:08:03 pm","date modified":"Sunday, November 13th 2022, 4:09:31 pm","permalink":"/1x-references/11-03-references-ideas/you-dont-know-what-people-are-thinking/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
