@@ -1,5 +1,5 @@
 ---
-{"title":"Ship not made to stay in harbour","dg-publish":true,"tags":[],"date created":"Thursday, November 10th 2022, 11:28:48 pm","date modified":"Thursday, November 10th 2022, 11:52:21 pm","permalink":"/1x-references/11-02-references-quotes/ship-not-made-to-stay-in-harbour/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ship-not-made-to-stay-in-harbour/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
