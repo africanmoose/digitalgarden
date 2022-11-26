@@ -1,5 +1,5 @@
 ---
-{"title":"Questioning yourself","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 7:18:44 pm","date modified":"Saturday, November 12th 2022, 7:19:00 pm","permalink":"/1x-references/11-03-references-ideas/questioning-yourself-means-you-are-open-to-growth/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/questioning-yourself-means-you-are-open-to-growth/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
