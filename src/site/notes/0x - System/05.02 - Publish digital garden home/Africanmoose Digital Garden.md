@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-02-publish-digital-garden-home/africanmoose-digital-garden/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/0x-system/05-02-publish-digital-garden-home/africanmoose-digital-garden/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
  
@@ -44,3 +44,7 @@ Masais are well known for being able to live in the wilderness. These two spent 
 ## Africanmoose Stuff
 [Africanmoose](https://africanmoose.blogspot.com)
 [Africanmoose Photography](http://Africanmoose.com)
+
+## RSS feed (experimental)
+Copy and paste this URL into your RSS Feed reader
+[RSS feed](https://api.apify.com/v2/actor-tasks/fathomable_moss~africanmoose-zettelkasten/runs/last/dataset/items?token=apify_api_rf2o9KCrQy4KWxAHMjQqwx1fgNhMFP0YQL72&format=rss)
