@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-mind-reading/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Cognitive bias - Mind-reading","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 7:46:39 pm","date modified":"Monday, November 14th 2022, 7:47:24 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-bias-mind-reading/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
