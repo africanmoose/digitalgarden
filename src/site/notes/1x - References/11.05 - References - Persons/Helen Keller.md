@@ -27,3 +27,7 @@
 ### Related
 - [[1x - References/11.02 - References - Quotes/Door of happiness - Helen Keller|../11.02 - References - Quotes/Door of happiness - Helen Keller]]
 - [[1x - References/11.03 - References - Ideas/Focus attention on beautiful things in life|../11.03 - References - Ideas/Focus attention on beautiful things in life]]
+
+## RSS Data
+<div class='date'>Fri, 11 Nov 2022 12:17:32 GMT</div>
+<div class='description'>American author, advocate for disability rights and activist. She lost her hearing and sight at age of 19 months. She communicated with home signs until she met Anne Sullivan who taught her language skills, to read and write. She eventually became the first deafblind to earn a ...</div>
