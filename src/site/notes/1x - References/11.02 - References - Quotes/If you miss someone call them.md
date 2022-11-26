@@ -1,5 +1,5 @@
 ---
-{"title":"permanent note","dg-publish":true,"tags":null,"date created":"2022-11-13 20:10","date modified":null,"permalink":"/1x-references/11-02-references-quotes/if-you-miss-someone-call-them/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/if-you-miss-someone-call-them/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
