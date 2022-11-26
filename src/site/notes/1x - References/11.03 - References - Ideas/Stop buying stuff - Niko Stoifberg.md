@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/stop-buying-stuff-niko-stoifberg/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Stop buying stuff - Niko Stoifberg","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 6:29:06 pm","date modified":"Wednesday, November 16th 2022, 8:30:19 pm","permalink":"/1x-references/11-03-references-ideas/stop-buying-stuff-niko-stoifberg/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
