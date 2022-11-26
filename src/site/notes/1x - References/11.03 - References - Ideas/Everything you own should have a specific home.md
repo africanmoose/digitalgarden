@@ -1,5 +1,5 @@
 ---
-{"title":"Everything you own should have a specific home","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 2:15:59 pm","date modified":"Sunday, November 13th 2022, 2:16:18 pm","permalink":"/1x-references/11-03-references-ideas/everything-you-own-should-have-a-specific-home/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/everything-you-own-should-have-a-specific-home/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
