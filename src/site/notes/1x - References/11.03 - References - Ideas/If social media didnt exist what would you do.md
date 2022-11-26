@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-social-media-didnt-exist-what-would-you-do/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"If social media didnt exist what would you do","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 8:51:59 pm","date modified":"Sunday, November 13th 2022, 8:52:16 pm","permalink":"/1x-references/11-03-references-ideas/if-social-media-didnt-exist-what-would-you-do/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
