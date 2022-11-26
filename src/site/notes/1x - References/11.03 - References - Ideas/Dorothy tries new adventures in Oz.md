@@ -1,5 +1,5 @@
 ---
-{"title":"Dorothy tries new adventures in Oz","dg-publish":true,"tags":[],"date created":"Thursday, November 10th 2022, 11:33:35 pm","date modified":"Thursday, November 10th 2022, 11:52:15 pm","permalink":"/1x-references/11-03-references-ideas/dorothy-tries-new-adventures-in-oz/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dorothy-tries-new-adventures-in-oz/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
