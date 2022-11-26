@@ -1,5 +1,5 @@
 ---
-{"title":"The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities","dg-publish":true,"tags":null,"date created":"Sunday, October 30th 2022, 8:26:13 pm","date modified":"Wednesday, November 9th 2022, 8:23:35 pm","permalink":"/4x-reading/41-02-reading-book-reviews/the-science-of-rapid-skill-acquisition-advanced-methods-to-learn-remember-and-master-new-skills-information-and-abilities/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/the-science-of-rapid-skill-acquisition-advanced-methods-to-learn-remember-and-master-new-skills-information-and-abilities/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 ### Summary
