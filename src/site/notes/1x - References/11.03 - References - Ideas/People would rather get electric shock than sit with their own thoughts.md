@@ -23,3 +23,7 @@
 - [[1x - References/11.03 - References - Ideas/Long term thinking|Long term thinking]]
 - [[1x - References/11.03 - References - Ideas/Reading is Thinking|Reading is Thinking]]
 - [[1x - References/11.02 - References - Quotes/Work alone|../11.02 - References - Quotes/Work alone]]
+
+## RSS Data
+<div class='date'>Sat, 26 Nov 2022 5:57:32 GMT</div>
+<div class='description'>If we become successful in something, we can be tempted to produce more of it at lesser quality...</div>
