@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/the-problem-is-not-the-problem-the-problem-is-how-you-think-about-the-problem-brianna-wiest/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"The problem is not the problem. The problem is how you think about the problem - Brianna Wiest","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 9:09:20 pm","date modified":"Monday, November 14th 2022, 9:22:13 pm","permalink":"/1x-references/11-02-references-quotes/the-problem-is-not-the-problem-the-problem-is-how-you-think-about-the-problem-brianna-wiest/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
