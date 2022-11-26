@@ -1,5 +1,5 @@
 ---
-{"title":"Everything is hard - what is worth the effort","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 9:14:50 pm","date modified":"Saturday, November 12th 2022, 9:15:05 pm","permalink":"/1x-references/11-03-references-ideas/everything-is-hard-what-is-worth-the-effort/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/everything-is-hard-what-is-worth-the-effort/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
