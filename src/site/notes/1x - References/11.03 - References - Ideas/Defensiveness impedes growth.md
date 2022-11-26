@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/defensiveness-impedes-growth/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Defensiveness impedes growth","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 8:56:39 am","date modified":"Sunday, November 13th 2022, 8:57:01 am","permalink":"/1x-references/11-03-references-ideas/defensiveness-impedes-growth/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
