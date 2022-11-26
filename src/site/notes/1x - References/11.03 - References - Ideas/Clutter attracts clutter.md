@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/clutter-attracts-clutter/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Clutter attracts clutter","dg-publish":true,"tags":[],"date created":"Friday, November 11th 2022, 7:06:08 am","date modified":"Friday, November 11th 2022, 7:06:22 am","permalink":"/1x-references/11-03-references-ideas/clutter-attracts-clutter/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
