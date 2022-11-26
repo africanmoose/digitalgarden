@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive bias -","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 8:22:37 pm","date modified":"Monday, November 14th 2022, 8:22:56 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-bias-fallacy-of-fairness/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-fallacy-of-fairness/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
