@@ -1,5 +1,5 @@
 ---
-{"title":"Ten ways to build resilience","dg-publish":true,"tags":null,"date created":"Tuesday, November 8th 2022, 5:54:31 pm","date modified":"Tuesday, November 8th 2022, 10:18:03 pm","permalink":"/1x-references/11-02-references-quotes/ten-ways-to-build-resilience/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ten-ways-to-build-resilience/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
