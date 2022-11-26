@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/judgement-of-others-reflects-more-about-how-i-view-myself-than-how-i-view-them/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"Judgement of others reflects more about how I view myself than how I view them","dg-publish":true,"tags":[],"date created":"Sunday, November 13th 2022, 11:48:32 am","date modified":"Sunday, November 13th 2022, 11:48:56 am","permalink":"/1x-references/11-03-references-ideas/judgement-of-others-reflects-more-about-how-i-view-myself-than-how-i-view-them/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
