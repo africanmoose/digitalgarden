@@ -1,5 +1,5 @@
 ---
-{"title":"Only have stuff that is useful or beautiful - William Morris","dg-publish":true,"tags":null,"date created":"Tuesday, November 1st 2022, 6:03:06 pm","date modified":"Tuesday, November 8th 2022, 10:18:05 pm","permalink":"/1x-references/11-02-references-quotes/only-have-stuff-that-is-useful-or-beautiful-william-morris/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/only-have-stuff-that-is-useful-or-beautiful-william-morris/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
