@@ -1,5 +1,5 @@
 ---
-{"title":"101 essays that will change your life - Brianna Wiest","dg-publish":true,"tags":[],"date created":"Thursday, November 10th 2022, 10:45:55 pm","date modified":"Monday, November 14th 2022, 9:22:01 pm","date read":"Thursday, November 10th 2022, 10:45:55 pm","permalink":"/4x-reading/41-02-reading-book-reviews/101-essays-that-will-change-your-life-brianna-wiest/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/101-essays-that-will-change-your-life-brianna-wiest/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
