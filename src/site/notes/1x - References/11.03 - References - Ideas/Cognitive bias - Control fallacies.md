@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-control-fallacies/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"permanent note","dg-publish":true,"tags":null,"date created":"2022-11-14 20:16","date modified":null,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-control-fallacies/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
