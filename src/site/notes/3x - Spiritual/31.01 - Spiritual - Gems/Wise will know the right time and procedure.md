@@ -1,5 +1,5 @@
 ---
-{"title":"Wise will know the right time and procedure","dg-publish":true,"tags":[],"date created":"Thursday, November 17th 2022, 11:51:13 pm","date modified":"Thursday, November 17th 2022, 11:59:19 pm","permalink":"/3x-spiritual/31-01-spiritual-gems/wise-will-know-the-right-time-and-procedure/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/3x-spiritual/31-01-spiritual-gems/wise-will-know-the-right-time-and-procedure/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
