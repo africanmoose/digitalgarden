@@ -1,5 +1,5 @@
 ---
-{"title":"Little bits of human connection","dg-publish":true,"tags":[],"date created":"Saturday, November 12th 2022, 8:45:46 pm","date modified":"Saturday, November 12th 2022, 8:46:02 pm","permalink":"/1x-references/11-03-references-ideas/little-bits-of-human-connection/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/little-bits-of-human-connection/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
