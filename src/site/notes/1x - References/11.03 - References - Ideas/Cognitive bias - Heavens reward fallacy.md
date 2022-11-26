@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive bias - Heavens reward fallacy","dg-publish":true,"tags":[],"date created":"Monday, November 14th 2022, 9:01:06 pm","date modified":"Monday, November 14th 2022, 9:22:23 pm","permalink":"/1x-references/11-03-references-ideas/cognitive-bias-heavens-reward-fallacy/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-heavens-reward-fallacy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
