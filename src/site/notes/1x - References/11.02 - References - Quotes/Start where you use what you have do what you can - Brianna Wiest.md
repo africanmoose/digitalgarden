@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/start-where-you-use-what-you-have-do-what-you-can-brianna-wiest/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"title":"structure note","dg-publish":true,"tags":null,"date created":"2022-11-13 22:01","date modified":null,"permalink":"/1x-references/11-02-references-quotes/start-where-you-use-what-you-have-do-what-you-can-brianna-wiest/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
 
