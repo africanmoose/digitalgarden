@@ -15,5 +15,7 @@
 
 [[1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts|../../1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts]]
 
+[[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu|../../1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
