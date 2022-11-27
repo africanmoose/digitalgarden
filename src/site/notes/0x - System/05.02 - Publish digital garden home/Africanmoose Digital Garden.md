@@ -13,6 +13,7 @@ Masais are well known for being able to live in the wilderness. These two spent 
 - [[1x - References/11.02 - References - Quotes/Ship not made to stay in harbour|Ship is safe in harbour but - John Shedd]]
 - [[1x - References/11.03 - References - Ideas/Stop buying stuff - Niko Stoifberg|Stop buying stuff - Niko Stoifberg]]
 - [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris|Only have stuff that is useful or beautiful - William Morris]]
+- [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu|Yes I'm truly a Dunce - Ryokan Taigu]]
 
 ## Interesting Persons
 - [[1x - References/11.05 - References - Persons/Claude Shannon|Claude Shannon]]
@@ -25,14 +26,13 @@ Masais are well known for being able to live in the wilderness. These two spent 
 - [[1x - References/11.03 - References - Ideas/4 Stages of learning|The four stages of learning]]
 - [[1x - References/11.03 - References - Ideas/Barbell Method of reading|Barbell method of reading]]
 
-## Books Lists
+## Book Reviews
 - [[4x - Reading/42.04 - Reading Lists - Currently Reading|Books I am currently reading]]
-- [[4x - Reading/42.03 - Reading Lists - Books to Reread|Books I plan to reread]]
-- [[4x - Reading/42.08 - Reading Lists - Books read recently|Books I read recently]]
-	- [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities|The science of Rapid Skill Acquisition]]
-	- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|Wabi Sabi - Japanese wisdom for a perfectly imperfect life]]
-	- [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
-	- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|101 essays that will change your life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities|The science of Rapid Skill Acquisition]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|Wabi Sabi - Japanese wisdom for a perfectly imperfect life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|101 essays that will change your life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|Wabi Sabi -The Japanese Art of Impermanence]]
 
 ## Interesting Ideas
 - [[1x - References/11.03 - References - Ideas/Contempt for Simplicity|Contempt for Simplicity]]
