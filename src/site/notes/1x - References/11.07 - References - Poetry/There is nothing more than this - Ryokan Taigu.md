@@ -31,3 +31,4 @@ Look around, there is nothing more than this.
 ## Related
 [[1x - References/11.03 - References - Ideas/Minimalism|../11.03 - References - Ideas/Minimalism]]
 [[1x - References/11.03 - References - Ideas/Minimalism gives us space to see farther|../11.03 - References - Ideas/Minimalism gives us space to see farther]]
+[[1x - References/11.05 - References - Persons/Ryokan Taigu|../11.05 - References - Persons/Ryokan Taigu]]
