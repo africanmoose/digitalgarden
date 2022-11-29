@@ -17,8 +17,8 @@ Masais are well known for being able to live in the wilderness. These two spent 
 
 ## Interesting Persons
 - [[1x - References/11.05 - References - Persons/Claude Shannon|Claude Shannon]]
-- [[1x - References/11.05 - References - Persons/Sen no Rikyū|Sen no Rikyū]]
 - [[1x - References/11.05 - References - Persons/Helen Keller|Helen Keller]]
+- [[1x - References/11.05 - References - Persons/Ryokan Taigu|Ryokan Taigu]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation|James Webb Space Telescope shot of the Eagle Nebula]]
