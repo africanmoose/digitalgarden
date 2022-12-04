@@ -17,5 +17,7 @@
 
 [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu|../../1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu]]
 
+[[1x - References/11.05 - References - Persons/Ryokan Taigu|../../1x - References/11.05 - References - Persons/Ryokan Taigu]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
