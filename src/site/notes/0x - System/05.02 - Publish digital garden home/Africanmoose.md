@@ -35,11 +35,11 @@ Elephants are pretty incredible. They are the largest land mammals on earth. Her
 - [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|Wabi Sabi -The Japanese Art of Impermanence]]
 
 ## Interesting Ideas
-- [[1x - References/11.03 - References - Ideas/Contempt for Simplicity|Contempt for Simplicity]]
 - [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence|The happiness of excellence]]
 - [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth|The Diderot Effect]]
 - [[1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts|People would rather give themselves an electric shock than sit and think]]
 - [[1x - References/11.03 - References - Ideas/Focus on producing quality rather than quantity|Focus on producing quality rather than quantity]]
+- [[1x - References/11.03 - References - Ideas/Illusion of control|Illusion of control]]
 
 ## Africanmoose Stuff
 [Africanmoose](https://africanmoose.blogspot.com)
