@@ -19,5 +19,9 @@
 
 [[1x - References/11.05 - References - Persons/Ryokan Taigu|../../1x - References/11.05 - References - Persons/Ryokan Taigu]]
 
+[[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If fifty million people say something foolish it is still foolish - Somerset Maugham]]
+
+[[1x - References/11.03 - References - Ideas/Illusion of control|Illusion of control]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
