@@ -23,5 +23,7 @@
 
 [[1x - References/11.03 - References - Ideas/Illusion of control|Illusion of control]]
 
+[[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives|Sit round candle light and talk about their inner lives]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
