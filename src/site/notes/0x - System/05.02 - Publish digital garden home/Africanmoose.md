@@ -49,3 +49,5 @@ Elephants are pretty incredible. They are the largest land mammals on earth. The
 ## RSS feed (experimental)
 Copy and paste this URL into your RSS Feed reader
 [RSS feed](https://api.apify.com/v2/actor-tasks/fathomable_moss~africanmoose-zettelkasten/runs/last/dataset/items?token=apify_api_rf2o9KCrQy4KWxAHMjQqwx1fgNhMFP0YQL72&format=rss)
+
+[[3x - Spiritual/32.07 - Spiritual - Morning Worships/2022-12-15 Speak with illustrations|2022-12-15 Speak with illustrations]]
