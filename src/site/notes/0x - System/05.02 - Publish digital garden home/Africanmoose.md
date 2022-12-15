@@ -35,6 +35,9 @@ Elephants are pretty incredible. They are the largest land mammals on earth. The
 - [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|101 essays that will change your life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|Wabi Sabi -The Japanese Art of Impermanence]]
 
+## Work in Progress
+- Processing [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+
 ## Interesting Ideas
 - [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence|The happiness of excellence]]
 - [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth|The Diderot Effect]]
