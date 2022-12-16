@@ -24,5 +24,7 @@
 
 [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
+[[1x - References/11.03 - References - Ideas/Deconstruct cool stuff|Deconstruct cool stuff]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
