@@ -3,9 +3,6 @@
 ---
 
 
-[[1x - References/11.03 - References - Ideas/Change is building whats next not dismantling what was|../../1x - References/11.03 - References - Ideas/Change is building whats next not dismantling what was]]
-
-[[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris|../../1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris]]
 
 [[1x - References/11.05 - References - Persons/Helen Keller|../../1x - References/11.05 - References - Persons/Helen Keller]]
 
@@ -24,6 +21,8 @@
 [[1x - References/11.03 - References - Ideas/Illusion of control|Illusion of control]]
 
 [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives|Sit round candle light and talk about their inner lives]]
+
+[[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
