@@ -9,12 +9,12 @@
 Elephants are pretty incredible. They are the largest land mammals on earth. They also poop a lot.
 
 ## Interesting Quotes
-- [[1x - References/11.02 - References - Quotes/Ship not made to stay in harbour|Ship is safe in harbour but - John Shedd]]
 - [[1x - References/11.03 - References - Ideas/Stop buying stuff - Niko Stoifberg|Stop buying stuff - Niko Stoifberg]]
 - [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris|Only have stuff that is useful or beautiful - William Morris]]
 - [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu|Yes I'm truly a Dunce - Ryokan Taigu]]
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If fifty million people say something foolish it is still foolish - Somerset Maugham]]
 - [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives|Sit round candle light and talk about their inner lives]]
+- [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff|Deconstruct cool stuff]]
 
 ## Interesting Persons
 - [[1x - References/11.05 - References - Persons/Claude Shannon|Claude Shannon]]
