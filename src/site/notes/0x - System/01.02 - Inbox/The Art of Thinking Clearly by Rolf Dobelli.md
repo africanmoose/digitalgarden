@@ -40,5 +40,5 @@
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If Fifty Million People Say Something Foolish, It Is Still Foolish]]
 
 ## RSS Data
-<div class='date'>Thu, 15 Dec 2022 12:17:32 GMT</div>
+<div class='date'>Sat, 17 Dec 2022 12:17:32 GMT</div>
 <div class='description'>Work in progress notes on 'The Art of Thinking Clearly' by Rolf Dobelli</div>
