@@ -33,6 +33,7 @@
 	- Why do we feel loss more than we enjoy gain? [[1x - References/11.03 - References - Ideas/Loss Aversion|Loss Aversion]]
 	- Beware the [[1x - References/11.03 - References - Ideas/Winners curse|Winners curse]] when bidding for something.
 	- We view others through the [[1x - References/11.03 - References - Ideas/Fundamental Attribution Error|Fundamental Attribution Error]]
+	- How we judge others - the [[1x - References/11.03 - References - Ideas/Halo Effect|Halo Effect]]
 
 
 ## Quotes
