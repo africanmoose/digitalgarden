@@ -53,3 +53,4 @@ An elephant trunk is the ultimate tool. An elephant trunk has up to 40,000 muscl
 Copy and paste this URL into your RSS Feed reader
 [RSS feed](https://api.apify.com/v2/actor-tasks/fathomable_moss~africanmoose-zettelkasten/runs/last/dataset/items?token=apify_api_rf2o9KCrQy4KWxAHMjQqwx1fgNhMFP0YQL72&format=rss)
 
+[[1x - References/11.06 - References - Structure Notes/Notes on training|Notes on training]]
