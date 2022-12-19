@@ -5,6 +5,7 @@
 
 ### Summary
 - random notes from my zetttelkasten that touch on training
+- no particluar order or significance
 
 ### Details
 - [[3x - Spiritual/31.05 - Spiritual - Notes - Bethel Lectures/Some things never change - Warren Schufeld|Some things never change - Warren Schufeld]]
@@ -22,6 +23,3 @@
 - [[1x - References/11.03 - References - Ideas/Always Train|Always Train]]
 - [[1x - References/11.03 - References - Ideas/Good mentors help learning|Good mentors help learning]]
 
-
-### Related
-- 
