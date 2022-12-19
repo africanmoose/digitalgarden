@@ -18,6 +18,9 @@
 - [[3x - Spiritual/34.06 - Bethel Service School/0103 Bethels Role in the Advancement of Kingdom Interests|0103 Bethels Role in the Advancement of Kingdom Interests]]
 - [[1x - References/11.03 - References - Ideas/4 Stages of learning|4 Stages of learning]]
 - [[1x - References/16.06 - Bethel - Individual Training Notes|16.06 - Bethel - Individual Training Notes]]
+- [[1x - References/11.02 - References - Quotes/Train employees well enough to get another job|Train employees well enough to get another job]]
+- [[1x - References/11.03 - References - Ideas/Always Train|Always Train]]
+- [[1x - References/11.03 - References - Ideas/Good mentors help learning|Good mentors help learning]]
 
 
 ### Related
