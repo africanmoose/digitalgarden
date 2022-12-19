@@ -18,7 +18,7 @@
 - [[3x - Spiritual/34.06 - Bethel Service School/0103 Bethels Role in the Advancement of Kingdom Interests|0103 Bethels Role in the Advancement of Kingdom Interests]]
 - [[1x - References/11.03 - References - Ideas/4 Stages of learning|4 Stages of learning]]
 - [[1x - References/16.06 - Bethel - Individual Training Notes|16.06 - Bethel - Individual Training Notes]]
-- 
+
 
 ### Related
 - 
