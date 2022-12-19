@@ -34,6 +34,9 @@
 	- Beware the [[1x - References/11.03 - References - Ideas/Winners curse|Winners curse]] when bidding for something.
 	- We view others through the [[1x - References/11.03 - References - Ideas/Fundamental Attribution Error|Fundamental Attribution Error]]
 	- How we judge others - the [[1x - References/11.03 - References - Ideas/Halo Effect|Halo Effect]]
+	- We do not consider [[1x - References/11.03 - References - Ideas/Alternative paths and risk not directly visible|Alternative paths and risk not directly visible]]
+	- Can we foretell the future? [[1x - References/11.03 - References - Ideas/The forecast illusion|The forecast illusion]]
+	- The linda problem, or [[1x - References/11.03 - References - Ideas/The conjunction fallacy|The conjunction fallacy]]
 
 
 ## Quotes
