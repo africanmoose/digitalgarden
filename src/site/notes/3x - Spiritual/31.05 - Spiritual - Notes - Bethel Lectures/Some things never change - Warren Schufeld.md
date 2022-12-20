@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/3x-spiritual/31-05-spiritual-notes-bethel-lectures/some-things-never-change-warren-schufeld/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
 ---
 
-Bethel-lecture---Some-things-never-change---Warren-schufeld
-
----
 date: '2018-09-04T00:00:28.000Z'
-title: Bethel lecture - Some things never change - Warren schufeld
----
 
 [ ] Change all around us
 [ ] Jws also changing chariot on the move
