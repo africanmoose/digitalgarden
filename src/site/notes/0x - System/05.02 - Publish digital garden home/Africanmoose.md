@@ -20,6 +20,7 @@ An elephant trunk is the ultimate tool. An elephant trunk has up to 40,000 muscl
 - [[1x - References/11.05 - References - Persons/Claude Shannon|Claude Shannon]]
 - [[1x - References/11.05 - References - Persons/Helen Keller|Helen Keller]]
 - [[1x - References/11.05 - References - Persons/Ryokan Taigu|Ryokan Taigu]]
+- [[1x - References/11.05 - References - Persons/Philip Tetlock|Philip Tetlock]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation|James Webb Space Telescope shot of the Eagle Nebula]]
