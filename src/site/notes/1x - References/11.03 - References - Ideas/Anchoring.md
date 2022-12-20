@@ -15,5 +15,4 @@
 - [[0x - System/01.02 - Inbox/The Art of Thinking Clearly - notes|The Art of Thinking Clearly - notes]]
 
 ### Related
-- [[cognitive
-- 
+- [[1x - References/11.03 - References - Ideas/Cognitive Tools|Cognitive Tools]]
