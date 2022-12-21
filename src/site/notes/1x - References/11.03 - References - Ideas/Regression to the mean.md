@@ -8,7 +8,6 @@
 
 ### Details
 - Doctors, consultants and psychotherapists may benefit from this effect. We go to a doctor at the worst point in the sample, likely the next day we will feel better anyway.
-- 
 
 ### References
 - [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
