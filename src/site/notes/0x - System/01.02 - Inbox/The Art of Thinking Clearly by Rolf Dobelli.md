@@ -37,6 +37,9 @@
 	- We do not consider [[1x - References/11.03 - References - Ideas/Alternative paths and risk not directly visible|Alternative paths and risk not directly visible]]
 	- Can we foretell the future? [[1x - References/11.03 - References - Ideas/The forecast illusion|The forecast illusion]]
 	- The linda problem, or [[1x - References/11.03 - References - Ideas/The conjunction fallacy|The conjunction fallacy]]
+	- How to overcome [[1x - References/11.03 - References - Ideas/Self-serving bias|Self-serving bias]]
+	- Avoid the [[1x - References/11.03 - References - Ideas/Hedonic Treadmill|Hedonic Treadmill]]
+	- 
 
 
 ## Quotes
