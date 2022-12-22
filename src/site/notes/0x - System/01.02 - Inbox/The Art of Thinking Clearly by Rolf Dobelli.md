@@ -39,7 +39,7 @@
 	- The linda problem, or [[1x - References/11.03 - References - Ideas/The conjunction fallacy|The conjunction fallacy]]
 	- How to overcome [[1x - References/11.03 - References - Ideas/Self-serving bias|Self-serving bias]]
 	- Avoid the [[1x - References/11.03 - References - Ideas/Hedonic Treadmill|Hedonic Treadmill]]
-	- 
+	- Be aware of the irrational [[1x - References/11.03 - References - Ideas/Hyperbolic Discounting|Hyperbolic Discounting]]
 
 
 ## Quotes
