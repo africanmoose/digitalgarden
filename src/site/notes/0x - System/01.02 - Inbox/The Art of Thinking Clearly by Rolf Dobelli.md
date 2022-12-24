@@ -40,8 +40,10 @@
 	- How to overcome [[1x - References/11.03 - References - Ideas/Self-serving bias|Self-serving bias]]
 	- Avoid the [[1x - References/11.03 - References - Ideas/Hedonic Treadmill|Hedonic Treadmill]]
 	- Be aware of the irrational [[1x - References/11.03 - References - Ideas/Hyperbolic Discounting|Hyperbolic Discounting]]
-	-  Why it can be good to [[1x - References/11.03 - References - Ideas/Justify your behaviour|Justify your behaviour]]
+	-  hy it can be good to [[1x - References/11.03 - References - Ideas/Justify your behaviour|Justify your behaviour]]
 	- [[1x - References/11.03 - References - Ideas/If you have nothing to say say nothing|If you have nothing to say say nothing]]
+	- Is there such a thing as too much information? see the [[1x - References/11.03 - References - Ideas/Information Bias|Information Bias]]
+	- Beware your own appraisal of the value of your work: [[1x - References/11.03 - References - Ideas/Effort justification|Effort justification]]
 
 
 ## Quotes
