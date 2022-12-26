@@ -40,11 +40,16 @@
 	- How to overcome [[1x - References/11.03 - References - Ideas/Self-serving bias|Self-serving bias]]
 	- Avoid the [[1x - References/11.03 - References - Ideas/Hedonic Treadmill|Hedonic Treadmill]]
 	- Be aware of the irrational [[1x - References/11.03 - References - Ideas/Hyperbolic Discounting|Hyperbolic Discounting]]
-	-  hy it can be good to [[1x - References/11.03 - References - Ideas/Justify your behaviour|Justify your behaviour]]
+	- Why it can be good to [[1x - References/11.03 - References - Ideas/Justify your behaviour|Justify your behaviour]]
 	- [[1x - References/11.03 - References - Ideas/If you have nothing to say say nothing|If you have nothing to say say nothing]]
 	- Is there such a thing as too much information? see the [[1x - References/11.03 - References - Ideas/Information Bias|Information Bias]]
 	- Beware your own appraisal of the value of your work: [[1x - References/11.03 - References - Ideas/Effort justification|Effort justification]]
-
+	- Want people to behave a certain way - consider the [[1x - References/11.03 - References - Ideas/Rosenthal Effect|Rosenthal Effect]]
+	- [[1x - References/11.03 - References - Ideas/Thinking uses energy|Thinking uses energy]]
+	- We decide complex questions based on [[1x - References/11.03 - References - Ideas/Affect Heuristic - decisions by emotion|Affect Heuristic - decisions by emotion]]
+	- Don't always keep choices open - see why [[1x - References/11.03 - References - Ideas/We need to close doors|We need to close doors]]
+	- Not everything new is amazing: [[1x - References/11.03 - References - Ideas/Disregard the brand new|Disregard the brand new]]
+	- 
 
 ## Quotes
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If Fifty Million People Say Something Foolish, It Is Still Foolish]]
