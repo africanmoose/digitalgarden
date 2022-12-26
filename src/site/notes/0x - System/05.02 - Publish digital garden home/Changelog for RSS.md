@@ -28,5 +28,7 @@
 
 [[1x - References/11.05 - References - Persons/Philip Tetlock|Philip Tetlock]]
 
+[[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese|The best people want to know if they are right - John Cleese]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
