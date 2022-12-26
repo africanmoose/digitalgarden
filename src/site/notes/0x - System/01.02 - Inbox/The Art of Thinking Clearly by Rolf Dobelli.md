@@ -49,7 +49,8 @@
 	- We decide complex questions based on [[1x - References/11.03 - References - Ideas/Affect Heuristic - decisions by emotion|Affect Heuristic - decisions by emotion]]
 	- Don't always keep choices open - see why [[1x - References/11.03 - References - Ideas/We need to close doors|We need to close doors]]
 	- Not everything new is amazing: [[1x - References/11.03 - References - Ideas/Disregard the brand new|Disregard the brand new]]
-	- 
+	- Why propaganda works: [[1x - References/11.03 - References - Ideas/The sleeper effect|The sleeper effect]]
+	-  Help people to progress: Avoid the [[1x - References/11.03 - References - Ideas/Social comparison bias|Social comparison bias]]
 
 ## Quotes
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If Fifty Million People Say Something Foolish, It Is Still Foolish]]
