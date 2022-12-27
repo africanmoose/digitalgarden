@@ -50,7 +50,11 @@
 	- Don't always keep choices open - see why [[1x - References/11.03 - References - Ideas/We need to close doors|We need to close doors]]
 	- Not everything new is amazing: [[1x - References/11.03 - References - Ideas/Disregard the brand new|Disregard the brand new]]
 	- Why propaganda works: [[1x - References/11.03 - References - Ideas/The sleeper effect|The sleeper effect]]
-	-  Help people to progress: Avoid the [[1x - References/11.03 - References - Ideas/Social comparison bias|Social comparison bias]]
+	- Help people to progress: Avoid the [[1x - References/11.03 - References - Ideas/Social comparison bias|Social comparison bias]]
+	- Do first impressions count? [[1x - References/11.03 - References - Ideas/Primacy and Recency effects|Primacy and Recency effects]]
+	- Stuggling to apply what you learn? Could be you have [[1x - References/11.03 - References - Ideas/Domain dependence|Domain dependence]]
+	- Dont trust your own mind: [[1x - References/11.03 - References - Ideas/Falsification of history|Falsification of history]]
+	- 
 
 ## Quotes
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If Fifty Million People Say Something Foolish, It Is Still Foolish]]
