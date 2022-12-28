@@ -54,6 +54,7 @@
 	- Do first impressions count? [[1x - References/11.03 - References - Ideas/Primacy and Recency effects|Primacy and Recency effects]]
 	- Stuggling to apply what you learn? Could be you have [[1x - References/11.03 - References - Ideas/Domain dependence|Domain dependence]]
 	- Dont trust your own mind: [[1x - References/11.03 - References - Ideas/Falsification of history|Falsification of history]]
+	- [[1x - References/11.03 - References - Ideas/Ambiguity Aversion|Ambiguity Aversion]] what is the difference between risk and uncertainty?
 	- 
 
 ## Quotes
