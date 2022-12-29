@@ -55,6 +55,8 @@
 	- Stuggling to apply what you learn? Could be you have [[1x - References/11.03 - References - Ideas/Domain dependence|Domain dependence]]
 	- Dont trust your own mind: [[1x - References/11.03 - References - Ideas/Falsification of history|Falsification of history]]
 	- [[1x - References/11.03 - References - Ideas/Ambiguity Aversion|Ambiguity Aversion]] what is the difference between risk and uncertainty?
+	- We like stories more than facts: [[1x - References/11.03 - References - Ideas/Personification highlight|Personification highlight]]
+	- The famous monkey business experiement: [[1x - References/11.03 - References - Ideas/Illusion of attention|Illusion of attention]]
 	- 
 
 ## Quotes
