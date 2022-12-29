@@ -57,7 +57,7 @@
 	- [[1x - References/11.03 - References - Ideas/Ambiguity Aversion|Ambiguity Aversion]] what is the difference between risk and uncertainty?
 	- We like stories more than facts: [[1x - References/11.03 - References - Ideas/Personification highlight|Personification highlight]]
 	- The famous monkey business experiement: [[1x - References/11.03 - References - Ideas/Illusion of attention|Illusion of attention]]
-	- 
+	- [[1x - References/11.03 - References - Ideas/Have multiple mental models|Have multiple mental models]] will help us make better decisions
 
 ## Quotes
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If Fifty Million People Say Something Foolish, It Is Still Foolish]]
