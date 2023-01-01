@@ -12,7 +12,7 @@
 - One clue: experts recognise the limits of what tehy know and what they do not know. If they find themselves outside their circle of competence, they say 'I dont know'
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "After receiving the Nobel Prize in Physics in 1918, Max Planck went on tour across Germany. Wherever he was invited, he delivered the same lecture on new quantum mechanics. Over time, his chauffeur grew to know it by heart: “It has to be boring giving the same speech each time, Professor Planck. How about I do it for you in Munich? You can sit in the front row and wear my chauffeur’s cap. That’d give us both a bit of variety.” Planck liked the idea, so that evening the driver held a long lecture on quantum mechanics in front of a distinguished audience. Later, a physics professor stood up with a question. The driver recoiled: “Never would I have thought that someone from such an advanced city as Munich would ask such a simple question! My chauffeur will answer it.”"
