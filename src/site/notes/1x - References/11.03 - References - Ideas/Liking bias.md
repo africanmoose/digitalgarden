@@ -11,7 +11,7 @@
 - Some animals are more likeable - pandas, gorillas, koalas more than spiders, worms and bacteria
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "Joe Girard is considered the most successful car salesman in the world. His tip for success: “There’s nothing more effective in selling anything than getting the customer to believe, really believe, that you like him and care about him"
