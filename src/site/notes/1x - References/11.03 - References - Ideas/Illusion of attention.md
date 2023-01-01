@@ -16,7 +16,7 @@
 - Sometimes the unnoticed is as huge and distinctive as teh gorilla.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 - [actual video](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
 - [other expected events also invisible](https://news.illinois.edu/view/6367/205580)
 
