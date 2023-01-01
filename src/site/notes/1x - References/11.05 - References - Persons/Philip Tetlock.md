@@ -15,7 +15,7 @@
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/The forecast illusion|The forecast illusion]]
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### RSS Data
 <div class='date'>Tues, 20 Dec 2022 12:17:32 GMT</div>
