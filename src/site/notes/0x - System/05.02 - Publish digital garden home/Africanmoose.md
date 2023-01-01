@@ -35,9 +35,12 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|101 essays that will change your life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|Wabi Sabi -The Japanese Art of Impermanence]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- Processing Personal Kanban
+- Processing How powerpoint makes you stupid
+- Processing Hello Habits
 
 ## Interesting Ideas
 - [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence|The happiness of excellence]]
