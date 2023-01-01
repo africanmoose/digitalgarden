@@ -13,7 +13,7 @@
 - leads to discontent - think there is something else better that we hadnt seen
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[4x - Reading/41.01 - Reading - Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
