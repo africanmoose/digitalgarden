@@ -14,7 +14,7 @@
 - discovered by Edward Lee Thorndike almost 100 years ago
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Never judge a decision by its outcome|Never judge a decision by its outcome]]
