@@ -12,7 +12,7 @@
 - 1965 experiment by two researchers named Jenkins and Ward: with 2 switches and a light, able to adjust when the switches controlled the light and when not. Even when the light was flashed on and off at random, ssubjects thought they could influence it with teh switches.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 ### Related
 - [[1x - References/11.03 - References - Ideas/Cannot control what people think of you|Cannot control what people think of you]]
 - [[1x - References/11.03 - References - Ideas/Illusion of control|Illusion of control]]
