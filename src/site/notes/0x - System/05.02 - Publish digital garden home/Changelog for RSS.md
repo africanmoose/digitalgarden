@@ -22,13 +22,15 @@
 
 [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives|Sit round candle light and talk about their inner lives]]
 
-[[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+[[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff|Deconstruct cool stuff]]
 
 [[1x - References/11.05 - References - Persons/Philip Tetlock|Philip Tetlock]]
 
 [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese|The best people want to know if they are right - John Cleese]]
+
+[[1x - References/11.03 - References - Ideas/Dont read the news|Dont read the news]]
 
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
