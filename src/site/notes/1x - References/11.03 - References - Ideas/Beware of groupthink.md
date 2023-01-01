@@ -11,7 +11,7 @@
 - If you are a team leader, appoint a devils advocate whose job is to argue against teh group
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/Two ways change a man - his books and his friends|Two ways change a man - his books and his friends]]
