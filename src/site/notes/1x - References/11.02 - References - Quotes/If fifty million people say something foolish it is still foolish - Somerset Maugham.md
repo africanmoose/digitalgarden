@@ -10,7 +10,7 @@
 English novelist W. Somerset Maugham
 
 ## Reference
-[[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|../../0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli]]
+[[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ## Related
 [[4x - Reading/41.01 - Reading - Book Notes/Originals How Non-Conformists Move the World - Adam Grant|../../4x - Reading/41.01 - Reading - Book Notes/Originals How Non-Conformists Move the World - Adam Grant]]
