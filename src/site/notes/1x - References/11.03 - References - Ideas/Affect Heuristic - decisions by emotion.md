@@ -13,7 +13,7 @@
 - On the positive side, this allows us to make decisions quickly and efficiently, since [[1x - References/11.03 - References - Ideas/Thinking uses energy|Thinking uses energy]]
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 - [verywell website](https://www.verywellmind.com/what-is-the-affect-heuristic-2795028)
 
 ### Related
