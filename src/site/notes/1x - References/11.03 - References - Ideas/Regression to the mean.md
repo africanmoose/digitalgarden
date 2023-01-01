@@ -10,7 +10,7 @@
 - Doctors, consultants and psychotherapists may benefit from this effect. We go to a doctor at the worst point in the sample, likely the next day we will feel better anyway.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 - [Wikipedia](https://en.wikipedia.org/wiki/Regression_toward_the_mean)
 
 ### Quotes
