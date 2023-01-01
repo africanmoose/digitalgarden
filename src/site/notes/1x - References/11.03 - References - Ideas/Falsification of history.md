@@ -11,7 +11,7 @@
 - These memories are just as flawed
 
 ### References
-[[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+[[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "1973, U.S. political scientist Gregory Markus asked three thousand people to share their opinions on controversial political issues, such as the legalization of drugs. Their responses ranged from “fully agree” to “completely disagree.” Ten years later, he interviewed them again on the same topics, and also asked what they had replied ten years previously. The result: What they recalled disclosing in 1973 was almost identical to their present-day views—and a far cry from their original responses"
