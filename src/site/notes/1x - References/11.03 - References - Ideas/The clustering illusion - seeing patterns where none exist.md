@@ -13,7 +13,7 @@
 - To be sure, data should be tested statistically by a mathematician
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|../../0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Cognitive Tools|Cognitive Tools]]
