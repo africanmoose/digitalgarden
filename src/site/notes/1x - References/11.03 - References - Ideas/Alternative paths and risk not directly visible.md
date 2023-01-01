@@ -11,7 +11,7 @@
 - You will try to attribute success to hard work instead of chance. fight this tendancy.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly - notes|The Art of Thinking Clearly - notes]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - Your brain will do everything to convince you that your success is warranted—no matter how risky your dealings are—and will obscure any thought of paths other than the one you are on.
