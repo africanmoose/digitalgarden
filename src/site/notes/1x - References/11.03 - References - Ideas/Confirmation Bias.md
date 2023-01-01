@@ -11,7 +11,7 @@
 - Seek out contrary views to existing beliefs
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - “Facts do not cease to exist because they are ignored,” said writer Aldous Huxley. 
