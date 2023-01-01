@@ -10,7 +10,7 @@
 - Chairs, pants, shoes, cutlery all were invented ages ago
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 "Take a look around. You’re sitting in a chair, an invention from ancient Egypt. You wear pants, developed about five thousand years ago and adapted by Germanic tribes around 750 BC. The idea behind your leather shoes comes from the last ice age. Your bookshelves are made of wood, one of the oldest building materials in the world. At dinnertime, you use a fork, a well-known “killer app” from Roman times, to shovel chunks of dead animals and plants into your mouths. Nothing has changed"
