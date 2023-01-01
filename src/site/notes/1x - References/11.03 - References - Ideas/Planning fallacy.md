@@ -11,7 +11,7 @@
 - Plan for likely or even unlikely disasters (risk management). The extra planning may take a bit more time, but will result in a more reasonable plan
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Plan but dont overplan|Plan but dont overplan]]
