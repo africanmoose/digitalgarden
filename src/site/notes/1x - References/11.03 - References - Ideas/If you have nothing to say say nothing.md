@@ -13,7 +13,7 @@
 - It takes a lot of effort to understand even a small part of the world.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - “You would not believe how difficult it is to be simple and clear. People are afraid that they may be seen as a simpleton. In reality, just the opposite is true.
