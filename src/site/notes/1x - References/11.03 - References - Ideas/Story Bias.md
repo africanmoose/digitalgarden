@@ -11,7 +11,7 @@
 - Entertaining side issues and backstories are prioritized over facts.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[../../3x - Spiritual/32.19 - Spiritual - Illustrations/32.19 - Spiritual - Teaching - Illustrations|../../3x - Spiritual/32.19 - Spiritual - Illustrations/32.19 - Spiritual - Teaching - Illustrations]]
