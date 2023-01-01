@@ -11,7 +11,7 @@
 - Find friends who tell you teh truth. If you dont, maybe an enemy who tells you the truth might be able to give you an honest opinion
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "So, how can we dodge the self-serving bias? Do you have friends who tell you the truth—no holds barred? If so, consider yourself lucky. If not, do you have at least one enemy? Good. Invite him or her over for coffee and ask for an honest opinion about your strengths and weaknesses. You will be forever grateful you did."
