@@ -12,7 +12,7 @@
 - If you want to convince someone, dont focus on advantages, focus on how to avoid disadvantages
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly - notes|The Art of Thinking Clearly - notes]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Cognitive Tools|Cognitive Tools]]
