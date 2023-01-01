@@ -11,7 +11,7 @@
 - try to make sure the middle counts as much as the first and last - perhaps by keeping notes
 
 ### References
-- [[0x - System/01.02 - Inbox/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - Alan is smart, hardworking, impulsive, critical, stubborn, and jealous. Ben, however, is jealous, stubborn, critical, impulsive, hardworking, and smart. Who would you prefer to get stuck with in an elevator? Most people choose Alan, even though the descriptions are exactly the same. Your brain pays more attention to the first adjectives in the lists, causing you to identify two different personalities. Alan is smart and hardworking. Ben is jealous and stubborn. The first traits outshine the rest. This is called the primacy effect
