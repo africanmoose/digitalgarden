@@ -8,6 +8,7 @@
 - Refinement: Make a plan - it will be less stressful
 
 ### Details
+- Soviet psychologist Bluma Zeigarnik found that the human brain needs closure.
 - Zeigarnik noticed that waiters who had orders unfinished could recall them well. But as soon as the orders were completed, they promptly forgot them.
 - Later on Roy Baumeister did further research on this to conclude that outstanding tasks only bother us until we have a clear idea of how to deal with them.
 
