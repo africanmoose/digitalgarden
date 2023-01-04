@@ -38,7 +38,7 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ## Work in Progress
-- Processing Personal Kanban
+- Processing [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life|Personal Kanban - Mapping Work Navigating Life]]
 - Processing How powerpoint makes you stupid
 - Processing Hello Habits
 
