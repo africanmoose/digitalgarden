@@ -18,6 +18,8 @@
 - What is [[1x - References/11.03 - References - Ideas/Kaizen|Kaizen]]?
 - What is [[1x - References/11.03 - References - Ideas/Kanban|Kanban]]?
 - Understanding the [[1x - References/11.03 - References - Ideas/Zeigarnik Effect|Zeigarnik Effect]] helps us see why a plan helps us work
+- [[1x - References/11.03 - References - Ideas/Limit work in progress|Limit work in progress]]
+- avoid [[1x - References/11.03 - References - Ideas/The evil of to do lists|The evil of to do lists]]
 
 ### References
 - 
