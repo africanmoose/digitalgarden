@@ -4,23 +4,19 @@
 
 
 ### Summary
-- 
+- We have a limited capacity for work in progress, or number of items going at the same time. if we get too many, then all slow down. so its more efficient to try and do as few things as possible at the same time
 
 ### Details
-- 
+- juggling flaming torches: 3 might be comfortable (for an expert) but as you add torches it gets more and more stressful until you get to breaking point, at which point you drop all the torches.
+- Another good example is a highway. its capacity could be anywhere from empty to 100% full. but when every space available is full, the cars cannot move. we optimize for throughput, not capacity.  if we keep part of our capacity available, it also allows slower and faster traffic to coexist.
+- throughput more important than capacity
 
 ### References
-- 
-
-### Quotes
-- So what does Flameau teach us? A few torches may be easy to juggle, but that doesn’t give Flameau infinite capacity for just one more. Nor does it suggest that juggling just under his breaking point is a good idea, either. As we witnessed with Cookie, the closer you get to reaching your capacity, the more stress taxes your brain’s resources, and impacts your performance. As Flameau’s active torches moved from three (comfortable) to four then five (less comfortable) to six and seven (unnerving) to eight (breaking point), stress reaches into the recesses of his mind and pulls out painful memories and—combined with his insecurities and fears—converts them into WIP
-
-
-Like that glass, a freeway ranges between 0 and 100% capacity; it can be anywhere from totally empty to completely filled with vehicles. But unlike that glass, the freeway doesn’t optimize for capacity, it optimizes for throughput. Capacity is a spatial relationship, while throughput is a flow relationship.
-Some of us are cautious drivers, while others are aggressive. The roadway has to accommodate all driving styles. This means that at a certain level of congestion, traffic begins to slow; it reaches its maximum throughput.1 The more vehicles, the greater the variation in driving styles, the slower traffic becomes, and the more its flow becomes constrained. Traffic can only move as fast as the slowest vehicles on the road. We begin to experience congestion, even though the roadway may only be at 65% capacity.
-As the freeway approaches 100% capacity, it ceases being a freeway. It becomes a parking lot.
-Capacity is an ineffective measure of throughput, and a horrible way to gauge what we can do. It doesn’t measure how we actually work, or at what rate we actually work. Capacity is merely a brute force measure of what will fit.
-Like traffic, work does not fit. Work flows.
+- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
-- 
+- [[4x - Reading/41.02 - Reading - Book reviews/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]
+- [[1x - References/11.03 - References - Ideas/Agile Principles|Agile Principles]]
+- [[1x - References/11.03 - References - Ideas/Limit work in progress|Limit work in progress]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Time management for mortals - oliver burkeman|Time management for mortals - oliver burkeman]]
+- [[3x - Spiritual/32.16 - Spiritual - CD spiritual point ideas/Bibles view of time management|Bibles view of time management]]
