@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/contempt-for-simplicity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/contempt-for-simplicity/"}
 ---
 
 
@@ -20,6 +20,6 @@
 - when we presume that we are better than people who need structure and guidance, we lack one of th emost crucial ingredients for change: humility." 
 
 ### Related
-- [[4x - Reading/41.01 - Reading - Book Notes/Resist Simplicity - Stephen Carter|../../4x - Reading/41.01 - Reading - Book Notes/Resist Simplicity - Stephen Carter]]
-- [[1x - References/11.02 - References - Quotes/First principles and simple actions - Winston Churchill|../../1x - References/11.02 - References - Quotes/First principles and simple actions - Winston Churchill]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Resist Simplicity - Stephen Carter\|../../4x - Reading/41.01 - Reading - Book Notes/Resist Simplicity - Stephen Carter]]
+- [[1x - References/11.02 - References - Quotes/First principles and simple actions - Winston Churchill\|../../1x - References/11.02 - References - Quotes/First principles and simple actions - Winston Churchill]]
 
