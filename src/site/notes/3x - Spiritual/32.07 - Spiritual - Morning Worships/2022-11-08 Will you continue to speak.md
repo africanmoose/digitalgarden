@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/32-07-spiritual-morning-worships/2022-11-08-will-you-continue-to-speak/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/3x-spiritual/32-07-spiritual-morning-worships/2022-11-08-will-you-continue-to-speak/"}
 ---
 
 
@@ -36,9 +36,9 @@ Continue in the things that you learned and were persuaded to believe. - 2 Timot
 - In order to train others, we need to have a strong faith ourselves
 
 ### Ideas
-- [[1x - References/11.02 - References - Quotes/The doer learns more than the receiver - James Clear|../../1x - References/11.02 - References - Quotes/The doer learns more than the receiver - James Clear]]
-- [[1x - References/11.02 - References - Quotes/If you're always right, you're not learning.|../../1x - References/11.02 - References - Quotes/If you're always right, you're not learning.]]
-- [[1x - References/11.03 - References - Ideas/Always Train|../../1x - References/11.03 - References - Ideas/Always Train]]
+- [[1x - References/11.02 - References - Quotes/The doer learns more than the receiver - James Clear\|../../1x - References/11.02 - References - Quotes/The doer learns more than the receiver - James Clear]]
+- [[1x - References/11.02 - References - Quotes/If you're always right, you're not learning.\|../../1x - References/11.02 - References - Quotes/If you're always right, you're not learning.]]
+- [[1x - References/11.03 - References - Ideas/Always Train\|../../1x - References/11.03 - References - Ideas/Always Train]]
 - ftnt 2 ti 1:13 - wholesome words or showle some instruction
 - training is a priority
 - 1 cor 4:17 - everywhere in every congregation
