@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-why-chain/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-why-chain/"}
 ---
 
 ---
@@ -18,7 +18,7 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Learn Slow|Learn Slow]]
-- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear|../11.02 - References - Quotes/Keep learning - James Clear]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
-- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
+- [[1x - References/11.03 - References - Ideas/Learn Slow\|Learn Slow]]
+- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear\|../11.02 - References - Quotes/Keep learning - James Clear]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
+- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso\|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
