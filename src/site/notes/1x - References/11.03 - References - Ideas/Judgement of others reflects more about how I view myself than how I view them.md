@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/judgement-of-others-reflects-more-about-how-i-view-myself-than-how-i-view-them/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/judgement-of-others-reflects-more-about-how-i-view-myself-than-how-i-view-them/"}
 ---
 
 
@@ -12,8 +12,8 @@
 - What i first reach to insult someone with says more about me than them.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest\|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Positive view of others|Positive view of others]]
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
+- [[1x - References/11.03 - References - Ideas/Positive view of others\|Positive view of others]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive\|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
