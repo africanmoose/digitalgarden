@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-02-publish-digital-garden-home/africanmoose/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/0x-system/05-02-publish-digital-garden-home/africanmoose/","tags":"gardenEntry","dgShowBacklinks":false}
 ---
 
  
@@ -9,45 +9,47 @@
 Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but absolutely no one else and soo beautiful.
 
 ## Interesting Quotes
-- [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris|Only have stuff that is useful or beautiful - William Morris]]
-- [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu|Yes I'm truly a Dunce - Ryokan Taigu]]
-- [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham|If fifty million people say something foolish it is still foolish - Somerset Maugham]]
-- [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives|Sit round candle light and talk about their inner lives]]
-- [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff|Deconstruct cool stuff]]
-- [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese|The best people want to know if they are right - John Cleese]]
+- [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris\|Only have stuff that is useful or beautiful - William Morris]]
+- [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu\|Yes I'm truly a Dunce - Ryokan Taigu]]
+- [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham\|If fifty million people say something foolish it is still foolish - Somerset Maugham]]
+- [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives\|Sit round candle light and talk about their inner lives]]
+- [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff\|Deconstruct cool stuff]]
+- [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
 
 ## Interesting Persons
-- [[1x - References/11.05 - References - Persons/Claude Shannon|Claude Shannon]]
-- [[1x - References/11.05 - References - Persons/Helen Keller|Helen Keller]]
-- [[1x - References/11.05 - References - Persons/Ryokan Taigu|Ryokan Taigu]]
-- [[1x - References/11.05 - References - Persons/Philip Tetlock|Philip Tetlock]]
+- [[1x - References/11.05 - References - Persons/Claude Shannon\|Claude Shannon]]
+- [[1x - References/11.05 - References - Persons/Helen Keller\|Helen Keller]]
+- [[1x - References/11.05 - References - Persons/Ryokan Taigu\|Ryokan Taigu]]
+- [[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
+- [[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
 
 ## Currently Learning About
-- [[1x - References/11.03 - References - Ideas/Pillars of Creation|James Webb Space Telescope shot of the Eagle Nebula]]
-- [[1x - References/11.03 - References - Ideas/Zettelkasten Method|Notetaking systems: Zettelkasten]]
-- [[1x - References/11.03 - References - Ideas/4 Stages of learning|The four stages of learning]]
-- [[1x - References/11.03 - References - Ideas/Barbell Method of reading|Barbell method of reading]]
+- [[1x - References/11.03 - References - Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
+- [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
+- [[1x - References/11.03 - References - Ideas/4 Stages of learning\|The four stages of learning]]
+- [[1x - References/11.03 - References - Ideas/Barbell Method of reading\|Barbell method of reading]]
+- [[1x - References/11.03 - References - Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
-- [[4x - Reading/42.04 - Reading Lists - Currently Reading|Books I am currently reading]]
-- [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities|The science of Rapid Skill Acquisition]]
-- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|Wabi Sabi - Japanese wisdom for a perfectly imperfect life]]
-- [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
-- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|101 essays that will change your life]]
-- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|Wabi Sabi -The Japanese Art of Impermanence]]
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/42.04 - Reading Lists - Currently Reading\|Books I am currently reading]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese wisdom for a perfectly imperfect life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi -The Japanese Art of Impermanence]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life|Personal Kanban - Mapping Work Navigating Life]]
+- Processing [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - Processing How powerpoint makes you stupid
 - Processing Hello Habits
 
 ## Interesting Ideas
-- [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence|The happiness of excellence]]
-- [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth|The Diderot Effect]]
-- [[1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts|People would rather give themselves an electric shock than sit and think]]
-- [[1x - References/11.03 - References - Ideas/Focus on producing quality rather than quantity|Focus on producing quality rather than quantity]]
-- [[1x - References/11.03 - References - Ideas/Illusion of control|Illusion of control]]
+- [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence\|The happiness of excellence]]
+- [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
+- [[1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
+- [[1x - References/11.03 - References - Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
+- [[1x - References/11.03 - References - Ideas/Illusion of control\|Illusion of control]]
 
 ## Africanmoose Stuff
 [Africanmoose](https://africanmoose.blogspot.com)
