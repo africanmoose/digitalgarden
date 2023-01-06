@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/love-for-the-unconventional/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/love-for-the-unconventional/"}
 ---
 
 
@@ -11,8 +11,8 @@
 - Nature provides an innate beauty which is also random and assymetrical.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Related
-- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
-- [[1x - References/11.03 - References - Ideas/What is wabisabi|What is wabisabi]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[1x - References/11.03 - References - Ideas/What is wabisabi\|What is wabisabi]]
