@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/seek-dissenting-opinions/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/seek-dissenting-opinions/"}
 ---
 
 ---
@@ -18,8 +18,8 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Identify good sources for information|Identify good sources for information]]
-- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills|Pareto principle in learning new skills]]
-- [[1x - References/11.03 - References - Ideas/Don't agree with everything|Don't agree with everything]]
-- [[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/Identify good sources for information\|Identify good sources for information]]
+- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills\|Pareto principle in learning new skills]]
+- [[1x - References/11.03 - References - Ideas/Don't agree with everything\|Don't agree with everything]]
+- [[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
