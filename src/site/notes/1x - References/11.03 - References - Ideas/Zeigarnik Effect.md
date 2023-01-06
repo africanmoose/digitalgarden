@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zeigarnik-effect/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zeigarnik-effect/","dgShowBacklinks":false}
 ---
 
 
@@ -13,7 +13,7 @@
 - Later on Roy Baumeister did further research on this to conclude that outstanding tasks only bother us until we have a clear idea of how to deal with them.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect)
 - https://www.researchgate.net/publication/51234294_Consider_It_Done_Plan_Making_Can_Eliminate_the_Cognitive_Effects_of_Unfulfilled_Goals
 
@@ -22,6 +22,6 @@
 
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Plan but dont overplan|Plan but dont overplan]]
-- [[1x - References/11.03 - References - Ideas/Common Sense Planning|Common Sense Planning]]
-- [[1x - References/11.02 - References - Quotes/If you dont have a plan you will become part of somebody elses plan - Terence Mckenna|If you dont have a plan you will become part of somebody elses plan - Terence Mckenna]]
+- [[1x - References/11.03 - References - Ideas/Plan but dont overplan\|Plan but dont overplan]]
+- [[1x - References/11.03 - References - Ideas/Common Sense Planning\|Common Sense Planning]]
+- [[1x - References/11.02 - References - Quotes/If you dont have a plan you will become part of somebody elses plan - Terence Mckenna\|If you dont have a plan you will become part of somebody elses plan - Terence Mckenna]]
