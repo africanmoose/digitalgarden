@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/kaizen/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/kaizen/","dgShowBacklinks":false}
 ---
 
 
@@ -13,9 +13,9 @@
 - The Japanese word _kaizen_ means 'change for better', with the inherent meaning of either 'continuous' or 'philosophy' in Japanese dictionaries
 - 
 ### References
-- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life|Personal Kanban - Mapping Work Navigating Life]]
+- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - [wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Improve yourself every chance you get|Improve yourself every chance you get]]
-- [[1x - References/11.03 - References - Ideas/Incremental Improvement|Incremental Improvement]]
+- [[1x - References/11.03 - References - Ideas/Improve yourself every chance you get\|Improve yourself every chance you get]]
+- [[1x - References/11.03 - References - Ideas/Incremental Improvement\|Incremental Improvement]]
