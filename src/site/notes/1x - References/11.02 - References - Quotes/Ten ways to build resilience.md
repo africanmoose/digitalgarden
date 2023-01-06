@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ten-ways-to-build-resilience/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ten-ways-to-build-resilience/"}
 ---
 
 
@@ -20,7 +20,7 @@
 - Beth Kempton
 
 ## Reference
-- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ## Related
-- [[1x - References/11.02 - References - Quotes/Consistency always beats sporadicness - James Clear|Consistency always beats sporadicness - James Clear]]
+- [[1x - References/11.02 - References - Quotes/Consistency always beats sporadicness - James Clear\|Consistency always beats sporadicness - James Clear]]
