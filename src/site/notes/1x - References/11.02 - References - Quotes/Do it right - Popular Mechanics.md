@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/do-it-right-popular-mechanics/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/do-it-right-popular-mechanics/"}
 ---
 
 
@@ -15,4 +15,4 @@ Popular mechanics
 Popular Machanics
 
 ## Related
-[[1x - References/11.03 - References - Ideas/Do good quality Work|../11.03 - References - Ideas/Do good quality Work]]
+[[1x - References/11.03 - References - Ideas/Do good quality Work\|../11.03 - References - Ideas/Do good quality Work]]
