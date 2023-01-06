@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/always-train/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/always-train/"}
 ---
 
 
@@ -9,11 +9,11 @@
 - Dont fear training people because they might leave. Its worse to have untrained people staying!
 
 ### References
-- [[4x - Reading/41.01 - Reading - Book Notes/Serendipity Mindset|Serendipity Mindset]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Serendipity Mindset\|Serendipity Mindset]]
 
 ### Quotes
 - ‘What if we train everyone and they leave the company?’ To which a great rebuttal is, ‘Well, what if we don’t train them and they stay?’ (Serendipity Mindset, Christian Busch)
 
 ### Interesting Related
-[[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
+[[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
 
