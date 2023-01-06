@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/don-t-agree-with-everything/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/don-t-agree-with-everything/"}
 ---
 
 ## Don't agree with everything
@@ -21,6 +21,6 @@ If the answer is no, you might want to stop and think about that. If everything 
 Odds are it isn't. Odds are you just think whatever you're told."
 
 ### Interesting Related
-[[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
-[[1x - References/11.03 - References - Ideas/Always Train|Always Train]]
-[[1x - References/11.03 - References - Ideas/Psychological Safety|Psychological Safety]]
+[[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
+[[1x - References/11.03 - References - Ideas/Always Train\|Always Train]]
+[[1x - References/11.03 - References - Ideas/Psychological Safety\|Psychological Safety]]
