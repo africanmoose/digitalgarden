@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fundamental-attribution-error/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fundamental-attribution-error/"}
 ---
 
 
@@ -13,8 +13,8 @@
 
 ### References
 - [fundamental attribution](https://online.hbs.edu/blog/post/the-fundamental-attribution-error#:~:text=What%20Is%20the%20Fundamental%20Attribution,factors%20outside%20of%20their%20control.)
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Cognitive Tools|Cognitive Tools]]
-- [[1x - References/11.03 - References - Ideas/Fundamental Attribution Error|]]
+- [[1x - References/11.03 - References - Ideas/Cognitive Tools\|Cognitive Tools]]
+- [[1x - References/11.03 - References - Ideas/Fundamental Attribution Error\|]]
