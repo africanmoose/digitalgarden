@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/stop-buying-stuff-niko-stoifberg/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/stop-buying-stuff-niko-stoifberg/"}
 ---
 
 
@@ -19,8 +19,8 @@
 - TED Talk, NIko Stoifberg
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Care for your stuff|../../1x - References/11.03 - References - Ideas/Care for your stuff]]
-- [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris|../../1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris]]
-- [[1x - References/11.03 - References - Ideas/Accept change by how we pursue stuff|../../1x - References/11.03 - References - Ideas/Accept change by how we pursue stuff]]
-- [[1x - References/11.03 - References - Ideas/Minimalism|../../1x - References/11.03 - References - Ideas/Minimalism]]
-- [[1x - References/11.03 - References - Ideas/Minimalism helps us be more efficient at our work|../../1x - References/11.03 - References - Ideas/Minimalism helps us be more efficient at our work]]
+- [[1x - References/11.03 - References - Ideas/Care for your stuff\|../../1x - References/11.03 - References - Ideas/Care for your stuff]]
+- [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris\|../../1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris]]
+- [[1x - References/11.03 - References - Ideas/Accept change by how we pursue stuff\|../../1x - References/11.03 - References - Ideas/Accept change by how we pursue stuff]]
+- [[1x - References/11.03 - References - Ideas/Minimalism\|../../1x - References/11.03 - References - Ideas/Minimalism]]
+- [[1x - References/11.03 - References - Ideas/Minimalism helps us be more efficient at our work\|../../1x - References/11.03 - References - Ideas/Minimalism helps us be more efficient at our work]]
