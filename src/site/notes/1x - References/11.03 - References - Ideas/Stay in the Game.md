@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/stay-in-the-game/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/stay-in-the-game/"}
 ---
 
 
@@ -24,6 +24,6 @@ Business: Can you maintain cash flow and stay in business?
 Longevity is its own form of greatness." (James Clear)
 
 ### Interesting Related
-[[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
-[[1x - References/11.03 - References - Ideas/Opportunity Engineering and Serendipity|Opportunity Engineering and Serendipity]]
-[[1x - References/11.03 - References - Ideas/Incremental Improvement|Incremental Improvement]]
+[[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
+[[1x - References/11.03 - References - Ideas/Opportunity Engineering and Serendipity\|Opportunity Engineering and Serendipity]]
+[[1x - References/11.03 - References - Ideas/Incremental Improvement\|Incremental Improvement]]
