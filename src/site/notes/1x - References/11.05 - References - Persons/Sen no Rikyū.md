@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/sen-no-rikyu/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/sen-no-rikyu/"}
 ---
 
 ---
@@ -15,4 +15,4 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Sen_no_Riky%C5%AB)
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Minimalism|../11.03 - References - Ideas/Minimalism]]
+- [[1x - References/11.03 - References - Ideas/Minimalism\|../11.03 - References - Ideas/Minimalism]]
