@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/31-01-spiritual-gems/wise-will-know-the-right-time-and-procedure/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/3x-spiritual/31-01-spiritual-gems/wise-will-know-the-right-time-and-procedure/"}
 ---
 
 
@@ -30,6 +30,6 @@ The one who observes the commandment will not experience harm, and the wise hear
 - Even where rulership is harsh and arbitrary, the wise individual will not rise in revolt. He realizes that there is a “time” or season when something will happen to change things for the better. But since he does not know “just how” that change will occur, the prudent course for the present is for him to go about his business, using sound judgment in dealing with unpleasant aspects of daily life.​
 
 ### Related
-- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Patience|../32.03 - Spiritual - Structure Notes/Patience]]
-- [[3x - Spiritual/31.01 - Spiritual - Gems/Dont blame human representatives of Jah when suffering|Dont blame human representatives of Jah when suffering]]
-- [[4x - Reading/41.02 - Reading - Book reviews/The narcissism epidemic - living in the age of entitlement|../../4x - Reading/41.02 - Reading - Book reviews/The narcissism epidemic - living in the age of entitlement]]
+- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Patience\|../32.03 - Spiritual - Structure Notes/Patience]]
+- [[3x - Spiritual/31.01 - Spiritual - Gems/Dont blame human representatives of Jah when suffering\|Dont blame human representatives of Jah when suffering]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The narcissism epidemic - living in the age of entitlement\|../../4x - Reading/41.02 - Reading - Book reviews/The narcissism epidemic - living in the age of entitlement]]
