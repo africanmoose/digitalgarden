@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/curiousity-is-a-powerful-learning-tool/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/curiousity-is-a-powerful-learning-tool/"}
 ---
 
 ---
@@ -19,7 +19,7 @@
 - "Arguably, curiousity is the most powerful tool we have in learning. It's what drives kids to do some of the most dangerous things in the world, and it's also what drives some of our greatest innovations and inventions as a species."
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/The Why chain|The Why chain]]
-- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear|../11.02 - References - Quotes/Keep learning - James Clear]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
-- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
+- [[1x - References/11.03 - References - Ideas/The Why chain\|The Why chain]]
+- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear\|../11.02 - References - Quotes/Keep learning - James Clear]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
+- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso\|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
