@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/survivorship-bias/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/survivorship-bias/"}
 ---
 
 
@@ -12,8 +12,8 @@
 - If we are among the survivors, we attribute success to hard work on our part instead of chance or coincidence. In reality, there are millions of hardworking and smart people who do not become successful through no fault of their own.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.02 - References - Quotes/Swell with pride - Abram Sachar|../11.02 - References - Quotes/Swell with pride - Abram Sachar]]
-- [[1x - References/11.03 - References - Ideas/Success a product of habit more than skill|Success a product of habit more than skill]]
+- [[1x - References/11.02 - References - Quotes/Swell with pride - Abram Sachar\|../11.02 - References - Quotes/Swell with pride - Abram Sachar]]
+- [[1x - References/11.03 - References - Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]
