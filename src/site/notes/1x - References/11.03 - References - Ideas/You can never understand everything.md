@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/you-can-never-understand-everything/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/you-can-never-understand-everything/"}
 ---
 
 ---
@@ -17,7 +17,7 @@
 - The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills, Information, and Abilities - [Peter Hollins](https://www.goodreads.com/author/show/16593818.Peter_Hollins)
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
-- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills|Pareto principle in learning new skills]]
-- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
-- [[1x - References/11.02 - References - Quotes/Procrastination - Pablo Picasso|../11.02 - References - Quotes/Procrastination - Pablo Picasso]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills\|Pareto principle in learning new skills]]
+- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso\|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
+- [[1x - References/11.02 - References - Quotes/Procrastination - Pablo Picasso\|../11.02 - References - Quotes/Procrastination - Pablo Picasso]]
