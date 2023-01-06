@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/good-mentors-help-learning/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/good-mentors-help-learning/"}
 ---
 
 ---
@@ -19,8 +19,8 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
-- [[1x - References/11.03 - References - Ideas/Feynman technique of learning|Feynman technique of learning]]
-- [[1x - References/11.03 - References - Ideas/Give great feedback|Give great feedback]]
-- [[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
-- [[1x - References/11.03 - References - Ideas/Incremental Improvement|Incremental Improvement]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/Feynman technique of learning\|Feynman technique of learning]]
+- [[1x - References/11.03 - References - Ideas/Give great feedback\|Give great feedback]]
+- [[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
+- [[1x - References/11.03 - References - Ideas/Incremental Improvement\|Incremental Improvement]]
