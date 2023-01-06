@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/train-employees-well-enough-to-get-another-job/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/train-employees-well-enough-to-get-another-job/"}
 ---
 
 
@@ -13,5 +13,5 @@ Cool tools site
 -
 
 ## Related
-[[1x - References/11.03 - References - Ideas/Always Train|../11.03 - References - Ideas/Always Train]]
-[[1x - References/11.03 - References - Ideas/Good mentors help learning|../11.03 - References - Ideas/Good mentors help learning]]
+[[1x - References/11.03 - References - Ideas/Always Train\|../11.03 - References - Ideas/Always Train]]
+[[1x - References/11.03 - References - Ideas/Good mentors help learning\|../11.03 - References - Ideas/Good mentors help learning]]
