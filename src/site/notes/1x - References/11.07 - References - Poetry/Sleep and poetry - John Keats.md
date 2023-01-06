@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-07-references-poetry/sleep-and-poetry-john-keats/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-07-references-poetry/sleep-and-poetry-john-keats/"}
 ---
 
 
@@ -23,4 +23,4 @@ John Keats
 (quoted from sleep revolution, arianna huffington)
 
 ## Related
-[[1x - References/11.03 - References - Ideas/Need to do reviews|../11.03 - References - Ideas/Need to do reviews]]
+[[1x - References/11.03 - References - Ideas/Need to do reviews\|../11.03 - References - Ideas/Need to do reviews]]
