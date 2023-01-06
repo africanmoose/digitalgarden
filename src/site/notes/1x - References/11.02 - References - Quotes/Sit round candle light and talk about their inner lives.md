@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/sit-round-candle-light-and-talk-about-their-inner-lives/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/sit-round-candle-light-and-talk-about-their-inner-lives/"}
 ---
 
 
@@ -16,7 +16,7 @@ Novelist **Jeanette Winterson** 
 - James clear email December 8, 2022
 
 ## Related
-- [[1x - References/11.02 - References - Quotes/Talk less say more|Talk less say more]]
+- [[1x - References/11.02 - References - Quotes/Talk less say more\|Talk less say more]]
 
 ## RSS Data
 <div class='date'>Fri, 9 Dec 2022 12:17:32 GMT</div>
