@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/allow-the-reader-to-participate-in-the-art/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/allow-the-reader-to-participate-in-the-art/"}
 ---
 
 
@@ -11,7 +11,7 @@
 - This allows the reader to actively participate by filling in the meaning and become an active participant in the creative process.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/What is wabisabi|What is wabisabi]]
+- [[1x - References/11.03 - References - Ideas/What is wabisabi\|What is wabisabi]]
