@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/opportunity-engineering-and-serendipity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/opportunity-engineering-and-serendipity/"}
 ---
 
 
@@ -27,7 +27,7 @@
 - COMPOUND SERENDIPITY A process where each new instance of serendipity has greater potential because of the ones that have gone before. (Serendipity Mindset - Christian Busch)
 
 #### Interesting Related
-[[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
-[[1x - References/11.03 - References - Ideas/Psychological Safety|Psychological Safety]]
-[[1x - References/11.03 - References - Ideas/Radical Innovation|Radical Innovation]]
-[[1x - References/11.03 - References - Ideas/Positive view of others|Positive view of others]]
+[[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
+[[1x - References/11.03 - References - Ideas/Psychological Safety\|Psychological Safety]]
+[[1x - References/11.03 - References - Ideas/Radical Innovation\|Radical Innovation]]
+[[1x - References/11.03 - References - Ideas/Positive view of others\|Positive view of others]]
