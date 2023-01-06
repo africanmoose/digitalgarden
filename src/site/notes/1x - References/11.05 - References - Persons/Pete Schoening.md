@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/pete-schoening/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/pete-schoening/"}
 ---
 
 ---
@@ -22,5 +22,5 @@
 
 ### Interesting Related
 - Possible application: Deuteronomy 10:20
-[[1x - References/11.03 - References - Ideas/Stay in the Game|../11.03 - References - Ideas/Stay in the Game]]
-[[../../3x - Spiritual/32.19 - Spiritual - Illustrations/32.19 - Spiritual - Teaching - Illustrations|../../3x - Spiritual/32.19 - Spiritual - Illustrations/32.19 - Spiritual - Teaching - Illustrations]]
+[[1x - References/11.03 - References - Ideas/Stay in the Game\|../11.03 - References - Ideas/Stay in the Game]]
+[[../../3x - Spiritual/32.19 - Spiritual - Illustrations/32.19 - Spiritual - Teaching - Illustrations\|../../3x - Spiritual/32.19 - Spiritual - Illustrations/32.19 - Spiritual - Teaching - Illustrations]]
