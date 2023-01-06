@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-value-of-compliments/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-value-of-compliments/"}
 ---
 
 ---
@@ -25,7 +25,7 @@
 - "Compliment the things you want to see in the world."
 
 ### Interesting Related
-- [[3x - Spiritual/31.01 - Spiritual - Gems/Out of the hearts abundance the heart speaks|../../3x - Spiritual/31.01 - Spiritual - Gems/Out of the hearts abundance the heart speaks]]
-- [[1x - References/11.03 - References - Ideas/Positive view of others|Positive view of others]]
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
-- [[3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project|../../3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project]]
+- [[3x - Spiritual/31.01 - Spiritual - Gems/Out of the hearts abundance the heart speaks\|../../3x - Spiritual/31.01 - Spiritual - Gems/Out of the hearts abundance the heart speaks]]
+- [[1x - References/11.03 - References - Ideas/Positive view of others\|Positive view of others]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive\|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
+- [[3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project\|../../3x - Spiritual/36.01 - Spiritual - Study Projects/Joy - Study Project]]
