@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/rosenthal-effect/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/rosenthal-effect/"}
 ---
 
 
@@ -11,8 +11,8 @@
 - After a year, these students had developed much higher IQs than students in a control group.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.02 - References - Quotes/Compliment to listen to others opinion - David Henry Thoreau|Compliment to listen to others opinion - David Henry Thoreau]]
-- [[1x - References/11.03 - References - Ideas/The value of compliments|The value of compliments]]
+- [[1x - References/11.02 - References - Quotes/Compliment to listen to others opinion - David Henry Thoreau\|Compliment to listen to others opinion - David Henry Thoreau]]
+- [[1x - References/11.03 - References - Ideas/The value of compliments\|The value of compliments]]
