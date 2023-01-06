@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/look-at-things-through-new-eyes-to-recognize-beauty/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/look-at-things-through-new-eyes-to-recognize-beauty/"}
 ---
 
 
@@ -16,9 +16,9 @@
 - Beauty can arise in the simplest of things - a conversation, a walk
 
 ### References
-- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|../../4x - Reading/41.02 - Reading - Brief book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### Related
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Humans like geode beautiful on the inside|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Humans like geode beautiful on the inside]]
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Humans like geode beautiful on the inside\|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Humans like geode beautiful on the inside]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive\|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points\|../../3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points]]
