@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/ryokan-taigu/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/ryokan-taigu/"}
 ---
 
 
@@ -16,10 +16,10 @@
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Ry%C5%8Dkan)
 - [allpoetry.com](https://allpoetry.com/Taigu-Ryokan)
-- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Quotes
-- [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu|../11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu]]
+- [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu\|../11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu]]
 
 ## RSS Data
 <div class='date'>Tue, 29 Nov 2022 12:17:32 GMT</div>
