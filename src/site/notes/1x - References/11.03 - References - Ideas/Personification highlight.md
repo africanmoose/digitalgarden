@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/personification-highlight/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/personification-highlight/"}
 ---
 
 
@@ -14,8 +14,8 @@
 - If you are asking for something, include a human story.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Story Bias|Story Bias]]
-- [[1x - References/11.02 - References - Quotes/Understand a persons hunger - Mark Goulston|Understand a persons hunger - Mark Goulston]]
+- [[1x - References/11.03 - References - Ideas/Story Bias\|Story Bias]]
+- [[1x - References/11.02 - References - Quotes/Understand a persons hunger - Mark Goulston\|Understand a persons hunger - Mark Goulston]]
