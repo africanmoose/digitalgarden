@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/interleaved-practise/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/interleaved-practise/"}
 ---
 
 ---
@@ -20,7 +20,7 @@
 - "[Interleaved learning] advantage over block learning is surprising: interleaving produces a 43% increase in learning and retention over block learning."
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
-- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
-- [[1x - References/11.02 - References - Quotes/Secret to learning a skill is to practise deliberately|../11.02 - References - Quotes/Secret to learning a skill is to practise deliberately]]
-- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills|Pareto principle in learning new skills]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
+- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso\|../11.02 - References - Quotes/How to learn - Pablo Picasso]]
+- [[1x - References/11.02 - References - Quotes/Secret to learning a skill is to practise deliberately\|../11.02 - References - Quotes/Secret to learning a skill is to practise deliberately]]
+- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills\|Pareto principle in learning new skills]]
