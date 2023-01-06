@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/34-06-bethel-service-school/0103-bethels-role-in-the-advancement-of-kingdom-interests/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/3x-spiritual/34-06-bethel-service-school/0103-bethels-role-in-the-advancement-of-kingdom-interests/"}
 ---
 
 
