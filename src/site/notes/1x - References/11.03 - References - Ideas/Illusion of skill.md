@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-skill/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-skill/","dgShowBacklinks":false}
 ---
 
 
@@ -13,8 +13,8 @@
 - In others, such as founding a company, there is a good chance that chance plays a significant part
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn|The harder i work the luckier i get - Samuel Goldwyn]]
-- [[1x - References/11.03 - References - Ideas/Do good quality Work|Do good quality Work]]
+- [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
+- [[1x - References/11.03 - References - Ideas/Do good quality Work\|Do good quality Work]]
