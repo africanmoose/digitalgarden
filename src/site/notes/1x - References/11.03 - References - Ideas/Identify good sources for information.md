@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/identify-good-sources-for-information/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/identify-good-sources-for-information/"}
 ---
 
 ---
@@ -20,7 +20,7 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills|Pareto principle in learning new skills]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
-- [[1x - References/11.03 - References - Ideas/Information is only information if it is Surprising|Information is only information if it is Surprising]]
-- [[1x - References/11.03 - References - Ideas/Look for the source|Look for the source]]
+- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills\|Pareto principle in learning new skills]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/Information is only information if it is Surprising\|Information is only information if it is Surprising]]
+- [[1x - References/11.03 - References - Ideas/Look for the source\|Look for the source]]
