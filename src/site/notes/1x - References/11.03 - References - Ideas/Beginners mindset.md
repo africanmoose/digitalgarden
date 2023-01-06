@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/beginners-mindset/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/beginners-mindset/"}
 ---
 
 ---
@@ -18,6 +18,6 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear|1x - References/11.02 - References - Quotes/Keep learning - James Clear]]
-- [[1x - References/11.03 - References - Ideas/Humility not related to actual intelligence|1x - References/11.03 - References - Ideas/Humility not related to actual intelligence]]
-- [[1x - References/11.03 - References - Ideas/Growth Mindset|1x - References/11.03 - References - Ideas/Growth Mindset]]
+- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear\|1x - References/11.02 - References - Quotes/Keep learning - James Clear]]
+- [[1x - References/11.03 - References - Ideas/Humility not related to actual intelligence\|1x - References/11.03 - References - Ideas/Humility not related to actual intelligence]]
+- [[1x - References/11.03 - References - Ideas/Growth Mindset\|1x - References/11.03 - References - Ideas/Growth Mindset]]
