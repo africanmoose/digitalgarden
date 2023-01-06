@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fallacy-of-the-single-cause/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fallacy-of-the-single-cause/","dgShowBacklinks":false}
 ---
 
 
@@ -10,10 +10,10 @@
 - things such as cancer, a shooting, success of a company or individual likely have almost an infinite number of factors leading up to them.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Cognitive Tools|Cognitive Tools]]
-- [[1x - References/11.03 - References - Ideas/Not be a slave to idea that our desires can be satiated|Not be a slave to idea that our desires can be satiated]]
-- [[1x - References/11.03 - References - Ideas/You can never understand everything|You can never understand everything]]
-- [[3x - Spiritual/31.01 - Spiritual - Gems/Keep trying to understand Jah better as Abraham did|Keep trying to understand Jah better as Abraham did]]
+- [[1x - References/11.03 - References - Ideas/Cognitive Tools\|Cognitive Tools]]
+- [[1x - References/11.03 - References - Ideas/Not be a slave to idea that our desires can be satiated\|Not be a slave to idea that our desires can be satiated]]
+- [[1x - References/11.03 - References - Ideas/You can never understand everything\|You can never understand everything]]
+- [[3x - Spiritual/31.01 - Spiritual - Gems/Keep trying to understand Jah better as Abraham did\|Keep trying to understand Jah better as Abraham did]]
