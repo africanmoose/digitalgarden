@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/helen-keller/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/helen-keller/"}
 ---
 
 
@@ -22,11 +22,11 @@
 
 ### Quotes
 - "I owed my success partly to the advantages of my birth and environment. I have learned that the power to rise is not within the reach of everyone."
-- [[1x - References/11.02 - References - Quotes/Door of happiness - Helen Keller|../11.02 - References - Quotes/Door of happiness - Helen Keller]]
+- [[1x - References/11.02 - References - Quotes/Door of happiness - Helen Keller\|../11.02 - References - Quotes/Door of happiness - Helen Keller]]
 
 ### Related
-- [[1x - References/11.02 - References - Quotes/Door of happiness - Helen Keller|../11.02 - References - Quotes/Door of happiness - Helen Keller]]
-- [[1x - References/11.03 - References - Ideas/Focus attention on beautiful things in life|../11.03 - References - Ideas/Focus attention on beautiful things in life]]
+- [[1x - References/11.02 - References - Quotes/Door of happiness - Helen Keller\|../11.02 - References - Quotes/Door of happiness - Helen Keller]]
+- [[1x - References/11.03 - References - Ideas/Focus attention on beautiful things in life\|../11.03 - References - Ideas/Focus attention on beautiful things in life]]
 
 ## RSS Data
 <div class='date'>Fri, 11 Nov 2022 12:17:32 GMT</div>
