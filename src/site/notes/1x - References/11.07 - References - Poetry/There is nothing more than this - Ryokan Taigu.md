@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-07-references-poetry/there-is-nothing-more-than-this-ryokan-taigu/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-07-references-poetry/there-is-nothing-more-than-this-ryokan-taigu/"}
 ---
 
 
@@ -23,12 +23,12 @@ For even if I answered it would be beyond their understanding,
 Look around, there is nothing more than this.
 
 ## Author
-[[1x - References/11.05 - References - Persons/Ryokan Taigu|../11.05 - References - Persons/Ryokan Taigu]]
+[[1x - References/11.05 - References - Persons/Ryokan Taigu\|../11.05 - References - Persons/Ryokan Taigu]]
 
 ## Reference
-[[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
+[[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|../../4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ## Related
-[[1x - References/11.03 - References - Ideas/Minimalism|../11.03 - References - Ideas/Minimalism]]
-[[1x - References/11.03 - References - Ideas/Minimalism gives us space to see farther|../11.03 - References - Ideas/Minimalism gives us space to see farther]]
-[[1x - References/11.05 - References - Persons/Ryokan Taigu|../11.05 - References - Persons/Ryokan Taigu]]
+[[1x - References/11.03 - References - Ideas/Minimalism\|../11.03 - References - Ideas/Minimalism]]
+[[1x - References/11.03 - References - Ideas/Minimalism gives us space to see farther\|../11.03 - References - Ideas/Minimalism gives us space to see farther]]
+[[1x - References/11.05 - References - Persons/Ryokan Taigu\|../11.05 - References - Persons/Ryokan Taigu]]
