@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/information-is-only-information-if-it-is-surprising/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/information-is-only-information-if-it-is-surprising/"}
 ---
 
 
@@ -14,5 +14,5 @@
 - https://en.wikipedia.org/wiki/Entropy_(information_theory)
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/Zettelkasten Method|Zettelkasten Method]]
-- [[1x - References/11.05 - References - Persons/Claude Shannon|../11.05 - References - Persons/Claude Shannon]]
+- [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|Zettelkasten Method]]
+- [[1x - References/11.05 - References - Persons/Claude Shannon\|../11.05 - References - Persons/Claude Shannon]]
