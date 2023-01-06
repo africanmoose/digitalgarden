@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/information-bias/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/information-bias/"}
 ---
 
 
@@ -12,14 +12,14 @@
 - Superflous knowlege is worthless
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - "If You Have an Enemy, Give Him Information: Information Bias"
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Chauffeur knowlege|Chauffeur knowlege]]
-- [[1x - References/11.03 - References - Ideas/Think about before making a decision|Think about before making a decision]]
-- [[1x - References/11.03 - References - Ideas/The forecast illusion|The forecast illusion]]
-- [[1x - References/11.03 - References - Ideas/The clustering illusion - seeing patterns where none exist|The clustering illusion - seeing patterns where none exist]]
-- [[1x - References/11.03 - References - Ideas/Identify good sources for information|Identify good sources for information]]
+- [[1x - References/11.03 - References - Ideas/Chauffeur knowlege\|Chauffeur knowlege]]
+- [[1x - References/11.03 - References - Ideas/Think about before making a decision\|Think about before making a decision]]
+- [[1x - References/11.03 - References - Ideas/The forecast illusion\|The forecast illusion]]
+- [[1x - References/11.03 - References - Ideas/The clustering illusion - seeing patterns where none exist\|The clustering illusion - seeing patterns where none exist]]
+- [[1x - References/11.03 - References - Ideas/Identify good sources for information\|Identify good sources for information]]
