@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/34-06-bethel-service-school/0504-be-successful-in-coping-with-change-mark-sanderson/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/3x-spiritual/34-06-bethel-service-school/0504-be-successful-in-coping-with-change-mark-sanderson/"}
 ---
 
 
 ## Points i like
 
-- [[3x - Spiritual/31.01 - Spiritual - Gems/Changes for first century Christians|Changes for first century Christians]]
+- [[3x - Spiritual/31.01 - Spiritual - Gems/Changes for first century Christians\|Changes for first century Christians]]
 - First centuy jews who became christians....before met in herods temple...then now as christian had to meet in a backroom.
 - love the way everything interconnects: change requires humility
 - Be humble. dont be in love with my own ideas but follow the direction of the chariot
