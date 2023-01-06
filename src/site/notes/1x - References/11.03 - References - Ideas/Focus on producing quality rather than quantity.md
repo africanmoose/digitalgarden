@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/focus-on-producing-quality-rather-than-quantity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/focus-on-producing-quality-rather-than-quantity/"}
 ---
 
 
@@ -16,8 +16,8 @@
 - "Push back against more, more, more and remain committed to better, better, better"
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Do good quality Work|Do good quality Work]]
-- [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn|../11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn]]
+- [[1x - References/11.03 - References - Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn\|../11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn]]
 
 ## RSS Data
 <div class='date'>Mon, 21 Nov 2022 12:17:32 GMT</div>
