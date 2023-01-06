@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-conjunction-fallacy/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-conjunction-fallacy/"}
 ---
 
 
@@ -17,8 +17,8 @@
 	- Many chose 2, but 1 is more probably
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [wikipedia](https://en.wikipedia.org/wiki/Conjunction_fallacy)
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Cognitive Tools|Cognitive Tools]]
+- [[1x - References/11.03 - References - Ideas/Cognitive Tools\|Cognitive Tools]]
