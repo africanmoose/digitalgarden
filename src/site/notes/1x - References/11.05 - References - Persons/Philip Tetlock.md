@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/philip-tetlock/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/philip-tetlock/"}
 ---
 
 
@@ -14,8 +14,8 @@
 - [wikipedia](https://en.wikipedia.org/wiki/Philip_E._Tetlock)
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/The forecast illusion|The forecast illusion]]
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[1x - References/11.03 - References - Ideas/The forecast illusion\|The forecast illusion]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### RSS Data
 <div class='date'>Tues, 20 Dec 2022 12:17:32 GMT</div>
