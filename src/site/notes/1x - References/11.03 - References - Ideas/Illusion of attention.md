@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-attention/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-attention/"}
 ---
 
 
@@ -16,13 +16,13 @@
 - Sometimes the unnoticed is as huge and distinctive as teh gorilla.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [actual video](https://www.youtube.com/watch?v=IGQmdoK_ZfY)
 - [other expected events also invisible](https://news.illinois.edu/view/6367/205580)
 
 ### Related
-- [[1x - References/11.02 - References - Quotes/Pay attention to what you are doing - Nadia Boulanger|Pay attention to what you are doing - Nadia Boulanger]]
-- [[1x - References/11.03 - References - Ideas/Focus attention on beautiful things in life|Focus attention on beautiful things in life]]
-- [[4x - Reading/41.01 - Reading - Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive|Focus on Positive]]
-- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points|Focus on others good points]]
+- [[1x - References/11.02 - References - Quotes/Pay attention to what you are doing - Nadia Boulanger\|Pay attention to what you are doing - Nadia Boulanger]]
+- [[1x - References/11.03 - References - Ideas/Focus attention on beautiful things in life\|Focus attention on beautiful things in life]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal\|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on Positive\|Focus on Positive]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Focus on others good points\|Focus on others good points]]
