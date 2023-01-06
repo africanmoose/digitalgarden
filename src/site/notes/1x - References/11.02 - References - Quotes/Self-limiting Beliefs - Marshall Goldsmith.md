@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/self-limiting-beliefs-marshall-goldsmith/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/self-limiting-beliefs-marshall-goldsmith/"}
 ---
 
 
@@ -13,5 +13,5 @@ Marshall Goldsmith
 fs.blog
 
 ## Related
-- [[1x - References/11.03 - References - Ideas/Growth Mindset|../11.03 - References - Ideas/Growth Mindset]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|../11.03 - References - Ideas/How to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/Growth Mindset\|../11.03 - References - Ideas/Growth Mindset]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|../11.03 - References - Ideas/How to learn a skill]]
