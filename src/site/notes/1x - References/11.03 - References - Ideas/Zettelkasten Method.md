@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zettelkasten-method/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zettelkasten-method/"}
 ---
 
 
@@ -21,7 +21,7 @@
  - The most important aspect of the body of the Zettel is that you write it in your own words. There is nothing wrong with capturing a verbatim quote on top. But one of the core rules to make the Zettelkasten work for you is to use your own words, instead of just copying and pasting something you believe is useful or insightful. This forces you to at least create a different version of it, your own version. This is one of the steps that lead to increased understanding of the material, and it improves recall of the information you process. Your Zettelkasten will truly be your own if its content is yours and not just a bunch of thoughts of other people.
 - As a rule of thumb, you should always make something from the information you process. You should always translate information to knowledge by adding context and relevance. Even if you don’t use the created knowledge directly, as long as you enrich the information with relevance you are on the right path. 
 - Software-agnosticism is the principle that you make the opposite of what boxing-in tries to achieve. There are direct ways to box you in, for example, by storing notes in a closed-off file-format that no other software can decipher. But there are also implicit ways to make it difficult to change the software, for example by making the export process difficult, or by training the user to depend on features that are not available anywhere else. One example of how we try to avoid this is our decision to make the search function responsible for carrying out a lot of the features. Even Zettel links boil down to search. Full-text search is omnipresent on computers, and therefore you can reproduce your workflow with about any plain text editor in the world.
-- At the beginning it will just contain a few notes that you will remember since they are recent, but over time they will have points that you cannot remember, and provide surprise to you (see [[1x - References/11.05 - References - Persons/Claude Shannon|../11.05 - References - Persons/Claude Shannon]])
+- At the beginning it will just contain a few notes that you will remember since they are recent, but over time they will have points that you cannot remember, and provide surprise to you (see [[1x - References/11.05 - References - Persons/Claude Shannon\|../11.05 - References - Persons/Claude Shannon]])
 
 The plain text approach is the paradigm of using plain text files as the primary storage. Plain text is the most versatile and durable file format.
 
