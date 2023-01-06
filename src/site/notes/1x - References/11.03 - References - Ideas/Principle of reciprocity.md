@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/principle-of-reciprocity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/principle-of-reciprocity/"}
 ---
 
 
@@ -11,8 +11,8 @@
 - Free gifts before requesting a donation, sample tastes in supermarkets work on this principle
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Social proof or herd instinct|Social proof or herd instinct]]
-- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Kindness|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Kindness]]
+- [[1x - References/11.03 - References - Ideas/Social proof or herd instinct\|Social proof or herd instinct]]
+- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Kindness\|../../3x - Spiritual/32.03 - Spiritual - Structure Notes/Kindness]]
