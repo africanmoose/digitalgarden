@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/minimalist-gives-us-the-space-to-change/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/minimalist-gives-us-the-space-to-change/"}
 ---
 
 
@@ -11,10 +11,10 @@
 - When we have less things, we are freed up to actually do the things we would like to
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker|../../4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|../../4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Minimalism|Minimalism]]
-- [[1x - References/11.03 - References - Ideas/Minimalism gives us space to see farther|Minimalism gives us space to see farther]]
-- [[4x - Reading/41.01 - Reading - Book Notes/Digital Minimalism - Cal Newport|../../4x - Reading/41.01 - Reading - Book Notes/Digital Minimalism - Cal Newport]]
-- [[3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Shiroh|../../3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Shiroh]]
+- [[1x - References/11.03 - References - Ideas/Minimalism\|Minimalism]]
+- [[1x - References/11.03 - References - Ideas/Minimalism gives us space to see farther\|Minimalism gives us space to see farther]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Digital Minimalism - Cal Newport\|../../4x - Reading/41.01 - Reading - Book Notes/Digital Minimalism - Cal Newport]]
+- [[3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Shiroh\|../../3x - Spiritual/31.01 - Spiritual - Gems/We will all be minimalist in the new system - Shiroh]]
