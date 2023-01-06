@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-you-have-nothing-to-say-say-nothing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-you-have-nothing-to-say-say-nothing/"}
 ---
 
 
@@ -13,7 +13,7 @@
 - It takes a lot of effort to understand even a small part of the world.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli|The Art of Thinking Clearly by Rolf Dobelli]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 
 ### Quotes
 - “You would not believe how difficult it is to be simple and clear. People are afraid that they may be seen as a simpleton. In reality, just the opposite is true.
@@ -21,6 +21,6 @@
 - " Simplicity is the zenith of a long, arduous journey, not the starting point."
 
 ### Related
-- [[4x - Reading/41.01 - Reading - Book Notes/Simplexity Why simple things become complex and how complex things can be made simple|Simplexity Why simple things become complex and how complex things can be made simple]]
-- [[1x - References/11.02 - References - Quotes/First principles and simple actions - Winston Churchill|First principles and simple actions - Winston Churchill]]
-- [[4x - Reading/41.01 - Reading - Book Notes/Resist Simplicity - Stephen Carter|Resist Simplicity - Stephen Carter]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Simplexity Why simple things become complex and how complex things can be made simple\|Simplexity Why simple things become complex and how complex things can be made simple]]
+- [[1x - References/11.02 - References - Quotes/First principles and simple actions - Winston Churchill\|First principles and simple actions - Winston Churchill]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Resist Simplicity - Stephen Carter\|Resist Simplicity - Stephen Carter]]
