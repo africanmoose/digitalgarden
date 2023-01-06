@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/pareto-principle-in-learning-new-skills/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/pareto-principle-in-learning-new-skills/"}
 ---
 
 ---
@@ -19,6 +19,6 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear|../11.02 - References - Quotes/Keep learning - James Clear]]
-- [[1x - References/11.03 - References - Ideas/Growth Mindset|Growth Mindset]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|How to learn a skill]]
+- [[1x - References/11.02 - References - Quotes/Keep learning - James Clear\|../11.02 - References - Quotes/Keep learning - James Clear]]
+- [[1x - References/11.03 - References - Ideas/Growth Mindset\|Growth Mindset]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|How to learn a skill]]
