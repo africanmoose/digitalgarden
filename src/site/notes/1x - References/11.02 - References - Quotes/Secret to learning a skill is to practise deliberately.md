@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/secret-to-learning-a-skill-is-to-practise-deliberately/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/secret-to-learning-a-skill-is-to-practise-deliberately/"}
 ---
 
 ---
@@ -21,8 +21,8 @@
 -
 
 ### Interesting Related
-- [[1x - References/11.03 - References - Ideas/You can never understand everything|../11.03 - References - Ideas/You can never understand everything]]
-- [[1x - References/11.03 - References - Ideas/How to learn a skill|../11.03 - References - Ideas/How to learn a skill]]
-- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills|../11.03 - References - Ideas/Pareto principle in learning new skills]]
-- [[1x - References/11.02 - References - Quotes/Inspiration vs Work - Pablo Picasso|Inspiration vs Work - Pablo Picasso]]
-- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso|How to learn - Pablo Picasso]]
+- [[1x - References/11.03 - References - Ideas/You can never understand everything\|../11.03 - References - Ideas/You can never understand everything]]
+- [[1x - References/11.03 - References - Ideas/How to learn a skill\|../11.03 - References - Ideas/How to learn a skill]]
+- [[1x - References/11.03 - References - Ideas/Pareto principle in learning new skills\|../11.03 - References - Ideas/Pareto principle in learning new skills]]
+- [[1x - References/11.02 - References - Quotes/Inspiration vs Work - Pablo Picasso\|Inspiration vs Work - Pablo Picasso]]
+- [[1x - References/11.02 - References - Quotes/How to learn - Pablo Picasso\|How to learn - Pablo Picasso]]
