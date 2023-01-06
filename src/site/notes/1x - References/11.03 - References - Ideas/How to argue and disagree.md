@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/how-to-argue-and-disagree/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/how-to-argue-and-disagree/"}
 ---
 
 
@@ -15,9 +15,9 @@
 
 ### References
 - fs.blog
-- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
+- [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest\|../../4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest]]
 
 ### Related
-- [[1x - References/11.03 - References - Ideas/Seek dissenting opinions|Seek dissenting opinions]]
-- [[1x - References/11.03 - References - Ideas/Look for the source|Look for the source]]
-- [[1x - References/11.03 - References - Ideas/Identify good sources for information|Identify good sources for information]]
+- [[1x - References/11.03 - References - Ideas/Seek dissenting opinions\|Seek dissenting opinions]]
+- [[1x - References/11.03 - References - Ideas/Look for the source\|Look for the source]]
+- [[1x - References/11.03 - References - Ideas/Identify good sources for information\|Identify good sources for information]]
