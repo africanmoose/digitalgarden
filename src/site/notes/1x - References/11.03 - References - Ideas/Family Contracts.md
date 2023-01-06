@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/family-contracts/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":false,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/family-contracts/"}
 ---
 
 
@@ -14,5 +14,5 @@
 - Art of Manliness podcast - Neil Pasricha: simple rules for happiness
 
 ### Interesting Related
-[[1x - References/11.03 - References - Ideas/Minimalism|Minimalism]]
-[[1x - References/11.03 - References - Ideas/Productivity Principles|Productivity Principles]]
+[[1x - References/11.03 - References - Ideas/Minimalism\|Minimalism]]
+[[1x - References/11.03 - References - Ideas/Productivity Principles\|Productivity Principles]]
