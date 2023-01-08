@@ -31,7 +31,6 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[1x - References/11.03 - References - Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
-- [[4x - Reading/42.04 - Reading Lists - Currently Reading\|Books I am currently reading]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese wisdom for a perfectly imperfect life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life]]
@@ -41,8 +40,12 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ## Work in Progress
-- Processing How powerpoint makes you stupid
-- Processing Hello Habits
+- Processing [[0x - System/01.02 - Inbox/How Powerpoint makes you stupid\|How Powerpoint makes you stupid]]
+- Processing _Hello Habits_
+- Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
+- Reading _Oil - A beginners guide - Vacliv Smil_
+- Reading  _Beginners: The Joy and Transformative Power of Lifelong Learning  - Tom Vanderbilt_
+- Reading _Think for Yourself: Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani_
 
 ## Interesting Ideas
 - [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence\|The happiness of excellence]]
