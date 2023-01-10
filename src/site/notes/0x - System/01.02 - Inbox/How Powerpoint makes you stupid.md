@@ -31,7 +31,7 @@
 - Microsoft may have been influenced by [[1x - References/11.03 - References - Ideas/Conways law\|Conways law]] when they designed Powerpoint
 - Powerpoint slides requires omissoin of connective terms which normally would be used in a sentence. This may leave the meaning open to interpretation.
 - A presentation may have sentences without subjects, no connectors. Only the speaker can make it clearer, but sometimes the speaker merely repeats the statements in teh presentaion.
-- 
+- I dont quite understand this one 100%, but it seems interesting enough to pursue at some point: [[1x - References/11.03 - References - Ideas/Relevance theory\|Relevance theory]]
 
 ## References
 - 
