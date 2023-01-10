@@ -13,7 +13,7 @@
 - results: productivity adn efficiency are a byproduct
 
 ### References
-- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - [[4x - Reading/41.01 - Reading - Book Notes/Flow - Mikhail Csikszentmihalyi\|Flow - Mikhail Csikszentmihalyi]]
 
 ### Quotes
