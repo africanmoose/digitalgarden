@@ -14,7 +14,7 @@
 - Thoughtful prioritization is better than up font planning
 
 ### References
-- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
 - [[4x - Reading/41.02 - Reading - Book reviews/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency\|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]
