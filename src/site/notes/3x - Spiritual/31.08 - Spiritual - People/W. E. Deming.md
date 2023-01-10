@@ -19,7 +19,7 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
-- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Kanban\|Kanban]]
