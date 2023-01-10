@@ -13,7 +13,7 @@
 - The Japanese word _kaizen_ means 'change for better', with the inherent meaning of either 'continuous' or 'philosophy' in Japanese dictionaries
 - 
 ### References
-- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - [wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 
 ### Related
