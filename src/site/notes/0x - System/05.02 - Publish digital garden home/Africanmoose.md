@@ -37,7 +37,7 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[4x - Reading/41.02 - Reading - Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi -The Japanese Art of Impermanence]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
-- [[0x - System/01.02 - Inbox/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ## Work in Progress
 - Processing [[0x - System/01.02 - Inbox/How Powerpoint makes you stupid\|How Powerpoint makes you stupid]]
