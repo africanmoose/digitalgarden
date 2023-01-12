@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/relevance-theory/","dgShowBacklinks":false}
+---
+
+
+### Summary
+- every utterance conveys the information that it is relevant enough for it to be worth the addressee's effort to process it", that is, if I say something to you, you can safely assume that I believe that the conveyed information is worthwhile your effort to listen to and comprehend it; and also that it is "the most relevant one compatible with the communicator's abilities and preferences", that is, I tried to make the utterance as easy to understand as possible, given its information content and my communicative skills.
+
+### Details
+- If you have to think hard to understand something, it will seem less relevant
+- But on teh other hand, the less effort required, the more relevant it will be
+
+### References
+- [[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
+- [wikipedia](https://en.wikipedia.org/wiki/Relevance_theory)
+
+### Related
+- [[1x - References/11.03 - References - Ideas/Effort justification\|Effort justification]]
+- [[1x - References/11.03 - References - Ideas/Everything is hard - what is worth the effort\|Everything is hard - what is worth the effort]]
