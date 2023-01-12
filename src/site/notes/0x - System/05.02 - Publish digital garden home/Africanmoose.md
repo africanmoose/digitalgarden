@@ -38,9 +38,9 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[4x - Reading/41.02 - Reading - Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi -The Japanese Art of Impermanence]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+- [[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/How Powerpoint makes you stupid\|How Powerpoint makes you stupid]]
 - Processing _Hello Habits_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
