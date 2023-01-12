@@ -11,7 +11,7 @@
 - Organizations often produce web sites with a content and structure which mirrors the internal concerns of the organization rather than the needs of the users of the site.
 
 ### References
-- [[0x - System/01.02 - Inbox/How Powerpoint makes you stupid\|How Powerpoint makes you stupid]]
+- [[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
 - [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law)
 
 ### Related
