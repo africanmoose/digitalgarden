@@ -17,5 +17,5 @@
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/Try new paths\|Try new paths]]
-- [[4x - Reading/41.02 - Reading - Book reviews/Somthieng torn and new - Ngugi wa thiongo\|Somthieng torn and new - Ngugi wa thiongo]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Something torn and new - Ngugi wa thiongo\|Something torn and new - Ngugi wa thiongo]]
 - [[1x - References/11.03 - References - Ideas/Look at things through new eyes to recognize beauty\|Look at things through new eyes to recognize beauty]]
