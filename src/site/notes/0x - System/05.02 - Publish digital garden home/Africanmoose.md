@@ -41,7 +41,7 @@ Chyulu hills campsite - What an incredibly scenic campsite! Wild camping but abs
 - [[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
 
 ## Work in Progress
-- Processing _Hello Habits_
+- Processing [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
 - Reading  _Beginners: The Joy and Transformative Power of Lifelong Learning  - Tom Vanderbilt_
