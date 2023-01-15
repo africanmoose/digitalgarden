@@ -14,7 +14,10 @@
 
 ### Details
 - [[1x - References/11.03 - References - Ideas/Hyperbolic discounting - minimizing future rewards and delayed gratification\|Hyperbolic discounting - minimizing future rewards and delayed gratification]]
-- [[1x - References/11.03 - References - Ideas/Hyperbolic Discounting\|Hyperbolic Discounting]]
+- Follow the example of the ant! [[1x - References/11.03 - References - Ideas/Go to the ant - hard work without motivation\|Go to the ant - hard work without motivation]]
+- Artists and authors often have a daily routine of taking a walk (see book to read: Mason Currey's Daily rituals)
+- [[1x - References/11.03 - References - Ideas/Exercise beneficial to our brain\|Exercise beneficial to our brain]] - I would like to find out a bit more about this idea...
+- 
 
 ### References
 - 
@@ -25,6 +28,8 @@
 - [[1x - References/11.02 - References - Quotes/Habit is as second nature - Cicero\|Habit is as second nature - Cicero]]
 - [[1x - References/11.02 - References - Quotes/Excellence is not an act but a habit - Will Durant\|Excellence is not an act but a habit - Will Durant]]
 - [[1x - References/11.02 - References - Quotes/Miserable human being in whom nothing is habitual but indecision - William James\|Miserable human being in whom nothing is habitual but indecision - William James]]
+- [[1x - References/11.02 - References - Quotes/Do ordinary things to do something special\|Do ordinary things to do something special]]
+- 
 
 ### Related
 
