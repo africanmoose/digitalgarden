@@ -17,7 +17,8 @@
 - Follow the example of the ant! [[1x - References/11.03 - References - Ideas/Go to the ant - hard work without motivation\|Go to the ant - hard work without motivation]]
 - Artists and authors often have a daily routine of taking a walk (see book to read: Mason Currey's Daily rituals)
 - [[1x - References/11.03 - References - Ideas/Exercise beneficial to our brain\|Exercise beneficial to our brain]] - I would like to find out a bit more about this idea...
-- 
+- [[1x - References/11.03 - References - Ideas/All things that give excessive rewards are addictive\|All things that give excessive rewards are addictive]], and these in particular easily become habits
+- How [[1x - References/11.03 - References - Ideas/Record everything\|Record everything]] helps to develop habits
 
 ### References
 - 
