@@ -20,3 +20,11 @@ Kyohei sakaguchi - Japanese architect and artist
 - [[3x - Spiritual/31.02 - Spiritual - Illustrations/Faith like a wood fire that needs to be continually fed\|Faith like a wood fire that needs to be continually fed]]
 - [[3x - Spiritual/32.16 - Spiritual - CD spiritual point ideas/Keep learning about Jehovah\|Keep learning about Jehovah]]
 - [[1x - References/11.02 - References - Quotes/Keep learning - James Clear\|Keep learning - James Clear]]
+
+#### RSS Data
+<div class='date'>
+Wed, 18 Jan 2023 12:17:32 GMT
+</div>
+<div class='description'>
+It isn't talent. It's continuingw
+</div>
