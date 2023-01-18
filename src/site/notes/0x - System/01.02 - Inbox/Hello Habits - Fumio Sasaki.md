@@ -21,9 +21,8 @@
 - How [[1x - References/11.03 - References - Ideas/Record everything\|Record everything]] helps to develop habits
 - [[1x - References/11.03 - References - Ideas/Motivation starts when you start moving\|Motivation starts when you start moving]]
 - [[1x - References/11.03 - References - Ideas/Make your habits ridiculously small\|Make your habits ridiculously small]]
-
-### References
-- 
+- We all fall to [[1x - References/11.03 - References - Ideas/The superman illusion\|The superman illusion]]
+- [[1x - References/11.03 - References - Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
 
 ### Quotes
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
@@ -33,6 +32,12 @@
 - [[1x - References/11.02 - References - Quotes/Miserable human being in whom nothing is habitual but indecision - William James\|Miserable human being in whom nothing is habitual but indecision - William James]]
 - [[1x - References/11.02 - References - Quotes/Do ordinary things to do something special\|Do ordinary things to do something special]]
 - [[1x - References/11.02 - References - Quotes/The problem isnt that you dont feel motivated - Oliver Burkeman\|The problem isnt that you dont feel motivated - Oliver Burkeman]]
+- [[1x - References/11.02 - References - Quotes/A small daily task will beat a spasmodic Hercules - Anthony Trollope\|A small daily task will beat a spasmodic Hercules - Anthony Trollope]]
 
-### Related
-
+#### RSS Data
+<div class='date'>
+Wed, 18 Jan 2023 12:17:32 GMT
+</div>
+<div class='description'>
+Work in progress:  In many ways, habits are the secret to other great things like achieving goals, hard work, creativity, good manners and on and on.
+</div>
