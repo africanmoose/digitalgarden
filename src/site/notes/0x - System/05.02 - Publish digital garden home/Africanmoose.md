@@ -9,12 +9,12 @@
 Chyulu hills campsite: There had been a fire there recently and it spread everywhere. Somehow, it did not detract from the beauty.
 
 ## Interesting Quotes
-- [[1x - References/11.02 - References - Quotes/Only have stuff that is useful or beautiful - William Morris\|Only have stuff that is useful or beautiful - William Morris]]
 - [[1x - References/11.07 - References - Poetry/Yes im truly a dunce - Ryokan Taigu\|Yes I'm truly a Dunce - Ryokan Taigu]]
 - [[1x - References/11.02 - References - Quotes/If fifty million people say something foolish it is still foolish - Somerset Maugham\|If fifty million people say something foolish it is still foolish - Somerset Maugham]]
 - [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives\|Sit round candle light and talk about their inner lives]]
 - [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff\|Deconstruct cool stuff]]
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
+- [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
 
 ## Interesting Persons
 - [[1x - References/11.05 - References - Persons/Claude Shannon\|Claude Shannon]]
@@ -42,10 +42,11 @@ Chyulu hills campsite: There had been a fire there recently and it spread everyw
 
 ## Work in Progress
 - Processing [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- Processing  _Beginners: The Joy and Transformative Power of Lifelong Learning  - Tom Vanderbilt_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
-- Reading  _Beginners: The Joy and Transformative Power of Lifelong Learning  - Tom Vanderbilt_
 - Reading _Think for Yourself: Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani_
+- Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 
 ## Interesting Ideas
 - [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence\|The happiness of excellence]]
@@ -53,6 +54,7 @@ Chyulu hills campsite: There had been a fire there recently and it spread everyw
 - [[1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
 - [[1x - References/11.03 - References - Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
 - [[1x - References/11.03 - References - Ideas/Illusion of control\|Illusion of control]]
+- [[1x - References/11.03 - References - Ideas/Make your habits ridiculously small\|Make your habits ridiculously small]]
 
 ## Africanmoose Stuff
 [Africanmoose](https://africanmoose.blogspot.com)
