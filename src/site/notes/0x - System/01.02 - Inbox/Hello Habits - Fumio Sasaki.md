@@ -19,6 +19,8 @@
 - [[1x - References/11.03 - References - Ideas/Exercise beneficial to our brain\|Exercise beneficial to our brain]] - I would like to find out a bit more about this idea...
 - [[1x - References/11.03 - References - Ideas/All things that give excessive rewards are addictive\|All things that give excessive rewards are addictive]], and these in particular easily become habits
 - How [[1x - References/11.03 - References - Ideas/Record everything\|Record everything]] helps to develop habits
+- [[1x - References/11.03 - References - Ideas/Motivation starts when you start moving\|Motivation starts when you start moving]]
+- [[1x - References/11.03 - References - Ideas/Make your habits ridiculously small\|Make your habits ridiculously small]]
 
 ### References
 - 
@@ -30,7 +32,7 @@
 - [[1x - References/11.02 - References - Quotes/Excellence is not an act but a habit - Will Durant\|Excellence is not an act but a habit - Will Durant]]
 - [[1x - References/11.02 - References - Quotes/Miserable human being in whom nothing is habitual but indecision - William James\|Miserable human being in whom nothing is habitual but indecision - William James]]
 - [[1x - References/11.02 - References - Quotes/Do ordinary things to do something special\|Do ordinary things to do something special]]
-- 
+- [[1x - References/11.02 - References - Quotes/The problem isnt that you dont feel motivated - Oliver Burkeman\|The problem isnt that you dont feel motivated - Oliver Burkeman]]
 
 ### Related
 
