@@ -22,6 +22,7 @@ Chyulu hills campsite: There had been a fire there recently and it spread everyw
 - [[1x - References/11.05 - References - Persons/Ryokan Taigu\|Ryokan Taigu]]
 - [[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
 - [[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
+- [[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
