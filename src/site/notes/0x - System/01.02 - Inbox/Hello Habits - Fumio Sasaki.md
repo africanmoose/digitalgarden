@@ -25,7 +25,7 @@
 - [[1x - References/11.03 - References - Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
 - Meet [[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]] - the man who wrote daily for two and a half hours
 - [[1x - References/11.03 - References - Ideas/Naptime makes you smarter\|Naptime makes you smarter]]
-- 
+- [[1x - References/11.03 - References - Ideas/The Sechenov Effect\|The Sechenov Effect]] helps us rest by going into nature
 
 ### Quotes
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
