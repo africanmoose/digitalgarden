@@ -4,17 +4,15 @@
 
 
 ### Summary
-- Vigorous activity is better for caling your feelings that
+- Vigorous activity is better for caling your feelings than just resting.
 
 ### Details
-- 
+- Sechenov was a Russian scientist who studied neurophysiology
+- He showed that being tired doesnt change our mood but being proactive with something we enjoy like going out into nature can truly change our mood.
 
 ### References
-- 
-
-### Quotes
-- The Sechenov effect dictates that you can better calm your feelings and better your mental activity by engaging in vigorous activity, rather than simply resting and relaxing.
-When you’re tired, you tend to want to lie down on your bed and roll around, but merely lying down won’t change your mood, and you might hate yourself by evening. Not expending energy is not the equivalent of resting. You can rest in the true sense by being proactive in and engaging in an activity you enjoy, like going out and getting in touch with nature.
+- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Related
-- 
+- [[1x - References/11.03 - References - Ideas/Forest bathing therapy\|Forest bathing therapy]]
+- [[1x - References/11.03 - References - Ideas/Exercise beneficial to our brain\|Exercise beneficial to our brain]]
