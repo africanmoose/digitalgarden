@@ -24,6 +24,7 @@
 - We all fall to [[1x - References/11.03 - References - Ideas/The superman illusion\|The superman illusion]]
 - [[1x - References/11.03 - References - Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
 - Meet [[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]] - the man who wrote daily for two and a half hours
+- [[1x - References/11.03 - References - Ideas/Naptime makes you smarter\|Naptime makes you smarter]]
 - 
 
 ### Quotes
