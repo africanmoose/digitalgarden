@@ -14,7 +14,7 @@
 - recording even trivial things can help us bring back memories such as time you slept, etc.
 
 ### References
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - The Magical Power of Diaries by Saburo Omote.
 
 ### Quotes
