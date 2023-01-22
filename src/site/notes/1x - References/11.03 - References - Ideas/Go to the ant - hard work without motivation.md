@@ -20,7 +20,7 @@ Go to the ant, you lazy one; Observe its ways and become wise.
 
 
 ### References
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Quotes
 - "I don’t think ants are supposed to have a cognitive awareness, either, but they dig holes, carry sand, and always work hard. Ants don’t need business books. They can work without relying on things like motivation or enthusiasm."
