@@ -11,7 +11,7 @@
 - Once you are in position you will likely do more that that
 
 ### References
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - Stephen Guise, author of Mini Habits
 
 ### Related
