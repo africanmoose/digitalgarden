@@ -10,7 +10,7 @@
 - Better to start even if you dont feel like it. Once you start, you will feel motivated to continue.
 
 ### References
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Quotes
 - "Neuroscientist Yuji Ikegaya’s words perfectly express why this is a mistake: “You won’t feel motivated unless you start acting. You feel motivated when the nucleus accumbens in the brain functions, but it doesn’t function unless you start doing something.”
