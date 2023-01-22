@@ -11,7 +11,7 @@ Kyohei sakaguchi - Japanese architect and artist
 
 ## Reference
 - [wikipedia](https://en.wikipedia.org/wiki/Kyohei_Sakaguchi)
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
