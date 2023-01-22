@@ -10,7 +10,7 @@
 novelist Anthony Trollope
 
 ## Reference
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[1x - References/11.02 - References - Quotes/Habit Change - Leo Babauta\|Habit Change - Leo Babauta]]
