@@ -10,7 +10,7 @@ We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 Will Durant
 
 ## Reference
-- [[0x - System/01.02 - Inbox/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[1x - References/11.02 - References - Quotes/Habit needs all its parts\|Habit needs all its parts]]
