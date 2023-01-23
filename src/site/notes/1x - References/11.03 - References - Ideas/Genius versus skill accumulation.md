@@ -11,7 +11,7 @@
 - We often shoot ourselves in the foot by assuming a talent we see in others is due to 'talent' and so we dont even bother to try learning it.
 - Daniel Chambliss studied swimmers for many years. His findings:
 	- Best performances are the result of accumulating countless small skills
-	- The athletes dont have anything special or superhuman
+	- The athletes dont have anything special or superhuman 'talent'
 	- They achieve results by continuous effort
 
 ### References
