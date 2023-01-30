@@ -34,5 +34,15 @@
 
 [[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
 
+[[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
+
+[[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]]
+
+[[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
+
+[[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+
+[[1x - References/11.03 - References - Ideas/Make your habits ridiculously small\|Make your habits ridiculously small]]
+
 ## RSS Data
 <div class='date'>Mon, 1 Nov 2022 12:17:32 GMT</div>
