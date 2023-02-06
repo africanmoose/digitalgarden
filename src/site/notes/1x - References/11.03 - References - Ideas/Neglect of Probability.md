@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/neglect-of-probability/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/neglect-of-probability/","title":"Neglect of Probability"}
 ---
 
 
