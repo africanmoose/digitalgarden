@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/validate-others-feelings/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/validate-others-feelings/","title":"Validate others feelings"}
 ---
 
 
