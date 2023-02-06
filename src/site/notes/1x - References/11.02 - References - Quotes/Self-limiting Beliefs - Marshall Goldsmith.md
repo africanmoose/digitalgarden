@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/self-limiting-beliefs-marshall-goldsmith/"}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/self-limiting-beliefs-marshall-goldsmith/","title":"Self-limiting Beliefs - Marshall Goldsmith"}
 ---
 
 
