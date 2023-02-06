@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-attention/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-attention/","title":"Illusion of attention"}
 ---
 
 
