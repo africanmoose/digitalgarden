@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/miserable-human-being-in-whom-nothing-is-habitual-but-indecision-william-james/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/miserable-human-being-in-whom-nothing-is-habitual-but-indecision-william-james/","title":"structure note","dgShowBacklinks":false}
 ---
 
 
