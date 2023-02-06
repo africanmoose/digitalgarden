@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-fallacy-of-fairness/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-fallacy-of-fairness/","title":"Cognitive bias -"}
 ---
 
 
