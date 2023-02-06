@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-only-failure-is-to-avoid-creating-in-the-first-place/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-only-failure-is-to-avoid-creating-in-the-first-place/","title":"The only failure is to avoid creating in the first place"}
 ---
 
 
