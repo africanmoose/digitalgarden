@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/31-08-spiritual-people/w-e-deming/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/3x-spiritual/31-08-spiritual-people/w-e-deming/","title":"W. E. Deming","dgShowBacklinks":false}
 ---
 
 
