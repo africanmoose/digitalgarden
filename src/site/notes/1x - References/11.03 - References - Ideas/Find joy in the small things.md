@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/find-joy-in-the-small-things/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/find-joy-in-the-small-things/","title":"permanent note"}
 ---
 
 
