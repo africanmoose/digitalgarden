@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/deconstruct-cool-stuff/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/deconstruct-cool-stuff/","title":"Deconstruct cool stuff"}
 ---
 
 
