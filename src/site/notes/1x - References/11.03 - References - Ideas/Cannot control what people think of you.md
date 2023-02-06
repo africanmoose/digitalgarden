@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cannot-control-what-people-think-of-you/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cannot-control-what-people-think-of-you/","title":"permanent note"}
 ---
 
 
