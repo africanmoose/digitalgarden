@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/sunk-cost-fallacy/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/sunk-cost-fallacy/","title":"Sunk cost fallacy"}
 ---
 
 
