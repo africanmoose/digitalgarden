@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zeigarnik-effect/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zeigarnik-effect/","title":"Zeigarnik Effect","dgShowBacklinks":false}
 ---
 
 
