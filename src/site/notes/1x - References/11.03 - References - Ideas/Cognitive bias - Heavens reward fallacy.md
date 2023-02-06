@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-heavens-reward-fallacy/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-heavens-reward-fallacy/","title":"Cognitive bias - Heavens reward fallacy"}
 ---
 
 
