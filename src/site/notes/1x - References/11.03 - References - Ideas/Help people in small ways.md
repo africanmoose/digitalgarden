@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/help-people-in-small-ways/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/help-people-in-small-ways/","title":"Help people in small ways"}
 ---
 
 
