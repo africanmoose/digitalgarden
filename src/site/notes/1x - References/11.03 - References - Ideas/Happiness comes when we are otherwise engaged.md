@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/happiness-comes-when-we-are-otherwise-engaged/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/happiness-comes-when-we-are-otherwise-engaged/","title":"permanent note","dgShowBacklinks":false}
 ---
 
 
