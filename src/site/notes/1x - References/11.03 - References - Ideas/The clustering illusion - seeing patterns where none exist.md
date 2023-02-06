@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-clustering-illusion-seeing-patterns-where-none-exist/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-clustering-illusion-seeing-patterns-where-none-exist/","title":"The clustering illusion - seeing patterns where none exist"}
 ---
 
 
