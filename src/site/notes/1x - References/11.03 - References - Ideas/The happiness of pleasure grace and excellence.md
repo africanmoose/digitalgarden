@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-happiness-of-pleasure-grace-and-excellence/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-happiness-of-pleasure-grace-and-excellence/","title":"Untitled"}
 ---
 
 
