@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/relevance-theory/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/relevance-theory/","title":"Relevance theory","dgShowBacklinks":false}
 ---
 
 
