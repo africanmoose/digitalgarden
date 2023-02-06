@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/how-powerpoint-makes-you-stupid-franck-frommer/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/how-powerpoint-makes-you-stupid-franck-frommer/","title":"How Powerpoint makes you stupid","dgShowBacklinks":false}
 ---
 
 
