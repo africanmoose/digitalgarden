@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/31-01-spiritual-gems/wise-will-know-the-right-time-and-procedure/"}
+{"dg-publish":true,"permalink":"/3x-spiritual/31-01-spiritual-gems/wise-will-know-the-right-time-and-procedure/","title":"Wise will know the right time and procedure"}
 ---
 
 
