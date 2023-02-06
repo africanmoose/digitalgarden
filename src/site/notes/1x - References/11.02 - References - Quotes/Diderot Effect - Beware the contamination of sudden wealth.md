@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/diderot-effect-beware-the-contamination-of-sudden-wealth/"}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/diderot-effect-beware-the-contamination-of-sudden-wealth/","title":"Diderot Effect"}
 ---
 
 
