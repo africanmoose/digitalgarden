@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/31-05-spiritual-notes-bethel-lectures/some-things-never-change-warren-schufeld/"}
+{"dg-publish":true,"permalink":"/3x-spiritual/31-05-spiritual-notes-bethel-lectures/some-things-never-change-warren-schufeld/","title":"Some things never change - Warren Schufeld"}
 ---
 
 date: '2018-09-04T00:00:28.000Z'
