@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/all-things-that-give-excessive-rewards-are-addictive/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/all-things-that-give-excessive-rewards-are-addictive/","title":"All things that give excessive rewards are addictive","dgShowBacklinks":false}
 ---
 
 
