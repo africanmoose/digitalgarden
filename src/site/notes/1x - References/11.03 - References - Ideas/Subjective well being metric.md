@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/subjective-well-being-metric/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/subjective-well-being-metric/","title":"permanent note","dgShowBacklinks":false}
 ---
 
 
