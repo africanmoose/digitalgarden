@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/the-minimalist-home-a-room-by-room-guide-to-a-decluttered-refocused-life-joshua-becker/"}
+{"dg-publish":true,"permalink":"/4x-reading/41-02-reading-book-reviews/the-minimalist-home-a-room-by-room-guide-to-a-decluttered-refocused-life-joshua-becker/","title":"The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker"}
 ---
 
 
