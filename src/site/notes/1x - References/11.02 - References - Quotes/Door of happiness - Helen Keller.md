@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/door-of-happiness-helen-keller/"}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/door-of-happiness-helen-keller/","title":"Door of happiness - Helen Keller"}
 ---
 
 
