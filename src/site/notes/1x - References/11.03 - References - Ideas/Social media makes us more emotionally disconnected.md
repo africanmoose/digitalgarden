@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/social-media-makes-us-more-emotionally-disconnected/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/social-media-makes-us-more-emotionally-disconnected/","title":"Social media makes us more emotionally disconnected"}
 ---
 
 
