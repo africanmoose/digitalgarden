@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fundamental-attribution-error/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fundamental-attribution-error/","title":"Fundamental Attribution Error"}
 ---
 
 
@@ -17,4 +17,4 @@
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Cognitive Tools\|Cognitive Tools]]
-- [[1x - References/11.03 - References - Ideas/Fundamental Attribution Error\|]]
+- [[]]
