@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/helen-keller/"}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/helen-keller/","title":"Helen Keller"}
 ---
 
 
