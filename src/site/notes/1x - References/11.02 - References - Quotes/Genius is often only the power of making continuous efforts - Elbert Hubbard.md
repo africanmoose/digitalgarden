@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/genius-is-often-only-the-power-of-making-continuous-efforts-elbert-hubbard/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/genius-is-often-only-the-power-of-making-continuous-efforts-elbert-hubbard/","title":"Genius is often only the power of making continuous efforts - Elbert Hubbard","dgShowBacklinks":false}
 ---
 
 
