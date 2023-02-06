@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/genius-versus-skill-accumulation/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/genius-versus-skill-accumulation/","title":"permanent note","dgShowBacklinks":false}
 ---
 
 
