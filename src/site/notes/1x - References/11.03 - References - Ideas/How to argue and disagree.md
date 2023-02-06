@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/how-to-argue-and-disagree/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/how-to-argue-and-disagree/","title":"How to argue and disagree"}
 ---
 
 
