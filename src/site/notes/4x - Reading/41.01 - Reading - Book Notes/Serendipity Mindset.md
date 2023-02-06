@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-01-reading-book-notes/serendipity-mindset/"}
+{"dg-publish":true,"permalink":"/4x-reading/41-01-reading-book-notes/serendipity-mindset/","title":"Serendipity Mindset"}
 ---
 
 Serendipity Mindset
