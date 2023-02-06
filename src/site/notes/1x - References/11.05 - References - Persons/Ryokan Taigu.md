@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/ryokan-taigu/"}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/ryokan-taigu/","title":"permanent note"}
 ---
 
 
