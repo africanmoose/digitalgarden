@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-superman-illusion/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-superman-illusion/","title":"permanent note","dgShowBacklinks":false}
 ---
 
 
