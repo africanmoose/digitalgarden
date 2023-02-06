@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/immanuel-kant/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/immanuel-kant/","title":"Immanuel Kant","dgShowBacklinks":false}
 ---
 
 
