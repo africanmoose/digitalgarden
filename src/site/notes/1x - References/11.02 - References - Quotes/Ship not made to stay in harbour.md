@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ship-not-made-to-stay-in-harbour/"}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ship-not-made-to-stay-in-harbour/","title":"Ship not made to stay in harbour"}
 ---
 
 
