@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"training","permalink":"/training/"}
+{"dg-publish":true,"dg-permalink":"training","permalink":"/training/","title":"Notes on training"}
 ---
 
 
