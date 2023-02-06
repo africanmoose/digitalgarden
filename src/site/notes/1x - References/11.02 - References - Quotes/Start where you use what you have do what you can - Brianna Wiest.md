@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/start-where-you-use-what-you-have-do-what-you-can-brianna-wiest/"}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/start-where-you-use-what-you-have-do-what-you-can-brianna-wiest/","title":"structure note"}
 ---
 
 
