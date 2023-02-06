@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-control-fallacies/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-control-fallacies/","title":"permanent note"}
 ---
 
 
