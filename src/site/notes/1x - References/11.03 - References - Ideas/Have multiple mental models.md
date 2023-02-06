@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/have-multiple-mental-models/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/have-multiple-mental-models/","title":"Have multiple mental models","dgShowBacklinks":false}
 ---
 
 
