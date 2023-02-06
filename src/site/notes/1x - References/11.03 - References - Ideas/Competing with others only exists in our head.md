@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/competing-with-others-only-exists-in-our-head/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/competing-with-others-only-exists-in-our-head/","title":"Untitled"}
 ---
 
 
