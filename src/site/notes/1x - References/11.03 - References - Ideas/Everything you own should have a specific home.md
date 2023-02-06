@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/everything-you-own-should-have-a-specific-home/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/everything-you-own-should-have-a-specific-home/","title":"Everything you own should have a specific home"}
 ---
 
 
