@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/hold-regular-retrospectives/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/hold-regular-retrospectives/","title":"Hold regular retrospectives","dgShowBacklinks":false}
 ---
 
 
