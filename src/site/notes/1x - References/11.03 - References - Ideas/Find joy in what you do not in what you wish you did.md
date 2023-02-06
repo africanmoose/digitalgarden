@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/find-joy-in-what-you-do-not-in-what-you-wish-you-did/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/find-joy-in-what-you-do-not-in-what-you-wish-you-did/","title":"Find joy in what you do not in what you wish you did"}
 ---
 
 
