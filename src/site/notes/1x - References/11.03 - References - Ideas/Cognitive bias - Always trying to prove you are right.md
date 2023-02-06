@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-always-trying-to-prove-you-are-right/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-always-trying-to-prove-you-are-right/","title":"Cognitive bias - Always trying to prove you are right"}
 ---
 
 
