@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/it-isnt-talent-its-continuing-kyohei-sakaguchi/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/it-isnt-talent-its-continuing-kyohei-sakaguchi/","title":"structure note","dgShowBacklinks":false}
 ---
 
 
