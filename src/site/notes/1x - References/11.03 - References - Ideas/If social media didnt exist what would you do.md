@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-social-media-didnt-exist-what-would-you-do/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-social-media-didnt-exist-what-would-you-do/","title":"If social media didnt exist what would you do"}
 ---
 
 
