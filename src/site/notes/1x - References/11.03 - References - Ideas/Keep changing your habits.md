@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/keep-changing-your-habits/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/keep-changing-your-habits/","title":"Keep changing your habits","dgShowBacklinks":false}
 ---
 
 
