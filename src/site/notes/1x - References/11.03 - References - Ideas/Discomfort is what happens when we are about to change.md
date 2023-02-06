@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/discomfort-is-what-happens-when-we-are-about-to-change/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/discomfort-is-what-happens-when-we-are-about-to-change/","title":"Discomfort is what happens when we are about to change"}
 ---
 
 
