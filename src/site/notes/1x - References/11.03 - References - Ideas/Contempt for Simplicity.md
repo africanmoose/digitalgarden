@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/contempt-for-simplicity/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/contempt-for-simplicity/","title":"Contempt for Simplicity"}
 ---
 
 
