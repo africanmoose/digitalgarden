@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rss","permalink":"/rss/","dgShowBacklinks":false}
+{"dg-publish":true,"dg-permalink":"rss","permalink":"/rss/","title":"Changelog for RSS","dgShowBacklinks":false}
 ---
 
 
