@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/allow-the-reader-to-participate-in-the-art/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/allow-the-reader-to-participate-in-the-art/","title":"Allow the reader to participate in the art"}
 ---
 
 
