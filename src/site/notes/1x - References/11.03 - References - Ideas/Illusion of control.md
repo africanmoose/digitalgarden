@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-control/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-control/","title":"Illusion of control"}
 ---
 
 
