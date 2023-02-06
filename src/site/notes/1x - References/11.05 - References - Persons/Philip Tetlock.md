@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/philip-tetlock/"}
+{"dg-publish":true,"permalink":"/1x-references/11-05-references-persons/philip-tetlock/","title":"Philip Tetlock"}
 ---
 
 
