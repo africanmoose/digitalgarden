@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/appreciate-people-for-who-they-are-not-how-you-want-them-to-be/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/appreciate-people-for-who-they-are-not-how-you-want-them-to-be/","title":"Its not your job to fix other people"}
 ---
 
 
