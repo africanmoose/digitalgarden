@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/incentive-super-response-tendency/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/incentive-super-response-tendency/","title":"Incentive super response"}
 ---
 
 
