@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-forecast-illusion/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-forecast-illusion/","title":"The forecast illusion"}
 ---
 
 
