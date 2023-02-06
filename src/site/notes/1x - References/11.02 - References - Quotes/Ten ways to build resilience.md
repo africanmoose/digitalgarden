@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ten-ways-to-build-resilience/"}
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/ten-ways-to-build-resilience/","title":"Ten ways to build resilience"}
 ---
 
 
