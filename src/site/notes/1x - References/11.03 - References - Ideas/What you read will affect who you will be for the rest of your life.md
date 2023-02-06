@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/what-you-read-will-affect-who-you-will-be-for-the-rest-of-your-life/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/what-you-read-will-affect-who-you-will-be-for-the-rest-of-your-life/","title":"What you read will affect who you will be for the rest of your life"}
 ---
 
 
