@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/social-comparison-bias/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/social-comparison-bias/","title":"Social comparison bias"}
 ---
 
 
