@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/disregard-the-brand-new/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/disregard-the-brand-new/","title":"Disregard the brand new"}
 ---
 
 
