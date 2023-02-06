@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dont-read-the-news/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dont-read-the-news/","title":"Dont read the news","dgShowBacklinks":false}
 ---
 
 
