@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-01-reading-book-notes/hello-habits-fumio-sasaki/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-01-reading-book-notes/hello-habits-fumio-sasaki/","title":"Hello Habits - Fumio Sasaki","dgShowBacklinks":false}
 ---
 
 
