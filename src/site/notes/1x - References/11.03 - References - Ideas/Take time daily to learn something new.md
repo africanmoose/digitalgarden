@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/take-time-daily-to-learn-something-new/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/take-time-daily-to-learn-something-new/","title":"permanent note","dgShowBacklinks":false}
 ---
 
 
