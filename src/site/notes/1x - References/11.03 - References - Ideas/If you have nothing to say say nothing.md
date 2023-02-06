@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-you-have-nothing-to-say-say-nothing/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/if-you-have-nothing-to-say-say-nothing/","title":"If you have nothing to say say nothing"}
 ---
 
 
