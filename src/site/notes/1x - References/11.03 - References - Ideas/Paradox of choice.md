@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/paradox-of-choice/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/paradox-of-choice/","title":"Paradox of choice"}
 ---
 
 
