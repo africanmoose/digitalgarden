@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/peak-experiences/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/peak-experiences/","title":"Peak experiences","dgShowBacklinks":false}
 ---
 
 
