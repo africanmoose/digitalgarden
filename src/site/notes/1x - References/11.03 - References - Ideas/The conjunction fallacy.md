@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-conjunction-fallacy/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/the-conjunction-fallacy/","title":"The conjunction fallacy"}
 ---
 
 
