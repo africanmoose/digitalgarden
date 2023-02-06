@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/thinking-uses-energy/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/thinking-uses-energy/","title":"Thinking uses energy"}
 ---
 
 
