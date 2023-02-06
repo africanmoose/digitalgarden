@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/not-directly-accuse-someone-of-being-wrong/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/not-directly-accuse-someone-of-being-wrong/","title":"permanent note"}
 ---
 
 
