@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/affect-heuristic-decisions-by-emotion/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/affect-heuristic-decisions-by-emotion/","title":"permanent note"}
 ---
 
 
