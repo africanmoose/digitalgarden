@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/primacy-and-recency-effects/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/primacy-and-recency-effects/","title":"Primacy and Recency effects"}
 ---
 
 
