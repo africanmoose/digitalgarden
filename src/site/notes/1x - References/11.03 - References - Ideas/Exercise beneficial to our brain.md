@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/exercise-beneficial-to-our-brain/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/exercise-beneficial-to-our-brain/","title":"Exercise beneficial to our brain","dgShowBacklinks":false}
 ---
 
 
