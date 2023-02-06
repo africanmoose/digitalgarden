@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/34-06-bethel-service-school/0504-be-successful-in-coping-with-change-mark-sanderson/"}
+{"dg-publish":true,"permalink":"/3x-spiritual/34-06-bethel-service-school/0504-be-successful-in-coping-with-change-mark-sanderson/","title":"Bethel Service School"}
 ---
 
 
