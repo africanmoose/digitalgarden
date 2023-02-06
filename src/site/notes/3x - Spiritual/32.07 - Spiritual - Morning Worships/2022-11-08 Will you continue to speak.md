@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/32-07-spiritual-morning-worships/2022-11-08-will-you-continue-to-speak/"}
+{"dg-publish":true,"permalink":"/3x-spiritual/32-07-spiritual-morning-worships/2022-11-08-will-you-continue-to-speak/","title":"2022-11-08 Will you continue to speak"}
 ---
 
 
