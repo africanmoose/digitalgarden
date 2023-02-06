@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/falsification-of-history/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/falsification-of-history/","title":"Falsification of history"}
 ---
 
 
