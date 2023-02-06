@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fallacy-of-the-single-cause/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/fallacy-of-the-single-cause/","title":"Fallacy of the single cause","dgShowBacklinks":false}
 ---
 
 
