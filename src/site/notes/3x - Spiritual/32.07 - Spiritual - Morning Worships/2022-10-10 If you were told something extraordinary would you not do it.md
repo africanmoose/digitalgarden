@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3x-spiritual/32-07-spiritual-morning-worships/2022-10-10-if-you-were-told-something-extraordinary-would-you-not-do-it/"}
+{"dg-publish":true,"permalink":"/3x-spiritual/32-07-spiritual-morning-worships/2022-10-10-if-you-were-told-something-extraordinary-would-you-not-do-it/","title":"2022-10-10 If you were told something extraordinary would you not do it"}
 ---
 
 
