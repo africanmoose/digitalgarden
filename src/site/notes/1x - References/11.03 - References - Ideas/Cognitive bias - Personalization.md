@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-personalization/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-personalization/","title":"Cognitive bias - Personalization"}
 ---
 
 
