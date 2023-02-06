@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/hedonic-treadmill/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/hedonic-treadmill/","title":"Hedonic Treadmill"}
 ---
 
 
