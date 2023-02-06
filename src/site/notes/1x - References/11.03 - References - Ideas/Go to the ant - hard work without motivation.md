@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/go-to-the-ant-hard-work-without-motivation/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/go-to-the-ant-hard-work-without-motivation/","title":"Go to the ant - hard work without motivation","dgShowBacklinks":false}
 ---
 
 
