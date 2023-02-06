@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dont-argue-with-people-who-only-want-to-win/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dont-argue-with-people-who-only-want-to-win/","title":"Dont argue with people who only want to win"}
 ---
 
 
