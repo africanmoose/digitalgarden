@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/success-a-product-of-habit-more-than-skill/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/success-a-product-of-habit-more-than-skill/","title":"Success a product of habit more than skill"}
 ---
 
 
