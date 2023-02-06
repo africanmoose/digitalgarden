@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-skill/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/illusion-of-skill/","title":"permanent note","dgShowBacklinks":false}
 ---
 
 
