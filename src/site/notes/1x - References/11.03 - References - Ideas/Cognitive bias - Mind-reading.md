@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-mind-reading/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/cognitive-bias-mind-reading/","title":"Cognitive bias - Mind-reading"}
 ---
 
 
