@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/self-serving-bias/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/self-serving-bias/","title":"Self-serving bias"}
 ---
 
 
