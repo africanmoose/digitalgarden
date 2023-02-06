@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/always-train/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/always-train/","title":"Always Train"}
 ---
 
 
