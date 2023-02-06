@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dorothy-tries-new-adventures-in-oz/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/dorothy-tries-new-adventures-in-oz/","title":"Dorothy tries new adventures in Oz"}
 ---
 
 
