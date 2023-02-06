@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/rosenthal-effect/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/rosenthal-effect/","title":"Rosenthal Effect"}
 ---
 
 
