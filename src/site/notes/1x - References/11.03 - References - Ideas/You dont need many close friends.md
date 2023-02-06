@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/you-dont-need-many-close-friends/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/you-dont-need-many-close-friends/","title":"Untitled"}
 ---
 
 
