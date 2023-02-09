@@ -15,6 +15,8 @@
 ### Details
 - Just practising a lot doesnt automatically mean that you will improve: [[1x - References/11.03 - References - Ideas/The importance of Analysis to improve\|The importance of Analysis to improve]]
 - [[1x - References/11.03 - References - Ideas/Epistemically unique experiences\|Epistemically unique experiences]] can only be experienced in order to understand them
+- [[1x - References/11.03 - References - Ideas/Nobel laureates more likely to dabble in other interests\|Nobel laureates more likely to dabble in other interests]]
+- 
 
 ### References
 - 
