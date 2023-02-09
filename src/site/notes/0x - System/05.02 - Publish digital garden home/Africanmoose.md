@@ -43,7 +43,7 @@ Aberdares highlands in Kenya.
 - [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Work in Progress
-- Processing  [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning\|Beginners - The Joy and Transformative Power of Lifelong Learning]]
+- Processing  [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
 - Reading _Think for Yourself: Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani_
