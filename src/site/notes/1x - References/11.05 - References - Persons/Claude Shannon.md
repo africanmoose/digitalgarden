@@ -4,7 +4,7 @@
 
 
 ### Summary
-- American  mathematician, electican engineer and cryptographer
+- American  polymath: mathematician, electican engineer and cryptographer
 - Known as the father of information theory
 
 ### Details
@@ -15,13 +15,11 @@
 - 1940 worked on a thesis about switching circuits that became the basis of modern computers (and and or gates)
 - saw that the bit was the fundamental part of digital communication
 - it is always more efficient to change the data into bits before transmission
+- also interested in juggling and poetry
 
 ### References
 - https://en.wikipedia.org/wiki/Claude_Shannon
 - https://www.quantamagazine.org/how-claude-shannons-information-theory-invented-the-future-20201222/
-
-### Quotes
--
 
 ### Interesting Related
 - [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|../11.03 - References - Ideas/Zettelkasten Method]]
