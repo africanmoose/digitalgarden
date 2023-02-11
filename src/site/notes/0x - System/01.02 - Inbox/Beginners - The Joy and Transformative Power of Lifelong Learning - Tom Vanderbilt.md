@@ -16,13 +16,12 @@
 - Just practising a lot doesnt automatically mean that you will improve: [[1x - References/11.03 - References - Ideas/The importance of Analysis to improve\|The importance of Analysis to improve]]
 - [[1x - References/11.03 - References - Ideas/Epistemically unique experiences\|Epistemically unique experiences]] can only be experienced in order to understand them
 - [[1x - References/11.03 - References - Ideas/Nobel laureates more likely to dabble in other interests\|Nobel laureates more likely to dabble in other interests]]
-- 
-
-### References
-- 
+- [[1x - References/11.03 - References - Ideas/Fast pace of technology requires perpetual learning\|Fast pace of technology requires perpetual learning]]
 
 ### Quotes
 - [[1x - References/11.02 - References - Quotes/Man progresses in all things by making a fool of himself\|Man progresses in all things by making a fool of himself]]
+- [[1x - References/11.02 - References - Quotes/You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar\|You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar]]
+- [[1x - References/11.02 - References - Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 
 ### Related
 
