@@ -17,6 +17,10 @@
 - [[1x - References/11.03 - References - Ideas/Epistemically unique experiences\|Epistemically unique experiences]] can only be experienced in order to understand them
 - [[1x - References/11.03 - References - Ideas/Nobel laureates more likely to dabble in other interests\|Nobel laureates more likely to dabble in other interests]]
 - [[1x - References/11.03 - References - Ideas/Fast pace of technology requires perpetual learning\|Fast pace of technology requires perpetual learning]]
+- [[1x - References/11.02 - References - Quotes/Those whose work is their pleasure need a break - Winston Churchill\|Those whose work is their pleasure need a break - Winston Churchill]]
+- [[1x - References/11.03 - References - Ideas/Everyone is expected to maximise their potential\|Everyone is expected to maximise their potential]], especially with social media
+- [[1x - References/11.03 - References - Ideas/Learning with others is more effective\|Learning with others is more effective]]
+- 
 
 ### Quotes
 - [[1x - References/11.02 - References - Quotes/Man progresses in all things by making a fool of himself\|Man progresses in all things by making a fool of himself]]
