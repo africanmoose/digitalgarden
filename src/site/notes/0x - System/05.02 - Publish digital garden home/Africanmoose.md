@@ -15,6 +15,7 @@ Aberdares highlands in Kenya.
 - [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff\|Deconstruct cool stuff]]
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
+- [[1x - References/11.02 - References - Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 
 ## Interesting Persons
 - [[1x - References/11.05 - References - Persons/Claude Shannon\|Claude Shannon]]
