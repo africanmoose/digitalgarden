@@ -20,6 +20,10 @@
 - [[1x - References/11.02 - References - Quotes/Those whose work is their pleasure need a break - Winston Churchill\|Those whose work is their pleasure need a break - Winston Churchill]]
 - [[1x - References/11.03 - References - Ideas/Everyone is expected to maximise their potential\|Everyone is expected to maximise their potential]], especially with social media
 - [[1x - References/11.03 - References - Ideas/Learning with others is more effective\|Learning with others is more effective]]
+- Learn from how kids learn: [[1x - References/11.03 - References - Ideas/Infants are not discouraged by failure\|Infants are not discouraged by failure]]
+- [[1x - References/11.03 - References - Ideas/Learning skills takes time\|Learning skills takes time]]
+- [[1x - References/11.03 - References - Ideas/Variable practise helps learn better\|Variable practise helps learn better]]
+- [[1x - References/11.03 - References - Ideas/Love of music does not support theory of evolution\|Love of music does not support theory of evolution]]
 - 
 
 ### Quotes
