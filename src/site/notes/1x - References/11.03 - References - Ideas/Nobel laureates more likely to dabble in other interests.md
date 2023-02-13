@@ -11,7 +11,7 @@
 - Example of [[1x - References/11.05 - References - Persons/Claude Shannon\|Claude Shannon]] who was interested in juggling, poetry, designing wearable computers. He pursued projects that might have caused others embarrassment.
 
 ### References
-- [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Quotes
 - As David Epstein notes in Range, Nobel laureates, compared with other scientists, “are at least twenty-two times more likely to partake as an amateur actor, dancer, magician, or other type of performer.” To take one example, Claude Shannon, the brilliant MIT  polymath who helped invent the digital world in which we live today, plunged into all kinds of pursuits, from juggling to poetry to designing the first wearable computer. “Time and time again,” notes his biographer, “he pursued projects that might have caused others embarrassment, engaged questions that seemed trivial or minor, then managed to wring breakthroughs out of them.”
