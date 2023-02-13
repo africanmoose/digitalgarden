@@ -27,7 +27,8 @@
 - [[1x - References/11.03 - References - Ideas/The human voice is an amazing instrument\|The human voice is an amazing instrument]]
 - [[1x - References/11.03 - References - Ideas/Progress is rarely linear\|Progress is rarely linear]]
 - [[1x - References/11.03 - References - Ideas/Social facilitation - we learn better with company\|Social facilitation - we learn better with company]]
-- 
+- [[1x - References/11.03 - References - Ideas/Positive feedback works better than criticism\|Positive feedback works better than criticism]]
+- [[1x - References/11.03 - References - Ideas/Drawing a vital skill like reading\|Drawing a vital skill like reading]]
 
 ### Quotes
 - [[1x - References/11.02 - References - Quotes/Man progresses in all things by making a fool of himself\|Man progresses in all things by making a fool of himself]]
