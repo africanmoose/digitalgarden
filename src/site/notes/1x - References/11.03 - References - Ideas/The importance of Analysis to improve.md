@@ -10,7 +10,7 @@
 - Playing chess over and over again will not improve your skills that much. However, analysing lost games or grandmasters games systematically will lead to improvement
 
 ### References
-- [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Quotes
 "If you want to improve in chess,” wrote Ericsson, “you don’t do it by playing chess. You do it with solitary study of the grandmasters’ games.” 
