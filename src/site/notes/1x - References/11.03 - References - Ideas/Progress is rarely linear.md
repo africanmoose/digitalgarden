@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/progress-is-rarely-linear/","title":"Progress is rarely linear","dgShowBacklinks":false}
+---
+
+
+### Summary
+- When learning something, progress is rarely linear. We tend to grow fits and starts
+
+### Details
+- Stages or levels only give you a rough idea
+- Sometimes we revert to a previous bad behaviour before growing further
+- Children may go back to cwrawling after learning how to walk
+
+### References
+- [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+
+### Related
+- [[1x - References/11.03 - References - Ideas/Learning skills takes time\|Learning skills takes time]]
+- [[1x - References/11.03 - References - Ideas/4 Stages of learning\|4 Stages of learning]]
+- [[1x - References/11.02 - References - Quotes/If you're always right, you're not learning.\|If you're always right, you're not learning.]]
