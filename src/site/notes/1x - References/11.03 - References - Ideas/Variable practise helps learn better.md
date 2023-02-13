@@ -10,7 +10,7 @@
 - This is also how children learn naturally. When learning to walk, they do not just repeat like a soldiers drill, but take many random walks with different patterns in many surfaces and environments.
 
 ### References
-- [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Learning skills takes time\|Learning skills takes time]]
