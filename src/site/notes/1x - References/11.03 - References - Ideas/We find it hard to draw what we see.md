@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/we-find-it-hard-to-draw-what-we-see/","title":"We find it hard to draw what we see","dgShowBacklinks":false}
+---
+
+
+### Summary
+- We are strongly influenced by what is in our minds rather than actually trying to see
+
+### Details
+- In a 1930s study, people were shown a symbol (e..g 2 circles connected by a line). When asked to draw it from memory they drew it we... But when told it was eyeglasses or dumbells, they departed from the original symbols
+- We are strongly influenced by our mental image of an object.
+- Our idea of how something looks may be completley false
+
+### References
+- [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+
+### Related
+- [[1x - References/11.03 - References - Ideas/Drawing a vital skill like reading\|Drawing a vital skill like reading]]
