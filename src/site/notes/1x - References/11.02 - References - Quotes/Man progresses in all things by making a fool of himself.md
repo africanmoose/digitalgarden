@@ -10,7 +10,7 @@ Man…progresses in all things by making a fool of himself.*
 George Bernard Shaw
 
 ## Reference
-- quoted in [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning Notes\|Beginners - The Joy and Transformative Power of Lifelong Learning Notes]]
+- quoted in [[Beginners - The Joy and Transformative Power of Lifelong Learning Notes\|Beginners - The Joy and Transformative Power of Lifelong Learning Notes]]
 - from 'Advice to a young critic'
 
 ## Related
