@@ -42,9 +42,9 @@ Aberdares highlands in Kenya is the main water catchment area from which Nairobi
 - [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
 - [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ## Work in Progress
-- Processing  [[0x - System/01.02 - Inbox/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
 - Reading _Think for Yourself: Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani_
