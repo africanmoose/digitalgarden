@@ -24,6 +24,9 @@
 - [[1x - References/11.03 - References - Ideas/Learning skills takes time\|Learning skills takes time]]
 - [[1x - References/11.03 - References - Ideas/Variable practise helps learn better\|Variable practise helps learn better]]
 - [[1x - References/11.03 - References - Ideas/Love of music does not support theory of evolution\|Love of music does not support theory of evolution]]
+- [[1x - References/11.03 - References - Ideas/The human voice is an amazing instrument\|The human voice is an amazing instrument]]
+- [[1x - References/11.03 - References - Ideas/Progress is rarely linear\|Progress is rarely linear]]
+- [[1x - References/11.03 - References - Ideas/Social facilitation - we learn better with company\|Social facilitation - we learn better with company]]
 - 
 
 ### Quotes
