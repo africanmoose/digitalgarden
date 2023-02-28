@@ -12,7 +12,7 @@
 
 ### References
 - [wikipedia on Isaiah Berlins essay](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)
-- see also [the fable of the fox and the cat](https://en.wikipedia.org/wiki/The_Fox_and_the_Cat_(fable)
+- see also [the fable of the fox and the cat](https://en.wikipedia.org/wiki/The_Fox_and_the_Cat_(fable))
 - [[0x - System/Think for Yourself- Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself- Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
