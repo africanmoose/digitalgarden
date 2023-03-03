@@ -16,6 +16,8 @@
 ### Details
 - Specialist vs generalist? See the parable of the [[1x - References/11.03 - References - Ideas/The fox knows many things the hedgehog only one thing\|The fox knows many things the hedgehog only one thing]]
 - Trying to make a choice? Beware of [[1x - References/11.03 - References - Ideas/Analysis Paralysis\|Analysis Paralysis]]
+- Beware notifications! [[1x - References/11.03 - References - Ideas/Too many notifications for modern workers reduces IQ\|Too many notifications for modern workers reduces IQ]]
+- 
 
 ### References
 - 
