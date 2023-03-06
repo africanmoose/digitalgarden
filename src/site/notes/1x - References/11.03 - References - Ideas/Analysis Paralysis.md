@@ -12,7 +12,7 @@
 - This may contribute to stress, bad decisions, anxiety and dissatisfaction
 
 ### References
-- [[0x - System/Think for Yourself- Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself- Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[0x - System/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Paradox of choice\|Paradox of choice]]
