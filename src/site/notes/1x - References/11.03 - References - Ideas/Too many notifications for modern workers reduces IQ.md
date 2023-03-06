@@ -12,7 +12,7 @@
 
 ### References
 - [[4x - Reading/41.01 - Reading - Book Notes/Deep work - Cal Newport\|Deep work - Cal Newport]]
-- [[0x - System/Think for Yourself- Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself- Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[0x - System/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
 - [[4x - Reading/41.02 - Reading - Book reviews/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
