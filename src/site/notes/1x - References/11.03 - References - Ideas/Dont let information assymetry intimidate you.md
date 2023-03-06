@@ -4,16 +4,16 @@
 
 
 ### Summary
-- 
+- When there is information asssymetry (for example a doctor or architect who knows much more than you), dont be intimidated into turning off your brain. 
 
 ### Details
-- 
+- Ignore 'visible power dynamics' or cues like a white coat that try to telegraph the imbalance
+- They are valuable inputs into decision making, but at the end of the day, the decision maker is you.
 
 ### References
-- 
-
-### Quotes
-- When visiting a doctor, taking advice from a financial expert, or even making a high-stakes decision at work, it’s critical that you think for yourself. Don’t let information asymmetry intimidate you into turning off your brain. There may be visible power dynamics that also telegraph the knowledge imbalance, but that doesn’t change the reality that only you can fully understand the complete context of your decision. The advice and guidance you receive from others are tiles in a mosaic that you are forming—they’re inputs into your decision making. Not more, not less. Just inputs.
+- [[0x - System/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
-- 
+- [[1x - References/11.03 - References - Ideas/Chauffeur knowlege\|Chauffeur knowlege]]
+- [[1x - References/11.03 - References - Ideas/Ultimate optimization is impossible\|Ultimate optimization is impossible]]
+- [[1x - References/11.03 - References - Ideas/Illusion of skill\|Illusion of skill]]
