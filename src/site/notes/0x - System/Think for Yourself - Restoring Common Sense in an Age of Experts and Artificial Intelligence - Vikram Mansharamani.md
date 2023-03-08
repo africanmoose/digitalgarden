@@ -24,7 +24,8 @@
 - [[1x - References/11.03 - References - Ideas/Dont let information assymetry intimidate you\|Dont let information assymetry intimidate you]]
 - [[1x - References/11.03 - References - Ideas/We are naturally obedient to authority\|We are naturally obedient to authority]]
 - [[1x - References/11.03 - References - Ideas/Engage with those who have different views from yourself\|Engage with those who have different views from yourself]]
-- 
+- [[1x - References/11.03 - References - Ideas/Metaknowlege - knowing what we know\|Metaknowlege - knowing what we know]]
+- [[1x - References/11.03 - References - Ideas/How did the expert reach his conclusion\|How did the expert reach his conclusion]]
 
 ### Quotes
 - 
