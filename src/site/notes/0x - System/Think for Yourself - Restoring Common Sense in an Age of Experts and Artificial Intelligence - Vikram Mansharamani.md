@@ -22,6 +22,8 @@
 - Our focus is limited - [[1x - References/11.03 - References - Ideas/Inattentional blindness - the gorilla in the room\|Inattentional blindness - the gorilla in the room]]
 - [[1x - References/11.03 - References - Ideas/Peter Principle - One rises to ones level of incompetence\|Peter Principle - One rises to ones level of incompetence]]
 - [[1x - References/11.03 - References - Ideas/Dont let information assymetry intimidate you\|Dont let information assymetry intimidate you]]
+- [[1x - References/11.03 - References - Ideas/We are naturally obedient to authority\|We are naturally obedient to authority]]
+- [[1x - References/11.03 - References - Ideas/Engage with those who have different views from yourself\|Engage with those who have different views from yourself]]
 - 
 
 ### Quotes
