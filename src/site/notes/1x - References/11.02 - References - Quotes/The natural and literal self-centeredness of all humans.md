@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/the-natural-and-literal-self-centeredness-of-all-humans/","title":"structure note","dgShowBacklinks":false}
+---
+
+
+## Quote
+“The point here is that I think this is one part of what teaching me how to think is really supposed to mean. To be just a little less arrogant, to have just a little critical awareness about myself and my certainties.” He went on to highlight the natural and literal self-centeredness native to all humans: “everything in my own immediate experience supports my deep belief that I am the absolute center of the universe; the realist most vivid and important person in existence.… Think about it, there is no experience you have had that you are not the absolute center of.… The world as you experience it is there in front of you or behind you, to the left or right of you on your TV or your monitor.”
+
+## Author
+- Wallace
+
+## Reference
+[[4x - Reading/41.02 - Reading - Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+
+## Related
+- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Pride\|Pride]]
+- [[3x - Spiritual/31.02 - Spiritual - Illustrations/Pride like alter\|Pride like alter]]
+- [[1x - References/11.02 - References - Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]
+- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Humility\|Humility]]
