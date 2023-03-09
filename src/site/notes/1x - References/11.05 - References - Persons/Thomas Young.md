@@ -10,7 +10,7 @@
 - 
 
 ### References
-- [[0x - System/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Quotes
 - A strong candidate is Thomas Young. Born in 1773 in Somerset, England, Young read widely from an early age. By the age of twenty-one, he was a fellow of the Royal Society, Britain’s preeminent science society with origins dating back to 1660, and had presented a paper that set the foundation of our current understanding of human vision. By his early thirties, as a practicing doctor, he had delivered a series of lectures that his biographer, Andrew Robinson, described as “covering virtually all of known science, which has never been surpassed in scope and boldness of insight.”4 Over the course of his life, Young made important contributions across a wide range of fields, including physics, physiology, engineering, music, and philology (the study of language in written historical sources—I had to look that up, not being someone who knows everything). He studied over four hundred languages, which allowed him to lay the groundwork for deciphering the Rosetta Stone. And oh, before I forget, he also took on Isaac Newton and demonstrated that light was as much a wave as it was a particle.
