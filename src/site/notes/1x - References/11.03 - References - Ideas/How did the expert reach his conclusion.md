@@ -10,7 +10,7 @@
 - For example, how did you reach that diagnosis? What is it based on? what is the prognoses? what experience have they had in similar siutations? are there any other options? risks? next steps?
 
 ### References
-- [[0x - System/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/Test the door - Winston Churchill\|Test the door - Winston Churchill]]
