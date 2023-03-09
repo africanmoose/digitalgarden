@@ -11,7 +11,7 @@
 - Engaging with those who have different views allows us to avoid group think and discuss different and potentially better solutions.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Positive view of others\|Positive view of others]]
