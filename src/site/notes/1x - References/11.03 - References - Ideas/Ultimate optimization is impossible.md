@@ -15,7 +15,7 @@
 - It makes much more sense to attain good enough even if there is a potential better option.
 
 ### References
-- [[4x - Reading/41.02 - Reading - Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - Nobel Laureate Herbert Simon
 
 ### Related
