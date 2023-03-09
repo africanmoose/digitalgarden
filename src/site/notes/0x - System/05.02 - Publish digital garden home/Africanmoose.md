@@ -45,7 +45,7 @@ Aberdares highlands in Kenya is the main water catchment area from which Nairobi
 - [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ## Work in Progress
-- Processing [[0x - System/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- Processing [[4x - Reading/41.02 - Reading - Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
