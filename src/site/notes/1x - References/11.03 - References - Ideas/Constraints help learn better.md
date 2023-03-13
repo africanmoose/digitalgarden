@@ -13,7 +13,7 @@
 - Dont try to learn everything all in one go
 
 ### References
-- [[0x - System/01.02 - Inbox/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+- [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Limit work in progress\|Limit work in progress]]
