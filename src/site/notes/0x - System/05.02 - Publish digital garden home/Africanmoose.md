@@ -44,13 +44,14 @@ Masai striding through Amboseli.
 - [[4x - Reading/41.01 - Reading - Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 - [[4x - Reading/41.01 - Reading - Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Michealangelo - Gods Architect - William Wallace\|Michealangelo - Gods Architect - William Wallace]]
+- [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 - Processing [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
+- Reading _The book of beautiful questions - Warren Berger_
 
 ## Interesting Ideas
 - [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence\|The happiness of excellence]]
