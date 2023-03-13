@@ -14,7 +14,7 @@
 - Train your focus bit by bit.
 
 ### References
-- [[0x - System/01.02 - Inbox/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+- [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/Information can be a distraction - Barack Obama\|Information can be a distraction - Barack Obama]]
