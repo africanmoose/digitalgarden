@@ -46,6 +46,8 @@ Masai striding through Amboseli.
 - [[4x - Reading/41.02 - Reading - Book reviews/Michealangelo - Gods Architect - William Wallace\|Michealangelo - Gods Architect - William Wallace]]
 
 ## Work in Progress
+- Processing [[0x - System/01.02 - Inbox/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+- Processing [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Oil - A beginners guide - Vacliv Smil_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
