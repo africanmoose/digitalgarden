@@ -12,7 +12,7 @@
 - paraphrasing notes, summarizing, translating are all processing methods that help us retain the information better.
 
 ### References
-- [[0x - System/01.02 - Inbox/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+- [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Process information to make it useful\|Process information to make it useful]]
