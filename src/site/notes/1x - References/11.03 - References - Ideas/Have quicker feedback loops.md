@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/have-quicker-feedback-loops/","title":"Have quicker feedback loops","dgShowBacklinks":false}
+---
+
+
+### Summary
+- In the context of learning something new, faster feedback will help learn faster
+- This may be a principle that applies in many areas of life
+
+### Details
+- check answers to your work immediately instead of waiting for the whole assignment to be complete.
+- Practise what you learn immediately. 
+- The more detailed your practise, the better you will learn it.
+- Seek out accurate feedback, which will result in fewer cycles to make corrections
+
+### References
+- [[0x - System/01.02 - Inbox/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+
+### Related
+- [[1x - References/11.03 - References - Ideas/Give great feedback\|Give great feedback]]
+- [[1x - References/11.03 - References - Ideas/Positive feedback works better than criticism\|Positive feedback works better than criticism]]
+- [[1x - References/11.02 - References - Quotes/How to give counsel - Baltasar Gracian\|How to give counsel - Baltasar Gracian]]
