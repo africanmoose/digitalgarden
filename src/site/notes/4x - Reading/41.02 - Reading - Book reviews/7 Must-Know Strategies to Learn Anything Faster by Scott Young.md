@@ -25,3 +25,8 @@
 
 ### Related
 - [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
+
+#### RSS Data
+<div class='date'>Sun, 19 Mar 2023 12:17:32 GMT</div>
+<div class='description'> Do not spoil what you have by desiring what you have not</div>
+
