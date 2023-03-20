@@ -8,13 +8,14 @@
 ### Summary
 - Rick Rubin has coaxed music out of a bewildering array of artists: RunDMC, LL Cool J, Metallica, Red Hot Chili Peppers, Weezer, Aerosmith, Johnny Cash. After reading his manual for creativity I understand why - he encourages creativity in others rather than trying to give his own ideas. A must read for any creative.
 
-### How I discovered it
-- 
-
 ### How the book changed me
-- 
+- It has encouraged me to systemize and maximize creativity. To always be on the lookout for creative solutions. To feed my creativity by being observant especially of nature
 
 ### Details
+- [[1x - References/11.03 - References - Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
+- [[1x - References/11.03 - References - Ideas/Inspiration and creativity\|Inspiration and creativity]]
+- [[1x - References/11.03 - References - Ideas/Where to find inspiration\|Where to find inspiration]]
+- [[1x - References/11.03 - References - Ideas/Carefully curate the quality of what you let into your mind\|Carefully curate the quality of what you let into your mind]]
 - 
 
 ### References
