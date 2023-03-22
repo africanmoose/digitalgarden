@@ -16,13 +16,14 @@
 - [[1x - References/11.03 - References - Ideas/Inspiration and creativity\|Inspiration and creativity]]
 - [[1x - References/11.03 - References - Ideas/Where to find inspiration\|Where to find inspiration]]
 - [[1x - References/11.03 - References - Ideas/Carefully curate the quality of what you let into your mind\|Carefully curate the quality of what you let into your mind]]
-- 
+- [[1x - References/11.03 - References - Ideas/The natural world is always changing\|The natural world is always changing]] - source of endless inspiration
+- [[1x - References/11.03 - References - Ideas/The world is always changing and so are we\|The world is always changing and so are we]]
 
 ### References
 - 
 
 ### Quotes
-- 
+- [[1x - References/11.02 - References - Quotes/The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin\|The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin]]
 
 ### Related
 
