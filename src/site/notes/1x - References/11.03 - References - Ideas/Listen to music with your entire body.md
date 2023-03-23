@@ -8,7 +8,7 @@
 
 ### Details
 - Some bass sounds can only be felt, not perceived by the ears.
-- headphones create an illusion
+- headphones create an illusion that may not be accurate
 
 ### References
 - [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
