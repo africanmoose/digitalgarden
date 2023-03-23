@@ -18,6 +18,8 @@
 - [[1x - References/11.03 - References - Ideas/Carefully curate the quality of what you let into your mind\|Carefully curate the quality of what you let into your mind]]
 - [[1x - References/11.03 - References - Ideas/The natural world is always changing\|The natural world is always changing]] - source of endless inspiration
 - [[1x - References/11.03 - References - Ideas/The world is always changing and so are we\|The world is always changing and so are we]]
+- Dont fear self-doubt - [[1x - References/11.03 - References - Ideas/Self-doubt is the counterpoint of creativity\|Self-doubt is the counterpoint of creativity]]
+- 
 
 ### References
 - 
