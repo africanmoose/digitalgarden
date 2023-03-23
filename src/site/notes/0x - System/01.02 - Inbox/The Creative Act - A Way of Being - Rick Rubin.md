@@ -19,7 +19,8 @@
 - [[1x - References/11.03 - References - Ideas/The natural world is always changing\|The natural world is always changing]] - source of endless inspiration
 - [[1x - References/11.03 - References - Ideas/The world is always changing and so are we\|The world is always changing and so are we]]
 - Dont fear self-doubt - [[1x - References/11.03 - References - Ideas/Self-doubt is the counterpoint of creativity\|Self-doubt is the counterpoint of creativity]]
-- 
+- [[1x - References/11.03 - References - Ideas/All work is collaboration\|All work is collaboration]]
+- Be ready to [[1x - References/11.03 - References - Ideas/Challenge your process\|Challenge your process]]
 
 ### References
 - 
