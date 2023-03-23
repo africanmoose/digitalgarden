@@ -21,6 +21,9 @@
 - Dont fear self-doubt - [[1x - References/11.03 - References - Ideas/Self-doubt is the counterpoint of creativity\|Self-doubt is the counterpoint of creativity]]
 - [[1x - References/11.03 - References - Ideas/All work is collaboration\|All work is collaboration]]
 - Be ready to [[1x - References/11.03 - References - Ideas/Challenge your process\|Challenge your process]]
+- [[1x - References/11.03 - References - Ideas/Listen to music with your entire body\|Listen to music with your entire body]]
+- [[1x - References/11.03 - References - Ideas/When we listen fully the speaker communicates differently\|When we listen fully the speaker communicates differently]]
+- [[1x - References/11.03 - References - Ideas/Taking shortcuts shrinks our worldview\|Taking shortcuts shrinks our worldview]]
 
 ### References
 - 
