@@ -24,6 +24,8 @@
 - [[1x - References/11.03 - References - Ideas/Listen to music with your entire body\|Listen to music with your entire body]]
 - [[1x - References/11.03 - References - Ideas/When we listen fully the speaker communicates differently\|When we listen fully the speaker communicates differently]]
 - [[1x - References/11.03 - References - Ideas/Taking shortcuts shrinks our worldview\|Taking shortcuts shrinks our worldview]]
+- Phases of creativity:
+	- The seed phase - [[1x - References/11.03 - References - Ideas/Collecting new ideas for creativity\|Collecting new ideas for creativity]]
 
 ### References
 - 
@@ -32,4 +34,5 @@
 - [[1x - References/11.02 - References - Quotes/The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin\|The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin]]
 
 ### Related
-
+- [[4x - Reading/41.01 - Reading - Book Notes/Deep work - Cal Newport\|Deep work - Cal Newport]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Guitar Zero - The new musician and the science of learning\|Guitar Zero - The new musician and the science of learning]]
