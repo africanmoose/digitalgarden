@@ -13,7 +13,7 @@
 - the sky, the clouds, light quality and color will be different
 
 ### References
-- [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
