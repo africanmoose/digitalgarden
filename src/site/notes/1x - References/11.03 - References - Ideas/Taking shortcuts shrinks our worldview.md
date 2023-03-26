@@ -13,7 +13,7 @@
 - If we continue taking shortcuts, our worldview continues to shrink
 
 ### References
-- [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[3x - Spiritual/31.01 - Spiritual - Gems/Listen patiently as Jehovah listened to Abraham\|Listen patiently as Jehovah listened to Abraham]]
