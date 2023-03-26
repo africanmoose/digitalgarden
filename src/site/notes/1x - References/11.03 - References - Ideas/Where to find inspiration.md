@@ -10,7 +10,7 @@
 - We need to be alert to what is going on around us in relation to our creative problems. Look for ways to develop new methods or extend current ideas
 
 ### References
-- [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[3x - Spiritual/32.16 - Spiritual - CD spiritual point ideas/Look to Jah for solutions not culture\|Look to Jah for solutions not culture]]
