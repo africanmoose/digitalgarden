@@ -11,7 +11,7 @@
 - headphones create an illusion that may not be accurate
 
 ### References
-- [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Quotes
 - "Headphones create an illusion, tricking your senses into believing you are hearing everything the music is offering. Many artists refuse to use headphones in the studio as it is a poor replica of the real-world listening experience. With speakers, we are closer to the sound of instruments in the room—immersed physically in a full sonic spectrum of vibration"
