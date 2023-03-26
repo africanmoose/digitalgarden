@@ -13,7 +13,7 @@
 - Some ideas may end up growing into beautiful work, others that may seem exciting may not. In this early stage we cannot tell.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/Impossible to have your best ideas the first time\|Impossible to have your best ideas the first time]]
