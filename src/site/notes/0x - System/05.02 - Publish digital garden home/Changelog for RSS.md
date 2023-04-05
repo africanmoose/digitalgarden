@@ -3,6 +3,25 @@
 ---
 
 
+[[4x - Reading/41.02 - Reading - Book reviews/Michealangelo - Gods Architect - William Wallace\|Michealangelo - Gods Architect - William Wallace]]
+
+[[4x - Reading/41.01 - Reading - Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+
+[[1x - References/11.03 - References - Ideas/The fox knows many things the hedgehog only one thing\|The fox knows many things the hedgehog only one thing]]
+
+[[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
+
+[[1x - References/11.03 - References - Ideas/Processing more important than motivation for remembering information\|Processing more important than motivation for remembering information]]
+
+[[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+
+[[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
+
+[[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
+
+[[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+
+[[Beginners - The Joy and Transformative Power of Lifelong Learning Notes\|Beginners - The Joy and Transformative Power of Lifelong Learning Notes]]
 
 [[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives\|Sit round candle light and talk about their inner lives]]
 
@@ -10,25 +29,7 @@
 
 [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff\|Deconstruct cool stuff]]
 
-[[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
 
-[[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
-
-[[1x - References/11.03 - References - Ideas/Dont read the news\|Dont read the news]]
-
-[[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
-
-[[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
-
-[[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]]
-
-[[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
-
-[[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
-
-[[1x - References/11.03 - References - Ideas/Make your habits ridiculously small\|Make your habits ridiculously small]]
-
-[[1x - References/11.02 - References - Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 
 
 ## RSS Data
