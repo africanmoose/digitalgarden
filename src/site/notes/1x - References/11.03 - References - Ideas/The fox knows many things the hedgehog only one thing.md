@@ -18,3 +18,7 @@
 ### Related
 - [[1x - References/11.03 - References - Ideas/Genius versus skill accumulation\|Genius versus skill accumulation]]
 - [[3x - Spiritual/31.01 - Spiritual - Gems/Communicate goal or intention rather than micromanaging how a task should be done\|Communicate goal or intention rather than micromanaging how a task should be done]]
+
+#### RSS Data
+<div class='date'>Mon, 27 Feb 2023 12:17:32 GMT</div>
+<div class='description'>'The fox knows many things, the hedgehod only one thing'. Greek poet Archilochus gave this as a metaphor and as far as I can tell....</div>
