@@ -9,7 +9,7 @@
 ### Details
 - Source material must be taken in first
 - We select elements which are useful or significant
-- We represent them
+- We re-present them
 - We share what we make, which then becomes source material for others
 
 ### References
