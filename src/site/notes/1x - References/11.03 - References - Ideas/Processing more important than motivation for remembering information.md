@@ -20,3 +20,7 @@
 - [[1x - References/11.03 - References - Ideas/Barbell Method of reading\|Barbell Method of reading]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
 - [[1x - References/11.03 - References - Ideas/Feynman technique of learning\|Feynman technique of learning]]
+
+#### RSS Data
+<div class='date'>Mon, 13 Mar 2023 12:17:32 GMT</div>
+<div class='description'>Processing information is way more effective to remember it than being motivated. As an example....</div>
