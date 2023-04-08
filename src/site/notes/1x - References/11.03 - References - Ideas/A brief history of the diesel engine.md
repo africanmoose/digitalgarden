@@ -11,7 +11,7 @@
 - Diesel engines also last longer than petrol.
 
 ### References
-- [[4x - Reading/41.01 - Reading - Book Notes/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/A brief history of the petrol engine\|A brief history of the petrol engine]]
