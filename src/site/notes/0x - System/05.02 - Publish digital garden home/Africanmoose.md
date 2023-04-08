@@ -48,7 +48,7 @@ Incredible artwork in a friend of mine's bible. This really inspired me, though 
 - [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/Oil - Vacliv Smil\|Oil - Vacliv Smil]]
+- Processing [[4x - Reading/41.01 - Reading - Book Notes/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 - Processing  _Be More Japan: The Art of Japanese Living_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
