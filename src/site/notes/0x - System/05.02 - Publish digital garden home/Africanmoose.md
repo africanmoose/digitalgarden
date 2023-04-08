@@ -46,10 +46,10 @@ Incredible artwork in a friend of mine's bible. This really inspired me, though 
 - [[4x - Reading/41.02 - Reading - Book reviews/Michealangelo - Gods Architect - William Wallace\|Michealangelo - Gods Architect - William Wallace]]
 - [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
+- [[1x - References/11.03 - References - Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
 
 ## Work in Progress
-- Processing [[4x - Reading/41.01 - Reading - Book Notes/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
-- Processing  _Be More Japan: The Art of Japanese Living_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 - Reading _The book of beautiful questions - Warren Berger_
