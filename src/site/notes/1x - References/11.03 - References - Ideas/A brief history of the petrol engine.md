@@ -13,7 +13,7 @@
 - After a redesign by Emile Levassor in 1891, the basic design has basically been the same till now.
 
 ### References
-- [[0x - System/01.02 - Inbox/Oil - Vacliv Smil\|Oil - Vacliv Smil]]
+- [[4x - Reading/41.01 - Reading - Book Notes/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 - [[Nikolaus Otto](https://en.wikipedia.org/wiki/Nicolaus_Otto)
 - [Carl Benz](https://en.wikipedia.org/wiki/Carl_Benz)
 
