@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/non-organic-or-abiotic-theory-of-oil-formation/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/non-organic-or-abiotic-theory-of-oil-formation/","title":"Non-organic or abiotic theory of oil formation","dgShowBacklinks":false}
 ---
 
 
