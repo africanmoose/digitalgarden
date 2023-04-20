@@ -4,20 +4,16 @@
 
 
 ### Summary
-- 
+- When we have goals we have to attain, the more obstacles and temptations we preceive. When we have want-to goals, we preceive less obstacles, making our goals more achievable without extra effort
 
 ### Details
-- 
+- The study involved students who wantedt o eat healthy but more frequently felt hungry, or preceived that they didnt have time to cook. they also rated unhealthy food as more healthy.
+- however, when the students had want-to goals, htey perceived fewer obstacles
+- the lesson is that we are way more likely to achieve goals that we want to achieve rather than have to.
 
 ### References
-- 
-
-### Quotes
-- Highlight: The more have-to motivations the students had, the more obstacles and temptations they perceived (more self-control conflict). For example, students who wanted to eat healthy for have-to reasons reported that they frequently felt hungry, didn’t have time to cook or that a flatmate was buying junk food. Interestingly, they also rated unhealthy food as more tasty (and healthy food as less tasty) than students who had want-to reasons.[71]
-			Although students made more effort towards their have-to goals, the extra effort was cancelled out by increased subjective perception of obstacles and temptations.
-			In contrast, the more want-to motivations the students had for their goals, the fewer obstacles and temptations they perceived (less self-control conflict). For this reason, students were more successful in achieving their want-to goals without having to make extra effort.
-			This study shows that it’s much better to bolster your want-to rather than have-to motivations. If you only have have-to motivations, then you’ll experience self-control conflict. You’ll know you should choose the option with the delayed reward, but you’ll want the option with the immediate reward.
-			On the other hand, if you have strong want-to motivations for your goals, you will automatically experience fewer obstacles and temptations
+- [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H. Young & Jakub Jilek\|The Complete Guide to Self-Control - Scott H. Young & Jakub Jilek]]
 
 ### Related
-- 
+- [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Self-control\|Self-control]]
+- [[1x - References/11.02 - References - Quotes/Attach your lives to a goal not people or things - Albert Einstein\|Attach your lives to a goal not people or things - Albert Einstein]]
