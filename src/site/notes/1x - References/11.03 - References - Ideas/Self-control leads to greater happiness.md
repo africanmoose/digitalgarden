@@ -11,7 +11,7 @@
 - THose who successfully sho self-control are more satisfied with their lives and experience fewer negative emotions
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H. Young & Jakub Jilek\|The Complete Guide to Self-Control - Scott H. Young & Jakub Jilek]]
+- [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Self-control\|Self-control]]
