@@ -51,7 +51,7 @@ Suzuki explores Amboseli. It was sooo dry, lots of dead animals. Also lots of ha
 
 ## Work in Progress
 - Processing _Music: A Very Short Introduction - Nicholas Cook_
-- Processing [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H. Young & Jakub Jílek\|The Complete Guide to Self-Control - Scott H. Young & Jakub Jílek]]
+- Processing [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H. Young & Jakub Jilek\|The Complete Guide to Self-Control - Scott H. Young & Jakub Jilek]]
 - Processing _The Complete Guide to Memory by Scott H. Young & Jakub Jílek_
 - Processing _Daily Rituals How Artists Work by Mason Currey_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
