@@ -15,6 +15,8 @@
 ### Details
 - [[1x - References/11.03 - References - Ideas/Self-control leads to greater happiness\|Self-control leads to greater happiness]]
 - [[1x - References/11.03 - References - Ideas/Being good at self-control not necessarily because of effort made\|Being good at self-control not necessarily because of effort made]]
+- [[1x - References/11.03 - References - Ideas/Thought suppression is not the best way to control ourselves\|Thought suppression is not the best way to control ourselves]]
+
 
 ### Quotes
 - 
