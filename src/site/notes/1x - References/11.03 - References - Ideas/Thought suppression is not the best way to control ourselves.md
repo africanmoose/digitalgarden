@@ -12,7 +12,7 @@
 - Maybe better to use strategies like actively thinking of something else rather than not thinking about something?
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Self-control\|Self-control]]
