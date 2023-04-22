@@ -4,7 +4,7 @@
 
 
 ### Summary
-- When we have goals we have to attain, the more obstacles and temptations we preceive. When we have want-to goals, we preceive less obstacles, making our goals more achievable without extra effort
+- When we have goals we have to attain, the more obstacles and temptations we preceive. When we have want-to goals, we preceive less obstacles, making our goals more achievable without extra effort   w
 
 ### Details
 - The study involved students who wantedt o eat healthy but more frequently felt hungry, or preceived that they didnt have time to cook. they also rated unhealthy food as more healthy.
@@ -12,7 +12,7 @@
 - the lesson is that we are way more likely to achieve goals that we want to achieve rather than have to.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ### Related
 - [[3x - Spiritual/32.03 - Spiritual - Structure Notes/Self-control\|Self-control]]
