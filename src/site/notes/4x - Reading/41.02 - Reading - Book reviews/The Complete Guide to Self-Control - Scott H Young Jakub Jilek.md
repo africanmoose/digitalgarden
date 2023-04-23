@@ -29,3 +29,7 @@
 
 ### Related
 - [[4x - Reading/41.01 - Reading - Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal\|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
+
+#### RSS Data
+<div class='date'>Sat, 22 Apr 2023 12:17:32 GMT</div>
+<div class='description'> A short and concise guide to understanding the scientific principles behind self-control </div>
