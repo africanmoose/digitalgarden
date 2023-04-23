@@ -51,8 +51,8 @@ Suzuki explores Amboseli. It was sooo dry, lots of dead animals. Also lots of ha
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
 ## Work in Progress
+- Processing [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - Processing _Music: A Very Short Introduction - Nicholas Cook_
-- Processing _The Complete Guide to Memory by Scott H. Young & Jakub Jílek_
 - Processing _Daily Rituals How Artists Work by Mason Currey_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
