@@ -19,3 +19,6 @@
 - Interesting, teh [[1x - References/11.03 - References - Ideas/Chinese developed drilling techniques for oil a long time ago\|Chinese developed drilling techniques for oil a long time ago]]
 - Only about 1/5th of diamonds are sold for making jewellery, most of the rest goes into drilling for hydrocarbons and metallic ores.
 
+#### RSS Data
+<div class='date'>Wed, 5 Apr 2023 12:17:32 GMT</div>
+<div class='description'> A scientific dive into one of the primary sources of energy in the 21st century - Oil. What it is, how it is used, how it is distributed.  </div>
