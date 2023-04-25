@@ -7,19 +7,15 @@
 - Learning in bits improves memory instead of in one long session
 
 ### Details
-- Discovered by Hermann Ebbinghaus
+- Discovered by [[1x - References/11.05 - References - Persons/Hermann Ebinghaus\|Hermann Ebinghaus]] from experiments he performed on himself
+- Basically, the more sessions you provide to learn, the less total time you will require
+- the space should be about 10-20% the time that you have to learn it (e..g if you have 10 days to learn, a daily session works. If you have 100 days, a session every 10 days.)
 
 ### References
-- 
-
-### Quotes
-- Chapter 9: Interference: Does learning new things block your old memories?
-Highlight
-Chapter progress: 91.89%
-Highlight: The spacing effect is undoubtedly one the most important discoveries in the science of memory. The general idea of spacing is that to achieve the same performance at a given test, you need substantially less time overall to memorize something if you spread your study into multiple sessions as opposed to if you study everything in a single session. As a demonstration, consider an experiment that the famous psychologist Hermann Ebbinghaus performed on himself:[28]
-			Ebbinghaus studied 2 lists of words on two following days. On the first day, he spent 1 minute studying list A and 7.5 minutes studying list B. On the second day, he had to spend another 20 minutes on list A to memorize it perfectly. However, he needed only 7.5 extra minutes to memorize list B.
-			By spacing the sessions more equally for list A, Ebbinghaus managed to save himself about ¼ of total time spent on studying. In a similar way, if it takes you 3 hours in a row to prepare for a test, you may need less than 2 hours in total if you divide the time into 2 or 3 equally-sized sessions spread across several days.
-			In general, the more you spread your sessions, the less overall time you will need. Scientists recommend that the spacing distance should be about 10-20% of the test delay.[29] If your test is in 10 days, you will benefit most from studying once a day. If your test is in 6 months, you should study every 20 days
+- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
-- 
+- [[1x - References/11.03 - References - Ideas/Memory is state-dependent\|Memory is state-dependent]]
+- [[1x - References/11.03 - References - Ideas/Memory decay is exponential\|Memory decay is exponential]]
+- [[1x - References/11.03 - References - Ideas/Sleep is vital for memory consolidation\|Sleep is vital for memory consolidation]]
+- [[1x - References/11.03 - References - Ideas/Interference effect on memory\|Interference effect on memory]]
