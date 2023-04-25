@@ -19,9 +19,11 @@
 - [[1x - References/11.03 - References - Ideas/Process information deeply by having a structured note system\|Process information deeply by having a structured note system]]
 - [[1x - References/11.03 - References - Ideas/Use pre-reading questions to enhance memory\|Use pre-reading questions to enhance memory]]
 - [[1x - References/11.03 - References - Ideas/Memory is state-dependent\|Memory is state-dependent]]
-- [[1x - References/11.03 - References - Ideas/Memory decay is exponential\|Memory decay is exponential]]
-- [[1x - References/11.03 - References - Ideas/Sleep is vital for memory consolidation\|Sleep is vital for memory consolidation]]
 - [[1x - References/11.03 - References - Ideas/Interference effect on memory\|Interference effect on memory]]
+- [[1x - References/11.03 - References - Ideas/Sleep is vital for memory consolidation\|Sleep is vital for memory consolidation]]
+- the first memory scientist, [[1x - References/11.05 - References - Persons/Hermann Ebinghaus\|Hermann Ebinghaus]] contributed much, with these 2 fundamental discoveries
+	- [[1x - References/11.03 - References - Ideas/The spacing effect in memory\|The spacing effect in memory]]
+	- [[1x - References/11.03 - References - Ideas/Memory decay is exponential\|Memory decay is exponential]]
 
 ### References
 - 
