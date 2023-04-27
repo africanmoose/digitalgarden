@@ -10,7 +10,7 @@
 - The context of our memory encoding is anything - it could be location, music, smells, company etc.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Use pre-reading questions to enhance memory\|Use pre-reading questions to enhance memory]]
