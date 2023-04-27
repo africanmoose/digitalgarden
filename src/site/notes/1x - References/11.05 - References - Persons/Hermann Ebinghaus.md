@@ -13,7 +13,7 @@
 	- [[1x - References/11.03 - References - Ideas/Memory decay is exponential\|Memory decay is exponential]]
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - [wikipedia](https://en.wikipedia.org/wiki/Hermann_Ebbinghaus)
 
 ### Quotes
