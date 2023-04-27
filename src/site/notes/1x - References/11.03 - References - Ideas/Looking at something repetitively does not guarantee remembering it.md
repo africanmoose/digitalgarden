@@ -10,7 +10,7 @@
 - Looking at something many times does not necessarily help us to remember it.
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
 - [[3x - Spiritual/31.02 - Spiritual - Illustrations/Memorizing scriptures is like a spiritual go bag\|Memorizing scriptures is like a spiritual go bag]]
