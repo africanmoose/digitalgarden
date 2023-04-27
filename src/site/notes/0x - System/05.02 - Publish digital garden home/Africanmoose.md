@@ -48,9 +48,9 @@ The crazy road up to Malawi's town named Livingstonia.
 - [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - Processing _Music: A Very Short Introduction - Nicholas Cook_
 - Processing _Daily Rituals How Artists Work by Mason Currey_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
