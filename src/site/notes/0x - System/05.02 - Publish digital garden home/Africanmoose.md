@@ -51,8 +51,8 @@ The crazy road up to Malawi's town named Livingstonia.
 - [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ## Work in Progress
+- Processing [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - Processing _Music: A Very Short Introduction - Nicholas Cook_
-- Processing _Daily Rituals How Artists Work by Mason Currey_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 - Reading _The book of beautiful questions - Warren Berger_
