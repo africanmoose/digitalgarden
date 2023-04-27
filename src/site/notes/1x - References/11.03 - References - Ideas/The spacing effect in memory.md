@@ -12,7 +12,7 @@
 - the space should be about 10-20% the time that you have to learn it (e..g if you have 10 days to learn, a daily session works. If you have 100 days, a session every 10 days.)
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Memory is state-dependent\|Memory is state-dependent]]
