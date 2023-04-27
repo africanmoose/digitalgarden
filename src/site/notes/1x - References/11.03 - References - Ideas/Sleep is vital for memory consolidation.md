@@ -11,7 +11,7 @@
 - We need at least a full 90min cycle to consolidate our memory, so either have a full 90min nap, or study new things before we sleep
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
 - [[1x - References/11.07 - References - Poetry/Sleep and poetry - John Keats\|Sleep and poetry - John Keats]]
