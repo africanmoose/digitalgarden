@@ -17,7 +17,7 @@
 	- what are the steps i need to take to solve this problem?
 
 ### References
-- [[0x - System/01.02 - Inbox/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]] 
+- [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]] 
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Process information to make it useful\|Process information to make it useful]]
