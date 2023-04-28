@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-02-publish-digital-garden-home/book-reviews/","title":"Africanmoose","tags":["gardenEntry"],"dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/0x-system/05-02-publish-digital-garden-home/book-reviews/","title":"Africanmoose","dgShowBacklinks":false}
 ---
 
  
