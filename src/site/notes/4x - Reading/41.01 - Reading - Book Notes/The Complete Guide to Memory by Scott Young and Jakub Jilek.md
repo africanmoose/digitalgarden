@@ -30,3 +30,7 @@
 ### Related
 - [[4x - Reading/41.02 - Reading - Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+
+#### RSS Data
+<div class='date'>Sun, 30 Apr 2023 12:17:32 GMT</div>
+<div class='description'> The complete guide to Memory, book review</div>
