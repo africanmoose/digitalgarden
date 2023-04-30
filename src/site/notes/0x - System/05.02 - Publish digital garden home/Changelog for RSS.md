@@ -3,6 +3,11 @@
 ---
 
 
+[[1x - References/11.05 - References - Persons/Haruki Murakami\|Haruki Murakami]]
+
+[[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
+
+[[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
