@@ -9,20 +9,20 @@
 The crazy road up to Malawi's town named Livingstonia.
 
 ## Interesting Quotes
-- [[1x - References/11.03 - References - Ideas/Deconstruct cool stuff\|Deconstruct cool stuff]]
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
 - [[1x - References/11.02 - References - Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 - [[1x - References/11.02 - References - Quotes/You are not special and not exceptional - everyone is - David McCullough\|You are not special and not exceptional - everyone is - David McCullough]]
 - [[1x - References/11.03 - References - Ideas/Do not spoil what you have by desiring what you have not - Epicurus\|Do not spoil what you have by desiring what you have not - Epicurus]]
+- [[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
 
 ## Interesting Persons
-- [[1x - References/11.05 - References - Persons/Claude Shannon\|Claude Shannon]]
 - [[1x - References/11.05 - References - Persons/Helen Keller\|Helen Keller]]
 - [[1x - References/11.05 - References - Persons/Ryokan Taigu\|Ryokan Taigu]]
 - [[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
 - [[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]]
+- [[1x - References/11.05 - References - Persons/Haruki Murakami\|Haruki Murakami]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
@@ -49,7 +49,6 @@ The crazy road up to Malawi's town named Livingstonia.
 - Reading _In a Sunburned Country - Bill Bryson_
 
 ## Interesting Ideas
-- [[1x - References/11.03 - References - Ideas/The happiness of pleasure grace and excellence\|The happiness of excellence]]
 - [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
 - [[1x - References/11.03 - References - Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
 - [[1x - References/11.03 - References - Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
