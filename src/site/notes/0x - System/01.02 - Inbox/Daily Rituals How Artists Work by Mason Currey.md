@@ -23,6 +23,9 @@
 - Joyce Carol Oates wrote more than 50 novels, 36 collections of short stories, poetry drama and essays by having a regular daily schedule: 8:00 to 1pm, then 4pm till 7pm.
 - [[1x - References/11.05 - References - Persons/William James\|William James]] struggled to get into the habit, but wrote about how important regular habits are to creative work.
 - [[1x - References/11.05 - References - Persons/W. B. Yeats\|W. B. Yeats]] worked regularly at least 2hrs a day, and included walks in the woods and fishing in his daily routine. He also read for at least 2hrs a day in addition to his writing.
+- Wallace Stevens woke at 6:00 and read for 2 hours. He was super punctual. Then we went to work. He walked there and back and also walked on his lunch break, using the time to compose his poetry on teh back of envelopes that he always carried.
+- [[1x - References/11.05 - References - Persons/Frank Lloyd Wright\|Frank Lloyd Wright]] never seemed to work, but he did his work early in the morning, and much of that inside his head.
+- 
 
 ### References
 - 
