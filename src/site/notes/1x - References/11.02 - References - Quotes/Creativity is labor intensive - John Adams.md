@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-02-references-quotes/creativity-is-labor-intensive-john-adams/","title":"Creativity is labor intensive - John Adams","dgShowBacklinks":false}
+---
+
+
+## Quote
+“My experience has been that most really serious creative people I know have very, very routine and not particularly glamorous work habits,” Adams said in a recent interview. “Because creativity, particularly the kind of work I do—which is writing large-scale pieces, either symphonic music or opera music—is just, it’s very labor-intensive. And it’s something that you can’t do with an assistant. You have to do it all by yourself.”
+
+## Author
+John Adams (b. 1947)
+
+## Reference
+[[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+
+## Related
+- [[1x - References/11.03 - References - Ideas/Daily routine is a mechanism for productivity\|Daily routine is a mechanism for productivity]]
+- [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
+- [[1x - References/11.02 - References - Quotes/The great men keep working - Pritchett\|The great men keep working - Pritchett]]
