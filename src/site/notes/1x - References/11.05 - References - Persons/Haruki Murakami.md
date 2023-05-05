@@ -12,7 +12,7 @@
 - When he started writing in 1981 he gained weight and also was smoking as many as 61 cigarettes a day. He changed his habits completely, quitting smoking, running daily, drinking less and eating veggies and fish
 
 ### References
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [wikipedia](https://en.wikipedia.org/wiki/Haruki_Murakami)
 
 ### Quotes
