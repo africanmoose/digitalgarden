@@ -10,7 +10,7 @@
 Philip Roth (b. 1933)
 
 ## Reference
-[[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11.03 - References - Ideas/Complete what you can then circle back to hard parts\|Complete what you can then circle back to hard parts]]
