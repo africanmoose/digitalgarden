@@ -13,7 +13,7 @@
 - he daily rose early at 5.30 or 6.00, even if he had been up late drinking.
 
 ### References
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [[4x - Reading/41.01 - Reading - Book Notes/Green Hills of Africa - Ernest Hemmingway\|Green Hills of Africa - Ernest Hemmingway]]
 
 ### Quotes
