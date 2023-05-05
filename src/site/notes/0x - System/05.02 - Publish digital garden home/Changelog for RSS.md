@@ -3,6 +3,10 @@
 ---
 
 
+[[1x - References/11.05 - References - Persons/Moondog\|Moondog]]
+
+[[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+
 [[1x - References/11.05 - References - Persons/Haruki Murakami\|Haruki Murakami]]
 
 [[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
@@ -35,13 +39,6 @@
 
 [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
-[[Beginners - The Joy and Transformative Power of Lifelong Learning Notes\|Beginners - The Joy and Transformative Power of Lifelong Learning Notes]]
-
-[[1x - References/11.02 - References - Quotes/Sit round candle light and talk about their inner lives\|Sit round candle light and talk about their inner lives]]
-
-[[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
-
-[[1x - References/11.03 - References - Ideas/Deconstruct cool stuff\|Deconstruct cool stuff]]
 
 
 
