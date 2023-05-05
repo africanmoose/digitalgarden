@@ -10,7 +10,7 @@ I write when the spirit moves me, and the spirit moves me every day.”
 William Faulkner
 
 ## Reference
-[[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11.03 - References - Ideas/Do good quality Work\|Do good quality Work]]
