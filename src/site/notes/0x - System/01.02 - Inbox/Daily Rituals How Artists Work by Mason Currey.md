@@ -25,6 +25,7 @@
 - [[1x - References/11.05 - References - Persons/W. B. Yeats\|W. B. Yeats]] worked regularly at least 2hrs a day, and included walks in the woods and fishing in his daily routine. He also read for at least 2hrs a day in addition to his writing.
 - Wallace Stevens woke at 6:00 and read for 2 hours. He was super punctual. Then we went to work. He walked there and back and also walked on his lunch break, using the time to compose his poetry on teh back of envelopes that he always carried.
 - [[1x - References/11.05 - References - Persons/Frank Lloyd Wright\|Frank Lloyd Wright]] never seemed to work, but he did his work early in the morning, and much of that inside his head.
+- The prolific [[1x - References/11.05 - References - Persons/P G Wodehouse\|P G Wodehouse]] wrote more than 90 books in his career
 - 
 
 ### References
@@ -36,6 +37,7 @@
 - [[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
 - [[1x - References/11.02 - References - Quotes/Creativity is labor intensive - John Adams\|Creativity is labor intensive - John Adams]]
 - [[1x - References/11.02 - References - Quotes/Like a pauper but with lots of money - Pablo Picasso\|Like a pauper but with lots of money - Pablo Picasso]]
+- [[1x - References/11.02 - References - Quotes/Writing isnt hard work its a nightmare - Philip Roth\|Writing isnt hard work its a nightmare - Philip Roth]]
 
 ### Related
 - [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
