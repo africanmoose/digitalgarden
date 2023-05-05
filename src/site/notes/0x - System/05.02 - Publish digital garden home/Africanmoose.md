@@ -5,8 +5,8 @@
  
 
 ## Pic of the week
-![DSB_1635-malawi.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/DSB_1635-malawi.jpg)
-The crazy road up to Malawi's town named Livingstonia.
+![_DSC1529-karura.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC1529-karura.jpg)
+The forest in the middle of Nairobi city - Karura.
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
