@@ -17,12 +17,12 @@ The forest in the middle of Nairobi city - Karura.
 - [[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
 
 ## Interesting Persons
-- [[1x - References/11.05 - References - Persons/Helen Keller\|Helen Keller]]
 - [[1x - References/11.05 - References - Persons/Ryokan Taigu\|Ryokan Taigu]]
 - [[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
 - [[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]]
 - [[1x - References/11.05 - References - Persons/Haruki Murakami\|Haruki Murakami]]
+- [[1x - References/11.05 - References - Persons/Moondog\|Moondog]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
