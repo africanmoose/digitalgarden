@@ -12,7 +12,7 @@
 - He tried to write 2 hrs a day whether he wanted to or not. 
 
 ### References
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [poetry foundation](https://www.poetryfoundation.org/poets/william-butler-yeats)
 - [wikipedia](https://en.wikipedia.org/wiki/W._B._Yeats)
 
