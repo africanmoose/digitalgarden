@@ -32,15 +32,14 @@ The forest in the middle of Nairobi city - Karura.
 - [[1x - References/11.03 - References - Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
-- [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 - [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - Full list of all reviews: [[0x - System/05.02 - Publish digital garden home/Book reviews\|Book reviews]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - Processing _Music: A Very Short Introduction - Nicholas Cook_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
