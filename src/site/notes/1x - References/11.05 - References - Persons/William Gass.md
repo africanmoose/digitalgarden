@@ -8,18 +8,29 @@
 - american novelist and philosopher
 
 ### Details
-- 
+- He would rise early and write in teh morning till noon
+- Afternoons were taken up by academic duties - teaching philosophy.
+- Apparently he would go out every day and photograph for a couple of hours.
+- He said that he writes best when he is angry which is not good for his health.
 
 ### References
-- 
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Quotes
-- Chapter 154: William Gass
-Highlight
-Chapter progress: 100.0%
-Highlight: William Gass (b. 1924)Gass is an early riser. In a 1998 interview, he said that he works mostly in the morning, finishing his serious writing by noon. Afternoons are spent on his academic duties—in addition to writing fiction, he has taught philosophy for most of his career—and “other kinds of work which is more mechanical.” A colleague once asked Gass if he had any unusual writing habits:“No, sorry to be boring,” he sighed.… “How does your day begin?” “Oh, I go out and photograph for a couple of hours,” he said. “What do you photograph?” “The rusty, derelict, overlooked, downtrodden parts of the city. Filth and decay mainly,” he said in a nothing-much-to-it tone of voice, as casually dismissive as the wave of a hand. “You do this every day, photograph filth and decay?” “Most days.” “And then you write?” “Yes.” “And you don’t think that’s unusual?” “Not for me.”Gass has also said that he writes best when he’s angry, which can take a toll on his health over the course of long writing projects. (It took him twenty-five years to complete his 1995 novel, The Tunnel.) “I get very tense working, so I often have to get up and wander around the house,” he said in 1976. “It is very bad on my stomach. I have to be mad to be working well anyway, and then I am mad about the way things are going on the page in addition. My ulcer flourishes and I have to chew lots of pills. When my work is going well, I am usually sort of sick.”
-
-
+A colleague once asked Gass if he had any unusual writing habits:
+“No, sorry to be boring,” he sighed.… 
+“How does your day begin?” 
+“Oh, I go out and photograph for a couple of hours,” he said. 
+“What do you photograph?” 
+“The rusty, derelict, overlooked, downtrodden parts of the city. Filth and decay mainly,” he said in a nothing-much-to-it tone of voice, as casually dismissive as the wave of a hand. 
+“You do this every day, photograph filth and decay?” 
+“Most days.” 
+“And then you write?” 
+“Yes.” 
+“And you don’t think that’s unusual?”
+“Not for me.”
 
 ### Related
-- 
+- [[4x - Reading/41.01 - Reading - Book Notes/Writing Life long habit\|Writing Life long habit]]
+- [[1x - References/11.02 - References - Quotes/Writing isnt hard work its a nightmare - Philip Roth\|Writing isnt hard work its a nightmare - Philip Roth]]
+- [[1x - References/11.06 - References - Structure Notes/Notes on good writing\|Notes on good writing]]
