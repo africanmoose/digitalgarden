@@ -11,7 +11,7 @@
 Pablo Picasso
 
 ## Reference
-[[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11.02 - References - Quotes/Emotionally grounded people live realistically and simply\|Emotionally grounded people live realistically and simply]]
