@@ -18,7 +18,7 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/P._G._Wodehouse)
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Related
 - [[4x - Reading/41.01 - Reading - Book Notes/Writing Life long habit\|Writing Life long habit]]
