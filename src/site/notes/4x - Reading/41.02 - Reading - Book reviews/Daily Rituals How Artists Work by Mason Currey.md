@@ -29,10 +29,6 @@
 - I learned about the unusual photography habit of [[1x - References/11.05 - References - Persons/William Gass\|William Gass]]
 - [[1x - References/11.05 - References - Persons/Twyla Tharp\|Twyla Tharp]] dancer, choreographer, writer: She deliverabely limits her social life in order to create
 - [[1x - References/11.05 - References - Persons/Maira Kalman\|Maira Kalman]] clears her studio of any kind of distraction so she can focus.
-- 
-
-### References
-- 
 
 ### Quotes
 - [[1x - References/11.02 - References - Quotes/The great men keep working - Pritchett\|The great men keep working - Pritchett]]
@@ -46,3 +42,7 @@
 
 ### Related
 - [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+
+#### RSS Data
+<div class='date'>Fri, 5 May 2023 12:17:32 GMT</div>
+<div class='description'>Daily rituals - how Artists Work, by Mason Curry is an absolutely fascinating look at a diverse variety of artists....</div>
