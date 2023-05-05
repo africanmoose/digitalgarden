@@ -10,7 +10,7 @@
 - A finely calibrated daily routine allows us to make use of limited resources: time, energy, will power even when we are in a non productive mood
 
 ### References
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Quotes
 - "But one’s daily routine is also a choice, or a whole series of choices. In the right hands, it can be a finely calibrated mechanism for taking advantage of a range of limited resources: time (the most limited resource of all) as well as willpower, self-discipline, optimism. A solid routine fosters a well-worn groove for one’s mental energies and helps stave off the tyranny of mood"
