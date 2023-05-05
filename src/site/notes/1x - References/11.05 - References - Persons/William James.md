@@ -15,7 +15,7 @@
 - Words he wrote about the miserableness of indecision were from his own life experience.
 
 ### References
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [wikipedia](https://en.wikipedia.org/wiki/William_James)
 
 ### Quotes
