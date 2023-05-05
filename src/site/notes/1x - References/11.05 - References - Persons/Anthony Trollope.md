@@ -17,13 +17,13 @@
 
 ### References
 - [[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/Habit Change - Leo Babauta\|Habit Change - Leo Babauta]]
 - [[1x - References/11.02 - References - Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
 - [[4x - Reading/41.01 - Reading - Book Notes/Writing Life long habit\|Writing Life long habit]]
-- [[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 #### RSS Data
 <div class='date'>
