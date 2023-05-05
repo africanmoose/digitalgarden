@@ -10,7 +10,7 @@
 John Adams (b. 1947)
 
 ## Reference
-[[0x - System/01.02 - Inbox/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+[[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 
 ## Related
 - [[1x - References/11.03 - References - Ideas/Daily routine is a mechanism for productivity\|Daily routine is a mechanism for productivity]]
