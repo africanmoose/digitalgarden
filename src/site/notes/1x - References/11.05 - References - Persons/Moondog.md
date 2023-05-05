@@ -16,6 +16,7 @@
 - By the time he died in 1999 he had written 80 symphonies, 300 rounds and countless other works. His music was sung by Janis Joplin and Julie Andrews
 - He changed his name to 'moondog' in honor of a bulldog he used to own who would howl at the moon
 - cool song: [youtube](https://www.youtube.com/watch?v=XNPCqUpoo8I) written in honor of charlie parker the famous jazz musician
+- a whole hour of moon dog composed music here [youtube](https://www.youtube.com/watch?v=spmydmM5Xx4)
 
 ### References
 - [article in New York Times](https://www.nytimes.com/2007/10/28/arts/music/28stra.html)
