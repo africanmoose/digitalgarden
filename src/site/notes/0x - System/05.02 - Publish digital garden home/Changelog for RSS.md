@@ -3,6 +3,8 @@
 ---
 
 
+[[1x - References/11.05 - References - Persons/Henry David Thoreau\|Henry David Thoreau]]
+
 [[1x - References/11.05 - References - Persons/Moondog\|Moondog]]
 
 [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
