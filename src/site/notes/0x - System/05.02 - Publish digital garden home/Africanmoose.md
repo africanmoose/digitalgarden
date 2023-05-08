@@ -37,15 +37,15 @@ Inside Hell's gate national park is the most wondrous hike into a box canyon nam
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 - [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman\|Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman]]
 - Full list of all reviews: [[0x - System/05.02 - Publish digital garden home/Book reviews\|Book reviews]]
 
 ## Work in Progress
-- Processing _Music: A Very Short Introduction - Nicholas Cook_
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 - Reading _The book of beautiful questions - Warren Berger_
-- Reading _Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time - Richard Feynman_
-- Reading _In a Sunburned Country - Bill Bryson_
+- Reading _Hell Yeah or no - Derek Sivers_
+- Reading _The Complete Guide to Motivation - Scott Young_
 
 ## Interesting Ideas
 - [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
