@@ -5,8 +5,8 @@
  
 
 ## Pic of the week
-![_DSC1529-karura.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC1529-karura.jpg)
-The forest in the middle of Nairobi city - Karura.
+![02504_5_6_7_8-karura.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/02504_5_6_7_8-karura.jpg)
+Inside Hell's gate national park is the most wondrous hike into a box canyon named Ol Njorowa gorge. 
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
@@ -17,12 +17,12 @@ The forest in the middle of Nairobi city - Karura.
 - [[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
 
 ## Interesting Persons
-- [[1x - References/11.05 - References - Persons/Ryokan Taigu\|Ryokan Taigu]]
 - [[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
 - [[3x - Spiritual/31.08 - Spiritual - People/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11.05 - References - Persons/Anthony Trollope\|Anthony Trollope]]
 - [[1x - References/11.05 - References - Persons/Haruki Murakami\|Haruki Murakami]]
 - [[1x - References/11.05 - References - Persons/Moondog\|Moondog]]
+- [[1x - References/11.05 - References - Persons/Henry David Thoreau\|Henry David Thoreau]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
