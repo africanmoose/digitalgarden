@@ -25,3 +25,7 @@
 
 ### Related
 - [[4x - Reading/41.01 - Reading - Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+
+#### RSS Data
+<div class='date'>Thu, 11 May 2023 12:17:32 GMT</div>
+<div class='description'>Erasmus Desiderus - Prince of Humanities</div>
