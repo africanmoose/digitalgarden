@@ -23,6 +23,7 @@ Inside Hell's gate national park is the most wondrous hike into a box canyon nam
 - [[1x - References/11.05 - References - Persons/Haruki Murakami\|Haruki Murakami]]
 - [[1x - References/11.05 - References - Persons/Moondog\|Moondog]]
 - [[1x - References/11.05 - References - Persons/Henry David Thoreau\|Henry David Thoreau]]
+- [[1x - References/11.05 - References - Persons/Desiderius Erasmus\|Desiderius Erasmus]]
 
 ## Currently Learning About
 - [[1x - References/11.03 - References - Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
