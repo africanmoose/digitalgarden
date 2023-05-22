@@ -5,8 +5,8 @@
  
 
 ## Pic of the week
-![02504_5_6_7_8-karura.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/02504_5_6_7_8-karura.jpg)
-Inside Hell's gate national park is the most wondrous hike into a box canyon named Ol Njorowa gorge. 
+![_DSC3634-elgon.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC3634-elgon.jpg)
+Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16km hike that was rather fabulous up to peak Koitoboss at 4,222m.
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
@@ -45,8 +45,8 @@ Inside Hell's gate national park is the most wondrous hike into a box canyon nam
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 - Reading _The book of beautiful questions - Warren Berger_
-- Reading _Hell Yeah or no - Derek Sivers_
-- Reading _The Complete Guide to Motivation - Scott Young_
+- Processing _Hell Yeah or no - Derek Sivers_
+- Processing _The Complete Guide to Motivation - Scott Young_
 
 ## Interesting Ideas
 - [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
