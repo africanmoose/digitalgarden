@@ -44,7 +44,7 @@ Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16k
 ## Work in Progress
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
-- Reading _The book of beautiful questions - Warren Berger_
+- Processing  [[0x - System/01.02 - Inbox/The book of Beautiful Questions\|The book of Beautiful Questions]]
 - Processing _Hell Yeah or no - Derek Sivers_
 - Processing _The Complete Guide to Motivation - Scott Young_
 
