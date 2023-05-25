@@ -14,6 +14,7 @@
 
 ### Details
 - Humans naturally know how to ask questions when they are young: [[1x - References/11.03 - References - Ideas/Children ask 300 questions a day\|Children ask 300 questions a day]]
+- [[1x - References/11.03 - References - Ideas/The more you know the less you feel the need to ask\|The more you know the less you feel the need to ask]]
 
 ### References
 - 
