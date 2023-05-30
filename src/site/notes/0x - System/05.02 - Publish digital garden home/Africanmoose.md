@@ -5,8 +5,8 @@
  
 
 ## Pic of the week
-![_DSC3634-elgon.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC3634-elgon.jpg)
-Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16km hike that was rather fabulous up to peak Koitoboss at 4,222m.
+![_DSC3649-elgon.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC3649-elgon.jpg)
+Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16km hike that was rather fabulous up to peak Koitoboss at 4,222m. 
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
