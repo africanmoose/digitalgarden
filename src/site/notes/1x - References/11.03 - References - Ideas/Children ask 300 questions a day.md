@@ -10,7 +10,7 @@
 - The ability to ask questions is not simple - it is complex to figure out what you do not know and formulate a question to figure out how to remedy that.
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions\|The book of Beautiful Questions]]
+- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Quotes
 - "As the Harvard University–based child psychologist Paul Harris points out, young children discover early on that the information they seek can be easily extracted from other human beings,5 merely by using that certain combination of words and vocal inflection that forms a question."
