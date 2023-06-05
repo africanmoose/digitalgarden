@@ -4,17 +4,17 @@
 
 
 ### Summary
-- 
+- When others ask for advice, we generally are able to give sound advice. However, when we are making the same decision for ourselves we tend to make foolish decisions
 
 ### Details
-- 
+- We can mitigate this effect by asking ourselves: If my friend had to make this decision, what advice would i give him?
 
 ### References
-- 
-
-### Quotes
-- A simple yet effective way to adopt a fresh perspective is by asking: If my friend had to make this decision, what advice would I give? The “advice” question is championed by many decision experts, including author and Duke University–based psychologist Dan Ariely, who explains that, strange as it might seem, we give more sensible advice to others than we give ourselves.
-
+- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Related
-- 
+- [[1x - References/11.03 - References - Ideas/Decision tool - What would my future self like\|Decision tool - What would my future self like]]
+- [[1x - References/11.03 - References - Ideas/Dont make decisions by following your gut instinct\|Dont make decisions by following your gut instinct]]
+- [[1x - References/11.03 - References - Ideas/Never judge a decision by its outcome\|Never judge a decision by its outcome]]
+- [[1x - References/11.03 - References - Ideas/Broadbracket your decisions\|Broadbracket your decisions]]
+- [[1x - References/11.03 - References - Ideas/Affect Heuristic - decisions by emotion\|Affect Heuristic - decisions by emotion]]
