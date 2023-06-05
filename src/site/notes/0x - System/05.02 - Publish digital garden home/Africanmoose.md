@@ -9,12 +9,12 @@
 Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16km hike that was rather fabulous up to peak Koitoboss at 4,222m. 
 
 ## Interesting Quotes
-- [[1x - References/11.02 - References - Quotes/The best people want to know if they are right - John Cleese\|The best people want to know if they are right - John Cleese]]
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
 - [[1x - References/11.02 - References - Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 - [[1x - References/11.02 - References - Quotes/You are not special and not exceptional - everyone is - David McCullough\|You are not special and not exceptional - everyone is - David McCullough]]
 - [[1x - References/11.03 - References - Ideas/Do not spoil what you have by desiring what you have not - Epicurus\|Do not spoil what you have by desiring what you have not - Epicurus]]
 - [[1x - References/11.02 - References - Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
+- [[1x - References/11.02 - References - Quotes/Museums are custodians of epiphanies - George Lois\|Museums are custodians of epiphanies - George Lois]]
 
 ## Interesting Persons
 - [[1x - References/11.05 - References - Persons/Philip Tetlock\|Philip Tetlock]]
