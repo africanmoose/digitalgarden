@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/begin-badly-anywhere/","title":"Begin badly anywhere","dgShowBacklinks":false}
+---
+
+
+### Summary
+- Better to begin badly than not to begin at all
+- Better to begin anywhere than wait for the perfect stop
+- Better to being with what we know now than wait for more
+
+### Details
+- Researh online can go on forever so ask: "what can i do with what i have?"
+- Our first idea doesnt have to be good. It will be revised as time goes on.
+- Ask "What if i lower the bar? "
+
+### References
+- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+
+### Quotes
+- the maverick composer John Cage: “Begin anywhere.”
+
+### Related
+- [[1x - References/11.03 - References - Ideas/Do good quality Work\|Do good quality Work]]
+- [[1x - References/11.02 - References - Quotes/The harder i work the luckier i get - Samuel Goldwyn\|The harder i work the luckier i get - Samuel Goldwyn]]
+- [[3x - Spiritual/33.03 - Spiritual - Ministry groups/Jah judges based on work not results\|Jah judges based on work not results]]
+- [[1x - References/11.02 - References - Quotes/The great men keep working - Pritchett\|The great men keep working - Pritchett]]
