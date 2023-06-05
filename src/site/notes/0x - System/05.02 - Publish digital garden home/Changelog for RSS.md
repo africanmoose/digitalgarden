@@ -3,6 +3,8 @@
 ---
 
 
+[[1x - References/11.02 - References - Quotes/Museums are custodians of epiphanies - George Lois\|Museums are custodians of epiphanies - George Lois]]
+
 [[1x - References/11.05 - References - Persons/Henry David Thoreau\|Henry David Thoreau]]
 
 [[1x - References/11.05 - References - Persons/Moondog\|Moondog]]
@@ -31,15 +33,7 @@
 
 [[4x - Reading/41.02 - Reading - Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 
-[[1x - References/11.03 - References - Ideas/Processing more important than motivation for remembering information\|Processing more important than motivation for remembering information]]
 
-[[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
-
-[[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
-
-[[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
-
-[[4x - Reading/41.01 - Reading - Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 
 
