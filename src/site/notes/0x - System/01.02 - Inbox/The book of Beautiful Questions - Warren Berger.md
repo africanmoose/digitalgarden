@@ -20,12 +20,21 @@
 - [[1x - References/11.03 - References - Ideas/Dont make decisions by following your gut instinct\|Dont make decisions by following your gut instinct]]
 - [[1x - References/11.03 - References - Ideas/How to verify claims\|How to verify claims]]
 - [[1x - References/11.03 - References - Ideas/Dont define solutions in binary terms\|Dont define solutions in binary terms]]
+- [[1x - References/11.03 - References - Ideas/We give better advice to others than to ourselves\|We give better advice to others than to ourselves]]
+- [[1x - References/11.03 - References - Ideas/Questions to confront fear of failure\|Questions to confront fear of failure]]
+- A question to ask when faced with a long term decision: [[1x - References/11.03 - References - Ideas/Which option will help me to develop\|Which option will help me to develop]]
+- [[1x - References/11.03 - References - Ideas/Should you fire a person who just made an expensive mistake\|Should you fire a person who just made an expensive mistake]]? Learn from IBM chief and an employee who cost the company $10 million.
+- [[1x - References/11.03 - References - Ideas/Creativity is yoga for the brain\|Creativity is yoga for the brain]]
+- [[1x - References/11.03 - References - Ideas/Creativity based on inspiration from others\|Creativity based on inspiration from others]]
+- Give yourself permission to [[1x - References/11.03 - References - Ideas/Begin badly anywhere\|Begin badly anywhere]]
+- [[1x - References/11.03 - References - Ideas/Use questions to elicit feedback and criticism\|Use questions to elicit feedback and criticism]]
 
 ### References
 - 
 
 ### Quotes
-- 
+- [[1x - References/11.02 - References - Quotes/Museums are custodians of epiphanies - George Lois\|Museums are custodians of epiphanies - George Lois]]
+- [[1x - References/11.02 - References - Quotes/The only way to improve is to get negative feedback - Adam Grant\|The only way to improve is to get negative feedback - Adam Grant]]
 
 ### Related
 
