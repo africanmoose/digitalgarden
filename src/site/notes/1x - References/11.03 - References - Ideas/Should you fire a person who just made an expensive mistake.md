@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/should-you-fire-a-person-who-just-made-an-expensive-mistake/","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/should-you-fire-a-person-who-just-made-an-expensive-mistake/","title":"Should you fire a person who just made an expensive mistake","dgShowBacklinks":false}
 ---
 
 
