@@ -28,6 +28,10 @@
 - [[1x - References/11.03 - References - Ideas/Creativity based on inspiration from others\|Creativity based on inspiration from others]]
 - Give yourself permission to [[1x - References/11.03 - References - Ideas/Begin badly anywhere\|Begin badly anywhere]]
 - [[1x - References/11.03 - References - Ideas/Use questions to elicit feedback and criticism\|Use questions to elicit feedback and criticism]]
+- [[1x - References/11.03 - References - Ideas/To remain creative you must think like a novice\|To remain creative you must think like a novice]]
+- [[1x - References/11.03 - References - Ideas/How to use questions that foster deeper connections\|How to use questions that foster deeper connections]]
+- [[1x - References/11.03 - References - Ideas/Questions that lead to deeper conversations\|Questions that lead to deeper conversations]]
+- 
 
 ### References
 - 
