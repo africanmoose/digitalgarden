@@ -11,7 +11,7 @@
 - What is important is that what is borrowed is compunded with our own experiences, thoughts and ideas and then expressed in a new way
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Quotes
 - “What is at issue is not the fact of ‘borrowing’ or ‘imitating,’19 of being ‘derivative,’ being ‘influenced,’ but what one does with what is borrowed or derived,” wrote the neurologist and author Oliver Sacks in his essay “The Creative Self.” It’s all for the good, as long as the borrower “compounds it with one’s own experiences and thoughts and feelings,” and “expresses it in a new way, one’s own.”
