@@ -10,7 +10,7 @@
 - We dont know as much as we think we do
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Quotes
 - If fear is the first enemy of questioning, running a close second is knowledge. The more you know, the less you feel the need to ask. But the problem here is twofold. First, we can easily fall into the “trap of expertise,”9 wherein knowledgeable people begin to rely too much on what they already know and fail to keep expanding upon and updating that knowledge. This is particularly perilous in times of rapid change. And there’s another problem with depending too much on our existing knowledge: To put it bluntly, we don’t know as much as we think we do.
