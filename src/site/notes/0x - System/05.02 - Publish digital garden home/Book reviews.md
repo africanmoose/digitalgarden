@@ -29,3 +29,4 @@
 - [[4x - Reading/41.02 - Reading - Book reviews/The Art of Thinking Clearly by Rolf Dobelli\|The Art of Thinking Clearly by Rolf Dobelli]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 - [[4x - Reading/41.02 - Reading - Book reviews/How Powerpoint makes you stupid - Franck Frommer\|How Powerpoint makes you stupid - Franck Frommer]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman\|Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman]]
