@@ -5,8 +5,8 @@
  
 
 ## Pic of the week
-![_DSC3649-elgon.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC3649-elgon.jpg)
-Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16km hike that was rather fabulous up to peak Koitoboss at 4,222m. 
+![_DSC0605-naivasha.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC0605-naivasha.jpg)
+Beautiful sunset in Naivasha, amidst the yellow fever trees. 
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
@@ -33,20 +33,21 @@ Mt Elgon, to the West of Kenya is a place of many hidden surprises. We did a 16k
 - [[1x - References/11.03 - References - Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
-- [[4x - Reading/41.02 - Reading - Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 - [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
-- [[4x - Reading/41.02 - Reading - Book reviews/Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman\|Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik\|Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik]]
 - Full list of all reviews: [[0x - System/05.02 - Publish digital garden home/Book reviews\|Book reviews]]
 
 ## Work in Progress
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
-- Reading _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
-- Processing  [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
-- Processing _Hell Yeah or no - Derek Sivers_
+- Processing _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 - Processing _The Complete Guide to Motivation - Scott Young_
+- Processing _Hell yeah or no_
+- Processing _The Rosetta Stone - THe writing fo the gods_
+- Processing _This is your mind on plants - Michael Pollen_
 
 ## Interesting Ideas
 - [[1x - References/11.02 - References - Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
