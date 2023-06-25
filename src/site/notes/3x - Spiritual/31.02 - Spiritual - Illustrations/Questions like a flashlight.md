@@ -10,7 +10,7 @@
 - if we formulate better questions, it can illuminate a larger area of darkness
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Questioning yourself means you are open to growth\|Questioning yourself means you are open to growth]]
