@@ -10,7 +10,7 @@
 - We can mitigate this effect by asking ourselves: If my friend had to make this decision, what advice would i give him?
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Decision tool - What would my future self like\|Decision tool - What would my future self like]]
