@@ -10,7 +10,7 @@
 Creative advertising legend George Lois
 
 ## Reference
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ## Related
 - [[1x - References/11.03 - References - Ideas/Collecting new ideas for creativity\|Collecting new ideas for creativity]]
