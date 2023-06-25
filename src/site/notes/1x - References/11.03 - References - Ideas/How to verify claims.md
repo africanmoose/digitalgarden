@@ -17,7 +17,7 @@
 	- Which of the conflicting views has more evidence behind it?
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Social proof or herd instinct\|Social proof or herd instinct]]
