@@ -10,7 +10,7 @@
 Adam Grant 
 
 ## Reference
-[[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+[[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ## Related
 - [[4x - Reading/41.01 - Reading - Book Notes/Originals How Non-Conformists Move the World - Adam Grant\|Originals How Non-Conformists Move the World - Adam Grant]]
