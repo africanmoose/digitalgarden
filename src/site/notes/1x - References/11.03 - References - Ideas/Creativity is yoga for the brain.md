@@ -10,7 +10,7 @@
 - Research shows that even doing one small creative task can add to your happiness and sense of well being.
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Quotes
 - As the productivity author Phyllis Korkki puts it, “Creativity is yoga for the brain.”5
