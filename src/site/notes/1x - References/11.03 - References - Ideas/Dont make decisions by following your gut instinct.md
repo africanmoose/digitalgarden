@@ -10,7 +10,7 @@
 - Cognitive biases may mislead us.
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Quotes
 -  Katherine Milkman of the University of Pennsylvania’s Wharton School, who has researched and written extensively on decision-making, says: “The science simply doesn’t support the value of following your gut1—in fact, it supports exactly the opposite approach to decision-making.” 
