@@ -14,7 +14,7 @@
 - Ask "What if i lower the bar? "
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Quotes
 - the maverick composer John Cage: “Begin anywhere.”
