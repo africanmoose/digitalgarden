@@ -10,7 +10,7 @@
 - The employee expected to be fired, but IBM chief Tom Watson responded: "Fire you? I just spent $10 million educating you."
 
 ### References
-- [[0x - System/01.02 - Inbox/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 ### Related
 - [[1x - References/11.02 - References - Quotes/He who makes no mistakes seldom makes anything - Francois Louw\|He who makes no mistakes seldom makes anything - Francois Louw]]
