@@ -15,7 +15,7 @@
 
 
 ### References
-- [[0x - System/01.02 - Inbox/01.04 - Notes to process/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Think about before making a decision\|Think about before making a decision]]
