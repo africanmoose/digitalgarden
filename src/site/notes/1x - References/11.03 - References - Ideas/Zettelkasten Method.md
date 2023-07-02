@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zettelkasten-method/"}
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/zettelkasten-method/","title":"Zettelkasten Method","dgShowBacklinks":false}
 ---
 
 
