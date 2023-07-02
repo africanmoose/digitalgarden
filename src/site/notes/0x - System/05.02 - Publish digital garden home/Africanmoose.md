@@ -33,20 +33,21 @@ Beautiful sunset in Naivasha, amidst the yellow fever trees.
 - [[1x - References/11.03 - References - Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
-- [[4x - Reading/41.02 - Reading - Book reviews/Oil - A Beginners Guide - Vacliv Smil\|Oil - A Beginners Guide - Vacliv Smil]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 - [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
 - [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 - [[4x - Reading/41.02 - Reading - Book reviews/Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik\|Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik]]
+- [[4x - Reading/41.02 - Reading - Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 - Full list of all reviews: [[0x - System/05.02 - Publish digital garden home/Book reviews\|Book reviews]]
 
 ## Work in Progress
+- Processing [[0x - System/01.02 - Inbox/01.04 - Notes to process/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
+- Reading _Why Smart People do Stupid Things_
 - Processing _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
 - Processing _The Complete Guide to Motivation - Scott Young_
-- Processing _Hell yeah or no_
-- Processing _The Rosetta Stone - THe writing fo the gods_
+- Processing _The Rosetta Stone - The writing of the gods_
 - Processing _This is your mind on plants - Michael Pollen_
 
 ## Interesting Ideas
