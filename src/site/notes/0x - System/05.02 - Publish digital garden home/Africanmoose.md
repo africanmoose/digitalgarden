@@ -5,8 +5,7 @@
  
 
 ## Pic of the week
-![_DSC0605-naivasha.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/_DSC0605-naivasha.jpg)
-Beautiful sunset in Naivasha, amidst the yellow fever trees. 
+![2023-07-15 kid getting water.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/2023-07-15%20kid%20getting%20water.jpg)A young boy gets water for the family
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
@@ -64,6 +63,6 @@ Beautiful sunset in Naivasha, amidst the yellow fever trees.
 [Africanmoose Photography](http://Africanmoose.com)
 
 ## RSS feed (experimental)
-Copy and paste this URL into your RSS Feed reader
-[RSS feed](https://api.apify.com/v2/actor-tasks/fathomable_moss~africanmoose-zettelkasten/runs/last/dataset/items?token=apify_api_rf2o9KCrQy4KWxAHMjQqwx1fgNhMFP0YQL72&format=rss)
+Copy and paste this URL into your RSS Feed reader (If you had done this before July 3rd, 2023, please delete that one and use this one instead:)
+[RSS feed](https://rssproxy.migor.org/api/w2f?v=0.1&url=https%3A%2F%2Fafricanmoose.netlify.app%2F&link=.%2Fa%5B1%5D&context=%2F%2Fdiv%5B1%5D%2Ful%2Fli&re=none&out=atom&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYW5vbnltb3VzIiwiaWF0IjoxNjc1MTA1OTQ2fQ.OjesabTBFfq8PUwQKkj_oSm6zKrRDAgo-nQH9jx6Tmw)
 
