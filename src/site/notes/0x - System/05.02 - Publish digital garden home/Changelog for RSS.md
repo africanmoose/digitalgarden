@@ -3,6 +3,11 @@
 ---
 
 
+- this is the rss feed link
+- (https://api.apify.com/v2/actor-tasks/fathomable_moss~africanmoose-zettelkasten/runs/last/dataset/items?token=apify_api_rf2o9KCrQy4KWxAHMjQqwx1fgNhMFP0YQL72&format=rss)
+- for now shifting over to using rss proxy: https://rssproxy.migor.org/api/w2f?v=0.1&url=https%3A%2F%2Fafricanmoose.netlify.app%2F&link=.%2Fa%5B1%5D&context=%2F%2Fdiv%5B1%5D%2Ful%2Fli&re=none&out=atom&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYW5vbnltb3VzIiwiaWF0IjoxNjc1MTA1OTQ2fQ.OjesabTBFfq8PUwQKkj_oSm6zKrRDAgo-nQH9jx6Tmw
+- less work to maintain
+
 [[4x - Reading/41.02 - Reading - Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 
 [[1x - References/11.02 - References - Quotes/Museums are custodians of epiphanies - George Lois\|Museums are custodians of epiphanies - George Lois]]
