@@ -15,7 +15,9 @@
 ### Details
 - [[1x - References/11.03 - References - Ideas/Single most important factor in success is not intelligence\|Single most important factor in success is not intelligence]]
 - [[1x - References/Studying to pass the exam vs to learn\|Studying to pass the exam vs to learn]] or 'planners' vs 'experts'. Smart notes are a tool for the latter
-- 
+- Writing notes is important, because [[1x - References/11.03 - References - Ideas/Writing is thinking\|Writing is thinking]]
+- [[1x - References/11.03 - References - Ideas/Principle of Atomicity in Notetaking\|Principle of Atomicity in Notetaking]]
+- [[1x - References/11.03 - References - Ideas/Feedback loops critical for growth and learning\|Feedback loops critical for growth and learning]]
 
 ### References
 - [good reads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
