@@ -3,6 +3,8 @@
 ---
 
 
+![How to Take Smart Notes - Cover.png](/img/user/0x%20-%20System/01.02%20-%20Inbox/01.04%20-%20Notes%20to%20process/How%20to%20Take%20Smart%20Notes%20-%20Cover.png)
+
 ### Summary
 - A nice overview of [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|Zettelkasten Method]] for taking notes. Ahrens takes the time to explain things from a high level point of view rather than a specific implememtation. If you are interested in Zettelkasten notes, this is a highly recommended read.
 
@@ -20,7 +22,10 @@
 - [[1x - References/11.03 - References - Ideas/Feedback loops critical for growth and learning\|Feedback loops critical for growth and learning]]
 - [[1x - References/11.03 - References - Ideas/Flexible focus better than relentless focus\|Flexible focus better than relentless focus]]
 - [[1x - References/11.03 - References - Ideas/Following the rules may impede expertise\|Following the rules may impede expertise]]
-- 
+- [[1x - References/11.03 - References - Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
+- [[1x - References/11.03 - References - Ideas/Rereading and underlining is useless\|Rereading and underlining is useless]]
+- [[1x - References/11.03 - References - Ideas/Learning requires work\|Learning requires work]]
+
 ### References
 - [good reads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
 
