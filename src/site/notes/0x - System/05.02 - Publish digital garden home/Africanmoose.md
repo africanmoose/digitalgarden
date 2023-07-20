@@ -5,7 +5,7 @@
  
 
 ## Pic of the week
-![2023-07-15 kid getting water.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/2023-07-15%20kid%20getting%20water.jpg)A young boy gets water for the family
+![2023-07-15 kid getting water.jpg](/img/user/0x%20-%20System/05.04%20-%20Publish%20digital%20garden%20resource%20folder/2023-07-15%20kid%20getting%20water.jpg)A young boy gets water for the family in Ngere, Kano Plains.
 
 ## Interesting Quotes
 - [[1x - References/11.02 - References - Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
