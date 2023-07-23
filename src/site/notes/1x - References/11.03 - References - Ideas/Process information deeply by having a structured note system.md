@@ -15,12 +15,17 @@
 	- what are the implications of this
 	- why does it make sense?
 	- what are the steps i need to take to solve this problem?
+- Using [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|Zettelkasten Method]] can help process since the zettelkasten becomes a long term memory resource, but the act of processing it into zettelkasten allows our brain to absorb the deeper understanding of the material.
 
 ### References
 - [[4x - Reading/41.01 - Reading - Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]] 
+- [[0x - System/01.02 - Inbox/01.04 - Notes to process/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 
 ### Related
 - [[1x - References/11.03 - References - Ideas/Process information to make it useful\|Process information to make it useful]]
 - [[1x - References/11.03 - References - Ideas/Processing more important than motivation for remembering information\|Processing more important than motivation for remembering information]]
 - [[1x - References/11.03 - References - Ideas/Barbell Method of reading\|Barbell Method of reading]]
 - [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|Zettelkasten Method]]
+
+
+
