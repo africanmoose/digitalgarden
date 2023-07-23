@@ -41,7 +41,7 @@
 - Full list of all reviews: [[0x - System/05.02 - Publish digital garden home/Book reviews\|Book reviews]]
 
 ## Work in Progress
-- Processing [[0x - System/01.02 - Inbox/01.04 - Notes to process/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+
 - Reading _Nose dive  A Field Guide to the World's Smells - Harold McGee_
 - Reading _Why Smart People do Stupid Things_
 - Processing _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
@@ -57,6 +57,13 @@
 - [[1x - References/11.03 - References - Ideas/Make your habits ridiculously small\|Make your habits ridiculously small]]
 - [[1x - References/11.03 - References - Ideas/How did the expert reach his conclusion\|How did the expert reach his conclusion]]
 - [[1x - References/11.03 - References - Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
+- [[1x - References/11.03 - References - Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
+
+## Currently listening to
+- [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3)
+- Theme song for MIB International [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I)
+- French soul musician [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro)
+- [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
 
 ## Africanmoose Stuff
 [Africanmoose](https://africanmoose.blogspot.com)
