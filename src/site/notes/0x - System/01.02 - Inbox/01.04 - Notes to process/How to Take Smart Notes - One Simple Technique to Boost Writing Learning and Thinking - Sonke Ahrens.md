@@ -25,6 +25,11 @@
 - [[1x - References/11.03 - References - Ideas/Writing notes in your own words has power\|Writing notes in your own words has power]]
 - [[1x - References/11.03 - References - Ideas/Rereading and underlining is useless\|Rereading and underlining is useless]]
 - [[1x - References/11.03 - References - Ideas/Learning requires work\|Learning requires work]]
+- [[1x - References/11.03 - References - Ideas/Process information deeply by having a structured note system\|Process information deeply by having a structured note system]]
+- [[1x - References/11.03 - References - Ideas/It is much better to learn from the experience of others than from our own\|It is much better to learn from the experience of others than from our own]]
+- [[1x - References/11.03 - References - Ideas/Sudden insights often the result of long-term thinking and study\|Sudden insights often the result of long-term thinking and study]]
+- [[1x - References/11.03 - References - Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
+- [[1x - References/11.03 - References - Ideas/Best predictor of future behaviour is past behaviour\|Best predictor of future behaviour is past behaviour]]
 
 ### References
 - [good reads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
@@ -35,4 +40,4 @@
 ### Related
 - [[1x - References/11.03 - References - Ideas/Zettelkasten Method\|Zettelkasten Method]]
 - [[1x - References/11.06 - References - Structure Notes/Zettelkasten Principles\|Zettelkasten Principles]]
-- 
+
