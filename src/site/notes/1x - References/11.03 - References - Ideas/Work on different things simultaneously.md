@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-03-references-ideas/work-on-different-things-simultaneously/","title":"Work on different things simultaneously","dgShowBacklinks":false}
+---
+
+
+### Summary
+- When we work on multiple things at the same time, and we get stuck on one, we can work on a different thing and then we can come back to the original one later on. That way we will always be working
+
+### Details
+- 
+
+### References
+- [[0x - System/01.02 - Inbox/01.04 - Notes to process/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+
+### Quotes
+-  “When I am stuck for one moment, I leave it and do something else.” When he was asked what else he did when he was stuck, his answer was: “Well, writing other books. I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any mental blockages.” (Luhmann, Baecker, and Stanitzek 1987, 125–55)
+
+### Related
+- [[1x - References/11.03 - References - Ideas/Inspiration and creativity\|Inspiration and creativity]]
+- [[1x - References/11.03 - References - Ideas/Limit work in progress\|Limit work in progress]]
+- [[1x - References/11.03 - References - Ideas/Learning requires work\|Learning requires work]]
