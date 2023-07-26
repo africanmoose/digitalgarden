@@ -1,0 +1,99 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/16-bethel/16-06-bethel-training-notes/individual-training-notes/","title":"16.06 - Bethel - Individual Training Notes"}
+---
+
+16.06 - Bethel - Individual Training Notes
+
+## Alison class on supervising others
+
+### setting expectations
+1. define requirements
+- tie into org goals
+- key parts to teh task
+- end result look like?
+- when employee report back
+- 5w's and h: who, what, when, where, why and how
+- can put expectations in writing
+ 
+2. identify opportunities for improvement and growth
+- encourage employee to grow
+- provide support
+- try new things
+
+3. discuss teh requirements
+4. put it in writing
+
+### Setting goals
+SMART: specific, measureable, achievable, relevant, timed
+three Ps: positive, personal, possible (within my control)
+help others set goals
+ - set own goals first
+ - in line iwth teh organization
+ - ask them to come prepared with some ideas (org, department, personal)
+ - ask them to write down
+ - 
+
+### assigning work
+-5Ws and H
+- what is the task , when is it due, how,  explain what the end product will look like
+- orders: no room for guesswork, used only for emergency
+- requests: leave employee room for interpretation
+- suggestions: allow employee to chose
+- dictatorial approach
+    - little job satisfaction
+    - good for urgent tasks
+    - tasks no one wants
+    - explain benefit
+- apple picking
+    - team member choses task from a pool
+    - more freedom
+    - employee choose task
+    - low priority task
+- collaborative approach
+    - team has a meeting
+    - team establish objectives
+    - most effective method, esp for mature team
+
+### degrees of delegation
+- delegation not giving power away
+- levels
+    - complete supervision: dangerous task, employee not familiar, has financial or legal implications
+    - partial supervision: good balance, supervisor monitors work, encourages growth by adding more levels of complexity
+    - complete independence: updates are important, employee does the task on their own
+
+### implementing delegation
+- delegating effectively allows to expand work able to deliver
+- decide to delegate
+    - help others grow: task should provide opportunity for growth
+    - some critical tasks may not be delegated
+- to whom to delegate?
+    - skills of employee, knowlege, attitidue
+    - do they need training? do we have resources? what is their work style? what are tehir long term goals
+    - what is their current workload?
+    - may take longer for them to complete the task than you do. be patient
+-provide instructions
+    - explain what is needed. let them know how much updates
+    - goals
+    - progress updates - agree on when feedback should be given.
+    - ask them to give a summary
+    - let them know you are available for feedback
+- not micromanage, but also monitor and support to make sure job is done correctly
+    - hold delegates to schedules
+    - ask for progress report
+    - help remove barriers impeding their taks
+    - only accept good quality work
+    - recognize and reward effort
+- troubleshooting
+    - delegate keeps coming with questions. they should not rely on you too much. show them how to find answers. ask them for recomendations when they have a problem. maybe they are not ready - ask seniour employee to assist
+    - another team member performing the task. talk to the delegate. suggest alternate resources.
+    - end result not what you expected. is it done incorrectly or just not how i would have done it. were orginail instructions incorrect?
+
+
+### provide feeback
+- feedback should be specific, timely, expressed directly, behaviour focused, actionable, helpful (STEBAH)
+- methods: direct praise or criticism (direct critisicm very unusual)
+- feedback sandwich (praise....criticism....praise) problem is that people expect teh criticism
+- open faced sandwich (praise....criticism).
+- 360 degree: feedback from all groups they interact with:
+- informal feedback: most often, quick and precise, through any media. not in front of group
+- formal feedback: documentation to identify strenghts and weaknesses. give plenty of notice, focused on long term.
