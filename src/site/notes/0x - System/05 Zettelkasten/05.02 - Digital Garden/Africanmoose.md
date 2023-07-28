@@ -5,7 +5,7 @@
  
 
 ## Pic of the week
-![[rho ophiuchi cloud.webp]]Some more James Webb telescope goodness: The Rho Ophiuchi cloud is a galactic nursery where stars are born. By galactic standards, it is quite close, 'only' 390 light years away.
+![[rho ophiuchi cloud.webp]]Some more James Webb telescope goodness: The Rho Ophiuchi cloud is a galactic nursery where stars are born. By galactic standards, it is quite close, 'only' 390 light years away. 
 
 
 ## Interesting Quotes
