@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-meaning-in-life-viktor-frankl/","title":"Find meaning in life - Viktor Frankl","dgShowBacklinks":false}
+---
+
+
+## Quote
+We must never forget that we may also find meaning in life weven when confronted with a hopeless situation, when facing a fate that cannot be changed." 
+
+## Author
+- viktor frankl, auschwitz survivor
+
+## Reference
+- [[0x - System/01 Index/01.02 Inbox/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+
+## Related
+- [[1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity\|Resilience in the face of adversity]]
+- [[3x - Spiritual/31 Notes/31.02 Illustrations/Mountain climbing like Jah providing assistance as we endure\|Mountain climbing like Jah providing assistance as we endure]]
