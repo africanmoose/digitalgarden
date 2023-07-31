@@ -11,13 +11,19 @@
 - One big point was regarding being willing to listen and change. Everyone (myself included) thinks that they listen to others and change, but the reality is that change is really hard.
 
 ### Details
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Dont take pride in your ignorance\|Dont take pride in your ignorance]]
+- [[1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity\|Resilience in the face of adversity]]
+- [[1x - References/11 Notes/11.03 Ideas/Set aside specific time to show gratitude\|Set aside specific time to show gratitude]]
+- [[1x - References/11 Notes/11.03 Ideas/Human connection makes your brain work better\|Human connection makes your brain work better]]
+- [[1x - References/11 Notes/11.03 Ideas/To be extraordinary is to be a deviant\|To be extraordinary is to be a deviant]]
+- How to [[1x - References/11 Notes/11.03 Ideas/Benefit from failure\|Benefit from failure]]
+- [[1x - References/11 Notes/11.03 Ideas/Be both reflective and reactive\|Be both reflective and reactive]], not too stagnant or acting without thinking
+- [[1x - References/11 Notes/11.03 Ideas/Develop a network of people who will give you honest feedback\|Develop a network of people who will give you honest feedback]]
 
 ### References
-- 
 
 ### Quotes
-- 
+- [[1x - References/11 Notes/11.02 Quotes/Find meaning in life - Viktor Frankl\|Find meaning in life - Viktor Frankl]]
 
 ### Related
 
