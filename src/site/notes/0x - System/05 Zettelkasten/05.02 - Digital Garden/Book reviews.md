@@ -20,7 +20,7 @@
 - [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese wisdom for a perfectly imperfect life]]
 - [[4x - Reading/41 Books/41.02 Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
-
+- [[4x - Reading/41 Books/41.02 Book reviews/Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik\|Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik]]
 
 ## Interesting but dont go out of your way
 - [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
