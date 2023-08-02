@@ -12,7 +12,7 @@
 - We can learn from our experiences by thinking about what is happening in our lives, and then act on what we learn going forward.
 
 ### References
-- [[0x - System/01 Index/01.02 Inbox/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+- [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Think first and answer later\|Think first and answer later]]
