@@ -10,7 +10,7 @@ We must never forget that we may also find meaning in life weven when confronted
 - viktor frankl, auschwitz survivor
 
 ## Reference
-- [[0x - System/01 Index/01.02 Inbox/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+- [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity\|Resilience in the face of adversity]]
