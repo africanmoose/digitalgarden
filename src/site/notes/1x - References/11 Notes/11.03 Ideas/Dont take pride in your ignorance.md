@@ -13,7 +13,7 @@
 - We may not need to become an expert in our area of ignorance, but we can at least have a general idea of where we should be.
 
 ### References
-- [[0x - System/01 Index/01.02 Inbox/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+- [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning skills takes time\|Learning skills takes time]]
