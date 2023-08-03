@@ -22,11 +22,6 @@
 - [[1x - References/11 Notes/11.03 Ideas/Caffeine improves cognitive output\|Caffeine improves cognitive output]]
 - [[1x - References/11 Notes/11.03 Ideas/Spotlight consciousness vs lantern consciousness\|Spotlight consciousness vs lantern consciousness]]
 
-### References
-- 
-
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Coffee is concentrated sunshine - Humboldt\|Coffee is concentrated sunshine - Humboldt]]
-
-### Related
 
