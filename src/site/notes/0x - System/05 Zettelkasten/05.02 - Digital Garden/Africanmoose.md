@@ -9,12 +9,13 @@
 
 
 ## Interesting Quotes
+- [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
+- [[1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear\|Be humble about what you know and confident about what you can learn - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
 - [[1x - References/11 Notes/11.02 Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 - [[1x - References/11 Notes/11.02 Quotes/You are not special and not exceptional - everyone is - David McCullough\|You are not special and not exceptional - everyone is - David McCullough]]
 - [[1x - References/11 Notes/11.03 Ideas/Do not spoil what you have by desiring what you have not - Epicurus\|Do not spoil what you have by desiring what you have not - Epicurus]]
 - [[1x - References/11 Notes/11.02 Quotes/I write when the spirit moves me - William Faulkner\|I write when the spirit moves me - William Faulkner]]
-- [[1x - References/11 Notes/11.02 Quotes/Museums are custodians of epiphanies - George Lois\|Museums are custodians of epiphanies - George Lois]]
 
 ## Interesting Persons
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
