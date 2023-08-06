@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nothing-happens-to-the-wise-man-against-his-expectation-seneca/","title":"structure note","dgShowBacklinks":false}
+---
+
+
+## Quote
+“Nothing happens to the wise man against his expectation, . . . nor do all things turn out for him as he wished but as he reckoned—and above all he reckoned that something could block his plans.”
+
+## Author
+Seneca
+
+## Reference
+- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+
+## Related
+- [[1x - References/11 Notes/11.02 Quotes/Short speech needs preparation - Winston Churchill\|Short speech needs preparation - Winston Churchill]]
+- [[1x - References/11 Notes/11.03 Ideas/Premortem - try to anticipate what could go wrong\|Premortem - try to anticipate what could go wrong]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
+- [[1x - References/11 Notes/11.03 Ideas/Planning fallacy\|Planning fallacy]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]
