@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/book-reviews/","title":"Africanmoose","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/book-reviews/","title":"Book reviews","dgShowBacklinks":false}
 ---
 
  
@@ -22,6 +22,8 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/7 Must-Know Strategies to Learn Anything Faster by Scott Young\|7 Must-Know Strategies to Learn Anything Faster by Scott Young]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik\|Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+
 
 
 ## Interesting but dont go out of your way
