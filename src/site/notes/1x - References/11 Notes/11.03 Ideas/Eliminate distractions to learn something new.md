@@ -10,7 +10,7 @@
 - Internet, cellphones and TV are all distracting.
 - For breaks, do something like going for a walk
 - Have a productivity system
-- Sche3dule your time and work carefully.
+- Schedule your time and work carefully.
 - Train your focus bit by bit.
 
 ### References
