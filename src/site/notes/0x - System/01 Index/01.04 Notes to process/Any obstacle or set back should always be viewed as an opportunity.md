@@ -11,7 +11,7 @@
 - It is always an opportunity.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes to process/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Focus on Positive\|Focus on Positive]]
