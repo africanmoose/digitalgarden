@@ -10,7 +10,7 @@ Behind mountains are more mountains
 Haitian proverb
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes to process/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+[[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Genius is often only the power of making continuous efforts - Elbert Hubbard\|Genius is often only the power of making continuous efforts - Elbert Hubbard]]
