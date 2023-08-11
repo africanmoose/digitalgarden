@@ -11,7 +11,7 @@
 - As long as we are sensing and acting, we are learning
 
 ### References
-- [[0x - System/01 Index/01.04 Notes to process/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]
