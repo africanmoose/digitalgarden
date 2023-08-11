@@ -23,6 +23,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik\|Stuff Matters - Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The book of Beautiful Questions - Warren Berger\|The book of Beautiful Questions - Warren Berger]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Daily Rituals How Artists Work by Mason Currey\|Daily Rituals How Artists Work by Mason Currey]]
+- [[4x - Reading/41 Books/41.01 Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 
 
