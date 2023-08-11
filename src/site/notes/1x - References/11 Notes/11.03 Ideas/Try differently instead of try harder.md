@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/try-differently-instead-of-try-harder/","title":"Try differently instead of try harder","dgShowBacklinks":false}
+---
+
+
+### Summary
+- Working harder usually has an incremental increase in performance, for example accomplishing 10% more. Working differently may unlock an exponential increase in performance.
+
+### Details
+- The different approach should be still focussed on the same core problem.
+- You may have to explore a number of different approaches
+### References
+- James Clear 3-2-1 email from Aug 11, 2023
+### Related
+- [[1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
+- [[1x - References/11 Notes/11.02 Quotes/Try new paths\|Try new paths]]
+- [[1x - References/11 Notes/11.03 Ideas/Persistence and variety\|Persistence and variety]]
+- [[0x - System/01 Index/01.04 Notes to process/Variability is the key to learning - scott young\|Variability is the key to learning - scott young]]
+- [[1x - References/11 Notes/11.03 Ideas/Alternative paths and risk not directly visible\|Alternative paths and risk not directly visible]]
