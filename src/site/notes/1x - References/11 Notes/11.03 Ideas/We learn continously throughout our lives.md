@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-learn-continously-throughout-our-lives/","title":"We learn continously throughout our lives","dgShowBacklinks":false}
+---
+
+
+### Summary
+- As long as we are awake, we are continually learning
+### Details
+- Some things are forgotten quickly, like what we wore recently, or the food on our plate. 
+- Other things will be with us forever
+- As long as we are sensing and acting, we are learning
+
+### References
+- [[0x - System/01 Index/01.04 Notes to process/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
+
+### Related
+- [[1x - References/11 Notes/11.03 Ideas/Learning is never done\|Learning is never done]]
+- [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
+- [[1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain\|Learning something new is good for your brain]]
+- [[1x - References/11 Notes/11.03 Ideas/Learning new skills changes the way you think\|Learning new skills changes the way you think]]
