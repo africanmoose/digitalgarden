@@ -5,9 +5,9 @@
  
 
 ## Pic of the week
-![rho-ophiuchi-cloud.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/rho-ophiuchi-cloud.jpeg)Some more James Webb telescope goodness: The Rho Ophiuchi cloud is a galactic nursery where stars are born. By galactic standards, it is quite close, 'only' 390 light years away. 
 
-
+![ngere-camp.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/ngere-camp.jpg)
+Camping in Ngere, Western Kenya
 ## Interesting Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca\|Nothing happens to the wise man against his expectation - Seneca]]
 - [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
@@ -35,18 +35,16 @@
 - [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
+- [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
-- [[4x - Reading/41 Books/41.01 Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 - Processing _Why Smart People do Stupid Things_
-- Processing _365 Days With Self-Discipline: 365 Life-Altering Thoughts on Self-Control, Mental Resilience, and Success - Martin Meadows_
-- Processing [[0x - System/01 Index/01.04 Notes to process/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - Reading _Building a second brain - Tiago Forte_
 - Reading _Through Masai Land - Joseph Thompson_
 
