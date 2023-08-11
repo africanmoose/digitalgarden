@@ -13,7 +13,7 @@
 - Imagine a few kilometers of wire squeezed into the size of a grain of rice.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes to process/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [wikipedia](https://en.wikipedia.org/wiki/Neocortex)
 
 ### Related
