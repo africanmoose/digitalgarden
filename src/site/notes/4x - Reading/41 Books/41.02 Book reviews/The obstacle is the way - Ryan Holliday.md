@@ -17,7 +17,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Premortem - try to anticipate what could go wrong\|Premortem - try to anticipate what could go wrong]]
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
 - [[1x - References/11 Notes/11.03 Ideas/Thomas Edison factory burns down and his positive reaction\|Thomas Edison factory burns down and his positive reaction]]
-- [[0x - System/01 Index/01.04 Notes to process/Any obstacle or set back should always be viewed as an opportunity\|Any obstacle or set back should always be viewed as an opportunity]]
+- [[1x - References/11 Notes/11.03 Ideas/Any obstacle or set back should always be viewed as an opportunity\|Any obstacle or set back should always be viewed as an opportunity]]
 
 ### References
 - [wikipedia]()
