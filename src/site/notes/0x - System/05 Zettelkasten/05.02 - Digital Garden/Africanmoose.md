@@ -2,23 +2,23 @@
 {"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/africanmoose/","title":"Africanmoose","tags":["gardenEntry"],"dgShowBacklinks":false}
 ---
 
- 
-
 ## Pic of the week
 
-![ngere-camp.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/ngere-camp.jpg)
-Camping in Ngere, Western Kenya
+![ring nebula.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/ring%20nebula.jpeg)
+The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cloud, about 2,500 light years away from us. It is formed by a dying star throwing off gases.
+
 ## Interesting Quotes
+
+- [[1x - References/11 Notes/11.02 Quotes/Bring me a beaker of wine that I may wet my mind - Aritophanes\|Bring me a beaker of wine that I may wet my mind - Aritophanes]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca\|Nothing happens to the wise man against his expectation - Seneca]]
 - [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
 - [[1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear\|Be humble about what you know and confident about what you can learn - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
 - [[1x - References/11 Notes/11.02 Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
 - [[1x - References/11 Notes/11.02 Quotes/You are not special and not exceptional - everyone is - David McCullough\|You are not special and not exceptional - everyone is - David McCullough]]
-- [[1x - References/11 Notes/11.03 Ideas/Do not spoil what you have by desiring what you have not - Epicurus\|Do not spoil what you have by desiring what you have not - Epicurus]]
-
 
 ## Interesting Persons
+
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
 - [[3x - Spiritual/31 Notes/31.08 People/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
@@ -27,7 +27,9 @@ Camping in Ngere, Western Kenya
 - [[1x - References/11 Notes/11.05 Persons/Henry David Thoreau\|Henry David Thoreau]]
 - [[1x - References/11 Notes/11.05 Persons/Desiderius Erasmus\|Desiderius Erasmus]]
 
-## Currently Learning About
+## Interesting Ideas
+
+- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
 - [[1x - References/11 Notes/11.03 Ideas/4 Stages of learning\|The four stages of learning]]
@@ -35,20 +37,27 @@ Camping in Ngere, Western Kenya
 - [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
+
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
+
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
+
 - Processing _Why Smart People do Stupid Things_
 - Reading _Building a second brain - Tiago Forte_
 - Reading _Through Masai Land - Joseph Thompson_
+- Reading _The history of the world in 6 glasses - Tom Standage_
+- Reading _The Grant Writers Handbook_
+- Rereading [[4x - Reading/41 Books/41.01 Book Notes/A short history of nearly everything - Bill Bryson\|A short history of nearly everything - Bill Bryson]]
 
 ## Interesting Ideas
+
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
 - [[1x - References/11 Notes/11.02 Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
 - [[1x - References/11 Notes/11.03 Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
@@ -58,6 +67,7 @@ Camping in Ngere, Western Kenya
 - [[1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
 
 ## Currently listening to
+
 - [Cory Wong](https://www.youtube.com/@CoryWongMusic)
 - [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3)
 - Theme song for MIB International [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I)
@@ -65,6 +75,7 @@ Camping in Ngere, Western Kenya
 - [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
 
 ## Africanmoose Stuff
+
 [Africanmoose](https://africanmoose.blogspot.com)
 [Africanmoose Photography](http://Africanmoose.com)
 
