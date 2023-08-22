@@ -18,4 +18,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Accept change by how we pursue stuff\|Accept change by how we pursue stuff]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Humbly accept organizational changes - like isrealite family heads\|Humbly accept organizational changes - like isrealite family heads]]
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
-- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full]]
+- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full]]
