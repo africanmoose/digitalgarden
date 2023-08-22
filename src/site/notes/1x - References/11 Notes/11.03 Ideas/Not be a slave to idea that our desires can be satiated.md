@@ -15,6 +15,6 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
 
 ### Related
-- [[7x - Financial/75 Financial Education/Simple dollar Rule 6 - Stop Trying to Impress Other People\|Simple dollar Rule 6 - Stop Trying to Impress Other People]]
+- [[7x - Financial/75 Financial Education/75.02 Simple Dollar archive/Simple dollar Rule 6 - Stop Trying to Impress Other People\|Simple dollar Rule 6 - Stop Trying to Impress Other People]]
 - [[1x - References/11 Notes/11.02 Quotes/Emotionally grounded people live realistically and simply\|Emotionally grounded people live realistically and simply]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The narcissism epidemic - living in the age of entitlement\|The narcissism epidemic - living in the age of entitlement]]
