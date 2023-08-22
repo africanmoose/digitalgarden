@@ -13,5 +13,5 @@
 ### References
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 ### Related
-- [[0x - System/01 Index/01.04 Notes to process/Any obstacle or set back should always be viewed as an opportunity\|Any obstacle or set back should always be viewed as an opportunity]]
+- [[1x - References/11 Notes/11.03 Ideas/Any obstacle or set back should always be viewed as an opportunity\|Any obstacle or set back should always be viewed as an opportunity]]
 - [[1x - References/11 Notes/11.03 Ideas/Alternative paths and risk not directly visible\|Alternative paths and risk not directly visible]]
