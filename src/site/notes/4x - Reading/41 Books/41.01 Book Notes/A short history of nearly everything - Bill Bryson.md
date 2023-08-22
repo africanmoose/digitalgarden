@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/a-short-history-of-nearly-everything-bill-bryson/","title":"Bill, Bryson. “A Short History of Nearly Everything.”","dgShowBacklinks":false}
+---
+
+# Bill, Bryson. “A Short History of Nearly Everything.”
+“In the 1860s, journals and other learned publications in Britain began to receive papers on hydrostatics, electricity, and other scientific subjects from a James Croll of Anderson's University in Glasgow. One of the papers, on how variations in Earth's orbit might have precipitated ice ages, was published in the Philosophical Magazine in 1864 and was recognized at once as a work of the highest standard. So there was some surprise, and perhaps just a touch of embarrassment, when it turned out that Croll was not an academic at the university, but a janitor.
+Born in 1821, Croll grew up poor, and his formal education lasted only to the age of thirteen. He worked at a variety of jobs—as a carpenter, insurance salesman, keeper of a temperance hotel—before taking a position as a janitor at Anderson's (now the University of Strathclyde) in Glasgow. By somehow inducing his brother to do much of his work, he was able to pass many quiet evenings in the university library teaching himself physics, mechanics, astronomy, hydrostatics, and the other fashionable sciences of the day, and gradually began to produce a string of papers, with a particular emphasis on the motions of Earth[…]”
