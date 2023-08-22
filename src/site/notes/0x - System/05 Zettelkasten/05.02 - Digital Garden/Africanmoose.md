@@ -31,7 +31,7 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 - [[1x - References/11 Notes/11.03 Ideas/Neuron pathways design in our brain are redundant for backup\|Neuron pathways design in our brain are redundant for backup]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
-- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full]]
+- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
 - [[1x - References/11 Notes/11.03 Ideas/Barbell Method of reading\|Barbell method of reading]]
@@ -45,7 +45,6 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
-
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
