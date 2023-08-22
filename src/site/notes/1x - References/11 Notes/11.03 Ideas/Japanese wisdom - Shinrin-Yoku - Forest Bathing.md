@@ -16,6 +16,6 @@
 - [[1x - References/11 Notes/11.03 Ideas/There is never a shortage of inspiration in nature\|There is never a shortage of inspiration in nature]]
 - [[1x - References/11 Notes/11.02 Quotes/The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin\|The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin]]
 - [[1x - References/11 Notes/11.03 Ideas/Forest bathing therapy\|Forest bathing therapy]]
-- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full]]
-- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full]]
+- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full]]
+- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full]]
 - [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Shikata Ga Nai - Accepting what you cannot change\|Japanese wisdom - Shikata Ga Nai - Accepting what you cannot change]]
