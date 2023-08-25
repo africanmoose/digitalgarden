@@ -9,13 +9,13 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Self-education is the only kind of education there is - Isaac Asimov\|Self-education is the only kind of education there is - Isaac Asimov]]
 - [[1x - References/11 Notes/11.02 Quotes/Bring me a beaker of wine that I may wet my mind - Aritophanes\|Bring me a beaker of wine that I may wet my mind - Aritophanes]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca\|Nothing happens to the wise man against his expectation - Seneca]]
 - [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
 - [[1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear\|Be humble about what you know and confident about what you can learn - James Clear]]
 - [[1x - References/11 Notes/11.02 Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
 - [[1x - References/11 Notes/11.02 Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
-- [[1x - References/11 Notes/11.02 Quotes/You are not special and not exceptional - everyone is - David McCullough\|You are not special and not exceptional - everyone is - David McCullough]]
 
 ## Interesting Persons
 
