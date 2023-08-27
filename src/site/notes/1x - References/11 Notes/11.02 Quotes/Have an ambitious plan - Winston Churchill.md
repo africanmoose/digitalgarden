@@ -10,7 +10,7 @@
 Winston Churchill
 
 ## Related
-- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]
+- [[Plan spending ahead of time\|Plan spending ahead of time]]
 - [[2x - Planning/23 Annual Plans/23.02 Moonshot List/23.02 - Planning - long term moonshot list\|23.02 - Planning - long term moonshot list]]
 - [[1x - References/11 Notes/11.03 Ideas/Common Sense Planning\|Common Sense Planning]]
 
