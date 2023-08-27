@@ -50,11 +50,11 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 ## Work in Progress
 
 - Processing _Why Smart People do Stupid Things_
-- Reading _Building a second brain - Tiago Forte_
-- Reading _Through Masai Land - Joseph Thompson_
-- Reading _The history of the world in 6 glasses - Tom Standage_
+- Processing _Building a second brain - Tiago Forte_
+- Processing _Through Masai Land - Joseph Thompson_
+- Processing _The history of the world in 6 glasses - Tom Standage_
 - Reading _The Grant Writers Handbook_
-- Rereading [[4x - Reading/41 Books/41.01 Book Notes/A short history of nearly everything - Bill Bryson\|A short history of nearly everything - Bill Bryson]]
+- Processing [[4x - Reading/41 Books/41.01 Book Notes/A short history of nearly everything - Bill Bryson\|A short history of nearly everything - Bill Bryson]]
 
 ## Interesting Ideas
 
@@ -65,6 +65,15 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 - [[1x - References/11 Notes/11.03 Ideas/How did the expert reach his conclusion\|How did the expert reach his conclusion]]
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
 - [[1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
+
+## Ideas to Improve my Finances
+
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Spend less than you earn\|Spend less than you earn]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Eliminate debt\|Eliminate debt]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Build good relationships and real friends\|Build good relationships and real friends]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Dont worry about what you are investing in - just invest in something\|Dont worry about what you are investing in - just invest in something]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Giving helps your finances\|Giving helps your finances]]
 
 ## Currently listening to
 
