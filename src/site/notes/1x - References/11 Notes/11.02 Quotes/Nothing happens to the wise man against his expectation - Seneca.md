@@ -17,4 +17,4 @@ Seneca
 - [[1x - References/11 Notes/11.03 Ideas/Premortem - try to anticipate what could go wrong\|Premortem - try to anticipate what could go wrong]]
 - [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
 - [[1x - References/11 Notes/11.03 Ideas/Planning fallacy\|Planning fallacy]]
-- [[1x - References/11 Notes/11.03 Ideas/Plan spending ahead of time\|Plan spending ahead of time]]
+- [[Plan spending ahead of time\|Plan spending ahead of time]]
