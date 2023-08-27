@@ -19,4 +19,4 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Dont overestimate our own space time\|Dont overestimate our own space time]]
 - [[1x - References/11 Notes/11.03 Ideas/Stability makes us feel safe but is unrealistic\|Stability makes us feel safe but is unrealistic]]
-- [[7x - Financial/75 Financial Education/75.02 Simple Dollar archive/Simple dollar Rule 2 - Dont over-think you investments\|Simple dollar Rule 2 - Dont over-think you investments]]
+- [[Simple dollar Rule 2 - Dont over-think you investments\|Simple dollar Rule 2 - Dont over-think you investments]]
