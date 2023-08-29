@@ -21,7 +21,7 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Maximize your health\|Maximize your health]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
 - [[1x - References/11 Notes/11.03 Ideas/Move to learn something new\|Move to learn something new]]
