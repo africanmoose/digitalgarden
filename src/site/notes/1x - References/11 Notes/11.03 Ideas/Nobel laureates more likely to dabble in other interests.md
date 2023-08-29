@@ -19,6 +19,6 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Persistence and variety\|Persistence and variety]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah is the originator of creativity\|Jehovah is the originator of creativity]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
 - [[1x - References/11 Notes/11.03 Ideas/How to learn a skill\|How to learn a skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Man progresses in all things by making a fool of himself\|Man progresses in all things by making a fool of himself]]
