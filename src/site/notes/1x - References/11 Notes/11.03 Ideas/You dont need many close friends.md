@@ -13,6 +13,6 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life - Brianna Wiest]]
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]
 - [[1x - References/11 Notes/11.03 Ideas/Save beautiful and special moments in your memory\|Save beautiful and special moments in your memory]]
