@@ -16,4 +16,4 @@
 - "Highlight: you miss somebody, call them. It is silly to suffer in silence. It is noble and humbling to tell someone that they matter to you, regardless of whether or not you matter to them."
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
