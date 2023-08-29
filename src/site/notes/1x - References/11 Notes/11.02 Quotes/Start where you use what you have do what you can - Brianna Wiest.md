@@ -14,7 +14,7 @@ Brianna Wiest
 
 ## Related
 [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
-[[1x - References/11 Notes/11.03 Ideas/Do things by yourself\|Do things by yourself]]
+[[Do things by yourself\|Do things by yourself]]
 [[1x - References/11 Notes/11.02 Quotes/Do it right - Popular Mechanics\|Do it right - Popular Mechanics]]
 [[1x - References/11 Notes/11.02 Quotes/Door of happiness - Helen Keller\|Door of happiness - Helen Keller]]
 [[1x - References/11 Notes/11.02 Quotes/Test the door - Winston Churchill\|Test the door - Winston Churchill]]
