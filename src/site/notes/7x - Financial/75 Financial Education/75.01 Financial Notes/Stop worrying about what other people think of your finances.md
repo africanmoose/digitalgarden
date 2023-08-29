@@ -25,6 +25,6 @@
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/If not humble we lose our usefulness to jehovah\|If not humble we lose our usefulness to jehovah]]
 - [[1x - References/11 Notes/11.02 Quotes/Three precious things - gentleness frugality and humility - Lao Tzu\|Three precious things - gentleness frugality and humility - Lao Tzu]]
 - [[1x - References/11 Notes/11.02 Quotes/Pride hard to subdue - Benjamin Franklin\|Pride hard to subdue - Benjamin Franklin]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.02 Quotes/Never explain - your friends dont need it and your enemies will not believe you anyway - Elbert Hubbard\|Never explain - your friends dont need it and your enemies will not believe you anyway - Elbert Hubbard]]
 - [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]
