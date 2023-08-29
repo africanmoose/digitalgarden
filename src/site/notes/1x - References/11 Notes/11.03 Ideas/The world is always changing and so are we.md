@@ -18,5 +18,5 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Creativity Communication and Craftmanship - Joe McNally\|Creativity Communication and Craftmanship - Joe McNally]]
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah is the originator of creativity\|Jehovah is the originator of creativity]]
