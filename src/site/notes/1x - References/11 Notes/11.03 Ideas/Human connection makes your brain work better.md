@@ -16,4 +16,4 @@
 - [[4x - Reading/41 Books/41.01 Book Notes/The influential mind - What the brain reveals about our power to change others\|The influential mind - What the brain reveals about our power to change others]]
 - [[1x - References/11 Notes/11.03 Ideas/Little bits of human connection\|Little bits of human connection]]
 - [[1x - References/11 Notes/11.03 Ideas/How to use questions that foster deeper connections\|How to use questions that foster deeper connections]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
