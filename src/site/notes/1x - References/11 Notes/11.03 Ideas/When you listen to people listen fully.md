@@ -20,4 +20,4 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Compliment to listen to others opinion - David Henry Thoreau\|Compliment to listen to others opinion - David Henry Thoreau]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Show personal interest by listening\|Show personal interest by listening]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
