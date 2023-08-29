@@ -17,5 +17,5 @@
 - [wikipedia](https://en.wikipedia.org/wiki/Kaizen)
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Improve yourself every chance you get\|Improve yourself every chance you get]]
+- [[Improve yourself every chance you get\|Improve yourself every chance you get]]
 - [[1x - References/11 Notes/11.03 Ideas/Incremental Improvement\|Incremental Improvement]]
