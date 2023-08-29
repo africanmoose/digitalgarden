@@ -16,6 +16,6 @@
 "If you want to improve in chess,” wrote Ericsson, “you don’t do it by playing chess. You do it with solitary study of the grandmasters’ games.” 
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Improve yourself every chance you get\|Improve yourself every chance you get]]
+- [[Improve yourself every chance you get\|Improve yourself every chance you get]]
 - [[1x - References/11 Notes/11.03 Ideas/Incremental Improvement\|Incremental Improvement]]
 - [[1x - References/11 Notes/11.03 Ideas/Intentional practise needed to improve\|Intentional practise needed to improve]]
