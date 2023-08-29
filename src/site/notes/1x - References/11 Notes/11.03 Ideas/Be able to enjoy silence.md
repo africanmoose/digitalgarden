@@ -18,5 +18,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Find joy in the small things\|Find joy in the small things]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - 
