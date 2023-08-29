@@ -18,5 +18,5 @@
 ### Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Joy\|Joy]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Building others up is a skill\|Building others up is a skill]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.02 Quotes/You are as big as what you love - Robert Anton Wilson\|You are as big as what you love - Robert Anton Wilson]]
