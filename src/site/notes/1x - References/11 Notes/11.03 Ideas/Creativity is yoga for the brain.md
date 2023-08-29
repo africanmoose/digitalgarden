@@ -17,5 +17,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
