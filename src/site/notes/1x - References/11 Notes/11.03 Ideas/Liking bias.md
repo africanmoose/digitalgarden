@@ -18,5 +18,5 @@
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Humans like geode beautiful on the inside\|Humans like geode beautiful on the inside]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]
