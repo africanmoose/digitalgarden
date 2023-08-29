@@ -15,7 +15,7 @@
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
 - [[1x - References/11 Notes/11.02 Quotes/Creativity Communication and Craftmanship - Joe McNally\|Creativity Communication and Craftmanship - Joe McNally]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
 - [[1x - References/11 Notes/11.03 Ideas/Inspiration and creativity\|Inspiration and creativity]]
 - [[1x - References/11 Notes/11.03 Ideas/Feed the river of inspiration\|Feed the river of inspiration]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Simplexity Why simple things become complex and how complex things can be made simple\|Simplexity Why simple things become complex and how complex things can be made simple]]
