@@ -18,4 +18,4 @@
 ### Related
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Joy\|Joy]]
 - [[1x - References/11 Notes/11.03 Ideas/The happiness of pleasure grace and excellence\|The happiness of pleasure grace and excellence]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
