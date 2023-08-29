@@ -19,4 +19,4 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Do good quality Work\|Do good quality Work]]
-- [[1x - References/11 Notes/11.03 Ideas/Do things by yourself\|Do things by yourself]]
+- [[Do things by yourself\|Do things by yourself]]
