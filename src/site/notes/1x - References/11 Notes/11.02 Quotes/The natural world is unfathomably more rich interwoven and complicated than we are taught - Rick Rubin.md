@@ -14,6 +14,6 @@ Rick Rubin
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/There is never a shortage of inspiration in nature\|There is never a shortage of inspiration in nature]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
 - [[1x - References/11 Notes/11.03 Ideas/Forest bathing therapy\|Forest bathing therapy]]
