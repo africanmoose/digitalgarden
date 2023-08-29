@@ -17,4 +17,4 @@
 - [[4x - Reading/41 Books/41.01 Book Notes/Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal\|Indistractable How to Control Your Attention and Choose Your Life - Nir Eyal]]
 - [[1x - References/11 Notes/11.02 Quotes/Creativity Communication and Craftmanship - Joe McNally\|Creativity Communication and Craftmanship - Joe McNally]]
 - [[1x - References/11 Notes/11.03 Ideas/Inspiration and creativity\|Inspiration and creativity]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
