@@ -30,7 +30,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Common Sense Planning\|Common Sense Planning]]
 - [[1x - References/11 Notes/11.02 Quotes/No Exaggerated Planning - Ingvar Kamprad\|No Exaggerated Planning - Ingvar Kamprad]]
 - [[1x - References/11 Notes/11.03 Ideas/Need to do reviews\|Need to do reviews]]
-- [[1x - References/11 Notes/11.03 Ideas/Improve yourself every chance you get\|Improve yourself every chance you get]]
+- [[Improve yourself every chance you get\|Improve yourself every chance you get]]
 - [[1x - References/11 Notes/11.03 Ideas/Incremental Improvement\|Incremental Improvement]]
 
 ## RSS Data
