@@ -18,4 +18,4 @@
 - "Time slows. Voices soften. People seem to be frozen in position, smiles on their faces, candlelight throwing shadows across the room. I think, This moment is special. Tuck it inside your pocket of treasures for safekeeping ."
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
