@@ -17,5 +17,5 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
 - [[1x - References/11 Notes/11.03 Ideas/Children ask 300 questions a day\|Children ask 300 questions a day]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.03 Ideas/Beginners mindset\|Beginners mindset]]
