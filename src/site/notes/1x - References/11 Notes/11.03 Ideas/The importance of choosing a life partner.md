@@ -17,4 +17,4 @@
 - "Given the importance of choosing a life partner, the data is actually quite shocking. Why’s that? As noted by online commentator Tim Urban on Wait but Why, choosing a life partner is a big commitment that shouldn’t be trivialized. In fact, Urban says that the choice is really about “your parenting partner, your eating companion for about 20,000 meals, your travel partner for about 100 vacations, your primary leisure time and retirement friend, your career therapist, and someone whose day you’ll hear about 18,000 times.” Urban concludes, “This is by far the most important thing in life to get right.”
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
