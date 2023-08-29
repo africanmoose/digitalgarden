@@ -23,5 +23,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Children ask 300 questions a day\|Children ask 300 questions a day]]
 - [[1x - References/11 Notes/11.03 Ideas/Ask people you think you know well questions\|Ask people you think you know well questions]]
 - [[1x - References/11 Notes/11.02 Quotes/Talk less say more\|Talk less say more]]
-- [[1x - References/11 Notes/11.03 Ideas/Build real friendships\|Build real friendships]]
+- [[Build real friendships\|Build real friendships]]
 - [[1x - References/11 Notes/11.02 Quotes/Keep learning - James Clear\|Keep learning - James Clear]]
