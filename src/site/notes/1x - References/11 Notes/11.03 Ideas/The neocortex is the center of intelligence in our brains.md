@@ -18,6 +18,6 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Human connection makes your brain work better\|Human connection makes your brain work better]]
-- [[1x - References/11 Notes/11.03 Ideas/View beautiy of Jehovahs creation as a gift from Him\|View beautiy of Jehovahs creation as a gift from Him]]
+- [[1x - References/11 Notes/11.03 Ideas/View beauty of Jehovahs creation as a gift from Him\|View beauty of Jehovahs creation as a gift from Him]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah wants us to examine creation\|Jehovah wants us to examine creation]]
 - [[1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain\|Learning something new is good for your brain]]
