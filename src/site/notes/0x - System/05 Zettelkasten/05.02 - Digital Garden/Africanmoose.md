@@ -19,13 +19,13 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
 - [[3x - Spiritual/31 Notes/31.08 People/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
 - [[1x - References/11 Notes/11.05 Persons/Haruki Murakami\|Haruki Murakami]]
 - [[1x - References/11 Notes/11.05 Persons/Moondog\|Moondog]]
 - [[1x - References/11 Notes/11.05 Persons/Henry David Thoreau\|Henry David Thoreau]]
-- [[1x - References/11 Notes/11.05 Persons/Desiderius Erasmus\|Desiderius Erasmus]]
 
 ## Interesting Ideas
 
@@ -39,22 +39,22 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
 - Processing _Why Smart People do Stupid Things_
-- Processing _Building a second brain - Tiago Forte_
+- Reading _Building a second brain - Tiago Forte_
 - Processing _Through Masai Land - Joseph Thompson_
 - Processing _The history of the world in 6 glasses - Tom Standage_
 - Reading _The Grant Writers Handbook_
-- Processing [[4x - Reading/41 Books/41.01 Book Notes/A short history of nearly everything - Bill Bryson\|A short history of nearly everything - Bill Bryson]]
+- Reading _The Productivity Project_
 
 ## Interesting Ideas
 
@@ -79,8 +79,8 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 - [Cory Wong](https://www.youtube.com/@CoryWongMusic)
 - [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3)
-- Theme song for MIB International [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I)
-- French soul musician [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro)
+- [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I)
+- [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro)
 - [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
 
 ## Africanmoose Stuff
