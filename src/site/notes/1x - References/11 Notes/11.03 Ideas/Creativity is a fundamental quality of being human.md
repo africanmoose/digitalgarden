@@ -16,7 +16,7 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Creativity Communication and Craftmanship - Joe McNally\|Creativity Communication and Craftmanship - Joe McNally]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah is the originator of creativity\|Jehovah is the originator of creativity]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativy is inexhaustible\|Jehovahs creativy is inexhaustible]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovahs creativity is inexhaustible\|Jehovahs creativity is inexhaustible]]
 - [[1x - References/11 Notes/11.02 Quotes/He who makes no mistakes seldom makes anything - Francois Louw\|He who makes no mistakes seldom makes anything - Francois Louw]]
 
 #### RSS Data
