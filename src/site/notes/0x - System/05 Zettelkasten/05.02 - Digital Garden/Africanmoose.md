@@ -9,13 +9,14 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
 - [[1x - References/11 Notes/11.02 Quotes/In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson\|In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson]]
 - [[1x - References/11 Notes/11.02 Quotes/Self-education is the only kind of education there is - Isaac Asimov\|Self-education is the only kind of education there is - Isaac Asimov]]
 - [[1x - References/11 Notes/11.02 Quotes/Bring me a beaker of wine that I may wet my mind - Aritophanes\|Bring me a beaker of wine that I may wet my mind - Aritophanes]]
 - [[1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca\|Nothing happens to the wise man against his expectation - Seneca]]
 - [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
 - [[1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear\|Be humble about what you know and confident about what you can learn - James Clear]]
-- [[1x - References/11 Notes/11.02 Quotes/It isnt talent its continuing - Kyohei Sakaguchi\|It isnt talent its continuing - Kyohei Sakaguchi]]
+
 
 ## Interesting Persons
 
@@ -39,19 +40,18 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson\|Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
-- Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
+- - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
 - Processing _Why Smart People do Stupid Things_
 - Reading _Building a second brain - Tiago Forte_
-- Processing _Through Masai Land - Joseph Thompson_
 - Processing _The history of the world in 6 glasses - Tom Standage_
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
