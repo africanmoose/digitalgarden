@@ -19,4 +19,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Kaizen\|Kaizen]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile workflow - Effective Daily Sync\|Agile workflow - Effective Daily Sync]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile Principles\|Agile Principles]]
-- [[3x - Spiritual/31 Notes/31.08 People/W. E. Deming\|W. E. Deming]]
+- [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
