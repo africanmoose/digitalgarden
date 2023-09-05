@@ -16,7 +16,7 @@
 ### Details
 - The curious story of [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]] shows that you can learn anything if you show an interest.
 - The Solar system is huge:  [[1x - References/11 Notes/11.03 Ideas/Distances in the Solar system are unfathomably vast\|Distances in the Solar system are unfathomably vast]]
-- [[1x - References/11 Notes/The laws of thermodynamics\|The laws of thermodynamics]]
+- [[1x - References/11 Notes/11.03 Ideas/The laws of thermodynamics\|The laws of thermodynamics]]
 - The [[1x - References/11 Notes/11.03 Ideas/Universe was created perfectly for existence\|Universe was created perfectly for existence]]
 - [[1x - References/11 Notes/11.03 Ideas/Earth is the exact right kind of planet for life\|Earth is the exact right kind of planet for life]]
 - [[1x - References/11 Notes/11.03 Ideas/Earth is the precise correct distance from the sun\|Earth is the precise correct distance from the sun]]
