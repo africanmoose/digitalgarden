@@ -21,7 +21,7 @@ Masinga dam is one of 5 dams along the river Tana that were built for hydro elec
 
 - [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
-- [[3x - Spiritual/31 Notes/31.08 People/W. E. Deming\|W. E. Deming]]
+- [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
 - [[1x - References/11 Notes/11.05 Persons/Haruki Murakami\|Haruki Murakami]]
 - [[1x - References/11 Notes/11.05 Persons/Moondog\|Moondog]]
