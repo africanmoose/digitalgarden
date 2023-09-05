@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/africanmoose/","title":"Africanmoose","tags":["gardenEntry"],"dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/africanmoose/","title":"Africanmoose","tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false}
 ---
 
 ## Pic of the week
-
-![ring nebula.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/ring%20nebula.jpeg)
-The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cloud, about 2,500 light years away from us. It is formed by a dying star throwing off gases.
+![_DSC6254-massinga.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC6254-massinga.jpg)
+Masinga dam is one of 5 dams along the river Tana that were built for hydro electric power generation. As an added benefit, they are stunningly beautiful.
 
 ## Interesting Quotes
 
@@ -46,13 +45,13 @@ The ring nebula - captured by the James Webb Space Telescope. It is a gaseous cl
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
-- - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
+- Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
 - Processing _Why Smart People do Stupid Things_
 - Reading _Building a second brain - Tiago Forte_
-- Processing _The history of the world in 6 glasses - Tom Standage_
+- Processing [[0x - System/01 Index/01.04 Notes to process/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
 
