@@ -14,7 +14,7 @@
 
 ### Details
 - What is [[1x - References/11 Notes/11.03 Ideas/Kaizen\|Kaizen]]?
-- What is [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]? and who is [[3x - Spiritual/31 Notes/31.08 People/W. E. Deming\|W. E. Deming]]?
+- What is [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]? and who is [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]?
 - Understanding the [[1x - References/11 Notes/11.03 Ideas/Zeigarnik Effect\|Zeigarnik Effect]] helps us see why a plan helps us work
 - [[1x - References/11 Notes/11.03 Ideas/Limit work in progress\|Limit work in progress]]
 - Avoid [[1x - References/11 Notes/11.03 Ideas/The evil of to do lists\|The evil of to do lists]]
