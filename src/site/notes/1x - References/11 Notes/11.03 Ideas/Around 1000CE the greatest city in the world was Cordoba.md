@@ -14,7 +14,7 @@
 - And they refined distillation
 
 ### References
-- [[0x - System/01 Index/01.04 Notes to process/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 
 ### Related
 - [[4x - Reading/41 Books/41.02 Book reviews/The Adventures of Ibn Battuta A Muslim Traveler of the Fourteenth Century - Ross E. Dunn and ibn battuta\|The Adventures of Ibn Battuta A Muslim Traveler of the Fourteenth Century - Ross E. Dunn and ibn battuta]]
