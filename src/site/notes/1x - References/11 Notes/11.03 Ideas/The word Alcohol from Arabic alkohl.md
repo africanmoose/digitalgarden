@@ -11,7 +11,7 @@
 - "alcohol of wine" was wine which was distilled. 
 
 ### References
-- [[0x - System/01 Index/01.04 Notes to process/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]] 
+- [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]] 
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Around 1000CE the greatest city in the world was Cordoba\|Around 1000CE the greatest city in the world was Cordoba]]
