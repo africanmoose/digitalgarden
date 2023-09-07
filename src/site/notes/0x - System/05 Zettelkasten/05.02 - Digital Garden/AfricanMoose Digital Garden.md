@@ -51,7 +51,7 @@ Masinga dam is one of 5 dams along the river Tana that were built for hydro elec
 
 - Processing _Why Smart People do Stupid Things_
 - Reading _Building a second brain - Tiago Forte_
-- Processing [[0x - System/01 Index/01.04 Notes to process/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
 
