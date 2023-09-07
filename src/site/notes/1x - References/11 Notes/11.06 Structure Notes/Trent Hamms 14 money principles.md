@@ -19,7 +19,7 @@
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Learn how to do things for yourself\|Learn how to do things for yourself]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Plan ahead for all spending\|Plan ahead for all spending]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
-- [[Build real friendships\|Build real friendships]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Build good relationships and real friends\|Build good relationships and real friends]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Improve yourself at every opportunity\|Improve yourself at every opportunity]]
-- [[Give without strings\|Give without strings]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Giving helps your finances\|Giving helps your finances]]
 
