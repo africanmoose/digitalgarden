@@ -3,11 +3,12 @@
 ---
 
 ## Pic of the week
-![[herbig-haro 46-47-questionmark.webp]]
+![herbig-haro 46-47-questionmark.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/herbig-haro%2046-47-questionmark.jpeg)
 This week we get two pictures (One is an enlargement). From the James Webb Space Telescope, a mysterious riddle. What is this cosmic question mark doing in space?
 
-![[herbig-haro 46-47.webp]]
+![herbig-haro 46-47.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/herbig-haro%2046-47.jpeg)
 See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object) - When a jet of gas in a star forming region collides with a nearby cloud of dust and gas.
+
 ## Interesting Quotes
 
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
@@ -47,6 +48,7 @@ See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wiki
 - [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
+
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
