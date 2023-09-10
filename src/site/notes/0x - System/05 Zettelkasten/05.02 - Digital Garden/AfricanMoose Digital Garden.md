@@ -3,9 +3,11 @@
 ---
 
 ## Pic of the week
-![_DSC6254-massinga.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC6254-massinga.jpg)
-Masinga dam is one of 5 dams along the river Tana that were built for hydro electric power generation. As an added benefit, they are stunningly beautiful.
+![[herbig-haro 46-47-questionmark.webp]]
+This week we get two pictures (One is an enlargement). From the James Webb Space Telescope, a mysterious riddle. What is this cosmic question mark doing in space?
 
+![[herbig-haro 46-47.webp]]
+See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object) - When a jet of gas in a star forming region collides with a nearby cloud of dust and gas.
 ## Interesting Quotes
 
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
@@ -19,13 +21,13 @@ Masinga dam is one of 5 dams along the river Tana that were built for hydro elec
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Thomas Young\|Thomas Young]]
 - [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
 - [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
 - [[1x - References/11 Notes/11.05 Persons/Haruki Murakami\|Haruki Murakami]]
 - [[1x - References/11 Notes/11.05 Persons/Moondog\|Moondog]]
-- [[1x - References/11 Notes/11.05 Persons/Henry David Thoreau\|Henry David Thoreau]]
 
 ## Interesting Ideas
 
@@ -39,19 +41,18 @@ Masinga dam is one of 5 dams along the river Tana that were built for hydro elec
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson\|Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
-- [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
 - Processing _Why Smart People do Stupid Things_
 - Reading _Building a second brain - Tiago Forte_
-- Processing [[0x - System/01 Index/01.04 Notes in process/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
 
@@ -81,6 +82,7 @@ Masinga dam is one of 5 dams along the river Tana that were built for hydro elec
 - [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I)
 - [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro)
 - [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
+- [The True Loves](https://www.youtube.com/watch?v=TD2hNsY6G7E)
 
 ## Africanmoose Stuff
 
