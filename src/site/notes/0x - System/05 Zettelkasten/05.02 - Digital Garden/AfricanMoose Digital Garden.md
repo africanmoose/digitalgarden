@@ -48,7 +48,6 @@ See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wiki
 - [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
-
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
