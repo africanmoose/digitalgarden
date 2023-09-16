@@ -24,9 +24,16 @@
 	- Express it in your own words
 	- Distill notes and keep distilling till we get the main, main point.
 - [[1x - References/11 Notes/11.03 Ideas/The basic building block of everything we do is information\|The basic building block of everything we do is information]]
+- [[1x - References/11 Notes/11.03 Ideas/Average knowlege worker spends considerable time looking for stuff\|Average knowlege worker spends considerable time looking for stuff]]
+- [[1x - References/11 Notes/11.03 Ideas/Keep notes in a commonplace book\|Keep notes in a commonplace book]]
+- [[1x - References/11 Notes/11.03 Ideas/Our mental map of our bodies includes tools\|Our mental map of our bodies includes tools]]
+- [[1x - References/11 Notes/11.03 Ideas/Shift as much time as possible from consuming to creating\|Shift as much time as possible from consuming to creating]]
 - 
+
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Your mind is for having ideas, not holding them - David Allen\|Your mind is for having ideas, not holding them - David Allen]]
+- [[1x - References/11 Notes/11.02 Quotes/Wealth of information creates poverty of attention - Herbert Simon\|Wealth of information creates poverty of attention - Herbert Simon]]
+- [[1x - References/11 Notes/11.02 Quotes/Keep a dozen of your favorite problems constantly present in your mind - Richard Feynmann\|Keep a dozen of your favorite problems constantly present in your mind - Richard Feynmann]]
 
 ### Related
 -  [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Zettelkasten Method]]
