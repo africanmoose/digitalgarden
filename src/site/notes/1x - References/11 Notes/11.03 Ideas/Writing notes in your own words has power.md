@@ -11,10 +11,13 @@
 - cannot get 100% coverage from teh source
 - radical innovation or incremental innovation
 - When writing in our own words, we cannot help but change it to something that is our own and new. At the same time, what we read is changing what we think. It generates organic growth in our thinking, as well as a richer zettelkasten
+- When we actively generate words (by talking or writing), more parts of our brain are activated then just reading the words.
 
 ### References
 - https://zettelkasten.de/posts/dont-rely-on-source-have-faith-in-yourself/
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+
 
 ### Interesting Related
 - [[1x - References/11 Notes/11.06 Structure Notes/Zettelkasten Principles\|Zettelkasten Principles]]
