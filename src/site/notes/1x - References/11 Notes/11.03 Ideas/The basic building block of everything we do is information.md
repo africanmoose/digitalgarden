@@ -10,7 +10,7 @@
 - Getting a new job, learning a skill, starting a business, all require us to find teh right information and put it to use.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ### Quotes
 - "Your professional success and quality of life depend directly on your ability to manage information effectively."
