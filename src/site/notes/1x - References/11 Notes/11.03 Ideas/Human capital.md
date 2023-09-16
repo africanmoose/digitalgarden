@@ -10,7 +10,7 @@
 - It can include skills, experience, wisdom, relationships, common sense, ideas
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Humans like geode beautiful on the inside\|Humans like geode beautiful on the inside]]
