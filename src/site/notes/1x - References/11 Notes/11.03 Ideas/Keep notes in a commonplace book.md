@@ -10,7 +10,7 @@
 - Leonardo da Vinci's commonplace books are legendary
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Notetaking\|Notetaking]]
