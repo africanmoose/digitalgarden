@@ -32,13 +32,13 @@ See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wiki
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
 - [[1x - References/11 Notes/11.03 Ideas/Neuron pathways design in our brain are redundant for backup\|Neuron pathways design in our brain are redundant for backup]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
 - [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
 - [[1x - References/11 Notes/11.03 Ideas/Barbell Method of reading\|Barbell method of reading]]
-- [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]
 
 ## Book Reviews
 
