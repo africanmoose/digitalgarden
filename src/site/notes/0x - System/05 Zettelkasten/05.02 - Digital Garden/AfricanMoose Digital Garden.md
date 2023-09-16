@@ -52,10 +52,13 @@ See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wiki
 
 ## Work in Progress
 
+- Reading [[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 - Processing _Why Smart People do Stupid Things_
-- Reading _Building a second brain - Tiago Forte_
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
+- Reading _Your money or your life_
+- Reading _A Curious mind_
+- Reading _Making it all Work_
 
 ## Interesting Ideas
 
