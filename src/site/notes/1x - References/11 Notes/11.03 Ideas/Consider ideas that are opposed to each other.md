@@ -20,4 +20,4 @@
 - [[1x - References/11 Notes/11.03 Ideas/Test all your ideas\|Test all your ideas]]
 - [[1x - References/11 Notes/11.02 Quotes/Impossible to have your best ideas the first time\|Impossible to have your best ideas the first time]]
 - [[1x - References/11 Notes/11.02 Quotes/You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar\|You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar]]
-- [[0x - System/01 Index/01.04 Notes in process/10 book rule for learning a subject - Scott Young\|10 book rule for learning a subject - Scott Young]]
+- [[10 book rule for learning a subject - Scott Young\|10 book rule for learning a subject - Scott Young]]
