@@ -10,7 +10,7 @@
 - Sometimes we may postpone creating thinking we dont have enough training or information. But the reality is that we learn best by doing.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Only doing what you are good at is a trap - Tim Wu\|Only doing what you are good at is a trap - Tim Wu]]
