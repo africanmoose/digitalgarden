@@ -11,7 +11,7 @@
 Herbert Simon, an American economist and cognitive psychologist
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+[[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Pay attention to what you are doing - Nadia Boulanger\|Pay attention to what you are doing - Nadia Boulanger]]
