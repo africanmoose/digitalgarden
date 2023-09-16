@@ -12,7 +12,7 @@
 - The international Data Corporation reports that 26% of a typical knowlege workers day is spent looking for and consolidating infromation.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Looking at something repetitively does not guarantee remembering it\|Looking at something repetitively does not guarantee remembering it]]
