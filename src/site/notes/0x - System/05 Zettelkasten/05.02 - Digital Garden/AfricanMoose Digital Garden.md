@@ -3,11 +3,8 @@
 ---
 
 ## Pic of the week
-![herbig-haro 46-47-questionmark.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/herbig-haro%2046-47-questionmark.jpeg)
-This week we get two pictures (One is an enlargement). From the James Webb Space Telescope, a mysterious riddle. What is this cosmic question mark doing in space?
-
-![herbig-haro 46-47.jpeg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/herbig-haro%2046-47.jpeg)
-See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wikipedia.org/wiki/Herbig%E2%80%93Haro_object) - When a jet of gas in a star forming region collides with a nearby cloud of dust and gas.
+![tmp-1695064370015_1080x1920.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/tmp-1695064370015_1080x1920.jpg)
+Juja sunsets occasionally are very pretty. 
 
 ## Interesting Quotes
 
@@ -71,12 +68,13 @@ See if you can spot it here. Its actually a [Herbig Haro Object](https://en.wiki
 
 ## Ideas to Improve my Finances
 
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Use the minimum possible to get the job done\|Use the minimum possible to get the job done]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Spend less than you earn\|Spend less than you earn]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Eliminate debt\|Eliminate debt]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Build good relationships and real friends\|Build good relationships and real friends]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Dont worry about what you are investing in - just invest in something\|Dont worry about what you are investing in - just invest in something]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about\|Find and work toward what you are passionate about]]
-- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Giving helps your finances\|Giving helps your finances]]
+- Full list of financial ideas - [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Improve your finances\|Improve your finances]]
 
 ## Currently listening to
 
