@@ -3,8 +3,8 @@
 ---
 
 ## Pic of the week
-![tmp-1695064370015_1080x1920.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/tmp-1695064370015_1080x1920.jpg)
-Juja sunsets occasionally are very pretty. 
+![_DSC4653-ololua.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC4653-ololua.jpg)
+Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Interesting Quotes
 
@@ -84,6 +84,7 @@ Juja sunsets occasionally are very pretty.
 - [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro)
 - [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
 - [The True Loves](https://www.youtube.com/watch?v=TD2hNsY6G7E)
+- [Mona Ki Ngi Xica - Bonga](https://www.youtube.com/watch?v=kJj3w6UN8_8)
 
 ## Africanmoose Stuff
 
