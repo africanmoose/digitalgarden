@@ -52,8 +52,8 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 - Processing _Why Smart People do Stupid Things_
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
-- Reading _Your money or your life_
-- Reading _A Curious mind_
+- Processing _Your money or your life_
+- Processing [[0x - System/01 Index/01.04 Notes in process/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - Reading _Making it all Work_
 
 ## Interesting Ideas
