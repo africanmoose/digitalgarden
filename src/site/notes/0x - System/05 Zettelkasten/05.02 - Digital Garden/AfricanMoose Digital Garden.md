@@ -19,13 +19,13 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Isaac Asimov\|Isaac Asimov]]
 - [[1x - References/11 Notes/11.05 Persons/Thomas Young\|Thomas Young]]
 - [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
 - [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
 - [[1x - References/11 Notes/11.05 Persons/Haruki Murakami\|Haruki Murakami]]
-- [[1x - References/11 Notes/11.05 Persons/Moondog\|Moondog]]
 
 ## Interesting Ideas
 
@@ -53,7 +53,7 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
 - Processing _Your money or your life_
-- Processing [[0x - System/01 Index/01.04 Notes in process/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+- Processing [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - Reading _Making it all Work_
 
 ## Interesting Ideas
