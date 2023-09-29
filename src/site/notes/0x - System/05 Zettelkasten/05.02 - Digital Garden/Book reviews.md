@@ -40,3 +40,4 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman\|Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Hell Yeah or No - Whats Worth Doing - Derek Sivers\|Hell Yeah or No - Whats Worth Doing - Derek Sivers]]
 - [[4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself\|HBRs 10 must reads on managing yourself]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A thousand brains - A new theory of intelligence - Jeff Hawkins\|A thousand brains - A new theory of intelligence - Jeff Hawkins]]
