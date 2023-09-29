@@ -10,7 +10,7 @@
 - They may have an excellent reason for doing it, in which case we learn.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+- [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 
 
 ### Related
