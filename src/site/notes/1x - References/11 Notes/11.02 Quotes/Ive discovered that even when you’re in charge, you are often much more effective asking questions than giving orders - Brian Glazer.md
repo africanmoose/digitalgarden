@@ -10,7 +10,7 @@
 Brian Glazer, producer
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+[[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/A leaders mood is critical to the performance of the team\|A leaders mood is critical to the performance of the team]]
