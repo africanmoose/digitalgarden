@@ -11,7 +11,7 @@
 - Brian Glazer worked delivering legal documents and he always pretended it had to be in person to the recipient to give him a chance to meet and talk to the famous and powerful.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+- [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Talk less say more\|Talk less say more]]
