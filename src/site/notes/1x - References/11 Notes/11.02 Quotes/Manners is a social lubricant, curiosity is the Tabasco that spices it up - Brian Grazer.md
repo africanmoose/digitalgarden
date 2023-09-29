@@ -10,7 +10,7 @@ If manners are the lubricant that lets us all get along, curiosity is the shot o
 Brian Grazer
 
 ## Reference
-- [[0x - System/01 Index/01.04 Notes in process/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+- [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 
 ## Related
 - [[Build real friendships\|Build real friendships]]
