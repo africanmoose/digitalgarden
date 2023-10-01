@@ -49,10 +49,10 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Work in Progress
 
+- Processing [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - Processing _Why Smart People do Stupid Things_
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
-- Processing _Your money or your life_
 - Reading _Making it all Work_
 
 ## Interesting Ideas
