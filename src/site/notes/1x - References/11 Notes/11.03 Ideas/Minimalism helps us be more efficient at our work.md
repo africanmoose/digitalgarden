@@ -15,5 +15,5 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
-- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/We will all be minimalist in the new system - Shiroh\|We will all be minimalist in the new system - Shiroh]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/We will all be minimalist in the new system\|We will all be minimalist in the new system]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
