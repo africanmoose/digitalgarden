@@ -9,6 +9,8 @@
 ### Details
 - Enough may differ person to person
 - It is quantifiable, and potentially eachievable
+- Enough is not just the bare minimum to survive. It is the amount that gives you fulfillment without excess.
+
 
 ### References
 - [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
