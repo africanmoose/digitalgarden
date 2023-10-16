@@ -19,6 +19,11 @@
 - [[1x - References/11 Notes/11.03 Ideas/Clutter is everywhere\|Clutter is everywhere]]
 - [[1x - References/11 Notes/11.03 Ideas/Economic fears are often unrealistic\|Economic fears are often unrealistic]]
 - [[1x - References/11 Notes/11.03 Ideas/Measure your life in energy not in money\|Measure your life in energy not in money]]
+- [[1x - References/11 Notes/11.03 Ideas/Financial independence is having enough\|Financial independence is having enough]]
+- [[1x - References/11 Notes/11.03 Ideas/Having a purpose in life is superior to will power\|Having a purpose in life is superior to will power]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Questions to ask in financial review\|Questions to ask in financial review]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Have a high joy-to-stuff ratio\|Have a high joy-to-stuff ratio]]
+- [[7x - Financial/75 Financial Education/75.01 Financial Notes/Become an expert materialist to judge product quality and save money\|Become an expert materialist to judge product quality and save money]]
 - 
 
 ### Quotes
