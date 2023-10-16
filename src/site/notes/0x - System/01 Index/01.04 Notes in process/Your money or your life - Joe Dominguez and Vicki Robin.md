@@ -24,7 +24,9 @@
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Questions to ask in financial review\|Questions to ask in financial review]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Have a high joy-to-stuff ratio\|Have a high joy-to-stuff ratio]]
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Become an expert materialist to judge product quality and save money\|Become an expert materialist to judge product quality and save money]]
-- 
+- [[1x - References/11 Notes/11.03 Ideas/What is the purpose of employment\|What is the purpose of employment]]
+- [[1x - References/11 Notes/11.03 Ideas/Being paid destroyed the art of apes\|Being paid destroyed the art of apes]]
+- [[1x - References/11 Notes/11.03 Ideas/Make yourself inflation proof\|Make yourself inflation proof]]
 
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Once were above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude - Joe Dominguez and Vicki Robin\|Once were above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude - Joe Dominguez and Vicki Robin]]
