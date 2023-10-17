@@ -39,17 +39,17 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson\|Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson]]
-- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- Processing [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - Processing _Why Smart People do Stupid Things_
 - Reading _The Grant Writers Handbook_
 - Reading _The Productivity Project_
