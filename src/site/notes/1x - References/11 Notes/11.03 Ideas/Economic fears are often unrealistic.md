@@ -13,7 +13,7 @@
 - Kings in teh middle ages did not have running water, indoor toilets, or hot food.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Gratitude is born of logic - a happy life is born of gratitude -Brianna West\|Gratitude is born of logic - a happy life is born of gratitude -Brianna West]]
