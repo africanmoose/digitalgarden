@@ -10,7 +10,7 @@
 - The fulfillment curve: we expect that more of something will being happiness, and it does until it reaches the point of diminishing returns, then it starts to reduce happiness.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Quotes
 - "It also comes from unconscious habit. Take gazingus pins. A gazingus pin is any item that you just can't pass by without buying. Everybody has them. They run the gamut from pocket calculators and tiny screwdrivers to pens and chocolate kisses. So there you are in the mall, a shopping robot on your weekly tour of the stations of the crass. You come to the gazingus-pin section and your mind starts cranking out gazingus-pin thoughts: Oh, there's a pink one ... I don't have a pink one . . . Oh, that one runs on solar cells . . . That would be handy. My, a waterproof one ... If I don't use it I can always give it Before you know it,. . . away . . . an alien arm (attached to your body) has reached out and picked up the gazingus pin, and oflF you go to the checkout, still functioning like a wind-up zombie. You arrive home with your purchase, put it in the gazingus-pin drawer"
