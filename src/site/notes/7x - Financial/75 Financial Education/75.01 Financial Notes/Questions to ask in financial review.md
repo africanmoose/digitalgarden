@@ -13,7 +13,7 @@
 - review and adjust future goals in relation to what you want to change
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress\|Track your financial progress]]
