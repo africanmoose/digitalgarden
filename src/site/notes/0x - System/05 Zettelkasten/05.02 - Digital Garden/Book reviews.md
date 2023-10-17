@@ -9,6 +9,7 @@
 
 
 ## Recommended
+- [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
