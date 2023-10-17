@@ -10,7 +10,7 @@
 - May involve undersanding fabric types, or build quality of wood, metal etc.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
