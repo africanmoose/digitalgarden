@@ -13,9 +13,10 @@
 - buy for durability, repairability, utility and flexibility (might never have to replace certain items)
 - possible to bike to work?
 - learn to do skills yourself such as maintenance and repair of your stuff.
+- You don’t need to fear inflation—you just need to manage it rationally.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Three precious things - gentleness frugality and humility - Lao Tzu\|Three precious things - gentleness frugality and humility - Lao Tzu]]
