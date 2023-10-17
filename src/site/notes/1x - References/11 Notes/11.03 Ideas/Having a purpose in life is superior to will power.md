@@ -12,7 +12,7 @@
 - Frankl also observed that “being human means relating and being directed to something or someone other than oneself.”
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Purpose of life not to be happy - Ralph Waldo Emerson\|Purpose of life not to be happy - Ralph Waldo Emerson]]
