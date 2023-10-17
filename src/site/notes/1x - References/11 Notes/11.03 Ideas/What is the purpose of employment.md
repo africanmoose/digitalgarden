@@ -13,7 +13,7 @@
 - jobs such as being a good husband or wife, father or mother, son or daughter, brother or sister, friend are more important to our overall happiness than our paid employment.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/How to spend money and time\|How to spend money and time]]
