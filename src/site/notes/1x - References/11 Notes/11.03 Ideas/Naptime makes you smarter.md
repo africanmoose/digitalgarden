@@ -11,7 +11,7 @@
 - Sleep improves rote learning, long term memory and even cognitive capacity.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Quotes
 - After Fukuoka Prefectural Meizen High School set up a ten-minute naptime, the number of students who got into the University of Tokyo doubled. According to a study at Université de Lyon, students who took naps between rote learning learned at faster speeds, and enhanced their long-term memory. In a NASA study, cognitive capacities like memory and attentiveness improved by 34 percent after subjects took twenty-six-minute naps.
