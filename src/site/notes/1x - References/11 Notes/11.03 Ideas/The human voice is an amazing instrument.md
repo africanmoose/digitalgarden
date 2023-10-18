@@ -10,7 +10,7 @@
 - We only have 2 'strings' in our musical instrument and yet can cover the same number of notes as a piano and in some cases more
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Quotes
 "Through this complex orchestration of muscles, we become vocal powerhouses. As Ingo Titze, who directs the National Center for Voice and Speech, has pointed out, with our two humble “strings” humans can cover a musical range for which the piano requires eighty-eight. Some people can go beyond the piano. “Think of how many different things you can do with your voice,” the Royal Conservatory’s Hutchins said to me. “Compare that to your cat or dog.” We can imitate both; they can’t imitate anything"
