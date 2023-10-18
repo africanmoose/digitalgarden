@@ -21,6 +21,6 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 - [[1x - References/11 Notes/11.03 Ideas/Each of us is imperfect and beautiful\|Each of us is imperfect and beautiful]]
 - [[1x - References/11 Notes/11.05 Persons/Sen no Rikyū\|Sen no Rikyū]]
