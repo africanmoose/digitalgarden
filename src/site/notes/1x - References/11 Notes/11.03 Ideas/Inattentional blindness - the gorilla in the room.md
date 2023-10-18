@@ -10,7 +10,7 @@
 - The most famous example was when psychologiests Chabris and Simons created a video of 2 groups of people passing a basketball to each other. The test asked participants to count the number of times the ball was passed to players in a particular color. Half way throu the study, a gorilla walks into the scene, beats her chest and walks out. About half the participants do not see the gorilla.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Focus on Positive\|Focus on Positive]]
