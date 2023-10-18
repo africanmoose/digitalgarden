@@ -24,7 +24,7 @@
 - In the preface to his New Testament, Erasmus wrote: “I vehemently dissent from those who would not have private [common] persons read the Holy Scriptures nor have them [the Scriptures] translated into the vulgar [common] tongues.”
 
 ### Related
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 #### RSS Data
 <div class='date'>Thu, 11 May 2023 12:17:32 GMT</div>
