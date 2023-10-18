@@ -11,7 +11,7 @@
 - When we focus on something: we are absorbed, inspired, communicating, discovering or learning, we experience happiness as a by-product.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Quotes
 - According to athlete, artist, and author Gregory Burns, a large amount of dopamine is released when we encounter something unexpected or when we take actions we’ve never taken before—in other words, when we feel that something is new.
