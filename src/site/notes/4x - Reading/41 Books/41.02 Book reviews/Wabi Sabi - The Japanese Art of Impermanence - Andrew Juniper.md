@@ -7,7 +7,7 @@
 - Interesting history of how wabisabi came to be a national culture in Japan 
 
 ### How I discovered it
-- Suzie had mentioned a book on wabisabi and i thought this was it. Though after i started reading it, it wasnt really a Suzie type of book....turns out she had recommended [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- Suzie had mentioned a book on wabisabi and i thought this was it. Though after i started reading it, it wasnt really a Suzie type of book....turns out she had recommended [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
 ### How the book changed me
 - It ties in with the recent books I have read on minimalism quite nicely. I want to try and reduce how much stuff I have, and this book helps
@@ -26,5 +26,5 @@
 - [[1x - References/11 Notes/11.02 Quotes/Words collect cultural baggage\|Words collect cultural baggage]]
 
 ### Related
-[[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+[[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 
