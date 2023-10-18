@@ -10,7 +10,7 @@
 - Social media turns everything into a competition, from breakfast to vacations
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Quotes
 - "We live in an age of high performance, in which everyone is supposed to be constantly maximizing their potential, living their “best life.” Social media has made everything from marriage proposals to this morning’s breakfast into exquisitely choreographed, unsubtly competitive rituals"
