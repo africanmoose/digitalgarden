@@ -11,7 +11,7 @@
 - This will boost confidence and motivation, which is more helpful than repeatedly pointing out flaws
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Commendation like food\|Commendation like food]]
