@@ -10,7 +10,7 @@ Habit is as second nature.
 Cicero
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Habit needs all its parts\|Habit needs all its parts]]
