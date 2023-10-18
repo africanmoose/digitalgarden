@@ -12,7 +12,7 @@
 - Specialization reduces our number and type of dots to connect
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Quotes
 - “10 years later, when we were designing the first Macintosh computer, it all came back to me … and we designed it into the Mac … it was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would never have had multiple typefaces or proportionally spaced fonts. And since Windows just copied the Mac, it’s likely that no personal computer would have them.” But when Jobs took the calligraphy class, he had no idea it would prove useful. He was pursuing his interests, and as he said, “It was impossible to connect the dots looking forward when I was in college … but it was very very clear looking backwards.”
