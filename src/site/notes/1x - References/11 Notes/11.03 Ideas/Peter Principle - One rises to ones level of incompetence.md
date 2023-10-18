@@ -12,7 +12,7 @@
 - If someone is competent they will be promoted but once they reach a job they cannot do well they will be stuck there forever
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Train employees well enough to get another job\|Train employees well enough to get another job]]
