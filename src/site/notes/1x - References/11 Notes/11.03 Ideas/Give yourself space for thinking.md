@@ -11,7 +11,7 @@
 - He ate one meal a day and talked to various people during that meal.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Exercise beneficial to our brain\|Exercise beneficial to our brain]]
