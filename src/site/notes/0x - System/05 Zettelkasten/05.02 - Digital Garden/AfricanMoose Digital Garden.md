@@ -50,7 +50,7 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 ## Work in Progress
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
-- Reading [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Christ Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Christ Bailey]]
+- Reading [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - Processing [[0x - System/01 Index/01.04 Notes in process/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 - Reading _Making it all Work_
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
