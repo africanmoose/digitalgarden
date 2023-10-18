@@ -18,5 +18,5 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Japanese aesthetic leans towards natural colors and patterns\|Japanese aesthetic leans towards natural colors and patterns]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
