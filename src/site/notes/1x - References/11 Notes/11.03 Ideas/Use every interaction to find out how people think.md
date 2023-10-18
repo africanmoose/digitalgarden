@@ -18,4 +18,4 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain\|Learning something new is good for your brain]]
 - [[1x - References/11 Notes/11.03 Ideas/Ask people you think you know well questions\|Ask people you think you know well questions]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
