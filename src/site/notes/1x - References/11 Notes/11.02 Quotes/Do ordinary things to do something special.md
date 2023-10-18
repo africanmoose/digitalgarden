@@ -10,7 +10,7 @@ I don’t do special things for the purpose of doing something special. I do ord
 Ichiro
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Not special brilliance but good qualities lead to success - Theodore Roosevelt\|Not special brilliance but good qualities lead to success - Theodore Roosevelt]]
