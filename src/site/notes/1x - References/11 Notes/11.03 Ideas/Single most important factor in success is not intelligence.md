@@ -17,7 +17,7 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Humility not related to actual intelligence\|Humility not related to actual intelligence]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - [[1x - References/11 Notes/11.02 Quotes/If you are the smartest one in the room, you are in the wrong room - Richard Tirendi\|If you are the smartest one in the room, you are in the wrong room - Richard Tirendi]]
 - [[1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]
 - [[1x - References/11 Notes/11.02 Quotes/Not special brilliance but good qualities lead to success - Theodore Roosevelt\|Not special brilliance but good qualities lead to success - Theodore Roosevelt]]
