@@ -12,7 +12,7 @@
 Richard Hamming, mathematician
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 - "Science was about probing beyond the edge of what we know. It was about experimentation and failure. There was no need to dabble in proven hypotheses. Engineers are tasked with making sure things do not fail, with ensuring certain quantifiable levels of performance. No one wants to drive across an experimental bridge"
 				
 			
