@@ -11,7 +11,7 @@
 - Reminds me of the inadvertently wise line from Aunt May to Spiderman: "You are not Superman, you know."
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Overestimate what they can do in one year - Bill Gates\|Overestimate what they can do in one year - Bill Gates]]
