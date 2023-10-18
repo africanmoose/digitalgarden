@@ -22,7 +22,7 @@
 
 ### References
 - [wikipedia](https://en.wikipedia.org/wiki/Thomas_Young_(scientist))
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 
 ### Related
