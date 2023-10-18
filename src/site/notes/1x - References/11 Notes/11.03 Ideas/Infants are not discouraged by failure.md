@@ -14,7 +14,7 @@
 - we may remember the milestone such as baby's first steps and forget all the falls that came before
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Quotes
 - "Infants are learning machines, relentlessly curious and engineered with errors in mind." 
