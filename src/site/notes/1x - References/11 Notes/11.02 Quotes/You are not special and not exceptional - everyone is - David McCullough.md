@@ -21,7 +21,7 @@ David McCullough
 
 ## Reference
 - [Time](https://time.com/4116019/david-mccullough-jr-graduation-speech-wellesley-high/)
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/If not humble we lose our usefulness to jehovah\|If not humble we lose our usefulness to jehovah]]
