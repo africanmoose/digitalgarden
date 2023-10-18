@@ -22,7 +22,7 @@ And the world owes me nothing.
 ## Related
 [[1x - References/11 Notes/11.02 Quotes/Emotionally grounded people live realistically and simply\|Emotionally grounded people live realistically and simply]]
 [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
-[[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
+[[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 [[1x - References/11 Notes/11.05 Persons/Ryokan Taigu\|Ryokan Taigu]]
 
 ## RSS Data
