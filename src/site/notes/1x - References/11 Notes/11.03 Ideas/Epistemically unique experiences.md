@@ -10,7 +10,7 @@
 - Some experiences must be had by yourself, such as having a child
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Quotes
 - "Perhaps you think that you can know what it’s like to have a child, even though you’ve never had one, because you can read or listen to the testimony of what it was like for others,” writes the Yale University professor of philosophy L. A. Paul. “You are wrong.”
