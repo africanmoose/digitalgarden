@@ -12,7 +12,7 @@
 - It is possible to have etiquette shown in a cold and demeaning way = bad manners
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Manners is a social lubricant, curiosity is the Tabasco that spices it up - Brian Grazer\|Manners is a social lubricant, curiosity is the Tabasco that spices it up - Brian Grazer]]
