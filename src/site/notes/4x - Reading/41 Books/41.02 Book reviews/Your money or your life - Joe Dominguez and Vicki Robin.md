@@ -3,7 +3,7 @@
 ---
 
 
-![YourMoneyOrYourLife-cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/YourMoneyOrYourLife-cover.jpg)
+![Your Money Or Your Life - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Your%20Money%20Or%20Your%20Life%20-%20cover.jpg)
 ### Summary
 - This is an older book, but has lots of excellent principles on how to think about money, savings, and how to run our finances.
 
