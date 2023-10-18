@@ -11,7 +11,7 @@
 - This shows that intention doesnt really help us learn - processing does.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Process information to make it useful\|Process information to make it useful]]
