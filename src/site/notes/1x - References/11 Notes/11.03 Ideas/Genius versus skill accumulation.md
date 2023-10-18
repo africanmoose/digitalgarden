@@ -15,7 +15,7 @@
 	- They achieve results by continuous effort
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [Chambliss research paper](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
 
 ### Related
