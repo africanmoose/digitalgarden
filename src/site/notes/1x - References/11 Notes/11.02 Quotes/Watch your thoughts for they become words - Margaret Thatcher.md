@@ -12,7 +12,7 @@ She responds with what was, in Lady Thatcher’s actual life, one of her most me
 - Margaret Thatcher
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Read great literature and become a thousand men - CS Lewis\|Read great literature and become a thousand men - CS Lewis]]
