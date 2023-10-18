@@ -11,7 +11,7 @@
 - He showed that being tired doesnt change our mood but being proactive with something we enjoy like going out into nature can truly change our mood.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Forest bathing therapy\|Forest bathing therapy]]
