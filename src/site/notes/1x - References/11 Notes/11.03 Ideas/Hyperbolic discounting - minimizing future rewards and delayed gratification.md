@@ -13,7 +13,7 @@
 - the children who did eat had been staring, maybe imagining how it would taste
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [wikipedia](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 - [[1x - References/11 Notes/11.03 Ideas/Hyperbolic Discounting\|Hyperbolic Discounting]]
 
