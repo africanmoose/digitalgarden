@@ -16,7 +16,7 @@
 - In his last decade of his life, he wrote 15 or more books a year.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
+- [[4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - [wikipedia](https://en.wikipedia.org/wiki/Isaac_Asimov)
 
 ### Related
