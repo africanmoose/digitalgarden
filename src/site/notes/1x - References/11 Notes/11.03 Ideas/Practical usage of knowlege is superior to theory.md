@@ -11,7 +11,7 @@
 - Real world practise can often by superior to extensive theoretical study
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Memory is state-dependent\|Memory is state-dependent]]
