@@ -13,7 +13,7 @@
 - The also felt more ocnfident and made friends with their fellow learners
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt\|Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/90 year old man who keeps educating himself\|90 year old man who keeps educating himself]]
