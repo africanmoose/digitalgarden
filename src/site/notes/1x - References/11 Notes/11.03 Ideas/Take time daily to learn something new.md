@@ -10,7 +10,7 @@
 - Sō Takei is a talented athlete, but also a talent in Japanese entertaintment industry
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [wikipedia](https://en.wikipedia.org/wiki/S%C5%8D_Takei)
 
 ### Related
