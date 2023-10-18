@@ -13,5 +13,5 @@
 - He remained single his whole life
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 - [wikipedia](https://en.wikipedia.org/wiki/Immanuel_Kant)
