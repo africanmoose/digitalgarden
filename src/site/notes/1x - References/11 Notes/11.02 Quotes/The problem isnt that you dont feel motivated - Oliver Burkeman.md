@@ -10,7 +10,7 @@
 - Oliver Burkeman
 
 ## Reference
-- [[4x - Reading/41 Books/41.01 Book Notes/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
 
 ## Related
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Motivation important in our service\|Motivation important in our service]]
