@@ -10,7 +10,7 @@
 - Consider that your mate will be your dinner companion for about 20,000 meals, your travel partner for abut 100 vacations, your leisure time and returement friend, your therapist, and you will hear about thier day 18,000 times.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - Tim Urban on Wait but Why
 
 ### Quotes
