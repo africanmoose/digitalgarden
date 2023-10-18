@@ -18,7 +18,7 @@
 - Using [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Zettelkasten Method]] can help process since the zettelkasten becomes a long term memory resource, but the act of processing it into zettelkasten allows our brain to absorb the deeper understanding of the material.
 
 ### References
-- [[4x - Reading/41 Books/41.01 Book Notes/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]] 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Memory by Scott Young and Jakub Jilek\|The Complete Guide to Memory by Scott Young and Jakub Jilek]] 
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 
 ### Related
