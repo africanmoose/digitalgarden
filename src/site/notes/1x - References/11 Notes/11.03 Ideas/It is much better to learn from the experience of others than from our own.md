@@ -16,5 +16,5 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Experience vs Money - Leonard Lauder\|Experience vs Money - Leonard Lauder]]
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jah allowed Lot to gain experience\|Jah allowed Lot to gain experience]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 - [[1x - References/11 Notes/11.03 Ideas/Receive wisdom skillfully\|Receive wisdom skillfully]]
