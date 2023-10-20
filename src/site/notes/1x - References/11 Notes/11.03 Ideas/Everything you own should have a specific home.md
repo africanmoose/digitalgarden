@@ -23,5 +23,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Mis-en-place - working clean\|Mis-en-place - working clean]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Mis-en-place - working clean\|Mis-en-place - working clean]]
 - [[1x - References/11 Notes/11.03 Ideas/Clutter attracts clutter\|Clutter attracts clutter]]
