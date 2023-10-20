@@ -17,5 +17,5 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/The Adventures of Ibn Battuta A Muslim Traveler of the Fourteenth Century - Ross E. Dunn and ibn battuta\|The Adventures of Ibn Battuta A Muslim Traveler of the Fourteenth Century - Ross E. Dunn and ibn battuta]]
+- [[4x - Reading/41 Books/41.01 Book Notes/The Adventures of Ibn Battuta A Muslim Traveler of the Fourteenth Century - Ross E. Dunn and ibn battuta\|The Adventures of Ibn Battuta A Muslim Traveler of the Fourteenth Century - Ross E. Dunn and ibn battuta]]
 - 
