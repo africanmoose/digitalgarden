@@ -18,4 +18,4 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Opportunity Engineering and Serendipity\|Opportunity Engineering and Serendipity]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Serendipity Mindset\|Serendipity Mindset]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Serendipity Mindset - Christian Busch\|Serendipity Mindset - Christian Busch]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Serendipity Mindset - Christian Busch\|Serendipity Mindset - Christian Busch]]
