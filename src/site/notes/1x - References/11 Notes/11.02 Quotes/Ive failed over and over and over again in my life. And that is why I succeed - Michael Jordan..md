@@ -13,7 +13,7 @@ Michael Jordan
 Simple Dollar
 
 ## Related
-- [[4x - Reading/41 Books/41.02 Book reviews/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
+- [[4x - Reading/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
 - [[1x - References/11 Notes/11.03 Ideas/The only failure is to avoid creating in the first place\|The only failure is to avoid creating in the first place]]
 - [[1x - References/11 Notes/11.03 Ideas/Benefit from failure\|Benefit from failure]]
 - [[1x - References/11 Notes/11.03 Ideas/Infants are not discouraged by failure\|Infants are not discouraged by failure]]
