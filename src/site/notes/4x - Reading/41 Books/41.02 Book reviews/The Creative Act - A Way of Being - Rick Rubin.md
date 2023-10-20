@@ -49,7 +49,7 @@
 
 ### Related
 - [[4x - Reading/41 Books/41.01 Book Notes/Deep work - Cal Newport\|Deep work - Cal Newport]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Guitar Zero - The new musician and the science of learning\|Guitar Zero - The new musician and the science of learning]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Guitar Zero - The new musician and the science of learning\|Guitar Zero - The new musician and the science of learning]]
 
 #### RSS Data
 <div class='date'>Sun, 26 Mar 2023 12:17:32 GMT</div>
