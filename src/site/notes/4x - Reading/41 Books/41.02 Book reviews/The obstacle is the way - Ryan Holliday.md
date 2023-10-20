@@ -8,7 +8,7 @@
 - Everyone faces downs in life. How are we going to deal with it? learn from it? or just repeat the same mistakes each time?
 
 ### How I discovered it
-- Recommendation from a friend. Also, I have read [[4x - Reading/41 Books/41.02 Book reviews/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]] and I really enjoyed it and learned from it.
+- Recommendation from a friend. Also, I have read [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]] and I really enjoyed it and learned from it.
 
 ### How the book changed me
 - Coming at a time in my life when I am facing many obstacles,  it has helped me focus on the postiive and in learning the lessons i need to learn from my personal obstacles.
@@ -29,4 +29,4 @@
 - [[1x - References/11 Notes/11.02 Quotes/What stands in the way becomes the way - Marcus Aurelius\|What stands in the way becomes the way - Marcus Aurelius]]
 
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Ego is the enemy - Ryan Holiday\|Ego is the enemy - Ryan Holiday]]
