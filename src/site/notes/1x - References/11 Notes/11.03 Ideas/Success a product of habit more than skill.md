@@ -20,4 +20,4 @@
 - [[1x - References/11 Notes/11.02 Quotes/Excellence is a habit - Aristotle\|Excellence is a habit - Aristotle]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Writing Life long habit\|Writing Life long habit]]
 - [[1x - References/11 Notes/11.02 Quotes/Overestimate what they can do in one year - Bill Gates\|Overestimate what they can do in one year - Bill Gates]]
-- [[4x - Reading/41 Books/41.02 Book reviews/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
+- [[4x - Reading/41 Books/41.01 Book Notes/How to fail at almost everything and still win big - Scott Adams\|How to fail at almost everything and still win big - Scott Adams]]
