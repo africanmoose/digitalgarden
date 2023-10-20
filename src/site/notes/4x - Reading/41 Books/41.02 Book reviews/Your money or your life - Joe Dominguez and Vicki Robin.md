@@ -33,4 +33,4 @@
 
 ### Related
 - [[1x - References/11 Notes/11.06 Structure Notes/Trent Hamms 14 money principles\|Trent Hamms 14 money principles]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The psychology of money\|The psychology of money]]
+- [[4x - Reading/41 Books/41.01 Book Notes/The psychology of money\|The psychology of money]]
