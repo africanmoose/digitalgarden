@@ -15,5 +15,5 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani\|Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani]]
 
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
+- [[4x - Reading/41 Books/41.01 Book Notes/A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport\|A World Without Email-Reimagining Work in an Age of Communication Overload - Cal Newport]]
 - [[1x - References/11 Notes/11.02 Quotes/Information can be a distraction - Barack Obama\|Information can be a distraction - Barack Obama]]
