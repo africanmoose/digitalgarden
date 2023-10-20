@@ -22,5 +22,5 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/If you dont have a plan you will become part of somebody elses plan - Terence Mckenna\|If you dont have a plan you will become part of somebody elses plan - Terence Mckenna]]
 - [[1x - References/11 Notes/11.02 Quotes/Learning Machine - Charlie Munger\|Learning Machine - Charlie Munger]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Poor charles almanack - Charlie Munger\|Poor charles almanack - Charlie Munger]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Poor charles almanack - Charlie Munger\|Poor charles almanack - Charlie Munger]]
 - 
