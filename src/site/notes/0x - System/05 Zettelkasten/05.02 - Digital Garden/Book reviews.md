@@ -9,6 +9,7 @@
 
 
 ## Recommended
+- [[4x - Reading/41 Books/41.02 Book reviews/Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson\|Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Short History of Nearly Everything - Bill Bryson\|A Short History of Nearly Everything - Bill Bryson]]
 - [[4x - Reading/41 Books/41.02 Book reviews/101 essays that will change your life - Brianna Wiest\|101 essays that will change your life]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
@@ -29,7 +30,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens\|How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens]]
 - [[4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen\|This is your mind on plants - Michael Pollen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
-
+- [[4x - Reading/41 Books/41.02 Book reviews/Be more Japan - the art of japanese living\|Be more Japan - the art of japanese living]]
 
 ## Interesting but dont go out of your way
 - [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
