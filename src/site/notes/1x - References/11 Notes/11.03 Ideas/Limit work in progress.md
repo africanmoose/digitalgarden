@@ -17,7 +17,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
-- [[4x - Reading/41 Books/41.02 Book reviews/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency\|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency\|Slack Getting Past Burnout, Busywork, and the Myth of Total Efficiency]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile Principles\|Agile Principles]]
 - [[1x - References/11 Notes/11.03 Ideas/Limit work in progress\|Limit work in progress]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - oliver burkeman\|Time management for mortals - oliver burkeman]]
