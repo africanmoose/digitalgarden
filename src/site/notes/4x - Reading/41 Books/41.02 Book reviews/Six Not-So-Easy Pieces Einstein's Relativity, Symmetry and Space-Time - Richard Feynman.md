@@ -21,4 +21,4 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Feynman technique of learning\|Feynman technique of learning]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Surely you are joking - Richard Feynmann\|Surely you are joking - Richard Feynmann]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Surely you are joking - Richard Feynmann\|Surely you are joking - Richard Feynmann]]
