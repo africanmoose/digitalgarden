@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-is-never-done/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-is-never-done/","title":"Learning is never done","dgShowBacklinks":false}
 ---
 
 
@@ -20,5 +20,5 @@
 - [[1x - References/11 Notes/11.02 Quotes/Keep learning - James Clear\|Keep learning - James Clear]]
 - [[3x - Spiritual/32 Teaching/32.07 Morning Worships/2022-11-08 Will you continue to speak\|2022-11-08 Will you continue to speak]]
 - [[1x - References/11 Notes/11.03 Ideas/4 Stages of learning\|4 Stages of learning]]
-- [Leon weaver life story](https://wol.jw.org/en/wol/pc/r1/lp-e/1200273453/553/0)
+- [Leon weaver life story](https://wol.jw.org/en/wol/pc/r1/lp-e/1200273453/562/0)
 
