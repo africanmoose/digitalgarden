@@ -7,8 +7,8 @@
 - Experiment with what is the minimum possible to accomplish something. Then set that as the new baseline
 
 ### Details
-- We may have a habit of using 2 or 3 serviettes to clean somehting up, whereas in reality only one is needed. We may squeeze a lot of toothpaste out, or a huge squirt of cleaning up liquid, or shampoo. 
-- Better to experiment with that is the minimum required to do teh job well.
+- We may have a habit of using 2 or 3 serviettes to clean something up, whereas in reality only one is needed. We may squeeze a lot of toothpaste out, or a huge squirt of cleaning up liquid, or shampoo. 
+- Better to experiment with that is the minimum required to do the job well.
 
 ### References
 - Simple dollar (now offline)
