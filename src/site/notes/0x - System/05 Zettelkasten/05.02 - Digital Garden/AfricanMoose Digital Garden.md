@@ -19,13 +19,13 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.05 Persons/Isaac Asimov\|Isaac Asimov]]
 - [[1x - References/11 Notes/11.05 Persons/Thomas Young\|Thomas Young]]
 - [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
 - [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
 - [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
-- [[1x - References/11 Notes/11.05 Persons/Haruki Murakami\|Haruki Murakami]]
 
 ## Interesting Ideas
 
@@ -51,8 +51,11 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - Reading [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
-- Reading _Making it all Work_
+- Processing [[0x - System/01 Index/01.04 Notes in process/Making it all work - David Allen\|Making it all work - David Allen]]
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
+- Reading _The Gift: 12 Lessons to change your life_
+- Reading _Clear Thinking_
+- Reading _The art of eating_
 
 ## Interesting Ideas
 
