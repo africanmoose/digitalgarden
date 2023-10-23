@@ -28,29 +28,28 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
 - [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
 - [[1x - References/11 Notes/11.03 Ideas/Neuron pathways design in our brain are redundant for backup\|Neuron pathways design in our brain are redundant for backup]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
-- [[1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full\|Japanese wisdom - Hara Hachi Bu - Eating until you are 80 percent full]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
 - [[1x - References/11 Notes/11.03 Ideas/Barbell Method of reading\|Barbell method of reading]]
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
-- [[4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage\|A history of the world in 6 glasses - Tom Standage]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - Reading [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
-- Processing [[0x - System/01 Index/01.04 Notes in process/Making it all work - David Allen\|Making it all work - David Allen]]
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _The Gift: 12 Lessons to change your life_
 - Reading _Clear Thinking_
