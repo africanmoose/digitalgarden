@@ -18,13 +18,13 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Brian May\|Brian May]]
 - [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.05 Persons/Isaac Asimov\|Isaac Asimov]]
 - [[1x - References/11 Notes/11.05 Persons/Thomas Young\|Thomas Young]]
 - [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
 - [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
 - [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
-- [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]]
 
 ## Interesting Ideas
 
