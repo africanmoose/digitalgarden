@@ -3,9 +3,8 @@
 ---
 
 ## Pic of the week
-![_DSC4653-ololua.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC4653-ololua.jpg)
-Hidden spots in Nairobi. The Ololua forest in Karen
-
+![PXL_20231022_144905562.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231022_144905562.jpg)
+Juja sunsets can be pretty
 ## Interesting Quotes
 
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
@@ -49,11 +48,12 @@ Hidden spots in Nairobi. The Ololua forest in Karen
 ## Work in Progress
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
-- Reading [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _The Gift: 12 Lessons to change your life_
 - Reading _Clear Thinking_
 - Reading _The art of eating_
+- Reading _The Antidote∏_
 
 ## Interesting Ideas
 
