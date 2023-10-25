@@ -14,10 +14,11 @@
 
 ### Details
 - [[1x - References/11 Notes/11.03 Ideas/Focus on what is important\|Focus on what is important]]
-
-### References
-- 
-
+- [[1x - References/11 Notes/11.03 Ideas/Schedule time to worry\|Schedule time to worry]]
+- [[1x - References/11 Notes/11.03 Ideas/Review values and long term goals regularly\|Review values and long term goals regularly]]
+- [[1x - References/11 Notes/11.03 Ideas/Give your mind time to wander to improve productivity\|Give your mind time to wander to improve productivity]]
+- [[1x - References/11 Notes/11.03 Ideas/How much time do you spend daily at a screen\|How much time do you spend daily at a screen]]
+- [[1x - References/11 Notes/11.03 Ideas/Our unconscious can make correct decisions\|Our unconscious can make correct decisions]]
 ### Quotes
 - 
 
