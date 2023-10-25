@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-what-is-important/","title":"Focus on what is important","dgShowBacklinks":false}
+---
+
+
+### Summary
+- Focus on what is important, andcut out less important goals
+
+### Details
+- Apple - laserlike focus on a very tight product line: iphone, ipad, mac and apple watch, and those are just a few products per line. every product they make would fit aon a small table.
+
+### References
+- [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+
+### Related
+- [[1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
+- [[1x - References/11 Notes/11.02 Quotes/Focus on strengths rather than remediate weaknesses\|Focus on strengths rather than remediate weaknesses]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
