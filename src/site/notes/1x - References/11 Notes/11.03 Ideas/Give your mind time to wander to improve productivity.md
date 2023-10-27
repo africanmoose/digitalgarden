@@ -12,7 +12,7 @@
 - We can chance on better connections or solutions to problems.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/To remain creative you must think like a novice\|To remain creative you must think like a novice]]
