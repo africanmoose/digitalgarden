@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/9-strategies-for-stress-relief/","title":"9 strategies for stress relief","dgShowBacklinks":false}
+---
+
+
+### Summary
+- 9 stress-relief strategies
+	• Exercising or playing sports
+	• Reading
+	• Meditation
+	• Listening to music
+	• Investing in a creative hobby
+	• Praying
+	• Going for a nature walk
+	• Spending time with friends and family
+	• Going for a massage
+
+### Details
+- Named by the American Psychological Association (APA) as teh best long term strategies that reduce cortisol levels in your body.
+- They also give you the chance to move into mind wandering mode
+
+### References
+- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+
+### Related
+- [[1x - References/11 Notes/11.03 Ideas/Our unconscious can make correct decisions\|Our unconscious can make correct decisions]]
+- [[7x - Financial/75 Financial Education/75.02 Simple Dollar archive/The Simple Dollar » Low-Cost Methods for Stress Relief\|The Simple Dollar » Low-Cost Methods for Stress Relief]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Jehovah is distressed when we suffer even if its due to our own foolishness\|Jehovah is distressed when we suffer even if its due to our own foolishness]]
