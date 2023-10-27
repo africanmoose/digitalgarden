@@ -7,7 +7,7 @@
 - In a neurological study by Ap Dijksterhuis, at teh university of Amsterdam, he showed that the unconscious mind can make decisions that are better than conscious thought.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Quotes
 "One of my favorite neurological studies was lead by Ap Dijksterhuis, at the University of Amsterdam. In the study, participants were given information about four cars and then were asked to pick which car they would buy. Researchers are usually a tricky bunch, and this study was no exception. They made one of the four cars significantly more attractive than the others, to see if participants could identify it as the best. They split the participants into two groups. The first group received information about 4 features per car, and the second received significantly more information—12 features per car—for a total of either 16 or 48 features in total.
