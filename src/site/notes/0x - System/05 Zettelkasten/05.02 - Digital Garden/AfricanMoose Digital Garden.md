@@ -27,9 +27,9 @@ Juja sunsets can be pretty
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
 - [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
-- [[1x - References/11 Notes/11.03 Ideas/Neuron pathways design in our brain are redundant for backup\|Neuron pathways design in our brain are redundant for backup]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
@@ -47,8 +47,8 @@ Juja sunsets can be pretty
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
-- Processing [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) Why smart people can be so stupid - Robert Steinberg\|(In progress) Why smart people can be so stupid - Robert Steinberg]]
+- Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _The Gift: 12 Lessons to change your life_
 - Reading _Clear Thinking_
