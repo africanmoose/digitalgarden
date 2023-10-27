@@ -10,7 +10,7 @@
 - Apple - laserlike focus on a very tight product line: iphone, ipad, mac and apple watch, and those are just a few products per line. every product they make would fit aon a small table.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
