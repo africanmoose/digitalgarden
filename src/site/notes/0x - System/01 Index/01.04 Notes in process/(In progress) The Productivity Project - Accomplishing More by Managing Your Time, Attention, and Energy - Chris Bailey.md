@@ -23,7 +23,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/9 strategies for stress relief\|9 strategies for stress relief]]
 - [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Exercise beneficial to our brain\|Exercise beneficial to our brain]]
-- 
+- [[1x - References/11 Notes/11.03 Ideas/The time you wake up does not matter\|The time you wake up does not matter]]
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Exercise is the single most powerful tool you have to optimize your brain function...If exercise came in pill form, it would be plastered across the front page, hailed as the blockbuster drug of the century - John Ratey\|Exercise is the single most powerful tool you have to optimize your brain function...If exercise came in pill form, it would be plastered across the front page, hailed as the blockbuster drug of the century - John Ratey]]
 
