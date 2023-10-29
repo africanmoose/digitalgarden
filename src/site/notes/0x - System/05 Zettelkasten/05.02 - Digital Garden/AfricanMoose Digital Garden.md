@@ -7,6 +7,7 @@
 Juja sunsets can be pretty
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.03 Ideas/Tiny delights over big bright lights\|Tiny delights over big bright lights]]
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
 - [[1x - References/11 Notes/11.02 Quotes/In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson\|In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson]]
