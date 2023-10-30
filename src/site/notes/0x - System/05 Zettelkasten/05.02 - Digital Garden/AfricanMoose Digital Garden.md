@@ -3,8 +3,8 @@
 ---
 
 ## Pic of the week
-![PXL_20231022_144905562.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231022_144905562.jpg)
-Juja sunsets can be pretty
+![_DSC0635-naivasha.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC0635-naivasha.jpg)
+Cattle Egret, Lake Naivasha
 ## Interesting Quotes
 
 - [[1x - References/11 Notes/11.03 Ideas/Tiny delights over big bright lights\|Tiny delights over big bright lights]]
@@ -38,18 +38,17 @@ Juja sunsets can be pretty
 
 ## Book Reviews
 
+-  [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Writing of the Gods - Edward Dolnick\|The Writing of the Gods - Edward Dolnick]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) Why smart people can be so stupid - Robert Steinberg\|(In progress) Why smart people can be so stupid - Robert Steinberg]]
-- Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _The Gift: 12 Lessons to change your life_
 - Reading _Clear Thinking_
