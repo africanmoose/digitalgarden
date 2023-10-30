@@ -11,7 +11,7 @@
 
 ### References
 - [[4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki\|Hello Habits - Fumio Sasaki]]
-- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Quotes
 - "In Spark: The Revolutionary New Science of Exercise and the Brain, John Ratey says frankly that exercise makes us feel refreshed because when we get our blood pumping, it makes the brain function at its best. This is the rationale Ratey, a professor of psychiatry at Harvard Medical School, gives for the exercises he describes as beneficial for the brain. Besides neurotransmitters, there’s a protein group in the brain called a factor. And this brain-derived neurotrophic factor (BDNF) increases with aerobic exercise. When BDNF is sprinkled on neurons, they sprout new branches; neurons are like trees that have these synapses at the ends of the branches in place of leaves. The synapses increase when new branches are formed, making the connections between them even stronger. Ratey says BDNF is like fertilizer for the brain."
