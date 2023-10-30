@@ -13,7 +13,7 @@
 - Move your phone physically to another room while working
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|(In progress) The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Pay attention to what you are doing - Nadia Boulanger\|Pay attention to what you are doing - Nadia Boulanger]]
