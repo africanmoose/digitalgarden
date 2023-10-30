@@ -49,11 +49,11 @@ Cattle Egret, Lake Naivasha
 ## Work in Progress
 
 - Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) Why smart people can be so stupid - Robert Steinberg\|(In progress) Why smart people can be so stupid - Robert Steinberg]]
+- Processing _The Gift: 12 Lessons to change your life_
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
-- Reading _The Gift: 12 Lessons to change your life_
 - Reading _Clear Thinking_
-- Reading _The art of eating_
-- Reading _The Antidote∏_
+- Reading _The art of eating - M.S. Fischer_
+- Reading _The Antidote - Oliver Burkeman_
 
 ## Interesting Ideas
 
