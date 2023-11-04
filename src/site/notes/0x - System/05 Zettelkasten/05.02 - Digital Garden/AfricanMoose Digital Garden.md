@@ -3,8 +3,9 @@
 ---
 
 ## Pic of the week
-![_DSC0635-naivasha.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC0635-naivasha.jpg)
-Cattle Egret, Lake Naivasha
+![PXL_20231104_073636185 - karura.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231104_073636185%20-%20karura.jpg)
+Been to Karura recently? If not, its about time.
+
 ## Interesting Quotes
 
 - [[1x - References/11 Notes/11.03 Ideas/Tiny delights over big bright lights\|Tiny delights over big bright lights]]
@@ -48,7 +49,7 @@ Cattle Egret, Lake Naivasha
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) Why smart people can be so stupid - Robert Steinberg\|(In progress) Why smart people can be so stupid - Robert Steinberg]]
+- Processing [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - Processing _The Gift: 12 Lessons to change your life_
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _Clear Thinking_
