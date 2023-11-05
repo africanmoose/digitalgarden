@@ -39,22 +39,21 @@ Been to Karura recently? If not, its about time.
 
 ## Book Reviews
 
--  [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - [[4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer\|A Curious Mind - The Secret to a Bigger Life - Brian Grazer]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte\|Building a Second Brain - Thiago Forte]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
-- Processing [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - Processing _The Gift: 12 Lessons to change your life_
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _Clear Thinking_
 - Reading _The art of eating - M.S. Fischer_
-- Reading _The Antidote - Oliver Burkeman_
+- Processing _The Antidote - Oliver Burkeman_
 
 ## Interesting Ideas
 
