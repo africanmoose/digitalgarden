@@ -18,7 +18,7 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Gratitude is born of logic - a happy life is born of gratitude -Brianna West\|Gratitude is born of logic - a happy life is born of gratitude -Brianna West]]
 - [[1x - References/11 Notes/11.03 Ideas/How to keep a gratitude journal\|How to keep a gratitude journal]]
-- [[0x - System/01 Index/01.04 Notes in process/Health benefits of gratitude  UCLA Health\|Health benefits of gratitude  UCLA Health]]
+- [[1x - References/11 Notes/11.02 Quotes/Health benefits of gratitude\|Health benefits of gratitude]]
 - [[1x - References/11 Notes/11.03 Ideas/Set aside specific time to show gratitude\|Set aside specific time to show gratitude]]
 
 
