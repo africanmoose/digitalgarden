@@ -49,7 +49,7 @@ Been to Karura recently? If not, its about time.
 
 ## Work in Progress
 
-- Processing _The Gift: 12 Lessons to change your life_
+- Processing [[0x - System/01 Index/01.04 Notes in process/(In progress) The Gift - 12 Lessons to save your life - Edith Eger\|(In progress) The Gift - 12 Lessons to save your life - Edith Eger]]
 - Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
 - Reading _Clear Thinking_
 - Reading _The art of eating - M.S. Fischer_
