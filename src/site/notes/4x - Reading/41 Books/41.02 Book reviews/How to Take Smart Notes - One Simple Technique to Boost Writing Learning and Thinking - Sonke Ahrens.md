@@ -30,6 +30,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Sudden insights often the result of long-term thinking and study\|Sudden insights often the result of long-term thinking and study]]
 - [[1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
 - [[1x - References/11 Notes/11.03 Ideas/Best predictor of future behaviour is past behaviour\|Best predictor of future behaviour is past behaviour]]
+- [[1x - References/11 Notes/11.03 Ideas/Having a reservoir of ideas allows you to develop ideas over a long period of time\|Having a reservoir of ideas allows you to develop ideas over a long period of time]]
 
 ### References
 - [good reads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
