@@ -11,7 +11,7 @@
 - Whatever life brings us we can heal and make meaning into it.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In progress) The Gift - 12 Lessons to save your life - Edith Eger\|(In progress) The Gift - 12 Lessons to save your life - Edith Eger]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 
 ### Related
 - [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Bad things happen to everyone\|Bad things happen to everyone]]
