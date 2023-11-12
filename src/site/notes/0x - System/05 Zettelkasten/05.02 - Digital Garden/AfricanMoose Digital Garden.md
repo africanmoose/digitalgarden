@@ -3,8 +3,9 @@
 ---
 
 ## Pic of the week
-![PXL_20231104_073636185 - karura.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231104_073636185%20-%20karura.jpg)
-Been to Karura recently? If not, its about time.
+
+![PXL_20231104_105747303 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231104_105747303%20copy.jpg)
+Been to the national museum recently? It needs a refurbish, but still has lots of interesting stuff: Historical exhibits, beautiful botanical gardens and hundreds of stuffed birds.
 
 ## Interesting Quotes
 
