@@ -9,14 +9,13 @@ Been to the national museum recently? It needs a refurbish, but still has lots o
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
 - [[1x - References/11 Notes/11.02 Quotes/In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson\|In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson]]
 - [[1x - References/11 Notes/11.02 Quotes/Self-education is the only kind of education there is - Isaac Asimov\|Self-education is the only kind of education there is - Isaac Asimov]]
 - [[1x - References/11 Notes/11.02 Quotes/Bring me a beaker of wine that I may wet my mind - Aritophanes\|Bring me a beaker of wine that I may wet my mind - Aritophanes]]
-- [[1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca\|Nothing happens to the wise man against his expectation - Seneca]]
-- [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
 
 ## Interesting Persons
 
@@ -51,10 +50,11 @@ Been to the national museum recently? It needs a refurbish, but still has lots o
 ## Work in Progress
 
 - Processing _The Antidote - Oliver Burkeman_
-- Reading _Everything you ever wanted to know about solar panels for domestic power, but were afraid to ask: How to design & build your own domestic free energy solution_
+- Reading _You are what you watch - Walter Hickey
 - Reading _Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane Parrish_
 - Reading _The art of eating - M.S. Fischer_
-
+- Reading _Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey_
+- Reading The Robot series, by Isaac Asimov
 ## Interesting Ideas
 
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
