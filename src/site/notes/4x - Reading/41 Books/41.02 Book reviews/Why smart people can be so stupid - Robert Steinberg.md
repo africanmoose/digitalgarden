@@ -24,7 +24,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Constructive criticism is that which gives an opportunity to improve in future\|Constructive criticism is that which gives an opportunity to improve in future]]
 - 
 ### Quotes
-- [[1x - References/11 Notes/11.02 Quotes/Shall I tell you what it is to know? To say when you know, and to say you do not when you do not, that is knowledge - Confucin\|Shall I tell you what it is to know? To say when you know, and to say you do not when you do not, that is knowledge - Confucin]]
+- [[1x - References/11 Notes/11.02 Quotes/Shall I tell you what it is to know - To say when you know, and to say you do not when you do not, that is knowledge - Confucin\|Shall I tell you what it is to know - To say when you know, and to say you do not when you do not, that is knowledge - Confucin]]
 
 ### Related
 
