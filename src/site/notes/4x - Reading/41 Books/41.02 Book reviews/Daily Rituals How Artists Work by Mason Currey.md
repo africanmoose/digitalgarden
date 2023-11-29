@@ -42,7 +42,3 @@
 
 ### Related
 - [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
-
-#### RSS Data
-<div class='date'>Fri, 5 May 2023 12:17:32 GMT</div>
-<div class='description'>Daily rituals - how Artists Work, by Mason Curry is an absolutely fascinating look at a diverse variety of artists....</div>
