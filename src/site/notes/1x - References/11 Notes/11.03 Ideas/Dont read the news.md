@@ -26,7 +26,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/We perceive negative news to be more profound\|We perceive negative news to be more profound]] 
 - [[1x - References/11 Notes/11.03 Ideas/Reading is Thinking\|Reading is Thinking]]
 - [[1x - References/11 Notes/11.03 Ideas/What you read will affect who you will be for the rest of your life\|What you read will affect who you will be for the rest of your life]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - oliver burkeman\|Time management for mortals - oliver burkeman]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - Oliver Burkeman\|Time management for mortals - Oliver Burkeman]]
 - [[3x - Spiritual/32 Teaching/32.16 CD spiritual point ideas/Bibles view of time management\|Bibles view of time management]]
 - [[1x - References/11 Notes/11.02 Quotes/How to spend money and time\|How to spend money and time]]
 
