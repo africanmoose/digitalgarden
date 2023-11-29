@@ -3,19 +3,18 @@
 ---
 
 ## Pic of the week
-
-![PXL_20231104_105747303 copy.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231104_105747303%20copy.jpg)
-Been to the national museum recently? It needs a refurbish, but still has lots of interesting stuff: Historical exhibits, beautiful botanical gardens and hundreds of stuffed birds.
+![PXL_20231120_035343959 small.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231120_035343959%20small.jpg)
+Lake Bogoria hot springs steaming early in the morning.
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
 - [[1x - References/11 Notes/11.02 Quotes/In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson\|In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson]]
 - [[1x - References/11 Notes/11.02 Quotes/Self-education is the only kind of education there is - Isaac Asimov\|Self-education is the only kind of education there is - Isaac Asimov]]
-- [[1x - References/11 Notes/11.02 Quotes/Bring me a beaker of wine that I may wet my mind - Aritophanes\|Bring me a beaker of wine that I may wet my mind - Aritophanes]]
 
 ## Interesting Persons
 
@@ -49,7 +48,7 @@ Been to the national museum recently? It needs a refurbish, but still has lots o
 
 ## Work in Progress
 
-- Processing _The Antidote - Oliver Burkeman_
+- Processing [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - Reading _You are what you watch - Walter Hickey
 - Reading _Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane Parrish_
 - Reading _The art of eating - M.S. Fischer_
@@ -77,13 +76,13 @@ Been to the national museum recently? It needs a refurbish, but still has lots o
 
 ## Currently listening to
 
-- [Cory Wong](https://www.youtube.com/@CoryWongMusic)
-- [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3)
-- [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I)
-- [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro)
+Apparently, my top artists of 2023 are:
 - [Samm Henshaw](https://www.youtube.com/watch?v=I_8-P4eZ1jA)
-- [The True Loves](https://www.youtube.com/watch?v=TD2hNsY6G7E)
-- [Mona Ki Ngi Xica - Bonga](https://www.youtube.com/watch?v=kJj3w6UN8_8)
+- [Greg Spero (and MonoNeon)](https://www.youtube.com/watch?v=S6_EMdSs45k)
+- [Aaron Taylor](https://www.youtube.com/watch?v=7Tln_B11HgQ)
+- [Jon Batiste](https://www.youtube.com/watch?v=ze4xcmBFvaE)
+- [Manu Dibangu](https://www.youtube.com/watch?v=HV2hfn-TS14)
+- More of my favorite music here [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Music I enjoy\|Music I enjoy]]
 
 ## Africanmoose Stuff
 
