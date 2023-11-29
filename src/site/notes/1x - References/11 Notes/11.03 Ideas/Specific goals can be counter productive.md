@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/specific-goals-can-be-counter-productive/","title":"Specific goals can be counter productive","dgShowBacklinks":false}
+---
+
+
+### Summary
+- When there is a goal that emphasizes one variable, it usually results in unexpected results. Often focussing on a broad or unclear goal can have better results.
+
+### Details
+- A study of succesful entrepreneurs revealed that they did not necessarily have a specific goal or a detailed business plan in mind, but were ready to start their business immediately and test and adjust based on instant feedback from the customer.
+
+### References
+- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+
+### Quotes
+The continued existence of complex interactive systems’, Bateson argued, ‘depends upon preventing the maximisation of any variable.’ 
+
+them with anecdotes about the effectiveness of operating goallessly, such as the tale of the Formula One pit crew with which he worked, whose members were told that they would no longer be assessed on the basis of speed targets; they would be rated on style instead. Instructed to focus on acting ‘smoothly’, rather than on beating their current record time, they wound up performing faster. Then there was the story of the sales team that went from missing its targets to exceeding them – as soon as it became company policy to keep those targets a secret from the salespeople. ‘You can have a broad sense of direction without a specific goal or a precise vision of the future,’ Shapiro told me. ‘I think of it like jazz, like improvisation. It’s all about meandering with purpose.’
+More recently, the benefits of a goal-free approach to business have started to be substantiated by more than mere anecdote. A few years ago, the researcher Saras Sarasvathy recruited forty-five entrepreneurs who met a predetermined definition of ‘successful’: they each had at least fifteen years’ experience in starting businesses, and had taken at least one company public. She presented them with a detailed hypothetical scenario about a potentially lucrative new software product. (Confusingly, it was software to help entrepreneurs launch businesses.) Sarasvathy then conducted two -hour-long interviews with each participant, probing how they might take this promising but vague idea and make real money from it. She generated hundreds of pages of interview transcripts – and then hundreds more when, for the purposes of comparison, she conducted a parallel exercise among executives at older, larger corporations.
+We tend to imagine that the special skill of an entrepreneur lies in having a powerfully original idea and then fighting to turn that vision into reality. But the outlook of Sarasvathy’s interviewees rarely bore this out. Their precise endpoint was often mysterious to them, and their means of proceeding reflected this. Overwhelmingly, they scoffed at the goals-first doctrine of Latham and Locke. Almost none of them suggested creating a detailed business plan, or doing comprehensive market research to hone the details of the product they were aiming to release. (‘I don’t believe in market research,’ one anonymous participant told Sarasvathy. ‘Somebody once told me the only thing you need is a customer. Instead of asking all the questions, I’d try to make some sales.’) The entrepreneurs didn’t think like high-end chefs, concocting a vision of a dish and then hunting for the perfect ingredients. They behaved more like ordinary, time-pressed home cooks, checking what was in the fridge and the cupboards, then figuring out, on the fly, what they could make and how. ‘I always live by the motto of “ready, fire, aim”,’ said one. ‘I think that if you spend too much time doing “ready, aim, aim, aim”, you’re never going to see all the good things that would happen if you actually started doing it. I think business plans are interesting, but they have no real meaning, because you can’t put in all the positive things that will occur.’ The most valuable skill of a successful entrepreneur, Chris Kayes is convinced, isn’t ‘vision’ or ‘passion’ or a steadfast insistence on destroying every barrier between yourself and some prize you’re obsessed with. Rather, it’s the ability to adopt an unconventional approach to learning: an improvisational flexibility not merely about which route to take towards some predetermined objective, but also a willingness to change the destination itself. 
+
+### Related
+- [[1x - References/11 Notes/11.03 Ideas/Want-to goals are more achievable than have-to goals\|Want-to goals are more achievable than have-to goals]]
+- [[1x - References/11 Notes/11.02 Quotes/Systems trump goals - James Clear\|Systems trump goals - James Clear]]
+- [[3x - Spiritual/31 Notes/31.01 Spiritual Gems/Communicate goal or intention rather than micromanaging how a task should be done\|Communicate goal or intention rather than micromanaging how a task should be done]]
+- [[1x - References/11 Notes/11.02 Quotes/No Exaggerated Planning - Ingvar Kamprad\|No Exaggerated Planning - Ingvar Kamprad]]
+- [[1x - References/11 Notes/11.03 Ideas/Plan but dont overplan\|Plan but dont overplan]]
+- [[1x - References/11 Notes/11.03 Ideas/Plant seeds for the future\|Plant seeds for the future]]
