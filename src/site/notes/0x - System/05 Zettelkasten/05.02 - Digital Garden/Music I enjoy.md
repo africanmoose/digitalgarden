@@ -1,0 +1,95 @@
+---
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/music-i-enjoy/","title":"Music I enjoy","dgShowBacklinks":false}
+---
+
+
+### Artists 
+- [Cory Wong](https://www.youtube.com/@CoryWongMusic) One of the greatest funk guitarists of modern times
+- [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro) French soul
+- [The True Loves](https://www.youtube.com/watch?v=TD2hNsY6G7E)
+- [Mona Ki Ngi Xica - Bonga](https://www.youtube.com/watch?v=kJj3w6UN8_8)
+- Lianne la Havas
+- Vulfpeck
+- MonoNeon
+- Avery*Sunshine
+- Clothegod
+- Postmodern Jukebox
+- Pentatonix
+- 2Cellos
+- Wyclef Jean
+- Macy Grey
+- Edward Sharpe and the Magnetic Zeros
+- MIke Love
+- Brushy One String
+- The Roots
+- John Butler
+- ZZ top
+- Shawn Mullins
+- Common
+- Outkast
+- Joel Plaskett
+- The Greybox Allstars
+- The Proclaimers
+- Cage the Elephant
+- Roy Ayers
+- Coolio
+- Lake Street Dive
+- Bob Marley
+- Coldplay
+- FKJ  
+- Masego
+- Jupiter and Okwess
+- Gary Clarke Jr.
+- Bobby McFerrin
+- Tom Misch
+- Bill Withers
+- Beatles
+- Melanie Faye
+- Antwaun Stanley
+- Damian Jr Marley
+- Taj Mahal and Keb' Mo Band
+- Chris Kingfish
+- Moonchild
+- Rodrigo y Gabriela
+- Meute
+- Lisa Ekdahl
+- Kokoroko
+- Too many zooz
+- Lila Ike
+- Nubya Garcia
+- Brad Paisley
+- Eric Capton
+- Chaka Khan
+- Kamauu
+- Adi Oasis
+- Tash Sultana
+- Jason Mraz
+- Umi
+- Twenty one pilots
+- Tiwa Savage
+- Fantastic Negrito
+- Bakar
+- Ezra Collective
+- Meshell Ndegeocello
+- Little Simz
+- Mereba
+
+## Songs
+- [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I) MIB, pitbull, whats not to love?
+- No Diggity
+- No Diggity cover by 
+- Fever - Ray Charles
+- Roy Ayers - Sunshine
+- The Avalanches - Because I'm Me
+- FKJ and Masego - Tadow
+- Keller Williams - She Rolls
+- Muddy Waters - mannish boy
+- Kongos - come with me now
+- Betty Who - NPR concert
+- White Stripes - Seven Nation Army
+- Ben L'Oncle Soul - Two Trees
+- Brittany Howard - Stay High
+- Blues Traveler - Hook
+- Steelers wheel - Stuck in the middle with you
+## Playlists
+- [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3) How does he find time for this?
