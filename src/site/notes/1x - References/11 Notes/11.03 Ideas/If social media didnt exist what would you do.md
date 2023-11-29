@@ -19,6 +19,6 @@
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Social media makes us more emotionally disconnected\|Social media makes us more emotionally disconnected]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - oliver burkeman\|Time management for mortals - oliver burkeman]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - Oliver Burkeman\|Time management for mortals - Oliver Burkeman]]
 - [[1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill\|Success a product of habit more than skill]]
 - [[1x - References/11 Notes/11.02 Quotes/What is a succesful life - Ralph Waldo Emerson\|What is a succesful life - Ralph Waldo Emerson]]
