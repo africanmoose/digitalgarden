@@ -18,5 +18,5 @@
 ### Related
 - [[1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry\|Reading is the greatest Bargain in the world - Gene Roddenberry]]
 - [[3x - Spiritual/31 Notes/31.02 Illustrations/Time like open tap\|Time like open tap]]
-- [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - oliver burkeman\|Time management for mortals - oliver burkeman]]
+- [[4x - Reading/41 Books/41.01 Book Notes/Time management for mortals - Oliver Burkeman\|Time management for mortals - Oliver Burkeman]]
 - [[1x - References/11 Notes/11.03 Ideas/Take time daily to learn something new\|Take time daily to learn something new]]
