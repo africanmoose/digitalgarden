@@ -10,7 +10,7 @@
 - When you work
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Daily routine is a mechanism for productivity\|Daily routine is a mechanism for productivity]]
