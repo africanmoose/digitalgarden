@@ -10,7 +10,7 @@
 - A study of succesful entrepreneurs revealed that they did not necessarily have a specific goal or a detailed business plan in mind, but were ready to start their business immediately and test and adjust based on instant feedback from the customer.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 The continued existence of complex interactive systems’, Bateson argued, ‘depends upon preventing the maximisation of any variable.’ 
