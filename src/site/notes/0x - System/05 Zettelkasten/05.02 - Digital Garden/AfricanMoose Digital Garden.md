@@ -8,13 +8,13 @@ Lake Bogoria hot springs steaming early in the morning.
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
 - [[1x - References/11 Notes/11.02 Quotes/In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson\|In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson]]
-- [[1x - References/11 Notes/11.02 Quotes/Self-education is the only kind of education there is - Isaac Asimov\|Self-education is the only kind of education there is - Isaac Asimov]]
 
 ## Interesting Persons
 
@@ -38,17 +38,16 @@ Lake Bogoria hot springs steaming early in the morning.
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 - [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - Reading _You are what you watch - Walter Hickey
 - Reading _Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane Parrish_
 - Reading _The art of eating - M.S. Fischer_
