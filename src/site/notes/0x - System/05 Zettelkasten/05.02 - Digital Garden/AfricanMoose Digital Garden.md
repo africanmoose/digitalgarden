@@ -55,13 +55,13 @@ Lake Bogoria hot springs steaming early in the morning.
 - Reading The Robot series, by Isaac Asimov
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure\|Hedonic adaptation - We quickly become accustomed to any new source of pleasure]]
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
 - [[1x - References/11 Notes/11.02 Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
 - [[1x - References/11 Notes/11.03 Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
 - [[1x - References/11 Notes/11.03 Ideas/Illusion of control\|Illusion of control]]
 - [[1x - References/11 Notes/11.03 Ideas/How did the expert reach his conclusion\|How did the expert reach his conclusion]]
 - [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
-- [[1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously\|Work on different things simultaneously]]
 
 ## Ideas to Improve my Finances
 
