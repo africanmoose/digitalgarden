@@ -12,7 +12,7 @@
 - The best way to deal with these thoughts is to think through what you would do if the bad thing happened., and will also give us an action plan in the even that k
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 - Highlight:  All too often, the Stoics point out, things will not turn out for the best.
