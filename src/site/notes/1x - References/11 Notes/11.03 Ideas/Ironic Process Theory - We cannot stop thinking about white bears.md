@@ -10,7 +10,7 @@
 - Professor of psychology named Daniel Wegner who runs teh Mental control laboratory at Harvard, which is not studying how to control peoples minds, but exploring why efforts to suppress certain thoughts result in them becoming more prevalent.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Thought suppression is not the best way to control ourselves\|Thought suppression is not the best way to control ourselves]]
