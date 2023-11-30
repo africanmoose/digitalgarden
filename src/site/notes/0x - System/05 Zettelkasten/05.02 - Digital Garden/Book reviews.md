@@ -6,6 +6,7 @@
 
 ## Highly recommended
 - [[4x - Reading/41 Books/41.02 Book reviews/The Creative Act - A Way of Being - Rick Rubin\|The Creative Act - A Way of Being - Rick Rubin]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Your money or your life - Joe Dominguez and Vicki Robin\|Your money or your life - Joe Dominguez and Vicki Robin]]
 
 
 ## Recommended
