@@ -12,7 +12,7 @@
 - Appreciation helps us avoid hedonic adaptation
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 "Psychologists have long agreed that one of the greatest enemies of human happiness is ‘hedonic adaptation’ – the predictable and frustrating way in which any new source of pleasure we obtain, whether it’s as minor as a new piece of electronic gadgetry or as major as a marriage, swiftly gets relegated to the backdrop of our lives. We grow accustomed to it, and so it ceases to deliver so much joy. It follows, then, that regularly reminding yourself that you might lose any of the things you currently enjoy – indeed, that you will definitely lose them all, in the end, when death catches up with you – would reverse the adaptation effect. Thinking about the possibility of losing something you value shifts it from the backdrop of your life back to centre stage, where it can deliver pleasure once more. ‘""
