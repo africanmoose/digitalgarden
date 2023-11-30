@@ -10,7 +10,7 @@ The palest ink is more reliable than the most powerful memory
 Chinese proverb
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+[[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Prethink situations and write down the steps to do\|Prethink situations and write down the steps to do]]
