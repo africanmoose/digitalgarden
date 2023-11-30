@@ -10,7 +10,7 @@
 - Examples: [[1x - References/11 Notes/11.05 Persons/Anthony Trollope\|Anthony Trollope]], [[1x - References/11 Notes/11.05 Persons/Haruki Murakami\|Haruki Murakami]], [[1x - References/11 Notes/11.05 Persons/Toni Morrison\|Toni Morrison]], [[1x - References/11 Notes/11.05 Persons/W. B. Yeats\|W. B. Yeats]], [[1x - References/11 Notes/11.05 Persons/P G Wodehouse\|P G Wodehouse]]
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|(In Progress) The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 
 ### Quotes
 "Taking a non-attached stance towards procrastination, by contrast, starts from a different question: who says you need to wait until you ‘feel like’ doing something in order to start doing it? The problem, from this perspective, isn’t that you don’t feel motivated; it’s that you imagine you need to feel motivated. If you can regard your thoughts and emotions about whatever you’re procrastinating on as passing weather, you’ll realise that your reluctance about working isn’t something that needs to be eradicated, or transformed into positivity. You can coexist with it. You can note the procrastinatory feelings, and act anyway.
