@@ -3,6 +3,24 @@
 ---
 
 
+## Playlists
+- [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3) How does he find time for this?
+- [Musas Best Genre Blending Artists](https://open.spotify.com/playlist/038xxCHbkHz2uOF2XYce44?si=5c9f98dd65fd4e56)
+- [Musas Favorite Jazz](https://open.spotify.com/playlist/602KsCLRNb5PQFgCwhbBWR?si=4ae746b84dd04376)
+- [Musas Favorite R & B](https://open.spotify.com/playlist/2qUbi7VNkUB4ulW0Pd1RJN?si=455398b4b57b47e7)
+- [Musas Favorite Reggae](https://open.spotify.com/playlist/2AjDZJoCpQP5XWTYhq8kYr?si=6ec60c59c013448c)
+- [Musas Favorite Neosoul](https://open.spotify.com/playlist/0j3x76mYQFAwtMrysDNuac?si=1082d9db94bb4bc3)
+- [Musas Favorite Rock](https://open.spotify.com/playlist/4RUoKWlXW1eeOA22c7gYtJ?si=9fca9a5dc7c343d5)
+- [Musas Favorite Kenyan Artists](https://open.spotify.com/playlist/0ljSLXgq8to7CGHB5x3I8M?si=e0514284644f41bb)
+- [Musas Favorite Funk](https://open.spotify.com/playlist/1f02kfJNKuh8eyg10eM3Nj?si=be208e11452841c4)
+- [Musas Favorite Jazz](https://open.spotify.com/playlist/602KsCLRNb5PQFgCwhbBWR?si=568e268b36b74d9c)
+- [Musas Favorite Drummers](https://open.spotify.com/playlist/3GNHlmQbxcUrL0Ov22BRIy?si=d6f4093bb15d41f8)
+- [Musas Favorite African Jazz](https://open.spotify.com/playlist/0ogk4bwEHVskIvYwagnKAg?si=bfc82270296545f9)
+- [Musas Favorite Brits](https://open.spotify.com/playlist/16SAFC04Xyo0fjTcCCrJGo?si=9918f70cd0c94474)
+- [Musas Favorite African Artists](https://open.spotify.com/playlist/0ZeYcEf3ly9KiXvYnR5L46?si=4d0f9ff343f345b6)
+- [Musas 2023 discoveries](https://open.spotify.com/playlist/5s1J7nBJpcvLjxFyVrwuJI?si=310b9cccc86243f5)
+
+
 ### Artists 
 - [Cory Wong](https://www.youtube.com/@CoryWongMusic) One of the greatest funk guitarists of modern times
 - [Ben l'oncle Soul](https://www.youtube.com/watch?v=wFwP32FFzro) French soul
@@ -92,5 +110,3 @@
 - Brittany Howard - Stay High
 - Blues Traveler - Hook
 - Steelers wheel - Stuck in the middle with you
-## Playlists
-- [Obama 2023 Summer playlist](https://open.spotify.com/playlist/37i9dQZF1DWVbX0Kwa6Hge?si=c236e22b2f9249b3) How does he find time for this?
