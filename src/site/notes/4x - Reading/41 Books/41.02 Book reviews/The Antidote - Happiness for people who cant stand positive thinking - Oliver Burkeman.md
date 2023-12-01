@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-antidote-happiness-for-people-who-cant-stand-positive-thinking-oliver-burkeman/","title":"The Antidote - Oliver Burkeman","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-antidote-happiness-for-people-who-cant-stand-positive-thinking-oliver-burkeman/","title":"The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman","dgShowBacklinks":false}
 ---
 
 ![the antidote - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/the%20antidote%20-%20cover.jpg)
@@ -19,7 +19,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure\|Hedonic adaptation - We quickly become accustomed to any new source of pleasure]]
 - [[1x - References/11 Notes/11.03 Ideas/Things will not out for the best, but they will also go less wrong than you thought.\|Things will not out for the best, but they will also go less wrong than you thought.]]
 - [[1x - References/11 Notes/11.03 Ideas/Confront the reality of our limited control over events\|Confront the reality of our limited control over events]]
-- [[1x - References/11 Notes/11.03 Ideas/Focus on accomplishing work, rather than being in the mood to accomplish work\|Focus on accomplishing work, rather than being in the mood to accomplish work]]]]
+- [[1x - References/11 Notes/11.03 Ideas/Focus on accomplishing work, rather than being in the mood to accomplish work\|Focus on accomplishing work, rather than being in the mood to accomplish work]]
 - [[1x - References/11 Notes/11.03 Ideas/Specific goals can be counter productive\|Specific goals can be counter productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Dont wait for perfect circumstances, start with what you have now\|Dont wait for perfect circumstances, start with what you have now]]
 - [[1x - References/11 Notes/11.03 Ideas/Principle of affordable loss\|Principle of affordable loss]]
