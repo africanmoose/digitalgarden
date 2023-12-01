@@ -49,7 +49,7 @@ Lake Bogoria hot springs steaming early in the morning.
 ## Work in Progress
 
 - Reading _You are what you watch - Walter Hickey
-- Reading _Clear Thinking: Turning Ordinary Moments into Extraordinary Results - Shane Parrish_
+- Processing [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey_
 - Reading The Robot series, by Isaac Asimov
