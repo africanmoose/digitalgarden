@@ -26,6 +26,7 @@
 - ZZ top
 - Shawn Mullins
 - Common
+- Trombone Shorty
 - Outkast
 - Joel Plaskett
 - The Greybox Allstars
