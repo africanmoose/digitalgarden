@@ -18,6 +18,7 @@
 - [Musas Favorite African Jazz](https://open.spotify.com/playlist/0ogk4bwEHVskIvYwagnKAg?si=bfc82270296545f9)
 - [Musas Favorite Brits](https://open.spotify.com/playlist/16SAFC04Xyo0fjTcCCrJGo?si=9918f70cd0c94474)
 - [Musas Favorite African Artists](https://open.spotify.com/playlist/0ZeYcEf3ly9KiXvYnR5L46?si=4d0f9ff343f345b6)
+- [Musas Favorite Folk, Blues and Country](https://open.spotify.com/playlist/5fM1lVCfUufceNTrSrmdhK?si=c3590b3bf26748f8)
 - [Musas 2023 discoveries](https://open.spotify.com/playlist/5s1J7nBJpcvLjxFyVrwuJI?si=310b9cccc86243f5)
 
 
@@ -28,7 +29,11 @@
 - [Mona Ki Ngi Xica - Bonga](https://www.youtube.com/watch?v=kJj3w6UN8_8)
 - Lianne la Havas
 - Vulfpeck
+- Olivia Dean
 - MonoNeon
+- Arrested Development
+- Janet Jackson
+- Erykah Badu
 - Avery*Sunshine
 - Clothegod
 - Postmodern Jukebox
@@ -92,6 +97,7 @@
 - Meshell Ndegeocello
 - Little Simz
 - Mereba
+- [Irma](https://www.youtube.com/watch?v=ZFMzEfEWe8o)
 
 ## Songs
 - [Pitbull - back in time](https://www.youtube.com/watch?v=zaSZE194D4I) MIB, pitbull, whats not to love?
