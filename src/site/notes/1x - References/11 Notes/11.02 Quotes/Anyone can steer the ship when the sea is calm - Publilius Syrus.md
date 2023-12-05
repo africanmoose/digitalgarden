@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/anyone-can-steer-the-ship-when-the-sea-is-calm-publilius-syrus/","title":"Anyone can steer the ship when the sea is calm - Publilius Syrus","dgShowBacklinks":false}
+---
+
+
+## Quote
+Anyone can steer the ship when the sea is calm
+
+## Author
+Roman slave Publilius Syrus
+
+## Reference
+[[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+
+## Related
+- [[1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity\|Resilience in the face of adversity]]
+- [[3x - Spiritual/31 Notes/31.02 Illustrations/Problem not the view but the viewpoint\|Problem not the view but the viewpoint]]
+- [[1x - References/11 Notes/11.02 Quotes/The problem is not the problem. The problem is how you think about the problem - Brianna Wiest\|The problem is not the problem. The problem is how you think about the problem - Brianna Wiest]]
+- [[1x - References/11 Notes/11.03 Ideas/Growth Mindset\|Growth Mindset]]
+- [[1x - References/11 Notes/11.03 Ideas/Defensiveness impedes growth\|Defensiveness impedes growth]]
