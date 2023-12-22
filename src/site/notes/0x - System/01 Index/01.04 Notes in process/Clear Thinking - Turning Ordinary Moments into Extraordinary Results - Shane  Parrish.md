@@ -22,13 +22,22 @@
 - [[1x - References/11 Notes/11.03 Ideas/Ask before you act - will this make my future easier or harder?\|Ask before you act - will this make my future easier or harder?]]
 - [[1x - References/11 Notes/11.03 Ideas/Cherish the friend who tells you that you messed up\|Cherish the friend who tells you that you messed up]]
 - [[1x - References/11 Notes/11.03 Ideas/Knowing our own strengths and weaknesses\|Knowing our own strengths and weaknesses]]
-- 
+- [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
+- [[1x - References/11 Notes/11.03 Ideas/Never say yes to anything important without thinking it over for a day\|Never say yes to anything important without thinking it over for a day]]
+- [[1x - References/11 Notes/11.03 Ideas/Good teachers expect more from their students\|Good teachers expect more from their students]]
+- [[1x - References/11 Notes/11.03 Ideas/Working with a master elevates our standards\|Working with a master elevates our standards]]
+- [[1x - References/11 Notes/11.03 Ideas/Have a personal board of directors as role models and decision makers\|Have a personal board of directors as role models and decision makers]]
+- [[1x - References/11 Notes/11.03 Ideas/Replace decisions with rules to overcome weaknesses\|Replace decisions with rules to overcome weaknesses]]
+- [[1x - References/11 Notes/11.03 Ideas/Teach by example - How Michael Abrashoff turned around the USS Benfold\|Teach by example - How Michael Abrashoff turned around the USS Benfold]]
+- [[1x - References/11 Notes/11.03 Ideas/Dont give the best of yourself to the least important things\|Dont give the best of yourself to the least important things]]
+- [[1x - References/11 Notes/11.03 Ideas/Ask 'what did I miss' to engage people\|Ask 'what did I miss' to engage people]]
 
 ### References
 -
 
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Anyone can steer the ship when the sea is calm - Publilius Syrus\|Anyone can steer the ship when the sea is calm - Publilius Syrus]]
+- [[1x - References/11 Notes/11.02 Quotes/The mind should have someone whom it can respect - Seneca\|The mind should have someone whom it can respect - Seneca]]
 
 ### Related
 
