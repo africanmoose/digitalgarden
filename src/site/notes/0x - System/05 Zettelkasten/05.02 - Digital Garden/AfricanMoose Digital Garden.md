@@ -3,18 +3,18 @@
 ---
 
 ## Pic of the week
-![PXL_20231120_035343959 small.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231120_035343959%20small.jpg)
-Lake Bogoria hot springs steaming early in the morning.
+![PXL_20231220_034123372.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20231220_034123372.jpg)The joy of waking up to camping views
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/What is a friend? Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend? Just one with whom you dare to be yourself - C. Raymond Beran]]
 - [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
-- [[1x - References/11 Notes/11.02 Quotes/In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson\|In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson]]
+
 
 ## Interesting Persons
 
@@ -55,13 +55,13 @@ Lake Bogoria hot springs steaming early in the morning.
 - Reading The Robot series, by Isaac Asimov
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
 - [[1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure\|Hedonic adaptation - We quickly become accustomed to any new source of pleasure]]
 - [[1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs\|Appreciate unexpected blessings and accept unexpected costs]]
 - [[1x - References/11 Notes/11.02 Quotes/Diderot Effect - Beware the contamination of sudden wealth\|The Diderot Effect]]
 - [[1x - References/11 Notes/11.03 Ideas/People would rather get electric shock than sit with their own thoughts\|People would rather give themselves an electric shock than sit and think]]
 - [[1x - References/11 Notes/11.03 Ideas/Illusion of control\|Illusion of control]]
 - [[1x - References/11 Notes/11.03 Ideas/How did the expert reach his conclusion\|How did the expert reach his conclusion]]
-- [[1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human\|Creativity is a fundamental quality of being human]]
 
 ## Ideas to Improve my Finances
 
