@@ -10,7 +10,7 @@
 - Knowing what we dont know is necessary in order to learn and fill in the gaps
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 self-knowledge is about knowing your own strengths and weaknesses. You must know what you can do and what you can’t; your powers and limitations, your strengths and vulnerabilities, what’s in your control and what isn’t. You know what you know, and what you don’t know. And you know, moreover, that you have cognitive blind spots—that there are things you don’t know, and you don’t know you don’t know them—what Donald Rumsfeld famously called “unknown unknowns.” If you want to better understand your level of self-knowledge, ask
