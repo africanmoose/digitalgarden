@@ -12,7 +12,7 @@
 - Over time, we will internalize their values and it will be automatic to think, reason and feel like the people you have chosen as your board.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 Look around, find the best examples you can of people with the attributes you want to cultivate—the people whose default behavior is your desired behavior, those who inspire you to raise the bar and make you want to be a better version of yourself. Your exemplars needn’t be alive. They can be either dead or fictional, as well. We can learn from both Atticus Finch and Warren Buffett, along with Genghis Khan and Batman. It’s up to you.
