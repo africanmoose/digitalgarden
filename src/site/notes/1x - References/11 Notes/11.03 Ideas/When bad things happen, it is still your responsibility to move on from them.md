@@ -13,7 +13,7 @@
 - adversity gives us a chance to learn, test ourselves and grow
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 Just because something happened that was outside of your control doesn’t mean it’s not your responsibility to deal with it the best you can. Our desire to protect ourselves prevents us from moving forward. It’s tempting to absolve yourself, throwing your hands up and claiming you have no control over the situation you’ve landed in. And sure, sometimes that’s true. There are circumstances of chance that have a negative impact. People suffer misfortune all the time for reasons beyond their control: stray bullets, diseases, getting struck by a drunk driver. Complaining does nothing to change the present situation you find
