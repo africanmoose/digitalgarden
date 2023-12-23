@@ -14,7 +14,7 @@
 - Took peoples ideas and implemented them: 21 year old soldier had the idea of using stainless steel bolts so that there would be less maintenance. now the entire navy uses them.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 - [internet article](https://www.ishn.com/articles/105127-how-navy-captain-d-michael-abrashoff-turned-his-ship-around)
 
 ### Quotes
