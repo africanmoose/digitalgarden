@@ -11,7 +11,7 @@
 - friends and family who validate our interpretation of a situation are not helping us change our thoughts to alighn with reality.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 Ironically, the people who care the most about chronic victims often unintentionally encourage their blame game. When things don’t go our way, it’s natural to vent to family members or close friends. They’re loving and supportive and have the best intentions for us. They would love to validate our interpretation of the situation, and offer us relief. But when they do that, nothing has changed. Our incorrect view of the world remains intact. They don’t encourage us to re-evaluate our patterns of thinking, feeling, and acting. And if we’re thrust into similar circumstances later on, we’ll likely respond the same way and get the same disappointing results. On the other hand, have you ever had a friend tell you, “You messed up
