@@ -12,7 +12,7 @@
 
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 The inertia default pushes us to maintain the status quo. Starting something is hard but so too is stopping something.[1] We resist change even when change is for the best. The Latin word inertia means literally “inertness”: that is, laziness or
