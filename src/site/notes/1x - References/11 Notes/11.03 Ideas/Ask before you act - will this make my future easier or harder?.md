@@ -7,7 +7,7 @@
 - Asking ourself 'will this make my future easier or harder?' before making a decision is a good way to help us consider the second order impact of our decisions
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 One effective question to ask yourself before you act is, “Will this action make the future easier or harder?”[*] This surprisingly simple question helps change your perspective on the situation and avoid making things worse. As my grandfather (and many others) used to say, “If you find yourself in a hole, the first thing you need to do is stop digging.”
