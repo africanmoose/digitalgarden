@@ -12,7 +12,7 @@
 - If we dont have the opportunity to work with a master directly, you can still read about them (or watch them on youtube) to absorb their standards.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 I remembered a story I’d read about Henry Kissinger. A staffer had drafted a memo and left it on Kissinger’s desk for him to read. A while later Kissinger approached him and asked if it was his best work. The staffer said no and rewrote the entire memo. The next day the staffer ran into Kissinger again and asked what he thought. Kissinger asked him again if this was the best he could do. The staffer took the memo and rewrote it yet again. The next morning the same scenario played out, only this time the poor staffer stated that yes indeed it was his best work. Kissinger replied, “Okay, now I’ll read it.
