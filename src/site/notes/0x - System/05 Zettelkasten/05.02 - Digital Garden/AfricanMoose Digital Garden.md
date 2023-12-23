@@ -38,20 +38,20 @@
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
-- [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 
 ## Work in Progress
 
-- Reading _You are what you watch - Walter Hickey
-- Processing [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- Processing _How to taste coffee_
+- Processing _Range_
 - Reading _The art of eating - M.S. Fischer_
-- Reading _Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey_
+- Processing _Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey_
 - Reading The Robot series, by Isaac Asimov
 ## Interesting Ideas
 
