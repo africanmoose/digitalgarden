@@ -12,7 +12,7 @@
 - This may require doing things different from what others are doing, which may invite ridicule.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 Best practices aren’t always the best. By definition, they’re average. If you don’t know enough about what you’re doing to make your own decisions, you probably should do what everyone is doing. If you want better-than-average results, though, you’ll have to think clearly. And thinking clearly is thinking independently. Sometimes you have to break free of the social default and do something differently from those around you. Fair warning: it’s going to get uncomfortable.
