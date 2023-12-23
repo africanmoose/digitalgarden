@@ -13,7 +13,7 @@
 - One good rule is never to answer immediately - say 'I will get back to you on that once I have thought about it'
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ### Quotes
 Bad habits are easy to acquire when there is a delay between action and consequence. If you eat a chocolate bar or skip a workout today, you’re not going to suddenly go from healthy to unhealthy. Work late and miss dinner with your family a couple nights, and it won’t damage your relationship. If you spend today on social media instead of doing work, you’re not going to get fired. However, these choices can end up becoming habits through repetition and accumulate into disaster. The formula for failure is a few small errors consistently repeated. Just
