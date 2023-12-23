@@ -11,7 +11,7 @@ The mind should have someone whom it can respect—someone whose authority might
 Seneca, letter to Lucilius
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
+[[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 
 ## Related
 - [[1x - References/11 Notes/11.03 Ideas/Social proof or herd instinct\|Social proof or herd instinct]]
