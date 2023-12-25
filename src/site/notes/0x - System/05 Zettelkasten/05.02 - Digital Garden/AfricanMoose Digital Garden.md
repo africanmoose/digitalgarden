@@ -48,7 +48,7 @@
 
 ## Work in Progress
 
-- Processing _How to taste coffee_
+- Processing [[0x - System/01 Index/01.04 Notes in process/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 - Processing _Range_
 - Reading _The art of eating - M.S. Fischer_
 - Processing _Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey_
