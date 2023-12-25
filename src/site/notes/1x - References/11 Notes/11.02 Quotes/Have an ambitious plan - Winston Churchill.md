@@ -11,7 +11,7 @@ Winston Churchill
 
 ## Related
 - [[Plan spending ahead of time\|Plan spending ahead of time]]
-- [[2x - Planning/23 Periodic Reviews/23.02 Moonshot List/23.02 - Planning - long term moonshot list\|23.02 - Planning - long term moonshot list]]
+- [[2x - Planning/21 Long Term Planning/21.04 Moonshot List/23.02 - Planning - long term moonshot list\|23.02 - Planning - long term moonshot list]]
 - [[1x - References/11 Notes/11.03 Ideas/Common Sense Planning\|Common Sense Planning]]
 
 ## RSS Data
