@@ -19,7 +19,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/The only way to stand out when doing undifferentiated work is to work harder\|The only way to stand out when doing undifferentiated work is to work harder]]
 - [[1x - References/11 Notes/11.03 Ideas/Starting something is hard, but so is stopping something\|Starting something is hard, but so is stopping something]]
 - [[1x - References/11 Notes/11.03 Ideas/When bad things happen, it is still your responsibility to move on from them\|When bad things happen, it is still your responsibility to move on from them]]
-- [[1x - References/11 Notes/11.03 Ideas/Ask before you act - will this make my future easier or harder?\|Ask before you act - will this make my future easier or harder?]]
+- [[1x - References/11 Notes/11.03 Ideas/Ask before you act - will this make my future easier or harder\|Ask before you act - will this make my future easier or harder]]
 - [[1x - References/11 Notes/11.03 Ideas/Cherish the friend who tells you that you messed up\|Cherish the friend who tells you that you messed up]]
 - [[1x - References/11 Notes/11.03 Ideas/Knowing our own strengths and weaknesses\|Knowing our own strengths and weaknesses]]
 - [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
