@@ -7,7 +7,7 @@
 
 ## Interesting Quotes
 
-- [[1x - References/11 Notes/11.02 Quotes/What is a friend? Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend? Just one with whom you dare to be yourself - C. Raymond Beran]]
+- [[1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran]]
 - [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
@@ -38,21 +38,23 @@
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey\|The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Making it all work - David Allen\|Making it all work - David Allen]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
+- Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/2023 Top books\|2023 Top books]]
 
 ## Work in Progress
 
-- Processing [[0x - System/01 Index/01.04 Notes in process/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
-- Processing _Range_
-- Reading _The art of eating - M.S. Fischer_
+- Processing _Range: Why Generalists Triumph in a Specialized World_
+- Reading _Undeniable: How Biology Confirms Our Intuition That Life Is Designed_
 - Processing _Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey_
-- Reading The Robot series, by Isaac Asimov
+- Processing _Dopamine Nation: Finding Balance in the Age of Indulgence_
+- Reading _The art of eating - M.S. Fischer_
+- Reading _Wool_
 ## Interesting Ideas
 
 - [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
