@@ -19,17 +19,13 @@
 - [[1x - References/11 Notes/11.03 Ideas/Humans can discriminate between 1 trillion smells\|Humans can discriminate between 1 trillion smells]]
 - [[1x - References/11 Notes/11.03 Ideas/Orthonasal vs Retronasal olfaction - how we smell different things\|Orthonasal vs Retronasal olfaction - how we smell different things]]
 - [[1x - References/11 Notes/11.03 Ideas/Smells can trigger emotions and memories\|Smells can trigger emotions and memories]]
-### References
-- 
 
 ### Quotes
-- The proper name for our sense of smell is olfaction. And the type of
+The proper name for our sense of smell is olfaction. And the type of
 smelling we do through our nose—you might think of this as sniffing—is orthonasal olfaction. Professional tasters call this first part of the coffee experience “fragrance.” It specifically refers to the orthonasal olfaction of freshly ground coffee beans before they make contact with water. This is an industry-specific distinction (scientists usually call smells “odor,” regardless of how, when, or why they happen), but for clarity’s sake and because this is a book about coffee, I’ll use this terminology, too.
 
 For coffee tasters, coffee “aroma” is the orthonasal olfaction that happens when you smell brewed coffee. (Again, this distinction is unique to the coffee tasting experience; scientists would likely still use the word odor here.) The act of brewing—pouring hot water over ground coffee—releases heavier volatile compounds into the air through energy transfer, making the once inaccessible now accessible to our noses. This is why the aroma of brewed coffee is usually different from the fragrance of ground coffee— there are simply more volatile compounds at the party. The new heavier compounds blend with the lighter compounds from
 the fragrance stage, sometimes overpowering them entirely. The compounds we tend to smell most intensely at this stage of the experience can be traced back to the Maillard reactions that happen during roasting. Maillard reactions are the series of chemical reactions that take place when food browns, such as when toasting bread, searing steak, or roasting coffee. It’s no surprise, then, that the notes here tend to be “caramelly, nutty, or chocolatey in character.”6
 
 Coffee tasters call the final segment of the coffee experience the aftertaste: it’s the flavor that lingers when you no longer have coffee in your mouth. This flavor perception comes from the residue on and around our tongues. In coffee, insoluble solids, including lipids, are often responsible for aftertaste, and the most common notes associated with these are nutty/cocoa, roasted, and chemical.9 This makes sense, as soluble compounds—those that are easily dissolved in water—are more likely to be washed away in the swallow. The insoluble lingerers contain compounds that not only interact with taste and touch receptors in the mouth but also travel up into our noses to interact with smell receptors—the three sensations that are responsible for flavor. And since it’s not the same mix of compounds as was experienced when the coffee was in your mouth, the aftertaste is distinct from the other segments of the coffee tasting experience.
-
-### Related
 
