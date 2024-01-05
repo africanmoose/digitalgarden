@@ -14,5 +14,5 @@ Philosopher Søren Kierkegaard
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Risk is half the process of moving forward - Richard Saul Wurman\|Risk is half the process of moving forward - Richard Saul Wurman]]
-- [[1x - References/11 Notes/11.03 Ideas/Ask before you act - will this make my future easier or harder\|Ask before you act - will this make my future easier or harder]]
+- [[Ask before you act - will this make my future easier or harder?\|Ask before you act - will this make my future easier or harder?]]
 - [[1x - References/11 Notes/11.03 Ideas/Decision tool - What would my future self like\|Decision tool - What would my future self like]]
