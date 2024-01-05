@@ -10,7 +10,7 @@
 - Since we cannot control for all these things, coffee necessarily may taste different even from day to day in the same location.
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
+- [[0x - System/01 Index/01.04 Notes in process/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 
 ### Quotes
 But there is an even bigger difference between coffee and wine or beer that complicates matters: coffee must always be brewed in the moment. It’s made of only two ingredients—coffee and water—and both are fickle as hell. Basically, anything and everything affects the way coffee tastes, from where it was grown and how it was processed to how it was roasted to how old it is to how it was brewed. The flavor notes on café menus and coffee bags describe a moment in time. Whoever made those notes tasted the coffee brewed a specific way, for a specific amount of time, with a specific type of water. Even if there was a way to control for all other factors, it is still impractical to control for water. Different regions have different water, with different concentrations of minerals that affect how coffee is extracted and thus how it tastes. In other words, coffee flavor is a moving target, and it’s difficult to label something that is constantly shifting in subtle ways.
