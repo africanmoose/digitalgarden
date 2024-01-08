@@ -15,4 +15,4 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Sen_no_Riky%C5%AB)
 
 ### Interesting Related
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
