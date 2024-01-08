@@ -17,7 +17,7 @@
 
 ### Related
 - [[1x - References/11 Notes/11.07 Poetry/The road not taken - Robert Frost\|The road not taken - Robert Frost]]
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
 - [[3x - Spiritual/31 Notes/31.03 Structure Notes/Modesty\|Modesty]]
