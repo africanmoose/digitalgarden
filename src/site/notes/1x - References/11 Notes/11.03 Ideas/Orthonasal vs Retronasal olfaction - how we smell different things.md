@@ -14,7 +14,7 @@
 - Our brain provides a huge amount of processing power just for detecting, processing and synthesizing flavours, unique among mammals
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 
 ### Quotes
 We, on the other hand, are optimized for retronasal olfaction. Retronasal olfaction plays the
