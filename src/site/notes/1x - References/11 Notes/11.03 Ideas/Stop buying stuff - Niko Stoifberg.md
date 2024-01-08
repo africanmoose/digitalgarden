@@ -22,5 +22,5 @@
 - [[1x - References/11 Notes/11.03 Ideas/Care for your stuff\|Care for your stuff]]
 - [[1x - References/11 Notes/11.02 Quotes/Only have stuff that is useful or beautiful - William Morris\|Only have stuff that is useful or beautiful - William Morris]]
 - [[1x - References/11 Notes/11.03 Ideas/Accept change by how we pursue stuff\|Accept change by how we pursue stuff]]
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
