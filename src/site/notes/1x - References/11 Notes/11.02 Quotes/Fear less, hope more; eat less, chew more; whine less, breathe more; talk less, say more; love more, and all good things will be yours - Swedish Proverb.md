@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/fear-less-hope-more-eat-less-chew-more-whine-less-breathe-more-talk-less-say-more-love-more-and-all-good-things-will-be-yours-swedish-proverb/","title":"structure note","dgShowBacklinks":false}
+---
+
+
+## Quote
+“Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; love more, and all good things will be yours.”
+
+## Author
+Swedish proverb
+
+## Reference
+[[0x - System/01 Index/01.04 Notes in process/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
+
+## Related
+- [[1x - References/11 Notes/11.02 Quotes/Fear is useless - Sarah Brennan\|Fear is useless - Sarah Brennan]]
+- [[1x - References/11 Notes/11.03 Ideas/Water never complains it just flows\|Water never complains it just flows]]
+- [[1x - References/11 Notes/11.02 Quotes/Talk less say more\|Talk less say more]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
