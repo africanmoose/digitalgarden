@@ -13,7 +13,7 @@ William Morris - designer poet and artist
 - https://www.gutenberg.org/cache/epub/3773/pg3773-images.html
 
 ## Related
-[[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
+[[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
 
 ## RSS Data
 <div class='date'>Tue, 1 Nov 2022 12:17:32 GMT</div>
