@@ -20,7 +20,7 @@
 - "Like a great many other words that are descriptive of emotions and ideologies, the words wabi and sabi have travelled through a millenium of cultural change and in so doing have collected a vast amount of cultural baggage. As usage and intended meanings change, the complexity and depth of words can increase exponentially....Words are like living organisms, they evolve to match the expressive requirements of those using a language."
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
 - [[1x - References/11 Notes/11.03 Ideas/Each of us is imperfect and beautiful\|Each of us is imperfect and beautiful]]
 - [[1x - References/11 Notes/11.05 Persons/Sen no Rikyū\|Sen no Rikyū]]
