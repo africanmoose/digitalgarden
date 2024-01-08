@@ -17,7 +17,7 @@
 - What I’ve found is this: **you’d be _shocked_ how much less you can use during a day without sacrificing any quality.** There are so many disposable and consumable things that we use in our lives, even if we’re careful about it. Taking the time to “reset” our expectations on how much we have to use can pay great dividends – not only are we directly saving money by consuming less (and thus not having to replace these consumables as often), we’re also changing our expectations.
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Digital Minimalism - Cal Newport\|Digital Minimalism - Cal Newport]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism gives us space to see farther\|Minimalism gives us space to see farther]]
