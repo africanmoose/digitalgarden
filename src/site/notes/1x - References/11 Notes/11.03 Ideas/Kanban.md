@@ -16,7 +16,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life\|Personal Kanban - Mapping Work Navigating Life]]
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Kaizen\|Kaizen]]
+- [[1x - References/11 Notes/11.03 Ideas/Kaizen\|1x - References/11 Notes/11.03 Ideas/Kaizen]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile workflow - Effective Daily Sync\|Agile workflow - Effective Daily Sync]]
 - [[1x - References/11 Notes/11.03 Ideas/Agile Principles\|Agile Principles]]
 - [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
