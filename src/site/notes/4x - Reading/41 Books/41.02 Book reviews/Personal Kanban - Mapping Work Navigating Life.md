@@ -13,7 +13,7 @@
 - I have implemented more features of kanban into my personal work planning, such as a monthly and weekly retro.
 
 ### Details
-- What is [[1x - References/11 Notes/11.03 Ideas/Kaizen\|Kaizen]]?
+- What is [[1x - References/11 Notes/11.03 Ideas/Kaizen\|1x - References/11 Notes/11.03 Ideas/Kaizen]]?
 - What is [[1x - References/11 Notes/11.03 Ideas/Kanban\|Kanban]]? and who is [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]?
 - Understanding the [[1x - References/11 Notes/11.03 Ideas/Zeigarnik Effect\|Zeigarnik Effect]] helps us see why a plan helps us work
 - [[1x - References/11 Notes/11.03 Ideas/Limit work in progress\|Limit work in progress]]
