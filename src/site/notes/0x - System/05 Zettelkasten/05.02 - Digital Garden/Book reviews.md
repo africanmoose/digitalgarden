@@ -37,7 +37,8 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/The obstacle is the way - Ryan Holliday\|The obstacle is the way - Ryan Holliday]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Be more Japan - the art of japanese living\|Be more Japan - the art of japanese living]]
 - [[4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock\|My year with Eleanor - Noelle Hancock]]
-
+- [[4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg\|Why smart people can be so stupid - Robert Steinberg]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger\|The Gift - 12 Lessons to save your life - Edith Eger]]
 
 ## Interesting but dont go out of your way
 - [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
