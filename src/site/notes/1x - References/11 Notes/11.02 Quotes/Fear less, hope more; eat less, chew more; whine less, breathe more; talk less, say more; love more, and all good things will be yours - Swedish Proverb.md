@@ -10,7 +10,7 @@
 Swedish proverb
 
 ## Reference
-[[0x - System/01 Index/01.04 Notes in process/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
+[[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 
 ## Related
 - [[1x - References/11 Notes/11.02 Quotes/Fear is useless - Sarah Brennan\|Fear is useless - Sarah Brennan]]
