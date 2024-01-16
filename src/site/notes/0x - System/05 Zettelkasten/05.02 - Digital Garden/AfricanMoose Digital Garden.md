@@ -3,8 +3,9 @@
 ---
 
 ## Pic of the week
-![_DSC8607.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC8607.jpg)
-The stunning lake Elementaita - we somehow don't notice it in between Lake Nakuru's wildlife and Lake Naivasha's party life. It deserves more attention.
+
+![_DSC8673.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC8673.jpg)
+More Elementaita goodness, this time the view towards the series of hills known as 'sleeping warrior'
 
 ## Interesting Quotes
 
@@ -29,29 +30,28 @@ The stunning lake Elementaita - we somehow don't notice it in between Lake Nakur
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/A bigger surface area requires more time to maintain. Keep your life simple as much as possible.\|A bigger surface area requires more time to maintain. Keep your life simple as much as possible.]]
 - [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
 - [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
 - [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
-- [[1x - References/11 Notes/11.03 Ideas/Barbell Method of reading\|Barbell method of reading]]
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish\|Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish]]
-- [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/2023 Top books\|2023 Top books]]
 
 ## Work in Progress
 
 - Processing _Range: Why Generalists Triumph in a Specialized World - David Epstein_
-- Processing [[0x - System/01 Index/01.04 Notes in process/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 - Processing _Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke_
 - Reading _The art of eating - M.S. Fischer_
 - Reading _Wool Omnibus - Hugh Howey_
