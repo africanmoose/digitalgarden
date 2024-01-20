@@ -9,13 +9,13 @@ More Elementaita goodness, this time the view towards the series of hills known 
 
 ## Interesting Quotes
 
+- [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan\|What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran\|What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran]]
 - [[1x - References/11 Notes/11.02 Quotes/The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson\|The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson]]
 - [[1x - References/11 Notes/11.02 Quotes/The secret to waking up is to wake up way earlier than you have to - Simon Sarris\|The secret to waking up is to wake up way earlier than you have to - Simon Sarris]]
 - [[1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan\|What an astonishing thing a book is - Carl Sagan]]
 - [[1x - References/11 Notes/11.02 Quotes/Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger\|Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger]]
 - [[1x - References/11 Notes/11.02 Quotes/If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt\|If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt]]
-- [[1x - References/11 Notes/11.02 Quotes/Ours is a world of nuclear giants and ethical infants - Omar Bradley\|Ours is a world of nuclear giants and ethical infants - Omar Bradley]]
 
 
 ## Interesting Persons
@@ -40,22 +40,21 @@ More Elementaita goodness, this time the view towards the series of hills known 
 
 ## Book Reviews
 
+- [[4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer\|Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer]]
 - [[4x - Reading/41 Books/41.01 Book Notes/Wool omnibus - Hugh Howey\|Wool omnibus - Hugh Howey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell\|The Lazy Person's Guide to Investing - Paul Farrell]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey\|Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel\|Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
-- [[4x - Reading/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
 - Full list of all reviews: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews\|Book reviews]]
 - Top books of 2023: [[0x - System/05 Zettelkasten/05.02 - Digital Garden/2023 Top books\|2023 Top books]]
 
 ## Work in Progress
 
-- Processing _Range: Why Generalists Triumph in a Specialized World - David Epstein_
+- Processing [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - Processing _Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke_
 - Reading _The art of eating - M.S. Fischer_
-- Reading _Wool Omnibus - Hugh Howey_
-- Processing _The Lazy Person's Guide to Investing: A Book for Procrastinators, the Financially Challenged, and Everyone Who Worries About Dealing with Their Money - Paul B. Farrell_
+- Reading 
 ## Interesting Ideas
 
 - [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
