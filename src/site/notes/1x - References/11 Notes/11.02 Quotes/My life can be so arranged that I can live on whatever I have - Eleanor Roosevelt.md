@@ -16,5 +16,5 @@ My life can be so arranged that I can live on whatever I have. If I cannot live 
 ## Related
 - [[Simple dollar Rule 1 - Spend less than you earn\|Simple dollar Rule 1 - Spend less than you earn]]
 - [[1x - References/11 Notes/11.02 Quotes/Emotionally grounded people live realistically and simply\|Emotionally grounded people live realistically and simply]]
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism gives us space to see farther\|Minimalism gives us space to see farther]]
