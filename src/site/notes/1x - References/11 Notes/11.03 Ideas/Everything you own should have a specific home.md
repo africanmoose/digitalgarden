@@ -19,7 +19,7 @@
 - Highlight: Give everything you own a “home”; it is essentially the key to feeling at peace in your space. Go through your belongings and only keep what’s purposeful or beautiful to you—and then assign each of those things a “home,” or a space to return to each night. It makes maintaining flow in your space effortless and calming
 
 ### Related
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
 - [[4x - Reading/41 Books/41.02 Book reviews/The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker\|The Minimalist Home A Room-by-Room Guide to a Decluttered Refocused Life - Joshua Becker]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work\|Minimalism helps us be more efficient at our work]]
