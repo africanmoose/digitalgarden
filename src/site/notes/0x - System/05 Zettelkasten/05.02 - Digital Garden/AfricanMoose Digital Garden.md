@@ -3,9 +3,8 @@
 ---
 
 ## Pic of the week
-
-![_DSC8673.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/_DSC8673.jpg)
-More Elementaita goodness, this time the view towards the series of hills known as 'sleeping warrior'
+![PXL_20240125_041558908.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240125_041558908.jpg)
+stop or go?
 
 ## Interesting Quotes
 
