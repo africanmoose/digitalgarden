@@ -14,5 +14,5 @@
 - Art of Manliness podcast - Neil Pasricha: simple rules for happiness
 
 ### Interesting Related
-[[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
+[[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 [[1x - References/11 Notes/11.03 Ideas/Productivity Principles\|Productivity Principles]]
