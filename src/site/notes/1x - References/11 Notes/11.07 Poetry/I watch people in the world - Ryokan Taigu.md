@@ -28,7 +28,7 @@ And cannot staunch my flow of tears.
 [allpoetry.com](https://allpoetry.com/I-Watch-People-In-The-World-)
 
 ## Related
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[Simple dollar Rule 6 - Stop Trying to Impress Other People\|Simple dollar Rule 6 - Stop Trying to Impress Other People]]
 - [[1x - References/11 Notes/11.02 Quotes/Attach your lives to a goal not people or things - Albert Einstein\|Attach your lives to a goal not people or things - Albert Einstein]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper\|Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper]]
