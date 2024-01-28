@@ -22,5 +22,5 @@ To enjoy life’s immensity, you do not need many things.
 ## Related
 - [[Simple dollar Rule 6 - Stop Trying to Impress Other People\|Simple dollar Rule 6 - Stop Trying to Impress Other People]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton\|Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton]]
-- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|1x - References/11 Notes/11.03 Ideas/Minimalism]]
+- [[1x - References/11 Notes/11.03 Ideas/Minimalism\|Minimalism]]
 - [[1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change\|Minimalist gives us the space to change]]
