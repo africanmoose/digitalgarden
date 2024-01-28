@@ -11,7 +11,7 @@
 - Even computers can not analyze and identify flavor as effectively as a human
 
 ### References
-- [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
+- [[How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 
 ### Quotes
 COFFEE IS AN INCREDIBLY COMPLEX PRODUCT. Science has pinpointed about twelve thousand compounds that contribute to our sensory experience of it.1 And input from all five of our senses— taste, smell, touch, sight, and sound—contribute to that experience. Coffee flavor is a multimodal experience, as the scientists say. In this book, we focus on the first three senses: taste, smell, and touch (which we experience as mouthfeel when we drink coffee). Together, these three create the perception we call flavor.* You will soon explore these three senses individually, but in practice,
