@@ -8,7 +8,7 @@
 - We can deliberately change our palate by exposing ourselves to a variety of tastes and smells
 
 ### References
-- [[How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
+- [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 
 ### Quotes
 Some studies suggest that taste preferences are learned through social practice and that the related judgments and behaviors become habitual to the point that most of us perform them unconsciously. This idea has stuck with me as I’ve written this book, likely because it confirms my own experience. Most of us don’t often have to think about our sense of taste beyond
