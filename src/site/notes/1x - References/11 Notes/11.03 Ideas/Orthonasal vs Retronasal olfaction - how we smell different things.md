@@ -28,5 +28,5 @@ hardwired and some learned—that tells our brain how to respond to the things w
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Coffee is an incredibly complex substance\|Coffee is an incredibly complex substance]]
 - [[1x - References/11 Notes/11.03 Ideas/Coffee taste can be affected by so many factors\|Coffee taste can be affected by so many factors]]
-- [[1x - References/11 Notes/We can train our taste and smell palate to be wider\|We can train our taste and smell palate to be wider]]
+- [[1x - References/11 Notes/11.03 Ideas/We can train our taste and smell palate to be wider\|We can train our taste and smell palate to be wider]]
 - [[1x - References/11 Notes/11.03 Ideas/Humans can discriminate between 1 trillion smells\|Humans can discriminate between 1 trillion smells]]
