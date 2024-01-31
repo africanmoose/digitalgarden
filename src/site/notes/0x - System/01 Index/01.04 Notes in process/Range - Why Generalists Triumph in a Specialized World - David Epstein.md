@@ -21,7 +21,7 @@
 - In more comple fields, the rules are unclear or incomplete, and there may be no easy pattern to recognise.
 - [[1x - References/11 Notes/11.03 Ideas/When we get used to doing things a particular way, it is harder to learn something new\|When we get used to doing things a particular way, it is harder to learn something new]]
 - [[1x - References/11 Notes/11.03 Ideas/Most university graduates go on to jobs unrelated to their degree\|Most university graduates go on to jobs unrelated to their degree]]
-
+- [[1x - References/11 Notes/11.03 Ideas/The figlia del coro - The all female multi-instrumental band\|The figlia del coro - The all female multi-instrumental band]]
 ### References
 - [goodreads](https://www.goodreads.com/book/show/41795733-range)
 - [bill gates blog](https://www.gatesnotes.com/Range)
