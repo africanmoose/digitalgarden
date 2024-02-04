@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/kaizen-the-japanese-method-for-transforming-habits-one-small-step-at-a-time-sarah-harvey/","title":"Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/kaizen-the-japanese-method-for-transforming-habits-one-small-step-at-a-time-sarah-harvey/","title":"Kaizen The Japanese Method for Transforming Habits, One Small Step at a Time - Sarah Harvey"}
 ---
 
 ![Kaizen - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Kaizen%20-%20cover.jpg)
