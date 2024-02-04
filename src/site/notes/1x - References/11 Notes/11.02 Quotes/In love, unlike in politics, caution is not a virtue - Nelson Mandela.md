@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-love-unlike-in-politics-caution-is-not-a-virtue-nelson-mandela/","title":"In love, unlike in politics, caution is not a virtue - Nelson Mandela","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-love-unlike-in-politics-caution-is-not-a-virtue-nelson-mandela/","title":"In love, unlike in politics, caution is not a virtue - Nelson Mandela"}
 ---
 
 
