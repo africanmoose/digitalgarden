@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/organization-is-needed-when-there-are-many-things-minimalism-may-be-a-better-option/","title":"Organization is needed when there are many things. Minimalism may be a better option.","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/organization-is-needed-when-there-are-many-things-minimalism-may-be-a-better-option/","title":"Organization is needed when there are many things. Minimalism may be a better option."}
 ---
 
 
