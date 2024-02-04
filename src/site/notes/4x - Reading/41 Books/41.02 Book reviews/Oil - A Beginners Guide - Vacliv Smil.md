@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/oil-a-beginners-guide-vacliv-smil/","title":"Oil - A Beginners Guide - Vacliv Smil","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/oil-a-beginners-guide-vacliv-smil/","title":"Oil - A Beginners Guide - Vacliv Smil"}
 ---
 
 ![Oil - A beginners guide cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Oil%20-%20A%20beginners%20guide%20cover.jpg)
