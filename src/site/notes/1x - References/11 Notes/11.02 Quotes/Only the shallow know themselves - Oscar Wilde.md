@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/only-the-shallow-know-themselves-oscar-wilde/","title":"Only the shallow know themselves - Oscar Wilde","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/only-the-shallow-know-themselves-oscar-wilde/","title":"Only the shallow know themselves - Oscar Wilde"}
 ---
 
 
