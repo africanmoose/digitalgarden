@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tools","permalink":"/tools/","title":"Overview of tools for personal management and productivity","dgShowBacklinks":false}
+{"dg-publish":true,"dg-permalink":"tools","permalink":"/tools/","title":"Overview of tools for personal management and productivity"}
 ---
 
 ---
