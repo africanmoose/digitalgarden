@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-figlia-del-coro-the-all-female-multi-instrumental-band/","title":"The figlia del coro - The all female multi-instrumental band","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-figlia-del-coro-the-all-female-multi-instrumental-band/","title":"The figlia del coro - The all female multi-instrumental band"}
 ---
 
 
