@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/learn-how-to-do-things-for-yourself/","title":"Learn how to do things for yourself","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/learn-how-to-do-things-for-yourself/","title":"Learn how to do things for yourself"}
 ---
 
 
