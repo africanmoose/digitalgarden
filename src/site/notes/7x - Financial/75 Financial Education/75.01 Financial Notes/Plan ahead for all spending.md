@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/plan-ahead-for-all-spending/","title":"Plan ahead for all spending","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/plan-ahead-for-all-spending/","title":"Plan ahead for all spending"}
 ---
 
 
