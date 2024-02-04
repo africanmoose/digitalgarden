@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-time-you-wake-up-does-not-matter/","title":"The time you wake up does not matter","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-time-you-wake-up-does-not-matter/","title":"The time you wake up does not matter"}
 ---
 
 
