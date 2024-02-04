@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chinese-developed-drilling-techniques-for-oil-a-long-time-ago/","title":"Chinese developed drilling tecniques for oil a long time ago","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chinese-developed-drilling-techniques-for-oil-a-long-time-ago/","title":"Chinese developed drilling tecniques for oil a long time ago"}
 ---
 
 
