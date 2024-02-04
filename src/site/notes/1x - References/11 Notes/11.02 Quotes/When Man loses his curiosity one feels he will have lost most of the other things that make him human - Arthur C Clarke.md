@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/when-man-loses-his-curiosity-one-feels-he-will-have-lost-most-of-the-other-things-that-make-him-human-arthur-c-clarke/","title":"When Man loses his curiosity one feels he will have lost most of the other things that make him human - Arthur C Clarke","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/when-man-loses-his-curiosity-one-feels-he-will-have-lost-most-of-the-other-things-that-make-him-human-arthur-c-clarke/","title":"When Man loses his curiosity one feels he will have lost most of the other things that make him human - Arthur C Clarke"}
 ---
 
 
