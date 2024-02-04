@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/one-has-to-give-something-of-ones-self-to-the-devil-that-one-may-live-w-b-yeats/","title":"One has to give something of ones self to the devil that one may live - W B Yeats","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/one-has-to-give-something-of-ones-self-to-the-devil-that-one-may-live-w-b-yeats/","title":"One has to give something of ones self to the devil that one may live - W B Yeats"}
 ---
 
 
