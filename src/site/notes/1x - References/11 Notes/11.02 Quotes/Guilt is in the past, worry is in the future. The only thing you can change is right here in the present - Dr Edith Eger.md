@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/guilt-is-in-the-past-worry-is-in-the-future-the-only-thing-you-can-change-is-right-here-in-the-present-dr-edith-eger/","title":"Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/guilt-is-in-the-past-worry-is-in-the-future-the-only-thing-you-can-change-is-right-here-in-the-present-dr-edith-eger/","title":"Guilt is in the past, worry is in the future. The only thing you can change is right here in the present - Dr Edith Eger"}
 ---
 
 
