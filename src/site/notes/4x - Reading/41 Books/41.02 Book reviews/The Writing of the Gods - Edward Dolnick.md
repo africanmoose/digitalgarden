@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-writing-of-the-gods-edward-dolnick/","title":"The Writing of the Gods - Edward Dolnick","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-writing-of-the-gods-edward-dolnick/","title":"The Writing of the Gods - Edward Dolnick"}
 ---
 
 ![The writing of the gods - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20writing%20of%20the%20gods%20-%20cover.jpg)
