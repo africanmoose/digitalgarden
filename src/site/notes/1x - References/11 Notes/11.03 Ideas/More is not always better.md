@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/more-is-not-always-better/","title":"More is not always better","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/more-is-not-always-better/","title":"More is not always better"}
 ---
 
 
