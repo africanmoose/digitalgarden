@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/listen-to-music-with-your-entire-body/","title":"Listen to music with your entire body","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/listen-to-music-with-your-entire-body/","title":"Listen to music with your entire body"}
 ---
 
 
