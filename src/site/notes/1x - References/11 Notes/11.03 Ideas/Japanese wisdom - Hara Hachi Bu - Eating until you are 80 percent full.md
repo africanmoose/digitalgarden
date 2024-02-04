@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/japanese-wisdom-hara-hachi-bu-eating-until-you-are-80-percent-full/","title":"Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/japanese-wisdom-hara-hachi-bu-eating-until-you-are-80-percent-full/","title":"Japanese wisdom - Hara Hachi Bu - Eating until you are 80% full"}
 ---
 
 ### Summary
