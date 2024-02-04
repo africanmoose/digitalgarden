@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/polanyi-paradox-we-know-more-than-we-can-explain/","title":"Polanyi effect - We know more than we can explain","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/polanyi-paradox-we-know-more-than-we-can-explain/","title":"Polanyi effect - We know more than we can explain"}
 ---
 
 
