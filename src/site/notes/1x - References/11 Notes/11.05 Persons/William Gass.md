@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/william-gass/","title":"William Gass","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/william-gass/","title":"William Gass"}
 ---
 
 
