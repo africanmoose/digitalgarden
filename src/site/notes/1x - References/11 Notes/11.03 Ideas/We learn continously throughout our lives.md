@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-learn-continously-throughout-our-lives/","title":"We learn continously throughout our lives","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-learn-continously-throughout-our-lives/","title":"We learn continously throughout our lives"}
 ---
 
 
