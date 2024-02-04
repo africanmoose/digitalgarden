@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/as-far-as-the-laws-of-mathematics-refer-to-reality-they-are-not-certain-as-far-as-they-are-certain-they-do-not-refer-to-reality-albert-einstein/","title":"As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality - Albert Einstein","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/as-far-as-the-laws-of-mathematics-refer-to-reality-they-are-not-certain-as-far-as-they-are-certain-they-do-not-refer-to-reality-albert-einstein/","title":"As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality - Albert Einstein"}
 ---
 
 
