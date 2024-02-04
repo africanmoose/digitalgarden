@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-art-of-thinking-clearly-by-rolf-dobelli/","title":"The Art of Thinking Clearly by Rolf Dobelli","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-art-of-thinking-clearly-by-rolf-dobelli/","title":"The Art of Thinking Clearly by Rolf Dobelli"}
 ---
 
 
