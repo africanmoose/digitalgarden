@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/improve-yourself-at-every-opportunity/","title":"Improve yourself at every opportunity","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/improve-yourself-at-every-opportunity/","title":"Improve yourself at every opportunity"}
 ---
 
 
