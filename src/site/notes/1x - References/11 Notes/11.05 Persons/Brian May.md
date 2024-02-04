@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/brian-may/","title":"Brian May","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/brian-may/","title":"Brian May"}
 ---
 
 
