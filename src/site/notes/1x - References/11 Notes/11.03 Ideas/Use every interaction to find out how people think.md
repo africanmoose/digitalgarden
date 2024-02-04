@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-every-interaction-to-find-out-how-people-think/","title":"Use every interaction to find out how people think","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-every-interaction-to-find-out-how-people-think/","title":"Use every interaction to find out how people think"}
 ---
 
 
