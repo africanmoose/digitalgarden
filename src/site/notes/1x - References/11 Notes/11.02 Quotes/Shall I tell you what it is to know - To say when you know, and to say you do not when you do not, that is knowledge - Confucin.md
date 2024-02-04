@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/shall-i-tell-you-what-it-is-to-know-to-say-when-you-know-and-to-say-you-do-not-when-you-do-not-that-is-knowledge-confucin/","title":"Shall I tell you what it is to know? To say when you know, and to say you do not when you do not, that is knowledge - Confucius","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/shall-i-tell-you-what-it-is-to-know-to-say-when-you-know-and-to-say-you-do-not-when-you-do-not-that-is-knowledge-confucin/","title":"Shall I tell you what it is to know? To say when you know, and to say you do not when you do not, that is knowledge - Confucius"}
 ---
 
 
