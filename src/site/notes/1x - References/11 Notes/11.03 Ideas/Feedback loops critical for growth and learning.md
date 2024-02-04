@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/feedback-loops-critical-for-growth-and-learning/","title":"Feedback loops critical for growth and learning","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/feedback-loops-critical-for-growth-and-learning/","title":"Feedback loops critical for growth and learning"}
 ---
 
 
