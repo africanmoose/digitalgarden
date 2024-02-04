@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/questions-to-ask-in-financial-review/","title":"Questions to ask in financial review","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/questions-to-ask-in-financial-review/","title":"Questions to ask in financial review"}
 ---
 
 
