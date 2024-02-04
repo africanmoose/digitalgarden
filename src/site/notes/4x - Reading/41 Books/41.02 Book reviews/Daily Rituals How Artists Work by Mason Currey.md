@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/daily-rituals-how-artists-work-by-mason-currey/","title":"Daily Rituals How Artists Work by Mason Currey","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/daily-rituals-how-artists-work-by-mason-currey/","title":"Daily Rituals How Artists Work by Mason Currey"}
 ---
 
 
