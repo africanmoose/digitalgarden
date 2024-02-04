@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/following-the-rules-may-impede-expertise/","title":"Following the rules may impede expertise","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/following-the-rules-may-impede-expertise/","title":"Following the rules may impede expertise"}
 ---
 
 
