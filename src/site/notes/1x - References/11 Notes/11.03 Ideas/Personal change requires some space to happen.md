@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/personal-change-requires-some-space-to-happen/","title":"Personal change requires some space to happen","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/personal-change-requires-some-space-to-happen/","title":"Personal change requires some space to happen"}
 ---
 
 
