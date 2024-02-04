@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/the-road-not-taken-robert-frost/","title":"The road not taken - Robert Frost","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/the-road-not-taken-robert-frost/","title":"The road not taken - Robert Frost"}
 ---
 
 
