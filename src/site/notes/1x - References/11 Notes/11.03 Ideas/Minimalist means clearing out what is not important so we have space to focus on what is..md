@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/minimalist-means-clearing-out-what-is-not-important-so-we-have-space-to-focus-on-what-is/","title":"Minimalist means clearing out what is not important so we have space to focus on what is.","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/minimalist-means-clearing-out-what-is-not-important-so-we-have-space-to-focus-on-what-is/","title":"Minimalist means clearing out what is not important so we have space to focus on what is."}
 ---
 
 
