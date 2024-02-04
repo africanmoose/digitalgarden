@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-ruthless-edit/","title":"The ruthless edit","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-ruthless-edit/","title":"The ruthless edit"}
 ---
 
 
