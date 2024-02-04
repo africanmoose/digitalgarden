@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-important-thing-is-not-to-stop-questioning-curiosity-has-its-own-reason-for-existing-albert-einstein/","title":"The important thing is not to stop questioning. Curiosity has its own reason for existing - Albert Einstein","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-important-thing-is-not-to-stop-questioning-curiosity-has-its-own-reason-for-existing-albert-einstein/","title":"The important thing is not to stop questioning. Curiosity has its own reason for existing - Albert Einstein"}
 ---
 
 
