@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/feed-the-river-of-inspiration/","title":"Feed teh river of inspiration","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/feed-the-river-of-inspiration/","title":"Feed teh river of inspiration"}
 ---
 
 
