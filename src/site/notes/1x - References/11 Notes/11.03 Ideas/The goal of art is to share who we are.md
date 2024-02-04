@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-goal-of-art-is-to-share-who-we-are/","title":"The goal of art is to share who we are","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-goal-of-art-is-to-share-who-we-are/","title":"The goal of art is to share who we are"}
 ---
 
 
