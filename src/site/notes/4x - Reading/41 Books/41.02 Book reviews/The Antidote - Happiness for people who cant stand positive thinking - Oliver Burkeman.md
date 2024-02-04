@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-antidote-happiness-for-people-who-cant-stand-positive-thinking-oliver-burkeman/","title":"The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-antidote-happiness-for-people-who-cant-stand-positive-thinking-oliver-burkeman/","title":"The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman"}
 ---
 
 ![the antidote - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/the%20antidote%20-%20cover.jpg)
