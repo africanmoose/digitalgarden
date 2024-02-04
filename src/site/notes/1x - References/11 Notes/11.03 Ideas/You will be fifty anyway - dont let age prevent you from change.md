@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-will-be-fifty-anyway-dont-let-age-prevent-you-from-change/","title":"You will be fifty anyway - dont let age prevent you from change","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-will-be-fifty-anyway-dont-let-age-prevent-you-from-change/","title":"You will be fifty anyway - dont let age prevent you from change"}
 ---
 
 
