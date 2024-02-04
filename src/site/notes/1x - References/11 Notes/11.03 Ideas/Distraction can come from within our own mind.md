@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/distraction-can-come-from-within-our-own-mind/","title":"Distraction can come from within our own mind","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/distraction-can-come-from-within-our-own-mind/","title":"Distraction can come from within our own mind"}
 ---
 
 
