@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/things-i-learned-in-the-past-are-now-wrong/","title":"Things I learned in the past are now wrong","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/things-i-learned-in-the-past-are-now-wrong/","title":"Things I learned in the past are now wrong"}
 ---
 
 
