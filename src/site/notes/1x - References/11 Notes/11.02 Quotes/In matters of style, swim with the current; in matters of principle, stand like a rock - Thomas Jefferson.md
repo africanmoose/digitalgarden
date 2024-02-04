@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-matters-of-style-swim-with-the-current-in-matters-of-principle-stand-like-a-rock-thomas-jefferson/","title":"In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-matters-of-style-swim-with-the-current-in-matters-of-principle-stand-like-a-rock-thomas-jefferson/","title":"In matters of style, swim with the current; in matters of principle, stand like a rock - Thomas Jefferson"}
 ---
 
 
