@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/understand-difference-between-needs-and-wants/","title":"Understand difference between needs and wants","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/understand-difference-between-needs-and-wants/","title":"Understand difference between needs and wants"}
 ---
 
 
