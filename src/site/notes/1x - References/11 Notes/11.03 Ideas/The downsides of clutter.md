@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-downsides-of-clutter/","title":"The downsides of clutter","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-downsides-of-clutter/","title":"The downsides of clutter"}
 ---
 
 
