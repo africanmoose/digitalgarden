@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-evil-of-to-do-lists/","title":"The evil of to do lists","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-evil-of-to-do-lists/","title":"The evil of to do lists"}
 ---
 
 
