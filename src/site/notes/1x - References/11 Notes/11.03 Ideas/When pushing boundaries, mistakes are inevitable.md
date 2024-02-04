@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-pushing-boundaries-mistakes-are-inevitable/","title":"When pushing boundaries, mistakes are inevitable","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-pushing-boundaries-mistakes-are-inevitable/","title":"When pushing boundaries, mistakes are inevitable"}
 ---
 
 
