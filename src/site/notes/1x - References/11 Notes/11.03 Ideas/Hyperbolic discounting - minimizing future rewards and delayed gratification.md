@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/hyperbolic-discounting-minimizing-future-rewards-and-delayed-gratification/","title":"Hyperbolic discounting - minimizing future rewards and delayed gratification","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/hyperbolic-discounting-minimizing-future-rewards-and-delayed-gratification/","title":"Hyperbolic discounting - minimizing future rewards and delayed gratification"}
 ---
 
 
