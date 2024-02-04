@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/six-not-so-easy-pieces-einstein-s-relativity-symmetry-and-space-time-richard-feynman/","title":"Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/six-not-so-easy-pieces-einstein-s-relativity-symmetry-and-space-time-richard-feynman/","title":"Six Not-So-Easy Pieces Einstein's Relativity, Symmetry and Space-Time - Richard Feynman"}
 ---
 
 
