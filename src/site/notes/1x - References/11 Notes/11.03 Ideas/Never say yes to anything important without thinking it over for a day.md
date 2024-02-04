@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/never-say-yes-to-anything-important-without-thinking-it-over-for-a-day/","title":"Never say yes to anything important without thinking it over for a day","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/never-say-yes-to-anything-important-without-thinking-it-over-for-a-day/","title":"Never say yes to anything important without thinking it over for a day"}
 ---
 
 
