@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/studying-to-pass-the-exam-vs-to-learn/","title":"Studying to pass the exam vs to learn","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/studying-to-pass-the-exam-vs-to-learn/","title":"Studying to pass the exam vs to learn"}
 ---
 
 
