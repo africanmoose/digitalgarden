@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/set-aside-time-to-think-regularly/","title":"Set aside time to think regularly","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/set-aside-time-to-think-regularly/","title":"Set aside time to think regularly"}
 ---
 
 
