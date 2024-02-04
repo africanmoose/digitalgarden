@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/octavia-estelle-butler/","title":"Octavia Estelle Butler","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/octavia-estelle-butler/","title":"Octavia Estelle Butler"}
 ---
 
 
