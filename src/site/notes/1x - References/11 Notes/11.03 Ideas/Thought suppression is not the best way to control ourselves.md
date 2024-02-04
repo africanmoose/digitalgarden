@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/thought-suppression-is-not-the-best-way-to-control-ourselves/","title":"Thought suppression is not the best way to control ourselves","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/thought-suppression-is-not-the-best-way-to-control-ourselves/","title":"Thought suppression is not the best way to control ourselves"}
 ---
 
 
