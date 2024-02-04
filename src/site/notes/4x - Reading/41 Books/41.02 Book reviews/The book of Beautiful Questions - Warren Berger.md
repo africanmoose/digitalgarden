@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-book-of-beautiful-questions-warren-berger/","title":"The book of Beautiful Questions - Warren Berger","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-book-of-beautiful-questions-warren-berger/","title":"The book of Beautiful Questions - Warren Berger"}
 ---
 
 
