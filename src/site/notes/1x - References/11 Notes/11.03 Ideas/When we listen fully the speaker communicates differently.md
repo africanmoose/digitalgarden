@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-we-listen-fully-the-speaker-communicates-differently/","title":"When we listen fully the speaker communicates differently","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-we-listen-fully-the-speaker-communicates-differently/","title":"When we listen fully the speaker communicates differently"}
 ---
 
 
