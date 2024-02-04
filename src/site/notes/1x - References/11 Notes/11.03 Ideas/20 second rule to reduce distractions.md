@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/20-second-rule-to-reduce-distractions/","title":"20 second rule to reduce distractions","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/20-second-rule-to-reduce-distractions/","title":"20 second rule to reduce distractions"}
 ---
 
 
