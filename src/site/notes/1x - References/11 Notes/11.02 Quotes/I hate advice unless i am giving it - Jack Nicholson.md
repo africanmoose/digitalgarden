@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-hate-advice-unless-i-am-giving-it-jack-nicholson/","title":"I hate advice unless i am giving it - Jack Nicholson","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-hate-advice-unless-i-am-giving-it-jack-nicholson/","title":"I hate advice unless i am giving it - Jack Nicholson"}
 ---
 
 
