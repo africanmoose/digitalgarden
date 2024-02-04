@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/things-will-not-out-for-the-best-but-they-will-also-go-less-wrong-than-you-thought/","title":"Things will not out for the best, but they will also go less wrong than you thought.","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/things-will-not-out-for-the-best-but-they-will-also-go-less-wrong-than-you-thought/","title":"Things will not out for the best, but they will also go less wrong than you thought."}
 ---
 
 
