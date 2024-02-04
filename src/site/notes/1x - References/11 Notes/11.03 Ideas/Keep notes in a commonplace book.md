@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book"}
 ---
 
 
