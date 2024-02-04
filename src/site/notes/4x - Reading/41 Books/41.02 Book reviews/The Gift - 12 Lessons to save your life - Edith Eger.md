@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-gift-12-lessons-to-save-your-life-edith-eger/","title":"(In progress) The Gift - 12 Lessons to save your life -","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-gift-12-lessons-to-save-your-life-edith-eger/","title":"(In progress) The Gift - 12 Lessons to save your life -"}
 ---
 
 ---
