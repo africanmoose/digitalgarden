@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein"}
 ---
 
 ![Range - cover.jpg](/img/user/0x%20-%20System/01%20Index/01.04%20Notes%20in%20process/Range%20-%20cover.jpg)
@@ -22,6 +22,11 @@
 - [[1x - References/11 Notes/11.03 Ideas/When we get used to doing things a particular way, it is harder to learn something new\|When we get used to doing things a particular way, it is harder to learn something new]]
 - [[1x - References/11 Notes/11.03 Ideas/Most university graduates go on to jobs unrelated to their degree\|Most university graduates go on to jobs unrelated to their degree]]
 - [[1x - References/11 Notes/11.03 Ideas/The figlia del coro - The all female multi-instrumental band\|The figlia del coro - The all female multi-instrumental band]]
+- [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]] tried a variety of instruments before settling on the cello
+- [[1x - References/11 Notes/11.03 Ideas/Learning multiple instruments more likely to result in exceptional musical ability\|Learning multiple instruments more likely to result in exceptional musical ability]]
+- [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]] learned music in a non-traditional way: he could not sight read music.
+- 
+
 ### References
 - [goodreads](https://www.goodreads.com/book/show/41795733-range)
 - [bill gates blog](https://www.gatesnotes.com/Range)
