@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/schedule-time-to-worry/","title":"Schedule time to worry","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/schedule-time-to-worry/","title":"Schedule time to worry"}
 ---
 
 
