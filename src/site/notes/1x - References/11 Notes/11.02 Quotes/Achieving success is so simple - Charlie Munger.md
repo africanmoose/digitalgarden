@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/achieving-success-is-so-simple-charlie-munger/","title":"Achieving success is so simple - Charlie Munger","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/achieving-success-is-so-simple-charlie-munger/","title":"Achieving success is so simple - Charlie Munger"}
 ---
 
 
