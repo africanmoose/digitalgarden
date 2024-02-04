@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-secret-to-creativity-is-knowing-how-to-hide-your-sources-albert-einstein/","title":"The secret to creativity is knowing how to hide your sources - Albert Einstein","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-secret-to-creativity-is-knowing-how-to-hide-your-sources-albert-einstein/","title":"The secret to creativity is knowing how to hide your sources - Albert Einstein"}
 ---
 
 
