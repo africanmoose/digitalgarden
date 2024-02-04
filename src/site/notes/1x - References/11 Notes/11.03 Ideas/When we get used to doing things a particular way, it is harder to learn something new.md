@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-we-get-used-to-doing-things-a-particular-way-it-is-harder-to-learn-something-new/","title":"When we get used to doing things a particular way, it is harder to learn something new","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-we-get-used-to-doing-things-a-particular-way-it-is-harder-to-learn-something-new/","title":"When we get used to doing things a particular way, it is harder to learn something new"}
 ---
 
 
