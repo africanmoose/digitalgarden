@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/toni-morrison/","title":"Toni Morrison","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/toni-morrison/","title":"Toni Morrison"}
 ---
 
 
