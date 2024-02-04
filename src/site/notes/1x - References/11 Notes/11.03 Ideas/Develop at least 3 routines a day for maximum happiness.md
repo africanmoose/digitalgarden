@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/develop-at-least-3-routines-a-day-for-maximum-happiness/","title":"Develop at least 3 routines a day for maximum happiness","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/develop-at-least-3-routines-a-day-for-maximum-happiness/","title":"Develop at least 3 routines a day for maximum happiness"}
 ---
 
 
