@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/your-money-or-your-life-joe-dominguez-and-vicki-robin/","title":"Your money or your life - Joe Dominguez and Vicki Robin","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/your-money-or-your-life-joe-dominguez-and-vicki-robin/","title":"Your money or your life - Joe Dominguez and Vicki Robin"}
 ---
 
 
