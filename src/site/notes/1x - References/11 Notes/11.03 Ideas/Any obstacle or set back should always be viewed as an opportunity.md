@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/any-obstacle-or-set-back-should-always-be-viewed-as-an-opportunity/","title":"Any obstacle or set back should always be viewed as an opportunity","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/any-obstacle-or-set-back-should-always-be-viewed-as-an-opportunity/","title":"Any obstacle or set back should always be viewed as an opportunity"}
 ---
 
 
