@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-cannot-be-too-organized/","title":"You cannot be too organized","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-cannot-be-too-organized/","title":"You cannot be too organized"}
 ---
 
 
