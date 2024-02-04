@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/looking-at-something-repetitively-does-not-guarantee-remembering-it/","title":"Looking at something repetitively does not guarantee remembering it","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/looking-at-something-repetitively-does-not-guarantee-remembering-it/","title":"Looking at something repetitively does not guarantee remembering it"}
 ---
 
 
