@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/importance-of-keeping-mouth-shut-in-success-albert-einstein/","title":"Importance of keeping mouth shut in success - Albert Einstein","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/importance-of-keeping-mouth-shut-in-success-albert-einstein/","title":"Importance of keeping mouth shut in success - Albert Einstein"}
 ---
 
 
