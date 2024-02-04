@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/no-matter-what-your-goal-or-project-never-allow-yourself-to-miss-two-days-in-a-row-leo-babauta/","title":"No matter what your goal or project, never allow yourself to miss two days in a row - Leo Babauta","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/no-matter-what-your-goal-or-project-never-allow-yourself-to-miss-two-days-in-a-row-leo-babauta/","title":"No matter what your goal or project, never allow yourself to miss two days in a row - Leo Babauta"}
 ---
 
 
