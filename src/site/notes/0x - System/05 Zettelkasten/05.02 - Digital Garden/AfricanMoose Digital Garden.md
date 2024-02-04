@@ -3,8 +3,8 @@
 ---
 
 ## Pic of the week
-![PXL_20240125_041558908.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240125_041558908.jpg)
-stop or go?
+![PXL_20240128_153722616.jpg](/img/user/0x%20-%20System/05%20Zettelkasten/05.03%20-%20Publish%20digital%20garden%20resource%20folder/PXL_20240128_153722616.jpg)
+Pretty sunsets are back
 
 ## Interesting Quotes
 
