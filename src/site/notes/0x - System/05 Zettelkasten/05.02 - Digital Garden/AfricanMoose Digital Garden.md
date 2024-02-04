@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/african-moose-digital-garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowFileTree":false}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/african-moose-digital-garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"]}
 ---
 
 ## Pic of the week
@@ -19,23 +19,23 @@ stop or go?
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]]
+- [[1x - References/11 Notes/11.05 Persons/Duke Ellington\|Duke Ellington]]
+- [[1x - References/11 Notes/11.05 Persons/Susan Polgar\|Susan Polgar]]
+- [[1x - References/11 Notes/11.03 Ideas/The figlia del coro - The all female multi-instrumental band\|The figlia del coro - The all female multi-instrumental band]]
 - [[1x - References/11 Notes/11.05 Persons/Brian May\|Brian May]]
 - [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
 - [[1x - References/11 Notes/11.05 Persons/Isaac Asimov\|Isaac Asimov]]
-- [[1x - References/11 Notes/11.05 Persons/Thomas Young\|Thomas Young]]
-- [[1x - References/11 Notes/11.05 Persons/James Croll\|James Croll]]
-- [[1x - References/11 Notes/11.05 Persons/Philip Tetlock\|Philip Tetlock]]
-- [[1x - References/11 Notes/11.05 Persons/W. E. Deming\|W. E. Deming]]
 
 ## Interesting Ideas
 
+- [[1x - References/11 Notes/11.03 Ideas/Most university graduates go on to jobs unrelated to their degree\|Most university graduates go on to jobs unrelated to their degree]]
 - [[1x - References/11 Notes/11.03 Ideas/A bigger surface area requires more time to maintain. Keep your life simple as much as possible.\|A bigger surface area requires more time to maintain. Keep your life simple as much as possible.]]
 - [[1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive\|Being busy doesnt mean we are productive]]
 - [[1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives\|Moving is a good way to reset what we need in our lives]]
 - [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
 - [[1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old\|Artificial intelligence not as smart as a five year old]]
 - [[1x - References/11 Notes/11.03 Ideas/Pillars of Creation\|James Webb Space Telescope shot of the Eagle Nebula]]
-- [[1x - References/11 Notes/11.03 Ideas/Zettelkasten Method\|Notetaking systems: Zettelkasten]]
 
 ## Book Reviews
 
@@ -53,7 +53,10 @@ stop or go?
 - Processing [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - Processing _Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke_
 - Reading _The art of eating - M.S. Fischer_
-- Reading 
+- Processing _Digital Zettelkasten: Principles, Methods, & Examples - David Kadavy_
+- Reading _Energy: A Beginner's Guide - Vaclav Smil_
+- Reading _Stillness Is the Key - Ryan Holiday
+
 ## Interesting Ideas
 
 - [[1x - References/11 Notes/11.03 Ideas/Outcome over ego.\|Outcome over ego.]]
@@ -88,6 +91,7 @@ Apparently, my top artists of 2023 are:
 
 [Africanmoose](https://africanmoose.blogspot.com)
 [Africanmoose Photography](http://Africanmoose.com)
+[[1x - References/11 Notes/11.01 Workflows/Overview of tools for personal management and productivity\|Overview of tools for personal management and productivity]]
 
 ## RSS feed (experimental)
 Copy and paste this URL into your RSS Feed reader (If you had done this before July 3rd, 2023, please delete that one and use this one instead:)
