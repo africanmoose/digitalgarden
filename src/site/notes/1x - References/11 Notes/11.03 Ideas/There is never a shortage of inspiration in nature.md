@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/there-is-never-a-shortage-of-inspiration-in-nature/","title":"There is never a shortage of inspiration in nature","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/there-is-never-a-shortage-of-inspiration-in-nature/","title":"There is never a shortage of inspiration in nature"}
 ---
 
 
