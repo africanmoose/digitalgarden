@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/creativity-doesnt-happen-by-chance-we-need-to-have-a-creative-process/","title":"Creativity doesnt happen by chance, we need to have a creative process","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/creativity-doesnt-happen-by-chance-we-need-to-have-a-creative-process/","title":"Creativity doesnt happen by chance, we need to have a creative process"}
 ---
 
 
