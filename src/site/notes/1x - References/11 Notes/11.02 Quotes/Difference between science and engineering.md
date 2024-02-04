@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/difference-between-science-and-engineering/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/difference-between-science-and-engineering/","title":"structure note"}
 ---
 
 
