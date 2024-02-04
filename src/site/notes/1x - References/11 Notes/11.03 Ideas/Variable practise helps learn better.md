@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/variable-practise-helps-learn-better/","title":"Variable practise helps learn better","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/variable-practise-helps-learn-better/","title":"Variable practise helps learn better"}
 ---
 
 
