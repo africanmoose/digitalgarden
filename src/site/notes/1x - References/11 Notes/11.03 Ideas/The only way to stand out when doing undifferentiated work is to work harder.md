@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-only-way-to-stand-out-when-doing-undifferentiated-work-is-to-work-harder/","title":"The only way to stand out when doing undifferentiated work is to work harder","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-only-way-to-stand-out-when-doing-undifferentiated-work-is-to-work-harder/","title":"The only way to stand out when doing undifferentiated work is to work harder"}
 ---
 
 
