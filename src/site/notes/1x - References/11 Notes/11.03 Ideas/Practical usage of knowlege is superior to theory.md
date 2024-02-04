@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/practical-usage-of-knowlege-is-superior-to-theory/","title":"Practical usage of knowlege is superior to theory","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/practical-usage-of-knowlege-is-superior-to-theory/","title":"Practical usage of knowlege is superior to theory"}
 ---
 
 
