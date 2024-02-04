@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/use-the-minimum-possible-to-get-the-job-done/","title":"Use the minimum possible to get the job done","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/use-the-minimum-possible-to-get-the-job-done/","title":"Use the minimum possible to get the job done"}
 ---
 
 
