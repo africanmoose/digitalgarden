@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nothing-happens-to-the-wise-man-against-his-expectation-seneca/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/nothing-happens-to-the-wise-man-against-his-expectation-seneca/","title":"structure note"}
 ---
 
 
