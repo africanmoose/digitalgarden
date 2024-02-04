@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/training-is-like-sweeping-the-floor-it-must-be-done-regularly/","title":"Training is like sweeping the floor. It must be done regularly.","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/training-is-like-sweeping-the-floor-it-must-be-done-regularly/","title":"Training is like sweeping the floor. It must be done regularly."}
 ---
 
 
