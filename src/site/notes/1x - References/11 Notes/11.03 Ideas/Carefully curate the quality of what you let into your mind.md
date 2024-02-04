@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/carefully-curate-the-quality-of-what-you-let-into-your-mind/","title":"Carefully curate the quality of what you let into your mind","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/carefully-curate-the-quality-of-what-you-let-into-your-mind/","title":"Carefully curate the quality of what you let into your mind"}
 ---
 
 
