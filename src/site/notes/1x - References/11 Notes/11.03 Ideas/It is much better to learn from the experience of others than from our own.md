@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/it-is-much-better-to-learn-from-the-experience-of-others-than-from-our-own/","title":"It is much better to learn from the experience of others than from our own","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/it-is-much-better-to-learn-from-the-experience-of-others-than-from-our-own/","title":"It is much better to learn from the experience of others than from our own"}
 ---
 
 
