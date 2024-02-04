@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/bring-me-a-beaker-of-wine-that-i-may-wet-my-mind-aritophanes/","title":"Bring me a beaker of wine that I may wet my mind - Aritophanes","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/bring-me-a-beaker-of-wine-that-i-may-wet-my-mind-aritophanes/","title":"Bring me a beaker of wine that I may wet my mind - Aritophanes"}
 ---
 
 
