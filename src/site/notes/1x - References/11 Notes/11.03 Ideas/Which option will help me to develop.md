@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/which-option-will-help-me-to-develop/","title":"Which option will help me to develop","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/which-option-will-help-me-to-develop/","title":"Which option will help me to develop"}
 ---
 
 
