@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/museums-are-custodians-of-epiphanies-george-lois/","title":"Museums are custodians of epiphanies - George Lois","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/museums-are-custodians-of-epiphanies-george-lois/","title":"Museums are custodians of epiphanies - George Lois"}
 ---
 
 
