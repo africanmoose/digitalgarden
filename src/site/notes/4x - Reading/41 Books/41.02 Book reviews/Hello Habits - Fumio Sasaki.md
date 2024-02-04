@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/hello-habits-fumio-sasaki/","title":"Hello Habits - Fumio Sasaki","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/hello-habits-fumio-sasaki/","title":"Hello Habits - Fumio Sasaki"}
 ---
 
 
