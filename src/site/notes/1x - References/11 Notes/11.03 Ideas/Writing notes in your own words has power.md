@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-notes-in-your-own-words-has-power/","title":"Use your own words","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-notes-in-your-own-words-has-power/","title":"Use your own words"}
 ---
 
 
