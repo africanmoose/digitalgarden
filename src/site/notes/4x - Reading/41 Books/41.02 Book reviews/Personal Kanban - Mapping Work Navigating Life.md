@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/personal-kanban-mapping-work-navigating-life/","title":"Personal Kanban - Mapping Work Navigating Life","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/personal-kanban-mapping-work-navigating-life/","title":"Personal Kanban - Mapping Work Navigating Life"}
 ---
 
 
