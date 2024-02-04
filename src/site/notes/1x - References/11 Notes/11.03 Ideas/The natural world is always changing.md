@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-natural-world-is-always-changing/","title":"The natural world is always changing","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-natural-world-is-always-changing/","title":"The natural world is always changing"}
 ---
 
 
