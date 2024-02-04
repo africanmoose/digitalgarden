@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/7-must-know-strategies-to-learn-anything-faster-by-scott-young/","title":"7 Must-Know Strategies to Learn Anything Faster by Scott Young","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/7-must-know-strategies-to-learn-anything-faster-by-scott-young/","title":"7 Must-Know Strategies to Learn Anything Faster by Scott Young"}
 ---
 
 
