@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-like-to-have-nice-conversations-with-a-man-that-teach-me-something-make-me-mad-make-me-curious-renee-zellweiger/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-like-to-have-nice-conversations-with-a-man-that-teach-me-something-make-me-mad-make-me-curious-renee-zellweiger/","title":"structure note"}
 ---
 
 
