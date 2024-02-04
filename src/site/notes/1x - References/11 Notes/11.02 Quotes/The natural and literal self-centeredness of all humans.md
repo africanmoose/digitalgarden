@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-and-literal-self-centeredness-of-all-humans/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-and-literal-self-centeredness-of-all-humans/","title":"structure note"}
 ---
 
 
