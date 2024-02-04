@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/there-is-no-competitive-advantage-from-consuming-what-everyone-else-is-consuming/","title":"There is no competitive advantage from consuming what everyone else is consuming","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/there-is-no-competitive-advantage-from-consuming-what-everyone-else-is-consuming/","title":"There is no competitive advantage from consuming what everyone else is consuming"}
 ---
 
 
