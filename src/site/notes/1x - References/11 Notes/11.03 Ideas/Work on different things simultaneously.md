@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/work-on-different-things-simultaneously/","title":"Work on different things simultaneously","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/work-on-different-things-simultaneously/","title":"Work on different things simultaneously"}
 ---
 
 
