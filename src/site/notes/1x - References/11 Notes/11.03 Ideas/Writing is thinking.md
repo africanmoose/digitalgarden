@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-thinking/","title":"Writing is thinking","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/writing-is-thinking/","title":"Writing is thinking"}
 ---
 
 
