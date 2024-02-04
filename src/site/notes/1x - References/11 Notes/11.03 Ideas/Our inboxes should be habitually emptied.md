@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-inboxes-should-be-habitually-emptied/","title":"Our inboxes should be habitually emptied","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-inboxes-should-be-habitually-emptied/","title":"Our inboxes should be habitually emptied"}
 ---
 
 
