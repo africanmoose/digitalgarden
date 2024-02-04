@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-make-decisions-by-following-your-gut-instinct/","title":"Dont make decisions by following your gut instinct","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-make-decisions-by-following-your-gut-instinct/","title":"Dont make decisions by following your gut instinct"}
 ---
 
 
