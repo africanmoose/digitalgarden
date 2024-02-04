@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/self-control-leads-to-greater-happiness/","title":"Self-control leads to greater happiness","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/self-control-leads-to-greater-happiness/","title":"Self-control leads to greater happiness"}
 ---
 
 
