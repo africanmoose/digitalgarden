@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/specific-goals-can-be-counter-productive/","title":"Specific goals can be counter productive","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/specific-goals-can-be-counter-productive/","title":"Specific goals can be counter productive"}
 ---
 
 
