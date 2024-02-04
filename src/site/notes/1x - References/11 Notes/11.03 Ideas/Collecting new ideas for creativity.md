@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/collecting-new-ideas-for-creativity/","title":"Collecting new ideas for creativity","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/collecting-new-ideas-for-creativity/","title":"Collecting new ideas for creativity"}
 ---
 
 
