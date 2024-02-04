@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ultimate-optimization-is-impossible/","title":"Ultimate optimization is impossible","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ultimate-optimization-is-impossible/","title":"Ultimate optimization is impossible"}
 ---
 
 
