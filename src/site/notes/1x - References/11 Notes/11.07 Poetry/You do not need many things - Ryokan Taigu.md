@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/you-do-not-need-many-things-ryokan-taigu/","title":"You do not need many things - Ryokan Taigu","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/you-do-not-need-many-things-ryokan-taigu/","title":"You do not need many things - Ryokan Taigu"}
 ---
 
 
