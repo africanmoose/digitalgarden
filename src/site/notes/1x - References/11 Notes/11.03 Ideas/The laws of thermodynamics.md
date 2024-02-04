@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-laws-of-thermodynamics/","title":"The three laws of thermodynamics","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-laws-of-thermodynamics/","title":"The three laws of thermodynamics"}
 ---
 
 
