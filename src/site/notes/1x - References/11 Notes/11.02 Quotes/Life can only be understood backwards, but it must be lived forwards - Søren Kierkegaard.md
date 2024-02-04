@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/life-can-only-be-understood-backwards-but-it-must-be-lived-forwards-soren-kierkegaard/","title":"Life can only be understood backwards, but it must be lived forwards - Søren Kierkegaard","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/life-can-only-be-understood-backwards-but-it-must-be-lived-forwards-soren-kierkegaard/","title":"Life can only be understood backwards, but it must be lived forwards - Søren Kierkegaard"}
 ---
 
 
