@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/stuff-matters-exploring-the-marvelous-materials-that-shape-our-man-made-world-mark-miodownik/","title":"Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/stuff-matters-exploring-the-marvelous-materials-that-shape-our-man-made-world-mark-miodownik/","title":"Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"}
 ---
 
 
