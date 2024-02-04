@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/excellence-is-not-an-act-but-a-habit-will-durant/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/excellence-is-not-an-act-but-a-habit-will-durant/","title":"structure note"}
 ---
 
 
