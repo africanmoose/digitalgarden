@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/self-education-is-the-only-kind-of-education-there-is-isaac-asimov/","title":"Self-education is the only kind of education there is - Isaac Asimov","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/self-education-is-the-only-kind-of-education-there-is-isaac-asimov/","title":"Self-education is the only kind of education there is - Isaac Asimov"}
 ---
 
 
