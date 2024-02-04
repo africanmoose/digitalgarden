@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-best-insurance-is-being-a-kind-and-generous-person/","title":"The best insurance is being a kind and generous person","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-best-insurance-is-being-a-kind-and-generous-person/","title":"The best insurance is being a kind and generous person"}
 ---
 
 
