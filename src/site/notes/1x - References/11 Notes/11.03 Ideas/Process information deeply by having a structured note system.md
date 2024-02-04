@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/process-information-deeply-by-having-a-structured-note-system/","title":"Process information deeply by having a structured note system","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/process-information-deeply-by-having-a-structured-note-system/","title":"Process information deeply by having a structured note system"}
 ---
 
 
