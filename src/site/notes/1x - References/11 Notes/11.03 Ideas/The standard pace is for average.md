@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-standard-pace-is-for-average/","title":"The standard pace is for average","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-standard-pace-is-for-average/","title":"The standard pace is for average"}
 ---
 
 
