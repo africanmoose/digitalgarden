@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/steve-jobs-course-in-typography-informed-later-design-for-the-mac/","title":"Steve Jobs course in typography informed later design for the mac","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/steve-jobs-course-in-typography-informed-later-design-for-the-mac/","title":"Steve Jobs course in typography informed later design for the mac"}
 ---
 
 
