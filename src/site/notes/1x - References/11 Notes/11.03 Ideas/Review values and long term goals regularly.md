@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/review-values-and-long-term-goals-regularly/","title":"Review values and long term goals regularly","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/review-values-and-long-term-goals-regularly/","title":"Review values and long term goals regularly"}
 ---
 
 
