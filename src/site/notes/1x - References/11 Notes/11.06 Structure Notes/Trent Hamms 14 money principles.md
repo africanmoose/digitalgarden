@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-06-structure-notes/trent-hamms-14-money-principles/","title":"Trent Hamms 14 money principles","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-06-structure-notes/trent-hamms-14-money-principles/","title":"Trent Hamms 14 money principles"}
 ---
 
 
