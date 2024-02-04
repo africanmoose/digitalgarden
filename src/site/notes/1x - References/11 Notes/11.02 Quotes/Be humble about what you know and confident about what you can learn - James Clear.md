@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-humble-about-what-you-know-and-confident-about-what-you-can-learn-james-clear/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/be-humble-about-what-you-know-and-confident-about-what-you-can-learn-james-clear/","title":"structure note"}
 ---
 
 
