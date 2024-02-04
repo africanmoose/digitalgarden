@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/wool-omnibus-hugh-howey/","title":"Wool omnibus - Hugh Howey","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-01-book-notes/wool-omnibus-hugh-howey/","title":"Wool omnibus - Hugh Howey"}
 ---
 
 ![Wool - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Wool%20-%20cover.jpg)
