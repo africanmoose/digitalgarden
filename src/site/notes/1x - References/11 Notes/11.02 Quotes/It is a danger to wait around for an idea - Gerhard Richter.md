@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-a-danger-to-wait-around-for-an-idea-gerhard-richter/","title":"It is a danger to wait around for an idea - Gerhard Richter","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-a-danger-to-wait-around-for-an-idea-gerhard-richter/","title":"It is a danger to wait around for an idea - Gerhard Richter"}
 ---
 
 
