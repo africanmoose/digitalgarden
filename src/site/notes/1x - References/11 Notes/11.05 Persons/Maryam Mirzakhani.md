@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/maryam-mirzakhani/","title":"Maryam Mirzakhani","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/maryam-mirzakhani/","title":"Maryam Mirzakhani"}
 ---
 
 
