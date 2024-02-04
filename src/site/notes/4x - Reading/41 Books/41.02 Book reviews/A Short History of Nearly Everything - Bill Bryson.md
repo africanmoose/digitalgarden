@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-short-history-of-nearly-everything-bill-bryson/","title":"A short history Bill Bryson","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-short-history-of-nearly-everything-bill-bryson/","title":"A short history Bill Bryson"}
 ---
 
 ![A Short History of Nearly Everything - Bill Bryson.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/A%20Short%20History%20of%20Nearly%20Everything%20-%20Bill%20Bryson.jpg)
