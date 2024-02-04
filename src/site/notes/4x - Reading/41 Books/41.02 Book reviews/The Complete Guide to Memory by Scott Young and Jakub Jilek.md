@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-complete-guide-to-memory-by-scott-young-and-jakub-jilek/","title":"The Complete Guide to Memory by Scott Young and Jakub Jilek","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-complete-guide-to-memory-by-scott-young-and-jakub-jilek/","title":"The Complete Guide to Memory by Scott Young and Jakub Jilek"}
 ---
 
 ![The complete guide to memory.png](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20complete%20guide%20to%20memory.png)
