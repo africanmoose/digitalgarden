@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/being-paid-destroyed-the-art-of-apes/","title":"Being paid destroyed the art of apes","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/being-paid-destroyed-the-art-of-apes/","title":"Being paid destroyed the art of apes"}
 ---
 
 
