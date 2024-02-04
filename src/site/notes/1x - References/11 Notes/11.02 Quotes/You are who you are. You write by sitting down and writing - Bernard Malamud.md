@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-are-who-you-are-you-write-by-sitting-down-and-writing-bernard-malamud/","title":"Bernard Malamud","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-are-who-you-are-you-write-by-sitting-down-and-writing-bernard-malamud/","title":"Bernard Malamud"}
 ---
 
 
