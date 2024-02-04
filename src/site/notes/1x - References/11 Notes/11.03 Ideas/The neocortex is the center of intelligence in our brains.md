@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-neocortex-is-the-center-of-intelligence-in-our-brains/","title":"The neocortex is the center of intelligence in our brains","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-neocortex-is-the-center-of-intelligence-in-our-brains/","title":"The neocortex is the center of intelligence in our brains"}
 ---
 
 
