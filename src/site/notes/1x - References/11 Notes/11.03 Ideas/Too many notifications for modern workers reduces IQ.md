@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/too-many-notifications-for-modern-workers-reduces-iq/","title":"Too many notifications for modern workers","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/too-many-notifications-for-modern-workers-reduces-iq/","title":"Too many notifications for modern workers"}
 ---
 
 
