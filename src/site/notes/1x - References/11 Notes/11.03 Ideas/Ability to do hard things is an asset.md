@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ability-to-do-hard-things-is-an-asset/","title":"Ability to do hard things is an asset","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ability-to-do-hard-things-is-an-asset/","title":"Ability to do hard things is an asset"}
 ---
 
 
