@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-let-information-assymetry-intimidate-you/","title":"Dont let information assymetry intimidate you","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-let-information-assymetry-intimidate-you/","title":"Dont let information assymetry intimidate you"}
 ---
 
 
