@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/replace-dysfunctional-habits-with-healthy-ones/","title":"Replace dysfunctional habits with healthy ones","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/replace-dysfunctional-habits-with-healthy-ones/","title":"Replace dysfunctional habits with healthy ones"}
 ---
 
 
