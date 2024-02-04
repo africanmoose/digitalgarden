@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/always-ask-how-can-i-help/","title":"Always ask - How can I help","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/always-ask-how-can-i-help/","title":"Always ask - How can I help"}
 ---
 
 
