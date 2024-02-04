@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/intentional-practise-needed-to-improve/","title":"Intentional practise needed to improve","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/intentional-practise-needed-to-improve/","title":"Intentional practise needed to improve"}
 ---
 
 
