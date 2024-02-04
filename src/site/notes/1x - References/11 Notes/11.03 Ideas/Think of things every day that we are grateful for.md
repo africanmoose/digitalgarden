@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/think-of-things-every-day-that-we-are-grateful-for/","title":"Think of things every day that we are grateful for","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/think-of-things-every-day-that-we-are-grateful-for/","title":"Think of things every day that we are grateful for"}
 ---
 
 
