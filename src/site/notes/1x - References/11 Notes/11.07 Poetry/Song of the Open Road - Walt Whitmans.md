@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/song-of-the-open-road-walt-whitmans/","title":"Song of the Open Road - Walt Whitmans","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/song-of-the-open-road-walt-whitmans/","title":"Song of the Open Road - Walt Whitmans"}
 ---
 
 
