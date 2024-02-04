@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/consider-ideas-that-are-opposed-to-each-other/","title":"Consider ideas that are opposed to each other","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/consider-ideas-that-are-opposed-to-each-other/","title":"Consider ideas that are opposed to each other"}
 ---
 
 
