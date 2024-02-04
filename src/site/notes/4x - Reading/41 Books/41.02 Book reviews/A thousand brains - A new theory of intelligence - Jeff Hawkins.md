@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-thousand-brains-a-new-theory-of-intelligence-jeff-hawkins/","title":"A thousand brains - A new theory of intelligence - Jeff Hawkins","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/a-thousand-brains-a-new-theory-of-intelligence-jeff-hawkins/","title":"A thousand brains - A new theory of intelligence - Jeff Hawkins"}
 ---
 
 ![a thousand brains - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/a%20thousand%20brains%20-%20cover.jpg)
