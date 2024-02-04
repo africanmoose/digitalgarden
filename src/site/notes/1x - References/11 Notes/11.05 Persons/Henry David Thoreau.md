@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/henry-david-thoreau/","title":"Henry David Thoreau","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/henry-david-thoreau/","title":"Henry David Thoreau"}
 ---
 
 ![Henry David Thoreau.png](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/Henry%20David%20Thoreau.png)
