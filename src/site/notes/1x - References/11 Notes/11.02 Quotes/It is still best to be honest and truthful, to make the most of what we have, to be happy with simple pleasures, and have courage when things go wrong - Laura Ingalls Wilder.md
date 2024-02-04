@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-still-best-to-be-honest-and-truthful-to-make-the-most-of-what-we-have-to-be-happy-with-simple-pleasures-and-have-courage-when-things-go-wrong-laura-ingalls-wilder/","title":"structure note","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-still-best-to-be-honest-and-truthful-to-make-the-most-of-what-we-have-to-be-happy-with-simple-pleasures-and-have-courage-when-things-go-wrong-laura-ingalls-wilder/","title":"structure note"}
 ---
 
 
