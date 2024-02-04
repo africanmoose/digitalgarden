@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/financial-independence-is-having-enough/","title":"Financial independence is having enough","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/financial-independence-is-having-enough/","title":"Financial independence is having enough"}
 ---
 
 
