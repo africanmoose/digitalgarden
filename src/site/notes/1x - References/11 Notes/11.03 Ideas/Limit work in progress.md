@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/limit-work-in-progress/","title":"Limit work in progress","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/limit-work-in-progress/","title":"Limit work in progress"}
 ---
 
 
