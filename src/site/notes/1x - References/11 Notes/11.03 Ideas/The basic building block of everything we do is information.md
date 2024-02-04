@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-basic-building-block-of-everything-we-do-is-information/","title":"The basic building block of everything we do is information","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-basic-building-block-of-everything-we-do-is-information/","title":"The basic building block of everything we do is information"}
 ---
 
 
