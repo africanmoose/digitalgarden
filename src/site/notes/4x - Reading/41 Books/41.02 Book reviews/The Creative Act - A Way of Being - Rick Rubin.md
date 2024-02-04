@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-creative-act-a-way-of-being-rick-rubin/","title":"The Creative Act - A Way of Being - Rick Rubin","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-creative-act-a-way-of-being-rick-rubin/","title":"The Creative Act - A Way of Being - Rick Rubin"}
 ---
 
 
