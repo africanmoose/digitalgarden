@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/through-masai-land-a-journey-of-exploration-among-the-snowclad-volcanic-mountains-and-strange-tribes-of-eastern-equatorial-africa-joseph-thomson/","title":"Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson","dgShowBacklinks":false}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/through-masai-land-a-journey-of-exploration-among-the-snowclad-volcanic-mountains-and-strange-tribes-of-eastern-equatorial-africa-joseph-thomson/","title":"Through Masai Land - a Journey of Exploration Among the Snowclad Volcanic Mountains and Strange Tribes of Eastern Equatorial Africa - Joseph Thomson"}
 ---
 
 ![Through Masai Land - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Through%20Masai%20Land%20-%20cover.jpg)
