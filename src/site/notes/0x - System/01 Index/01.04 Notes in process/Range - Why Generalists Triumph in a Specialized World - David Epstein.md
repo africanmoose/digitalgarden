@@ -25,6 +25,12 @@
 - [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]] tried a variety of instruments before settling on the cello
 - [[1x - References/11 Notes/11.03 Ideas/Learning multiple instruments more likely to result in exceptional musical ability\|Learning multiple instruments more likely to result in exceptional musical ability]]
 - [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]] learned music in a non-traditional way: he could not sight read music.
+- [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]] also couldn't read music. In fact, he couldn't even read words.
+- [[1x - References/11 Notes/11.03 Ideas/The Generation Effect - Even a wrong answer helps you learn better than no answer\|The Generation Effect - Even a wrong answer helps you learn better than no answer]]
+- [[1x - References/11 Notes/11.03 Ideas/Learning with hints is bad for your long term remembering, even in monkeys\|Learning with hints is bad for your long term remembering, even in monkeys]]
+- [[1x - References/11 Notes/11.03 Ideas/Spaced repetition is the best way to remember things\|Spaced repetition is the best way to remember things]]
+- [[1x - References/11 Notes/11.03 Ideas/Switching trades or specialities has a clear benefit\|Switching trades or specialities has a clear benefit]]
+- [[1x - References/11 Notes/11.03 Ideas/Test and learn is preferable to plan and implement strategy\|Test and learn is preferable to plan and implement strategy]]
 - 
 
 ### References
