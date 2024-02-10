@@ -20,7 +20,7 @@
 	- [[1x - References/11 Notes/11.03 Ideas/4 Stages of learning\|4 Stages of learning]]
 	- [[1x - References/11 Notes/11.03 Ideas/Process information to make it useful\|Process informaiton to make it useful]]
 	- [[1x - References/11 Notes/11.03 Ideas/Problem based learning\|Problem based learning]]
-	- [[1x - References/11 Notes/11.03 Ideas/Spaced Repetition\|Spaced repetition]]
+	- [[1x - References/11 Notes/11.03 Ideas/Spaced repetition is the best way to remember things\|Spaced repetition]]
 	- [[1x - References/11 Notes/11.03 Ideas/Interleaved practise\|Interleaved practise]]
 	- [[1x - References/11 Notes/11.03 Ideas/Learn Slow\|Learn slow]]
 	- [[1x - References/11 Notes/11.03 Ideas/Seek dissenting opinions\|Seek dissenting opinions]]
