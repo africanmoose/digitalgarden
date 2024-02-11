@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-requires-work/","title":"Learning requires work"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-requires-work/","title":"Learning requires work","noteIcon":""}
 ---
 
 
