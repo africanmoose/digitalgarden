@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-what-did-i-miss-to-engage-people/","title":"Ask 'what did I miss' to engage people"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-what-did-i-miss-to-engage-people/","title":"Ask 'what did I miss' to engage people","noteIcon":""}
 ---
 
 
