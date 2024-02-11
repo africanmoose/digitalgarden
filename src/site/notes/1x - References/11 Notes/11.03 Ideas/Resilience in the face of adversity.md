@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/resilience-in-the-face-of-adversity/","title":"Resilience in the face of adversity"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/resilience-in-the-face-of-adversity/","title":"Resilience in the face of adversity","noteIcon":""}
 ---
 
 
