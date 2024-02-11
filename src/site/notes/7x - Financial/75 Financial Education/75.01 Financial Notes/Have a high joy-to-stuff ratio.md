@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/have-a-high-joy-to-stuff-ratio/","title":"Have a high joy-to-stuff ratio"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/have-a-high-joy-to-stuff-ratio/","title":"Have a high joy-to-stuff ratio","noteIcon":""}
 ---
 
 
