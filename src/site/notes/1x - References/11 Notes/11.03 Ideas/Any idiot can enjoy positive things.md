@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/any-idiot-can-enjoy-positive-things/","title":"Any idiot can enjoy positive things"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/any-idiot-can-enjoy-positive-things/","title":"Any idiot can enjoy positive things","noteIcon":""}
 ---
 
 
