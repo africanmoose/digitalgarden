@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/memory-decay-is-exponential/","title":"Memory decay is exponential"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/memory-decay-is-exponential/","title":"Memory decay is exponential","noteIcon":""}
 ---
 
 
