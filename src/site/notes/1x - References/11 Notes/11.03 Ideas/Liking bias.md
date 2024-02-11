@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/liking-bias/","title":"Liking bias"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/liking-bias/","title":"Liking bias","noteIcon":""}
 ---
 
 
