@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/save-beautiful-and-special-moments-in-your-memory/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/save-beautiful-and-special-moments-in-your-memory/","noteIcon":""}
 ---
 
 
