@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-feel-safe-in-the-area-you-are-working-in-you-are-not-working-in-the-right-area-david-bowie/","title":"If you feel safe in the area you are working in you are not working in the right area - David Bowie"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-feel-safe-in-the-area-you-are-working-in-you-are-not-working-in-the-right-area-david-bowie/","title":"If you feel safe in the area you are working in you are not working in the right area - David Bowie","noteIcon":""}
 ---
 
 
