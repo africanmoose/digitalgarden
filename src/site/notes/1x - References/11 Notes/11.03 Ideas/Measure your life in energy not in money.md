@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/measure-your-life-in-energy-not-in-money/","title":"Measure your life in energy not in money"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/measure-your-life-in-energy-not-in-money/","title":"Measure your life in energy not in money","noteIcon":""}
 ---
 
 
