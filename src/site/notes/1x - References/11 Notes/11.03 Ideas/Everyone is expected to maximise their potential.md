@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everyone-is-expected-to-maximise-their-potential/","title":"Everyone is expected to maximise their potential"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everyone-is-expected-to-maximise-their-potential/","title":"Everyone is expected to maximise their potential","noteIcon":""}
 ---
 
 
