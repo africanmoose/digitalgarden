@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chose-long-term-thinking-or-short-term-you-can-t-do-both/","title":"Chose long-term thinking or short-term - you can't do both"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chose-long-term-thinking-or-short-term-you-can-t-do-both/","title":"Chose long-term thinking or short-term - you can't do both","noteIcon":""}
 ---
 
 
