@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-can-train-our-taste-and-smell-palate-to-be-wider/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-can-train-our-taste-and-smell-palate-to-be-wider/","noteIcon":""}
 ---
 
 
