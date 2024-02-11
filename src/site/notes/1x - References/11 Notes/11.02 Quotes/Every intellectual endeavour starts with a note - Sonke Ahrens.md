@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/every-intellectual-endeavour-starts-with-a-note-sonke-ahrens/","title":"Every intellectual endeavour starts with a note - Sonke Ahrens"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/every-intellectual-endeavour-starts-with-a-note-sonke-ahrens/","title":"Every intellectual endeavour starts with a note - Sonke Ahrens","noteIcon":""}
 ---
 
 
