@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-better-we-get-at-what-we-do-the-more-we-meet-people-who-have-done-more/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-better-we-get-at-what-we-do-the-more-we-meet-people-who-have-done-more/","noteIcon":""}
 ---
 
 
