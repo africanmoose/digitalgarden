@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-a-contract-to-strengthen-your-family-relationships/","title":"Have a contract to strengthen your family relationships"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-a-contract-to-strengthen-your-family-relationships/","title":"Have a contract to strengthen your family relationships","noteIcon":""}
 ---
 
 
