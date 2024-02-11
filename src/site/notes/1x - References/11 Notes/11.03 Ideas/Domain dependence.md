@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/domain-dependence/","title":"Domain dependence"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/domain-dependence/","title":"Domain dependence","noteIcon":""}
 ---
 
 
