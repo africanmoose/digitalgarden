@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/accept-change-by-how-we-pursue-stuff/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/accept-change-by-how-we-pursue-stuff/","noteIcon":""}
 ---
 
 
