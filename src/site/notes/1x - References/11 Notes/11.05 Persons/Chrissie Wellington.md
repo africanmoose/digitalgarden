@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/chrissie-wellington/","title":"Chrissie Wellington","noteIcon":""}
+---
+
+
+### Summary
+- 1977 -
+- She is a 4 time winner fo the Ironman world championships, even though she only started training at 27.
+- She won the world championship less than a year after turning pro, and was undefeated in all 13 races she participated in
+
+### Details
+- Her other passion in life is development
+
+### References
+- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [wikipedia](https://en.wikipedia.org/wiki/Chrissie_Wellington)
+
+### Quotes
+- Of the athletes I met when I worked at Sports Illustrated, the one I most admired was British Ironman triathlete (and writer and humanitarian) Chrissie Wellington, who sat atop a road bike for the first time in her life at age twenty-seven. She was working on a sewage sanitation project in Nepal when she found that she enjoyed cycling, and could keep up with Sherpas at altitude in the Himalayas. Two years after returning home, she won the first of four Ironman world championships, and then proceeded to go 13–0 at the Ironman distance over a career that started late and spanned just five years. “My passion for the sport hasn’t waned,” she said when she retired, “but my passion for new experiences and new challenges is what is now burning the most brightly.”
+
+### Related
+- 
