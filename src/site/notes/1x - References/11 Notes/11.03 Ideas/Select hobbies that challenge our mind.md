@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/select-hobbies-that-challenge-our-mind/","title":"Select hobbies that challenge our mind"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/select-hobbies-that-challenge-our-mind/","title":"Select hobbies that challenge our mind","noteIcon":""}
 ---
 
 
