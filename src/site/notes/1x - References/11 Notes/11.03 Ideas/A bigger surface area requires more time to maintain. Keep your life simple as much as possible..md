@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/a-bigger-surface-area-requires-more-time-to-maintain-keep-your-life-simple-as-much-as-possible/","title":"A bigger surface area requires more time to maintain."}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/a-bigger-surface-area-requires-more-time-to-maintain-keep-your-life-simple-as-much-as-possible/","title":"A bigger surface area requires more time to maintain.","noteIcon":""}
 ---
 
 
