@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/move-to-learn-something-new/","title":"Move to learn something new"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/move-to-learn-something-new/","title":"Move to learn something new","noteIcon":""}
 ---
 
 
