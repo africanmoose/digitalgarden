@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-take-pride-in-your-ignorance/","title":"Dont take pride in your ignorance"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-take-pride-in-your-ignorance/","title":"Dont take pride in your ignorance","noteIcon":""}
 ---
 
 
