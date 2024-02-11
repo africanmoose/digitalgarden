@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/worrying-can-be-addictive/","title":"Worrying can be addictive"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/worrying-can-be-addictive/","title":"Worrying can be addictive","noteIcon":""}
 ---
 
 
