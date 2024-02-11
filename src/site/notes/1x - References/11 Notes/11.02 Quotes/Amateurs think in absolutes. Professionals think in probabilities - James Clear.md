@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/amateurs-think-in-absolutes-professionals-think-in-probabilities-james-clear/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/amateurs-think-in-absolutes-professionals-think-in-probabilities-james-clear/","title":"structure note","noteIcon":""}
 ---
 
 
