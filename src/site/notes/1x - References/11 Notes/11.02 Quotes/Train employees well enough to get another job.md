@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/train-employees-well-enough-to-get-another-job/","title":"Train employees well enough to get another job"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/train-employees-well-enough-to-get-another-job/","title":"Train employees well enough to get another job","noteIcon":""}
 ---
 
 
