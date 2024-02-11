@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-need-to-do-your-own-thinking-dont-get-caught-up-in-mass-hysteria-jack-scwager/","title":"You need to do your own Thinking. Dont get caught up in mass hysteria. - Jack Scwager"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/you-need-to-do-your-own-thinking-dont-get-caught-up-in-mass-hysteria-jack-scwager/","title":"You need to do your own Thinking. Dont get caught up in mass hysteria. - Jack Scwager","noteIcon":""}
 ---
 
 
