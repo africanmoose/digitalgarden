@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"WtlibOnMac","permalink":"/WtlibOnMac/","title":"Install Watchtower Library on MacOS"}
+{"dg-publish":true,"dg-permalink":"WtlibOnMac","permalink":"/WtlibOnMac/","title":"Install Watchtower Library on MacOS","noteIcon":""}
 ---
 
 
