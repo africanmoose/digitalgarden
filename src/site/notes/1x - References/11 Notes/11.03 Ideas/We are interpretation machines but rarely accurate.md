@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-interpretation-machines-but-rarely-accurate/","title":"We are interpretation machines, but rarely accurate"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-interpretation-machines-but-rarely-accurate/","title":"We are interpretation machines, but rarely accurate","noteIcon":""}
 ---
 
 
