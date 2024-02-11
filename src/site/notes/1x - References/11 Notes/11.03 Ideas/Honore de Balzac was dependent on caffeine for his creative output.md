@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/honore-de-balzac-was-dependent-on-caffeine-for-his-creative-output/","title":"Honore de Balzac was dependent on caffeine for his creative output"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/honore-de-balzac-was-dependent-on-caffeine-for-his-creative-output/","title":"Honore de Balzac was dependent on caffeine for his creative output","noteIcon":""}
 ---
 
 
