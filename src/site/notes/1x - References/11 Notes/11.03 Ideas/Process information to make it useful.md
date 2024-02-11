@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/process-information-to-make-it-useful/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/process-information-to-make-it-useful/","noteIcon":""}
 ---
 
 ---
