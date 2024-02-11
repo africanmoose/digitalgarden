@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/improve-your-finances/","title":"Improve your finances"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/improve-your-finances/","title":"Improve your finances","noteIcon":""}
 ---
 
 
