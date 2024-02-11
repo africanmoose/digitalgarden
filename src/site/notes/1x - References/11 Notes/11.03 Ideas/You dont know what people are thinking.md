@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-dont-know-what-people-are-thinking/","title":"You dont know what people are thinking"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-dont-know-what-people-are-thinking/","title":"You dont know what people are thinking","noteIcon":""}
 ---
 
 
