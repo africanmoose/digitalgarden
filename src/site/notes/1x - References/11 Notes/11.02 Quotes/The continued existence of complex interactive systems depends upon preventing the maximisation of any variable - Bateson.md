@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-continued-existence-of-complex-interactive-systems-depends-upon-preventing-the-maximisation-of-any-variable-bateson/","title":"The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-continued-existence-of-complex-interactive-systems-depends-upon-preventing-the-maximisation-of-any-variable-bateson/","title":"The continued existence of complex interactive systems depends upon preventing the maximisation of any variable - Bateson","noteIcon":""}
 ---
 
 
