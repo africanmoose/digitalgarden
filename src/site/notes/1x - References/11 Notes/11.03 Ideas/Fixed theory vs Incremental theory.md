@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/fixed-theory-vs-incremental-theory/","title":"Fixed theory vs Incremental theory"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/fixed-theory-vs-incremental-theory/","title":"Fixed theory vs Incremental theory","noteIcon":""}
 ---
 
 
