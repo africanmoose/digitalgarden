@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/curiousity-is-a-powerful-learning-tool/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/curiousity-is-a-powerful-learning-tool/","noteIcon":""}
 ---
 
 ---
