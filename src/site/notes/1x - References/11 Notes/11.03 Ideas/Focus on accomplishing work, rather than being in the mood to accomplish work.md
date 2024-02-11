@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-accomplishing-work-rather-than-being-in-the-mood-to-accomplish-work/","title":"Focus on accomplishing work, rather than being in the mood to accomplish work"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/focus-on-accomplishing-work-rather-than-being-in-the-mood-to-accomplish-work/","title":"Focus on accomplishing work, rather than being in the mood to accomplish work","noteIcon":""}
 ---
 
 
