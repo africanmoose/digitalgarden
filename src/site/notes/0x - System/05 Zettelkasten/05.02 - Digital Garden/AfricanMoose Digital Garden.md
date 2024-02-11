@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/african-moose-digital-garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/african-moose-digital-garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ## Pic of the week
@@ -19,13 +19,13 @@ Pretty sunsets are back
 
 ## Interesting Persons
 
+- [[1x - References/11 Notes/11.05 Persons/Yo-Yo Ma\|Yo-Yo Ma]]
+- [[1x - References/11 Notes/11.05 Persons/Django Reinhardt\|Django Reinhardt]]
 - [[1x - References/11 Notes/11.05 Persons/Dave Brubeck\|Dave Brubeck]]
 - [[1x - References/11 Notes/11.05 Persons/Duke Ellington\|Duke Ellington]]
 - [[1x - References/11 Notes/11.05 Persons/Susan Polgar\|Susan Polgar]]
 - [[1x - References/11 Notes/11.03 Ideas/The figlia del coro - The all female multi-instrumental band\|The figlia del coro - The all female multi-instrumental band]]
 - [[1x - References/11 Notes/11.05 Persons/Brian May\|Brian May]]
-- [[1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt\|Eleanor Roosevelt]]
-- [[1x - References/11 Notes/11.05 Persons/Isaac Asimov\|Isaac Asimov]]
 
 ## Interesting Ideas
 
