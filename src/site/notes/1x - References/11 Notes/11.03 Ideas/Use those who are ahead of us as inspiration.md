@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-those-who-are-ahead-of-us-as-inspiration/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/use-those-who-are-ahead-of-us-as-inspiration/","noteIcon":""}
 ---
 
 
