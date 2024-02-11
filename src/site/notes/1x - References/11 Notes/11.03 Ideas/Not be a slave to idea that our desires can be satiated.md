@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/not-be-a-slave-to-idea-that-our-desires-can-be-satiated/","title":"Not be a slave to idea that our desires can be satiated"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/not-be-a-slave-to-idea-that-our-desires-can-be-satiated/","title":"Not be a slave to idea that our desires can be satiated","noteIcon":""}
 ---
 
 
