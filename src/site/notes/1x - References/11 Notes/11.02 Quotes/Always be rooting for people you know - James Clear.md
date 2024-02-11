@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/always-be-rooting-for-people-you-know-james-clear/","title":"Always be rooting for people you know - James Clear"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/always-be-rooting-for-people-you-know-james-clear/","title":"Always be rooting for people you know - James Clear","noteIcon":""}
 ---
 
 
