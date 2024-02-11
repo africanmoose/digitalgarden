@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-sleeper-effect/","title":"The sleeper effect"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-sleeper-effect/","title":"The sleeper effect","noteIcon":""}
 ---
 
 
