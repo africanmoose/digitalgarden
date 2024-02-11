@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/earth-is-the-precise-correct-distance-from-the-sun/","title":"Earth is the precise correct distance from the sun"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/earth-is-the-precise-correct-distance-from-the-sun/","title":"Earth is the precise correct distance from the sun","noteIcon":""}
 ---
 
 
