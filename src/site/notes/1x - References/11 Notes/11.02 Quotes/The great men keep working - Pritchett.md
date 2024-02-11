@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-great-men-keep-working-pritchett/","title":"The great men keep working - Pritchett","dgShowBacklinks":true}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-great-men-keep-working-pritchett/","title":"The great men keep working - Pritchett","dgShowBacklinks":true,"noteIcon":""}
 ---
 
 
