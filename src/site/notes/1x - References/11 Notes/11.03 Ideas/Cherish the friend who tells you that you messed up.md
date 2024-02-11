@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cherish-the-friend-who-tells-you-that-you-messed-up/","title":"Cherish the friend who tells you that you messed up"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cherish-the-friend-who-tells-you-that-you-messed-up/","title":"Cherish the friend who tells you that you messed up","noteIcon":""}
 ---
 
 
