@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-can-never-understand-everything/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/you-can-never-understand-everything/","noteIcon":""}
 ---
 
 ---
