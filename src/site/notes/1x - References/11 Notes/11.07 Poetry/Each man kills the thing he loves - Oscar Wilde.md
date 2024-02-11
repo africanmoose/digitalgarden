@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/each-man-kills-the-thing-he-loves-oscar-wilde/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/each-man-kills-the-thing-he-loves-oscar-wilde/","noteIcon":""}
 ---
 
 
