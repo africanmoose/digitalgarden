@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/only-have-stuff-that-is-useful-or-beautiful-william-morris/","title":"Only have stuff that is useful or beautiful - William Morris"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/only-have-stuff-that-is-useful-or-beautiful-william-morris/","title":"Only have stuff that is useful or beautiful - William Morris","noteIcon":""}
 ---
 
 
