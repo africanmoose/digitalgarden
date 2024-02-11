@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-a-nation-s-literature-declines-the-nation-atrophies-and-decays-ezra-pound/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-a-nation-s-literature-declines-the-nation-atrophies-and-decays-ezra-pound/","title":"structure note","noteIcon":""}
 ---
 
 
