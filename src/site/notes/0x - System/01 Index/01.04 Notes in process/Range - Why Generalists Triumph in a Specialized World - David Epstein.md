@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","noteIcon":""}
 ---
 
 ![Range - cover.jpg](/img/user/0x%20-%20System/01%20Index/01.04%20Notes%20in%20process/Range%20-%20cover.jpg)
