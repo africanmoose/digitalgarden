@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/coffee-is-an-incredibly-complex-substance/","title":"Coffee is an incredibly complex substance"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/coffee-is-an-incredibly-complex-substance/","title":"Coffee is an incredibly complex substance","noteIcon":""}
 ---
 
 
