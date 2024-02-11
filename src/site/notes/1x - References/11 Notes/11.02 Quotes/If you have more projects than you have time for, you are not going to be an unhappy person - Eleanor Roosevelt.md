@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-have-more-projects-than-you-have-time-for-you-are-not-going-to-be-an-unhappy-person-eleanor-roosevelt/","title":"If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-have-more-projects-than-you-have-time-for-you-are-not-going-to-be-an-unhappy-person-eleanor-roosevelt/","title":"If you have more projects than you have time for, you are not going to be an unhappy person - Eleanor Roosevelt","noteIcon":""}
 ---
 
 
