@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/always-be-calm-in-arguments-or-disagreements/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/always-be-calm-in-arguments-or-disagreements/","noteIcon":""}
 ---
 
 
