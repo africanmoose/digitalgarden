@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-unconscious-can-make-correct-decisions/","title":"Our unconscious can make correct decisions"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-unconscious-can-make-correct-decisions/","title":"Our unconscious can make correct decisions","noteIcon":""}
 ---
 
 
