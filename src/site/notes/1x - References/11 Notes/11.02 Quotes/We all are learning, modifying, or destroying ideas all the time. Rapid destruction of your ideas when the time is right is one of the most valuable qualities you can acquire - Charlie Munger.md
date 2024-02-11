@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-all-are-learning-modifying-or-destroying-ideas-all-the-time-rapid-destruction-of-your-ideas-when-the-time-is-right-is-one-of-the-most-valuable-qualities-you-can-acquire-charlie-munger/","title":"We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire - Charlie Munger"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-all-are-learning-modifying-or-destroying-ideas-all-the-time-rapid-destruction-of-your-ideas-when-the-time-is-right-is-one-of-the-most-valuable-qualities-you-can-acquire-charlie-munger/","title":"We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire - Charlie Munger","noteIcon":""}
 ---
 
 
