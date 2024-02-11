@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/on-spending-time-optimally-james-clear/","title":"On spending time optimally - James Clear"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/on-spending-time-optimally-james-clear/","title":"On spending time optimally - James Clear","noteIcon":""}
 ---
 
 
