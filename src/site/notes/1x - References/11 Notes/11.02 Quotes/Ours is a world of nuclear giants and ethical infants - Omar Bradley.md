@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/ours-is-a-world-of-nuclear-giants-and-ethical-infants-omar-bradley/","title":"Ours is a world of nuclear giants and ethical infants - Omar Bradley"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/ours-is-a-world-of-nuclear-giants-and-ethical-infants-omar-bradley/","title":"Ours is a world of nuclear giants and ethical infants - Omar Bradley","noteIcon":""}
 ---
 
 
