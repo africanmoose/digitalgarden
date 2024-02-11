@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/systems-trump-goals-james-clear/","title":"Systems trump goals"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/systems-trump-goals-james-clear/","title":"Systems trump goals","noteIcon":""}
 ---
 
 
