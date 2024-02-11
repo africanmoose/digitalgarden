@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/moondog/","title":"Moondog"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/moondog/","title":"Moondog","noteIcon":""}
 ---
 
 ![moondog.png](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/moondog.png)
