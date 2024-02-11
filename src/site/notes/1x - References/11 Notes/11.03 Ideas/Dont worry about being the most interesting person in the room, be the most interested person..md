@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-worry-about-being-the-most-interesting-person-in-the-room-be-the-most-interested-person/","title":"Dont worry about being the most interesting person in the room, be the most interested person."}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-worry-about-being-the-most-interesting-person-in-the-room-be-the-most-interested-person/","title":"Dont worry about being the most interesting person in the room, be the most interested person.","noteIcon":""}
 ---
 
 
