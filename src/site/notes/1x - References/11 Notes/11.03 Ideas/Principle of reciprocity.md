@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/principle-of-reciprocity/","title":"Principle of reciprocity"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/principle-of-reciprocity/","title":"Principle of reciprocity","noteIcon":""}
 ---
 
 
