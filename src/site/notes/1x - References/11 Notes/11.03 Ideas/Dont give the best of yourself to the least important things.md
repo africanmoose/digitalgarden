@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-give-the-best-of-yourself-to-the-least-important-things/","title":"Dont give the best of yourself to the least important things"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-give-the-best-of-yourself-to-the-least-important-things/","title":"Dont give the best of yourself to the least important things","noteIcon":""}
 ---
 
 
