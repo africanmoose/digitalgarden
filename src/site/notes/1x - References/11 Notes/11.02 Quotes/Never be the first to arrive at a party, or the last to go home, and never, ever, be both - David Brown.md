@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/never-be-the-first-to-arrive-at-a-party-or-the-last-to-go-home-and-never-ever-be-both-david-brown/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/never-be-the-first-to-arrive-at-a-party-or-the-last-to-go-home-and-never-ever-be-both-david-brown/","title":"structure note","noteIcon":""}
 ---
 
 
