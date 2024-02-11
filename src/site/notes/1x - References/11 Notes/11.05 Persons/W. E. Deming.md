@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/w-e-deming/","title":"W. E. Deming"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/w-e-deming/","title":"W. E. Deming","noteIcon":""}
 ---
 
 
