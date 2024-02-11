@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-to-verify-claims/","title":"How to verify claims"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-to-verify-claims/","title":"How to verify claims","noteIcon":""}
 ---
 
 
