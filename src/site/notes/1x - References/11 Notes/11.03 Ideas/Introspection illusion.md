@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/introspection-illusion/","title":"Introspection illusion"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/introspection-illusion/","title":"Introspection illusion","noteIcon":""}
 ---
 
 
