@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-mind-should-have-someone-whom-it-can-respect-seneca/","title":"The mind should have someone whom it can respect - Seneca"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-mind-should-have-someone-whom-it-can-respect-seneca/","title":"The mind should have someone whom it can respect - Seneca","noteIcon":""}
 ---
 
 
