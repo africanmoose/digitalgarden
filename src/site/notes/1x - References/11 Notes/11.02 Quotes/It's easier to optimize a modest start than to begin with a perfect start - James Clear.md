@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-s-easier-to-optimize-a-modest-start-than-to-begin-with-a-perfect-start-james-clear/","title":"It's easier to optimize a modest start than to begin with a perfect start - James Clear"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-s-easier-to-optimize-a-modest-start-than-to-begin-with-a-perfect-start-james-clear/","title":"It's easier to optimize a modest start than to begin with a perfect start - James Clear","noteIcon":""}
 ---
 
 
