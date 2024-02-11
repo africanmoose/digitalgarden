@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/clutter-is-everywhere/","title":"Clutter is everywhere"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/clutter-is-everywhere/","title":"Clutter is everywhere","noteIcon":""}
 ---
 
 
