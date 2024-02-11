@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/not-everything-that-counts-can-be-counted-and-not-everything-that-can-be-counted-counts-albert-einstein/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/not-everything-that-counts-can-be-counted-and-not-everything-that-can-be-counted-counts-albert-einstein/","title":"structure note","noteIcon":""}
 ---
 
 
