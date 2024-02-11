@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/creativity-based-on-inspiration-from-others/","title":"Creativity based on inspiration from others"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/creativity-based-on-inspiration-from-others/","title":"Creativity based on inspiration from others","noteIcon":""}
 ---
 
 
