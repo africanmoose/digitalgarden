@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-naturally-obedient-to-authority/","title":"We are naturally obedient to authority"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-naturally-obedient-to-authority/","title":"We are naturally obedient to authority","noteIcon":""}
 ---
 
 
