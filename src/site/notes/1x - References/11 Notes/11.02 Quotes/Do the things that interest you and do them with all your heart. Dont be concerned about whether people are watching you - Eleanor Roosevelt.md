@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-the-things-that-interest-you-and-do-them-with-all-your-heart-dont-be-concerned-about-whether-people-are-watching-you-eleanor-roosevelt/","title":"Do the things that interest you and do them with all your heart"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-the-things-that-interest-you-and-do-them-with-all-your-heart-dont-be-concerned-about-whether-people-are-watching-you-eleanor-roosevelt/","title":"Do the things that interest you and do them with all your heart","noteIcon":""}
 ---
 
 
