@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-have-to-discipline-yourself-to-achieve-art-you-discipline-yourself-bernard-malamud/","title":"Bernard Malamud"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-have-to-discipline-yourself-to-achieve-art-you-discipline-yourself-bernard-malamud/","title":"Bernard Malamud","noteIcon":""}
 ---
 
 
