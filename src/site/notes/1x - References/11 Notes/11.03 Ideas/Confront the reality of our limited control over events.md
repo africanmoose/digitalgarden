@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/confront-the-reality-of-our-limited-control-over-events/","title":"Confront the reality of our limited control over events"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/confront-the-reality-of-our-limited-control-over-events/","title":"Confront the reality of our limited control over events","noteIcon":""}
 ---
 
 
