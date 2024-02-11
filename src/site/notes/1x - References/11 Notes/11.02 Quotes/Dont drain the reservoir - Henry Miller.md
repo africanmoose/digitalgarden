@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/dont-drain-the-reservoir-henry-miller/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/dont-drain-the-reservoir-henry-miller/","title":"structure note","noteIcon":""}
 ---
 
 
