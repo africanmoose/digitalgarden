@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/better-to-assume-i-am-below-average-than-above-average/","title":"Better to assume I am below average than above average"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/better-to-assume-i-am-below-average-than-above-average/","title":"Better to assume I am below average than above average","noteIcon":""}
 ---
 
 
