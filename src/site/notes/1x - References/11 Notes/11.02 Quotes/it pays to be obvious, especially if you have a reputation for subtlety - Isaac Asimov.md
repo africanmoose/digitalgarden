@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-pays-to-be-obvious-especially-if-you-have-a-reputation-for-subtlety-isaac-asimov/","title":"it pays to be obvious, especially if you have a reputation for subtlety - Isaac Asimov"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-pays-to-be-obvious-especially-if-you-have-a-reputation-for-subtlety-isaac-asimov/","title":"it pays to be obvious, especially if you have a reputation for subtlety - Isaac Asimov","noteIcon":""}
 ---
 
 
