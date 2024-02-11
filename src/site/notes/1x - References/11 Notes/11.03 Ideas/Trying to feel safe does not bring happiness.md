@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/trying-to-feel-safe-does-not-bring-happiness/","title":"Trying to feel safe does not bring happiness"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/trying-to-feel-safe-does-not-bring-happiness/","title":"Trying to feel safe does not bring happiness","noteIcon":""}
 ---
 
 
