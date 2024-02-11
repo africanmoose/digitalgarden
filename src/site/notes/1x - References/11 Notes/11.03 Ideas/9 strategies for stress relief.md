@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/9-strategies-for-stress-relief/","title":"9 strategies for stress relief"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/9-strategies-for-stress-relief/","title":"9 strategies for stress relief","noteIcon":""}
 ---
 
 
