@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/educate-to-allow-change/","title":"Educate to allow change"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/educate-to-allow-change/","title":"Educate to allow change","noteIcon":""}
 ---
 
 
