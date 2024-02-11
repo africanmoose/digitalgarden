@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/your-mind-is-for-having-ideas-not-holding-them-david-allen/","title":"Your mind is for having ideas, not holding them - David Allen"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/your-mind-is-for-having-ideas-not-holding-them-david-allen/","title":"Your mind is for having ideas, not holding them - David Allen","noteIcon":""}
 ---
 
 
