@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/link-your-decisions-to-your-deepest-wishes/","title":"Link your decisions to your deepest wishes"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/link-your-decisions-to-your-deepest-wishes/","title":"Link your decisions to your deepest wishes","noteIcon":""}
 ---
 
 
