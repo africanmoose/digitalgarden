@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/expansion-of-the-universe-is-set-at-the-correct-rate-for-stability/","title":"Expansion of the universe is set at the correct rate for stability"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/expansion-of-the-universe-is-set-at-the-correct-rate-for-stability/","title":"Expansion of the universe is set at the correct rate for stability","noteIcon":""}
 ---
 
 
