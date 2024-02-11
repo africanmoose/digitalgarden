@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/pareto-principle-in-learning-new-skills/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/pareto-principle-in-learning-new-skills/","noteIcon":""}
 ---
 
 ---
