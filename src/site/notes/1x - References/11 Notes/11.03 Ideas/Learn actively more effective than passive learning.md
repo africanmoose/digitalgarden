@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-actively-more-effective-than-passive-learning/","title":"Learn actively more effective than passive learning"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learn-actively-more-effective-than-passive-learning/","title":"Learn actively more effective than passive learning","noteIcon":""}
 ---
 
 
