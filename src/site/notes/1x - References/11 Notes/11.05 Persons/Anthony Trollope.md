@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"trollope","permalink":"/trollope/","title":"Anthony Trollope"}
+{"dg-publish":true,"dg-permalink":"trollope","permalink":"/trollope/","title":"Anthony Trollope","noteIcon":""}
 ---
 
 
