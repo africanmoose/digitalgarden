@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/love-for-the-unconventional/","title":"Love for the unconventional"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/love-for-the-unconventional/","title":"Love for the unconventional","noteIcon":""}
 ---
 
 
