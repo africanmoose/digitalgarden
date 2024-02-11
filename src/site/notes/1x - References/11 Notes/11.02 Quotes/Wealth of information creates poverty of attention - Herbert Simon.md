@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/wealth-of-information-creates-poverty-of-attention-herbert-simon/","title":"Wealth of information creates poverty of attention -"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/wealth-of-information-creates-poverty-of-attention-herbert-simon/","title":"Wealth of information creates poverty of attention -","noteIcon":""}
 ---
 
 
