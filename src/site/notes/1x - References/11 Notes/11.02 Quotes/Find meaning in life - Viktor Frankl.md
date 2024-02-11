@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-meaning-in-life-viktor-frankl/","title":"Find meaning in life - Viktor Frankl"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/find-meaning-in-life-viktor-frankl/","title":"Find meaning in life - Viktor Frankl","noteIcon":""}
 ---
 
 
