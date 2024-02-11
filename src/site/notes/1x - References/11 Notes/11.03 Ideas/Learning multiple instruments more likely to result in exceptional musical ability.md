@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-multiple-instruments-more-likely-to-result-in-exceptional-musical-ability/","title":"Learning multiple instruments more likely to result in exceptional musical ability"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-multiple-instruments-more-likely-to-result-in-exceptional-musical-ability/","title":"Learning multiple instruments more likely to result in exceptional musical ability","noteIcon":""}
 ---
 
 
