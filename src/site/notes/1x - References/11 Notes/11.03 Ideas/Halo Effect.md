@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/halo-effect/","title":"Halo Effect"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/halo-effect/","title":"Halo Effect","noteIcon":""}
 ---
 
 
