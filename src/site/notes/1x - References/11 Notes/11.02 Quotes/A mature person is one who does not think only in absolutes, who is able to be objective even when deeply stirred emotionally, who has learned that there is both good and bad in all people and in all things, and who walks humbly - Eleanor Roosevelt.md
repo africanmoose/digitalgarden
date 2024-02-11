@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-mature-person-is-one-who-does-not-think-only-in-absolutes-who-is-able-to-be-objective-even-when-deeply-stirred-emotionally-who-has-learned-that-there-is-both-good-and-bad-in-all-people-and-in-all-things-and-who-walks-humbly-eleanor-roosevelt/","title":"A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly - Eleanor Roosevelt"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-mature-person-is-one-who-does-not-think-only-in-absolutes-who-is-able-to-be-objective-even-when-deeply-stirred-emotionally-who-has-learned-that-there-is-both-good-and-bad-in-all-people-and-in-all-things-and-who-walks-humbly-eleanor-roosevelt/","title":"A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly - Eleanor Roosevelt","noteIcon":""}
 ---
 
 
