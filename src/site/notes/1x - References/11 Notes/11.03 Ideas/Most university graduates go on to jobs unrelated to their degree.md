@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/most-university-graduates-go-on-to-jobs-unrelated-to-their-degree/","title":"Most university graduates go on to jobs unrelated to their degree"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/most-university-graduates-go-on-to-jobs-unrelated-to-their-degree/","title":"Most university graduates go on to jobs unrelated to their degree","noteIcon":""}
 ---
 
 
