@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/secret-to-learning-a-skill-is-to-practise-deliberately/","title":"Secret to learning a skill is to practise deliberately"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/secret-to-learning-a-skill-is-to-practise-deliberately/","title":"Secret to learning a skill is to practise deliberately","noteIcon":""}
 ---
 
 ---
