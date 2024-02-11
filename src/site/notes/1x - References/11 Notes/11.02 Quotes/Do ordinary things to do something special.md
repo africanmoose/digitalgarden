@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-ordinary-things-to-do-something-special/","title":"Do ordinary things to do something special"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-ordinary-things-to-do-something-special/","title":"Do ordinary things to do something special","noteIcon":""}
 ---
 
 
