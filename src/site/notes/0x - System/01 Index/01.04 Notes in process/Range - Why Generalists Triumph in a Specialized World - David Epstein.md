@@ -31,7 +31,7 @@
 - [[1x - References/11 Notes/11.03 Ideas/Spaced repetition is the best way to remember things\|Spaced repetition is the best way to remember things]]
 - [[1x - References/11 Notes/11.03 Ideas/Switching trades or specialities has a clear benefit\|Switching trades or specialities has a clear benefit]]
 - [[1x - References/11 Notes/11.03 Ideas/Test and learn is preferable to plan and implement strategy\|Test and learn is preferable to plan and implement strategy]]
-- 
+- [[1x - References/11 Notes/11.05 Persons/Chrissie Wellington\|Chrissie Wellington]] won the Ironman world championship 4 times
 
 ### References
 - [goodreads](https://www.goodreads.com/book/show/41795733-range)
