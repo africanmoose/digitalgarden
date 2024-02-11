@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-you-know-the-less-you-feel-the-need-to-ask/","title":"The more you know the less you feel the need to ask"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-you-know-the-less-you-feel-the-need-to-ask/","title":"The more you know the less you feel the need to ask","noteIcon":""}
 ---
 
 
