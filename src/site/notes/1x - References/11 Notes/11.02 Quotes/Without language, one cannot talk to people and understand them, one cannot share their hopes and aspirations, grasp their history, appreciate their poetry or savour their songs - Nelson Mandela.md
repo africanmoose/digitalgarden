@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/without-language-one-cannot-talk-to-people-and-understand-them-one-cannot-share-their-hopes-and-aspirations-grasp-their-history-appreciate-their-poetry-or-savour-their-songs-nelson-mandela/","title":"Without language, one cannot talk to people and understand them, one cannot share their hopes and aspirations, grasp their history, appreciate their poetry or savour their songs - Nelson Mandela"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/without-language-one-cannot-talk-to-people-and-understand-them-one-cannot-share-their-hopes-and-aspirations-grasp-their-history-appreciate-their-poetry-or-savour-their-songs-nelson-mandela/","title":"Without language, one cannot talk to people and understand them, one cannot share their hopes and aspirations, grasp their history, appreciate their poetry or savour their songs - Nelson Mandela","noteIcon":""}
 ---
 
 
