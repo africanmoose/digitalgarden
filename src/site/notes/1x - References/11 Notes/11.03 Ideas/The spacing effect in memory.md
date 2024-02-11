@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-spacing-effect-in-memory/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-spacing-effect-in-memory/","noteIcon":""}
 ---
 
 
