@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-find-it-hard-to-draw-what-we-see/","title":"We find it hard to draw what we see"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-find-it-hard-to-draw-what-we-see/","title":"We find it hard to draw what we see","noteIcon":""}
 ---
 
 
