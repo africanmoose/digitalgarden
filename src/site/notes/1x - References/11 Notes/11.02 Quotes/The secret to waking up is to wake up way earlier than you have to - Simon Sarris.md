@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-secret-to-waking-up-is-to-wake-up-way-earlier-than-you-have-to-simon-sarris/","title":"The secret to waking up is to wake up way earlier than you have to - Simon Sarris"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-secret-to-waking-up-is-to-wake-up-way-earlier-than-you-have-to-simon-sarris/","title":"The secret to waking up is to wake up way earlier than you have to - Simon Sarris","noteIcon":""}
 ---
 
 
