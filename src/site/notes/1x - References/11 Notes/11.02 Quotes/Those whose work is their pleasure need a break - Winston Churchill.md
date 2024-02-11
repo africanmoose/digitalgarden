@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/those-whose-work-is-their-pleasure-need-a-break-winston-churchill/","title":"Those whose work is their pleasure need a break - Winston Churchill"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/those-whose-work-is-their-pleasure-need-a-break-winston-churchill/","title":"Those whose work is their pleasure need a break - Winston Churchill","noteIcon":""}
 ---
 
 
