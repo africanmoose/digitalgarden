@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/intention-to-remember-is-not-important-in-actual-remembering/","title":"Intention to remember is not important in actual remembering"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/intention-to-remember-is-not-important-in-actual-remembering/","title":"Intention to remember is not important in actual remembering","noteIcon":""}
 ---
 
 
