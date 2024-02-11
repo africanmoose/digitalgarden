@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-warfare-is-based-on-deception-sun-tzu/","title":"All warfare is based on deception - Sun Tzu"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/all-warfare-is-based-on-deception-sun-tzu/","title":"All warfare is based on deception - Sun Tzu","noteIcon":""}
 ---
 
 
