@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/don-t-agree-with-everything/"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/don-t-agree-with-everything/","noteIcon":""}
 ---
 
 ## Don't agree with everything
