@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/manners-is-a-social-lubricant-curiosity-is-the-tabasco-that-spices-it-up-brian-grazer/","title":"Manners is a social lubricant, curiosity is the Tabasco that spices it up - Brian Grazer"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/manners-is-a-social-lubricant-curiosity-is-the-tabasco-that-spices-it-up-brian-grazer/","title":"Manners is a social lubricant, curiosity is the Tabasco that spices it up - Brian Grazer","noteIcon":""}
 ---
 
 
