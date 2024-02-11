@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/questions-are-never-indiscreet-answers-sometimes-are-oscar-wilde/","title":"Questions are never indiscreet. Answers sometimes are - Oscar Wilde"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/questions-are-never-indiscreet-answers-sometimes-are-oscar-wilde/","title":"Questions are never indiscreet. Answers sometimes are - Oscar Wilde","noteIcon":""}
 ---
 
 
