@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-fifty-million-people-say-something-foolish-it-is-still-foolish-somerset-maugham/","title":"If fifty million people say something foolish it is still foolish - Somerset Maugham"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-fifty-million-people-say-something-foolish-it-is-still-foolish-somerset-maugham/","title":"If fifty million people say something foolish it is still foolish - Somerset Maugham","noteIcon":""}
 ---
 
 
