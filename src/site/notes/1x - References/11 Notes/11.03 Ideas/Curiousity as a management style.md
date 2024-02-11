@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/curiousity-as-a-management-style/","title":"Curiousity as a management style"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/curiousity-as-a-management-style/","title":"Curiousity as a management style","noteIcon":""}
 ---
 
 
