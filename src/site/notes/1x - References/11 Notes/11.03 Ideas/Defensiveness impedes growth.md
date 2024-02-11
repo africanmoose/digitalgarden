@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/defensiveness-impedes-growth/","title":"Defensiveness impedes growth"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/defensiveness-impedes-growth/","title":"Defensiveness impedes growth","noteIcon":""}
 ---
 
 
