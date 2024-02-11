@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/fear-less-hope-more-eat-less-chew-more-whine-less-breathe-more-talk-less-say-more-love-more-and-all-good-things-will-be-yours-swedish-proverb/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/fear-less-hope-more-eat-less-chew-more-whine-less-breathe-more-talk-less-say-more-love-more-and-all-good-things-will-be-yours-swedish-proverb/","title":"structure note","noteIcon":""}
 ---
 
 
