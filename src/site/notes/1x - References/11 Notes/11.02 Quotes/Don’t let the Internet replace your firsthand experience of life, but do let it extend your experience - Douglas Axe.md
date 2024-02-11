@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/don-t-let-the-internet-replace-your-firsthand-experience-of-life-but-do-let-it-extend-your-experience-douglas-axe/","title":"Don’t let the Internet replace your firsthand experience of life, but do let it extend your experience - Douglas Axe"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/don-t-let-the-internet-replace-your-firsthand-experience-of-life-but-do-let-it-extend-your-experience-douglas-axe/","title":"Don’t let the Internet replace your firsthand experience of life, but do let it extend your experience - Douglas Axe","noteIcon":""}
 ---
 
 
