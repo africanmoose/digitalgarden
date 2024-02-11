@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/watch-your-thoughts-for-they-become-words-margaret-thatcher/","title":"Watch your thoughts for they become words - Margaret Thatcher"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/watch-your-thoughts-for-they-become-words-margaret-thatcher/","title":"Watch your thoughts for they become words - Margaret Thatcher","noteIcon":""}
 ---
 
 
