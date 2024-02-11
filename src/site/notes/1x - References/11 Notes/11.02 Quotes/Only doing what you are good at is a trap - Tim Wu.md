@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/only-doing-what-you-are-good-at-is-a-trap-tim-wu/","title":"structure note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/only-doing-what-you-are-good-at-is-a-trap-tim-wu/","title":"structure note","noteIcon":""}
 ---
 
 
