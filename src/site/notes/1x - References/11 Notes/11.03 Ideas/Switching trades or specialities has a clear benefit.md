@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/switching-trades-or-specialities-has-a-clear-benefit/","title":"Switching trades or specialities has a clear benefit"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/switching-trades-or-specialities-has-a-clear-benefit/","title":"Switching trades or specialities has a clear benefit","noteIcon":""}
 ---
 
 
