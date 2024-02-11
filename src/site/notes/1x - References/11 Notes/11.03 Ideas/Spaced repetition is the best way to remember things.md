@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/spaced-repetition-is-the-best-way-to-remember-things/","title":"Spaced Repetition"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/spaced-repetition-is-the-best-way-to-remember-things/","title":"Spaced Repetition","noteIcon":""}
 ---
 
 ---
