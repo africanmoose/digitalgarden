@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-need-to-close-doors/","title":"We need to close doors"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-need-to-close-doors/","title":"We need to close doors","noteIcon":""}
 ---
 
 
