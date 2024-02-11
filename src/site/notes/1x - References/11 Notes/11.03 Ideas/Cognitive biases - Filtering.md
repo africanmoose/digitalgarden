@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cognitive-biases-filtering/","title":"Cognitive biases - Filtering"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cognitive-biases-filtering/","title":"Cognitive biases - Filtering","noteIcon":""}
 ---
 
 
