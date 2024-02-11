@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/fall-in-love-with-the-unknown/","title":"permanent note"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/fall-in-love-with-the-unknown/","title":"permanent note","noteIcon":""}
 ---
 
 
