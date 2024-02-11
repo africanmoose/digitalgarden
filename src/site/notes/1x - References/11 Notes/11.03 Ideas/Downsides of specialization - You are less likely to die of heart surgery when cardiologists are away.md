@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/downsides-of-specialization-you-are-less-likely-to-die-of-heart-surgery-when-cardiologists-are-away/","title":"You are less likely to die of heart surgery when cardiologists are away"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/downsides-of-specialization-you-are-less-likely-to-die-of-heart-surgery-when-cardiologists-are-away/","title":"You are less likely to die of heart surgery when cardiologists are away","noteIcon":""}
 ---
 
 
