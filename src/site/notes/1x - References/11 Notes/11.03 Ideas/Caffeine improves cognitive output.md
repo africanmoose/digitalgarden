@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/caffeine-improves-cognitive-output/","title":"Caffeine improves cognitive output"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/caffeine-improves-cognitive-output/","title":"Caffeine improves cognitive output","noteIcon":""}
 ---
 
 
