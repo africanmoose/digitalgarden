@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-world-is-unfathomably-more-rich-interwoven-and-complicated-than-we-are-taught-rick-rubin/","title":"The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-world-is-unfathomably-more-rich-interwoven-and-complicated-than-we-are-taught-rick-rubin/","title":"The natural world is unfathomably more rich interwoven and complicated than we are taught - Rick Rubin","noteIcon":""}
 ---
 
 
