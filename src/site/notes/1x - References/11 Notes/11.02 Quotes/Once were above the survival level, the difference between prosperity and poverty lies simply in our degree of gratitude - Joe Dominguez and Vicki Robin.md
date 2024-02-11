@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/once-were-above-the-survival-level-the-difference-between-prosperity-and-poverty-lies-simply-in-our-degree-of-gratitude-joe-dominguez-and-vicki-robin/","title":"Once were above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude - Joe Dominguez and Vicki Robin"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/once-were-above-the-survival-level-the-difference-between-prosperity-and-poverty-lies-simply-in-our-degree-of-gratitude-joe-dominguez-and-vicki-robin/","title":"Once were above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude - Joe Dominguez and Vicki Robin","noteIcon":""}
 ---
 
 
