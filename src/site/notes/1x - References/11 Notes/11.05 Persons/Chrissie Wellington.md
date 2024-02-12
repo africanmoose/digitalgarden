@@ -19,4 +19,4 @@
 - Of the athletes I met when I worked at Sports Illustrated, the one I most admired was British Ironman triathlete (and writer and humanitarian) Chrissie Wellington, who sat atop a road bike for the first time in her life at age twenty-seven. She was working on a sewage sanitation project in Nepal when she found that she enjoyed cycling, and could keep up with Sherpas at altitude in the Himalayas. Two years after returning home, she won the first of four Ironman world championships, and then proceeded to go 13–0 at the Ironman distance over a career that started late and spanned just five years. “My passion for the sport hasn’t waned,” she said when she retired, “but my passion for new experiences and new challenges is what is now burning the most brightly.”
 
 ### Related
-- 
+- [[3x - Spiritual/31 Notes/31.05 Bethel Lectures/Are you running with endurance -Ian Drummond\|Are you running with endurance -Ian Drummond]]
