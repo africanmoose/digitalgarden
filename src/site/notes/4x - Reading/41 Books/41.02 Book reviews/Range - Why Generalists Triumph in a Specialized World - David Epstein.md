@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/range-why-generalists-triumph-in-a-specialized-world-david-epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein/","title":"Range - Why Generalists Triumph in a Specialized World - David Epstein","noteIcon":""}
 ---
 
 ![Range - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Range%20-%20cover.jpg)
