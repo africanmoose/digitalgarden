@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/isaac-asimov/","title":"Isaac Asimov","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Isaac Asimov/","title":"Isaac Asimov","noteIcon":""}
 ---
 
 
