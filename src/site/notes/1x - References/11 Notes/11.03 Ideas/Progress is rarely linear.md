@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/progress-is-rarely-linear/","title":"Progress is rarely linear","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Progress is rarely linear/","title":"Progress is rarely linear","noteIcon":""}
 ---
 
 
