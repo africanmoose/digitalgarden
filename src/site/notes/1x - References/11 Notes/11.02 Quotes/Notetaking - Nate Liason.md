@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/notetaking-nate-liason/","title":"Notetaking - Nate Liason","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Notetaking - Nate Liason/","title":"Notetaking - Nate Liason","noteIcon":""}
 ---
 
 
