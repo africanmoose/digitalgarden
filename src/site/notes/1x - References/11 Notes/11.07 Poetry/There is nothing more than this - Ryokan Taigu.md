@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/there-is-nothing-more-than-this-ryokan-taigu/","title":"There is nothing more than this - Ryokan Taigu","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/There is nothing more than this - Ryokan Taigu/","title":"There is nothing more than this - Ryokan Taigu","noteIcon":""}
 ---
 
 
