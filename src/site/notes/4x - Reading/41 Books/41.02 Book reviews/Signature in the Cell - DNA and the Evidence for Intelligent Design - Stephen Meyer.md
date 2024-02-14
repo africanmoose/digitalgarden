@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/signature-in-the-cell-dna-and-the-evidence-for-intelligent-design-stephen-meyer/","title":"Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer/","title":"Signature in the Cell - DNA and the Evidence for Intelligent Design - Stephen Meyer","noteIcon":""}
 ---
 
 ![Signature in the cell - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Signature%20in%20the%20cell%20-%20cover.jpg)
