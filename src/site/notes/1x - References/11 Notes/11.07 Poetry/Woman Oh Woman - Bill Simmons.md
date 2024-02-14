@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/woman-oh-woman-bill-simmons/","title":"Woman Oh Woman - Bill Simmons","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/Woman Oh Woman - Bill Simmons/","title":"Woman Oh Woman - Bill Simmons","noteIcon":""}
 ---
 
 Woman, Oh Woman
