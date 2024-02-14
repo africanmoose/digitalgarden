@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/engage-with-those-who-have-different-views-from-yourself/","title":"Engage with those who have different views from yourself","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Engage with those who have different views from yourself/","title":"Engage with those who have different views from yourself","noteIcon":""}
 ---
 
 
