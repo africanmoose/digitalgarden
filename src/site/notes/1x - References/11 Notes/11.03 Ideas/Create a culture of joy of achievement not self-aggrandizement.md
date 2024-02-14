@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/create-a-culture-of-joy-of-achievement-not-self-aggrandizement/","title":"Create a culture of joy of achievement not self-aggrandizement","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Create a culture of joy of achievement not self-aggrandizement/","title":"Create a culture of joy of achievement not self-aggrandizement","noteIcon":""}
 ---
 
 
