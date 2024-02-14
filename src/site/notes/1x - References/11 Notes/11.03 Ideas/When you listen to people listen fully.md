@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-you-listen-to-people-listen-fully/","title":"When you listen to people listen fully","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When you listen to people listen fully/","title":"When you listen to people listen fully","noteIcon":""}
 ---
 
 
