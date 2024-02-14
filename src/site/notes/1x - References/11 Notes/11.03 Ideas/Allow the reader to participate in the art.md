@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/allow-the-reader-to-participate-in-the-art/","title":"Allow the reader to participate in the art","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Allow the reader to participate in the art/","title":"Allow the reader to participate in the art","noteIcon":""}
 ---
 
 
