@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/deal-with-your-inner-critic/","title":"Deal with your inner critic","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Deal with your inner critic/","title":"Deal with your inner critic","noteIcon":""}
 ---
 
 
