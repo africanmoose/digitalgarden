@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/flexible-focus-better-than-relentless-focus/","title":"Flexible focus better than relentless focus","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Flexible focus better than relentless focus/","title":"Flexible focus better than relentless focus","noteIcon":""}
 ---
 
 
