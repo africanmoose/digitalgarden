@@ -12,7 +12,7 @@
 - The monkeys did much better in the training session with hints, but much worse in the exam day. Whereas monkeys that had no hints did worse during training but much better during the exam
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [study](https://www.sciencedaily.com/releases/2007/08/070801161511.htm#:~:text=%22Both%20monkeys%20did%20much%20better,test%20day%2C%20it%20completely%20reversed.)
 
 ### Quotes
