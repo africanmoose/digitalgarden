@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-be-afraid-to-ask-dont-be-disappointed-if-someone-says-no/","title":"Dont be afraid to ask, dont be disappointed if someone says no","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont be afraid to ask, dont be disappointed if someone says no/","title":"Dont be afraid to ask, dont be disappointed if someone says no","noteIcon":""}
 ---
 
 
