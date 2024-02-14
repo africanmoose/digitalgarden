@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-give-better-advice-to-others-than-to-ourselves/","title":"We give better advice to others than to ourselves","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We give better advice to others than to ourselves/","title":"We give better advice to others than to ourselves","noteIcon":""}
 ---
 
 
