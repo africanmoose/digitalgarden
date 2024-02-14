@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/this-is-your-mind-on-plants-michael-pollen/","title":"This is your mind on plants - Michael Pollen","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/This is your mind on plants - Michael Pollen/","title":"This is your mind on plants - Michael Pollen","noteIcon":""}
 ---
 
 ![This is your mind on plants - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/This%20is%20your%20mind%20on%20plants%20-%20cover.jpg)
