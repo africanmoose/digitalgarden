@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-it-right-popular-mechanics/","title":"Do it right - Popular Mechanics","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Do it right - Popular Mechanics/","title":"Do it right - Popular Mechanics","noteIcon":""}
 ---
 
 
