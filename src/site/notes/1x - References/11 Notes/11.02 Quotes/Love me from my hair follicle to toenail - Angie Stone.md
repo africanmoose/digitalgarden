@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/love-me-from-my-hair-follicle-to-toenail-angie-stone/","title":"Love me from my hair follicle to toenail - Angie Stone","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Love me from my hair follicle to toenail - Angie Stone/","title":"Love me from my hair follicle to toenail - Angie Stone","noteIcon":""}
 ---
 
 
