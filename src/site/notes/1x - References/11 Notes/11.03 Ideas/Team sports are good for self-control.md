@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/team-sports-are-good-for-self-control/","title":"Team sports are good for self-control","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Team sports are good for self-control/","title":"Team sports are good for self-control","noteIcon":""}
 ---
 
 
