@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-more-breaks-you-take-the-more-productive-you-become/","title":"The more breaks you take the more productive you become","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The more breaks you take the more productive you become/","title":"The more breaks you take the more productive you become","noteIcon":""}
 ---
 
 
