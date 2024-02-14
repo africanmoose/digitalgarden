@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/django-reinhardt/","title":"Django Reinhardt","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Django Reinhardt/","title":"Django Reinhardt","noteIcon":""}
 ---
 
 
