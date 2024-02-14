@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/being-busy-doesnt-mean-we-are-productive/","title":"Being busy doesnt mean we are productive","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Being busy doesnt mean we are productive/","title":"Being busy doesnt mean we are productive","noteIcon":""}
 ---
 
 
