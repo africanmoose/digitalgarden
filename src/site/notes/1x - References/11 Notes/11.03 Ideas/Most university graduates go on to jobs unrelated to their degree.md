@@ -10,7 +10,7 @@
 - This argues against the need for narrow training
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 - Mostly, though, students get what economist Bryan Caplan called narrow vocational training for jobs few of them will ever have. Three-quarters of American college graduates go on to a career unrelated to their major—a trend that includes math and science majors—after having become competent only with the tools of a single discipline.
