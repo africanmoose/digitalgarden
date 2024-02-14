@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/three-precious-things-gentleness-frugality-and-humility-lao-tzu/","title":"Three precious things - gentleness frugality and humility - Lao Tzu","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Three precious things - gentleness frugality and humility - Lao Tzu/","title":"Three precious things - gentleness frugality and humility - Lao Tzu","noteIcon":""}
 ---
 
 
