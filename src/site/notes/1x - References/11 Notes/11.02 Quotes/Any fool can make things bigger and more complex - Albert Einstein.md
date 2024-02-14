@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/any-fool-can-make-things-bigger-and-more-complex-albert-einstein/","title":"Any fool can make things bigger and more complex - Albert Einstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Any fool can make things bigger and more complex - Albert Einstein/","title":"Any fool can make things bigger and more complex - Albert Einstein","noteIcon":""}
 ---
 
 
