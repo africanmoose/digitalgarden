@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/how-you-do-anything-is-how-you-do-everything/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/How you do anything is how you do everything/","title":"structure note","noteIcon":""}
 ---
 
 
