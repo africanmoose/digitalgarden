@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/family-is-the-people-in-your-life-who-want-you-in-thiers-and-accept-you-for-who-you-are-maya-angelou/","title":"Family is the people in your life who want you in thiers and accept you for who you are - Maya Angelou","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Family is the people in your life who want you in thiers and accept you for who you are - Maya Angelou/","title":"Family is the people in your life who want you in thiers and accept you for who you are - Maya Angelou","noteIcon":""}
 ---
 
 
