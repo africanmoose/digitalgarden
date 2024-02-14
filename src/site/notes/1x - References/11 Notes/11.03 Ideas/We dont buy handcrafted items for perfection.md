@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-dont-buy-handcrafted-items-for-perfection/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We dont buy handcrafted items for perfection/","noteIcon":""}
 ---
 
 
