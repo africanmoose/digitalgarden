@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/appreciate-unexpected-blessings-and-accept-unexpected-costs/","title":"Appreciate unexpected blessings and accept unexpected costs","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Appreciate unexpected blessings and accept unexpected costs/","title":"Appreciate unexpected blessings and accept unexpected costs","noteIcon":""}
 ---
 
 
