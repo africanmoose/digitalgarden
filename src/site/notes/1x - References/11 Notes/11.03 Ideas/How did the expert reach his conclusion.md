@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-did-the-expert-reach-his-conclusion/","title":"How did the expert reach his conclusion","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How did the expert reach his conclusion/","title":"How did the expert reach his conclusion","noteIcon":""}
 ---
 
 
