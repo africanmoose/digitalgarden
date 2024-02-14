@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/man-progresses-in-all-things-by-making-a-fool-of-himself/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Man progresses in all things by making a fool of himself/","title":"structure note","noteIcon":""}
 ---
 
 
