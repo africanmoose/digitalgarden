@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/take-care-of-your-stuff/","title":"Take care of your stuff","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Take care of your stuff/","title":"Take care of your stuff","noteIcon":""}
 ---
 
 
