@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/scarcity-mindset-vs-abundance-mindset/","title":"Scarcity mindset vs Abundance mindset","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Scarcity mindset vs Abundance mindset/","title":"Scarcity mindset vs Abundance mindset","noteIcon":""}
 ---
 
 
