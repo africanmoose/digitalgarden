@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/clear-thinking-turning-ordinary-moments-into-extraordinary-results-shane-parrish/","title":"Clear Thinking - Shane Parrish","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Clear Thinking - Turning Ordinary Moments into Extraordinary Results - Shane  Parrish/","title":"Clear Thinking - Shane Parrish","noteIcon":""}
 ---
 
 ![Clear Thinking - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Clear%20Thinking%20-%20cover.jpg)
