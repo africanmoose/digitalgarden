@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/naptime-makes-you-smarter/","title":"Naptime makes you smarter","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Naptime makes you smarter/","title":"Naptime makes you smarter","noteIcon":""}
 ---
 
 
