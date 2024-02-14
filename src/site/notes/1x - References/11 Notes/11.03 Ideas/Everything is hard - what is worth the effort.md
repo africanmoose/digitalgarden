@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/everything-is-hard-what-is-worth-the-effort/","title":"Everything is hard - what is worth the effort","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Everything is hard - what is worth the effort/","title":"Everything is hard - what is worth the effort","noteIcon":""}
 ---
 
 
