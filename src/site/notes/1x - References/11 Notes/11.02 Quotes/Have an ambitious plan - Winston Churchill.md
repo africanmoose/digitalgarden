@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/have-an-ambitious-plan-winston-churchill/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Have an ambitious plan - Winston Churchill/","noteIcon":""}
 ---
 
 
