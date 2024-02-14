@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/there-is-a-place-where-the-sidewalk-ends-shel-silverstein/","title":"There is a place where the sidewalk ends - Shel Silverstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/There is a place where the sidewalk ends - Shel Silverstein/","title":"There is a place where the sidewalk ends - Shel Silverstein","noteIcon":""}
 ---
 
 
