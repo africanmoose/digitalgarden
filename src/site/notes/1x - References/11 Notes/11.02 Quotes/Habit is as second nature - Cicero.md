@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/habit-is-as-second-nature-cicero/","title":"Habit is as second nature - Cicero","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Habit is as second nature - Cicero/","title":"Habit is as second nature - Cicero","noteIcon":""}
 ---
 
 
