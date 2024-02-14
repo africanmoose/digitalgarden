@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/sit-round-candle-light-and-talk-about-their-inner-lives/","title":"Sit round candle light and talk about their inner lives","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Sit round candle light and talk about their inner lives/","title":"Sit round candle light and talk about their inner lives","noteIcon":""}
 ---
 
 
