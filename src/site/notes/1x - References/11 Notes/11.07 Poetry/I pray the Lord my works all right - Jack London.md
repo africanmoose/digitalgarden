@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/i-pray-the-lord-my-works-all-right-jack-london/","title":"I pray the Lord my works all right - Jack London","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/I pray the Lord my works all right - Jack London/","title":"I pray the Lord my works all right - Jack London","noteIcon":""}
 ---
 
 
