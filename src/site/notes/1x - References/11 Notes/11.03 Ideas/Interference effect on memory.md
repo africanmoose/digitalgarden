@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/interference-effect-on-memory/","title":"Interference effect on memory","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Interference effect on memory/","title":"Interference effect on memory","noteIcon":""}
 ---
 
 
