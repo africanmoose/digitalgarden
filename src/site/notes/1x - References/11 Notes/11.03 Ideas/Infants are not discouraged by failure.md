@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/infants-are-not-discouraged-by-failure/","title":"Infants are not discouraged by failure","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Infants are not discouraged by failure/","title":"Infants are not discouraged by failure","noteIcon":""}
 ---
 
 
