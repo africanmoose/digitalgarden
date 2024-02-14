@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/develop-a-network-of-people-who-will-give-you-honest-feedback/","title":"Develop a network of people who will give you honest feedback","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Develop a network of people who will give you honest feedback/","title":"Develop a network of people who will give you honest feedback","noteIcon":""}
 ---
 
 
