@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/asap-principle-vs-alap-principle-when-to-make-decisions-fast-and-when-to-make-them-slow/","title":"ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow/","title":"ASAP principle vs ALAP principle - when to make decisions fast and when to make them slow","noteIcon":""}
 ---
 
 
