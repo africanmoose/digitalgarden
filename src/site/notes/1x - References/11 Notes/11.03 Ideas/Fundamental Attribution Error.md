@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/fundamental-attribution-error/","title":"Fundamental Attribution Error","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fundamental Attribution Error/","title":"Fundamental Attribution Error","noteIcon":""}
 ---
 
 
