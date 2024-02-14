@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-is-difficult-to-make-predictions-especially-about-the-future-danish-proverb/","title":"It is difficult to make predictions, especially about the future - Danish Proverb","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/It is difficult to make predictions, especially about the future - Danish Proverb/","title":"It is difficult to make predictions, especially about the future - Danish Proverb","noteIcon":""}
 ---
 
 
