@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ironic-process-theory-we-cannot-stop-thinking-about-white-bears/","title":"Ironic Process Theory","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ironic Process Theory - We cannot stop thinking about white bears/","title":"Ironic Process Theory","noteIcon":""}
 ---
 
 
