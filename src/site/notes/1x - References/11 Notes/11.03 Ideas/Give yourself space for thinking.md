@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/give-yourself-space-for-thinking/","title":"Give yourself space for thinking","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Give yourself space for thinking/","title":"Give yourself space for thinking","noteIcon":""}
 ---
 
 
