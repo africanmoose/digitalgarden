@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/creativity-comes-from-a-conflict-of-ideas-donatella-versace/","title":"Creativity comes from a conflict of ideas - Donatella Versace","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Creativity comes from a conflict of ideas - Donatella Versace/","title":"Creativity comes from a conflict of ideas - Donatella Versace","noteIcon":""}
 ---
 
 
