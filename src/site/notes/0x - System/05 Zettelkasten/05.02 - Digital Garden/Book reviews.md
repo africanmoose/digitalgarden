@@ -43,6 +43,7 @@
 - [[4x - Reading/41 Books/41.02 Book reviews/The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman\|The Antidote - Happiness for people who cant stand positive thinking - Oliver Burkeman]]
 - [[4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto\|How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto]]
 - [[4x - Reading/41 Books/41.02 Book reviews/Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe\|Undeniable - How Biology Confirms Our Intuition That Life Is Designed - Douglas Axe]]
+- [[4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta\|The Simple Guide to a Minimalist Life - Leo Babauta]]
 
 ## Interesting but dont go out of your way
 - [[4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities\|The science of Rapid Skill Acquisition]]
