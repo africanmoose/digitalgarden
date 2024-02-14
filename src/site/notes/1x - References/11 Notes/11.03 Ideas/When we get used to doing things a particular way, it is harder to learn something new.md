@@ -11,7 +11,7 @@
 - Cognitive entrenchment - when we get so used to doing things a particular way that we are unable to learn a new way.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 Psychologist Barry Schwartz demonstrated a similar, learned inflexibility among experienced practitioners when he gave college students a logic puzzle that involved hitting switches to turn light bulbs on and off in sequence, and that they could play over and over. It could be solved in seventy different ways, with a tiny money reward for each success. The students were not given any rules, and so had to proceed by trial and error.* If a student found a solution, they repeated it over and over to get more money, even if they had no idea why it worked. Later on, new students were added, and all were now asked to discover the general rule of all solutions. Incredibly, every student who was brand-new to the puzzle discovered the rule for all seventy solutions, while only one of the students who had been getting rewarded for a single solution did. The subtitle of Schwartz’s paper: “How Not to Teach People to Discover Rules”—that is, by providing rewards for repetitive short-term success with a narrow range of solutions.
