@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/build-good-relationships-and-real-friends/","title":"Build good relationships and real friends","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Build good relationships and real friends/","title":"Build good relationships and real friends","noteIcon":""}
 ---
 
 
