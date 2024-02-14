@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/go-to-the-ant-hard-work-without-motivation/","title":"Go to the ant - hard work without motivation","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Go to the ant - hard work without motivation/","title":"Go to the ant - hard work without motivation","noteIcon":""}
 ---
 
 
@@ -12,9 +12,9 @@
 
 
 
-###### 6
-Go to the ant, you lazy one; Observe its ways and become wise.
 
+###### 4
+Do not allow your eyes to sleep, Nor your eyelids to slumber.
 
 </div></div>
 
