@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/love-anything-and-your-heart-will-be-wrung-and-possibly-broken-oliver-burkeman/","title":"Love anything and your heart will be wrung and possibly broken - Oliver Burkeman","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Love anything and your heart will be wrung and possibly broken - Oliver Burkeman/","title":"Love anything and your heart will be wrung and possibly broken - Oliver Burkeman","noteIcon":""}
 ---
 
 
