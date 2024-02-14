@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/become-an-expert-materialist-to-judge-product-quality-and-save-money/","title":"Become an expert materialist to judge product quality and save money","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Become an expert materialist to judge product quality and save money/","title":"Become an expert materialist to judge product quality and save money","noteIcon":""}
 ---
 
 
