@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/knowing-our-own-strengths-and-weaknesses/","title":"Knowing our own strengths and weaknesses","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Knowing our own strengths and weaknesses/","title":"Knowing our own strengths and weaknesses","noteIcon":""}
 ---
 
 
