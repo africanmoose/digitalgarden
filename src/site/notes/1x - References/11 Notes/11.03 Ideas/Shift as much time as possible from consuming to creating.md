@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/shift-as-much-time-as-possible-from-consuming-to-creating/","title":"Shift as much time as possible from consuming to creating","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Shift as much time as possible from consuming to creating/","title":"Shift as much time as possible from consuming to creating","noteIcon":""}
 ---
 
 
