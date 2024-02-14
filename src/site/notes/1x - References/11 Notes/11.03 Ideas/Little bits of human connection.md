@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/little-bits-of-human-connection/","title":"Little bits of human connection","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Little bits of human connection/","title":"Little bits of human connection","noteIcon":""}
 ---
 
 
