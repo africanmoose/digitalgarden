@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/spotlight-consciousness-vs-lantern-consciousness/","title":"Spotlight consciousness vs lantern consciousness","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spotlight consciousness vs lantern consciousness/","title":"Spotlight consciousness vs lantern consciousness","noteIcon":""}
 ---
 
 
