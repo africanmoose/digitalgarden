@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/art-is-about-collaboration-not-competition-or-comparison/","title":"Art is about collaboration not competition or comparison","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Art is about collaboration not competition or comparison/","title":"Art is about collaboration not competition or comparison","noteIcon":""}
 ---
 
 
