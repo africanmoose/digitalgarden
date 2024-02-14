@@ -10,7 +10,7 @@
 - Big mistakes can be the best learning opportunities
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 One of those desirable difficulties is known as the “generation effect.” Struggling to generate an answer on your own, even a wrong one, enhances subsequent learning. Socrates was apparently on to something when he forced pupils to generate answers rather than bestowing them. It requires the learner to intentionally sacrifice current performance for future benefit.
