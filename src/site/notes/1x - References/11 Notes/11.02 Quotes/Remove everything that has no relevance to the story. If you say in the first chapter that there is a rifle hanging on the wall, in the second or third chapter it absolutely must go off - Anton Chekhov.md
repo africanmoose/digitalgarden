@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/remove-everything-that-has-no-relevance-to-the-story-if-you-say-in-the-first-chapter-that-there-is-a-rifle-hanging-on-the-wall-in-the-second-or-third-chapter-it-absolutely-must-go-off-anton-chekhov/","title":"Remove everything that has no relevance to the story. If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off - Anton Chekhov","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Remove everything that has no relevance to the story. If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off - Anton Chekhov/","title":"Remove everything that has no relevance to the story. If you say in the first chapter that there is a rifle hanging on the wall, in the second or third chapter it absolutely must go off - Anton Chekhov","noteIcon":""}
 ---
 
 
