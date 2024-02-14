@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/find-and-work-toward-what-you-are-passionate-about/","title":"Find and work toward what you are passionate about","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Find and work toward what you are passionate about/","title":"Find and work toward what you are passionate about","noteIcon":""}
 ---
 
 
