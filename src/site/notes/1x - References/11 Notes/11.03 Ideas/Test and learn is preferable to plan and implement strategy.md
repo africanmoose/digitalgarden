@@ -10,7 +10,7 @@
 - We have a lot of potential and likes and dislikes within us, but we can only learn about them by trying them out.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 When she compiled her findings, the central premise was at once simple and profound: we learn who we are only by living, and not before.
