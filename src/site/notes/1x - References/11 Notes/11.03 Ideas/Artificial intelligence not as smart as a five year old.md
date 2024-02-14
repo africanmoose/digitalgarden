@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/artificial-intelligence-not-as-smart-as-a-five-year-old/","title":"Artificial intelligence not as smart as a five year old","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Artificial intelligence not as smart as a five year old/","title":"Artificial intelligence not as smart as a five year old","noteIcon":""}
 ---
 
 
