@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-to-do-when-someone-asks-a-good-question/","title":"What to do when someone asks a good question","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What to do when someone asks a good question/","title":"What to do when someone asks a good question","noteIcon":""}
 ---
 
 
