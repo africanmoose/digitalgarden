@@ -10,7 +10,7 @@
 - Being willing to give up something gives us space to learn something new
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 For professionals who did switch, whether they specialized early or late, switching was a good idea. “You lose a good fraction of your skills, so there’s a hit,” Malamud said, “but you do actually have higher growth rates after switching.” Regardless of when specialization occurred, switchers capitalized on experience to identify better matches.
