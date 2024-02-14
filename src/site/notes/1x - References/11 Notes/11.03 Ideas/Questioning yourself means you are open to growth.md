@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/questioning-yourself-means-you-are-open-to-growth/","title":"Questioning yourself","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Questioning yourself means you are open to growth/","title":"Questioning yourself","noteIcon":""}
 ---
 
 
