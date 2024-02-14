@@ -17,7 +17,7 @@
 Duke Ellington was one of the few who ever actually took formal lessons, when he was seven, from the exuberantly named teacher Marietta Clinkscales. He lost interest immediately, before he learned to read notes, and quit music entirely to focus on baseball. In school, his interests were drawing and painting. (He later turned down a college art scholarship.) When he was fourteen, Ellington heard ragtime, and for the first time in seven years sat down at a piano and tried to copy what he had heard. “There was no connection between me and music, until I started fiddling with it myself,” he remembered. “As far as anyone teaching me, there was too many rules and regulations. . . . As long as I could sit down and figure it out for myself, then that was all right.” Even once he became arguably America’s preeminent composer, he relied on copyists to decode his personal musical shorthand into traditional musical notation.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [wikipedia](https://en.wikipedia.org/wiki/Duke_Ellington)
 
 ### Related
