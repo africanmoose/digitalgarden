@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/ive-discovered-that-even-when-you-re-in-charge-you-are-often-much-more-effective-asking-questions-than-giving-orders-brian-glazer/","title":"Ive discovered that even when you’re in charge, you are often much more effective asking questions than giving orders - Brian Glazer","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ive discovered that even when you’re in charge, you are often much more effective asking questions than giving orders - Brian Glazer/","title":"Ive discovered that even when you’re in charge, you are often much more effective asking questions than giving orders - Brian Glazer","noteIcon":""}
 ---
 
 
