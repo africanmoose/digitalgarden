@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/making-sense-of-something-better-than-making-a-decision/","title":"Making sense of something better than making a decision","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Making sense of something better than making a decision/","title":"Making sense of something better than making a decision","noteIcon":""}
 ---
 
 
