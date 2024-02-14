@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/even-children-of-atheists-invoke-a-god-like-designer-to-explain-the-complexity-in-the-world-around-them/","title":"Even children of atheists invoke a God-like designer to explain the complexity in the world around them","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Even children of atheists invoke a God-like designer to explain the complexity in the world around them/","title":"Even children of atheists invoke a God-like designer to explain the complexity in the world around them","noteIcon":""}
 ---
 
 
