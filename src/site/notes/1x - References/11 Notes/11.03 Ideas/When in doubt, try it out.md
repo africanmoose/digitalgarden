@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-in-doubt-try-it-out/","title":"When in doubt, try it out","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When in doubt, try it out/","title":"When in doubt, try it out","noteIcon":""}
 ---
 
 
