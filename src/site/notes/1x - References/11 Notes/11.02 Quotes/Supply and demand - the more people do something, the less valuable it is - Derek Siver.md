@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/supply-and-demand-the-more-people-do-something-the-less-valuable-it-is-derek-siver/","title":"Supply and demand - the more people do something, the less valuable it is - Derek Siver","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Supply and demand - the more people do something, the less valuable it is - Derek Siver/","title":"Supply and demand - the more people do something, the less valuable it is - Derek Siver","noteIcon":""}
 ---
 
 
