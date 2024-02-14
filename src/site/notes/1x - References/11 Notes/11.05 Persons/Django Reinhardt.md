@@ -15,7 +15,7 @@
 - He composed a symphony by playing the notes on his guitar that each instrument should play as another musician transcribed it
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - Watch him play [here](https://www.youtube.com/watch?v=aZ308aOOX04)
 - Watch a tribute band in his style on npr [here](https://www.youtube.com/watch?v=lZX6QTtyoJs) at the Django Reinhardt festival
 
