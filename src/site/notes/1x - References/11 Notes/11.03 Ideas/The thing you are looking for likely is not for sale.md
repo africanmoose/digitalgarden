@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-thing-you-are-looking-for-likely-is-not-for-sale/","title":"The thing you are looking for likely is not for sale","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The thing you are looking for likely is not for sale/","title":"The thing you are looking for likely is not for sale","noteIcon":""}
 ---
 
 
