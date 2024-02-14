@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/minimalist-gives-us-the-space-to-change/","title":"Minimalist gives us the space to change","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Minimalist gives us the space to change/","title":"Minimalist gives us the space to change","noteIcon":""}
 ---
 
 
