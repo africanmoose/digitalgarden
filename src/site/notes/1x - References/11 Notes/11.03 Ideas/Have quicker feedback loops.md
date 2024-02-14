@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/have-quicker-feedback-loops/","title":"Have quicker feedback loops","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Have quicker feedback loops/","title":"Have quicker feedback loops","noteIcon":""}
 ---
 
 
