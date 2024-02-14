@@ -15,7 +15,7 @@
 - Her sister Judit, at age 15 became the youngest grandmaster ever, male or female.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 - [wikipedia](https://en.wikipedia.org/wiki/Susan_Polgar)
 
 ### Quotes
