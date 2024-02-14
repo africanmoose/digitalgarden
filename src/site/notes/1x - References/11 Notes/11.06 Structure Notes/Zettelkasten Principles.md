@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-06-structure-notes/zettelkasten-principles/","title":"Zettelkasten Principles","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.06 Structure Notes/Zettelkasten Principles/","title":"Zettelkasten Principles","noteIcon":""}
 ---
 
 
