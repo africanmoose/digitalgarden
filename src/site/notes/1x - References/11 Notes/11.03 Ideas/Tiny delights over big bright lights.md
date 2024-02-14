@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/tiny-delights-over-big-bright-lights/","title":"Tiny delights over big bright lights","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Tiny delights over big bright lights/","title":"Tiny delights over big bright lights","noteIcon":""}
 ---
 
 
