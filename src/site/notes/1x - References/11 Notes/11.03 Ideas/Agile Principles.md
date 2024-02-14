@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/agile-principles/","title":"Agile Principles","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Agile Principles/","title":"Agile Principles","noteIcon":""}
 ---
 
 ### Summary
