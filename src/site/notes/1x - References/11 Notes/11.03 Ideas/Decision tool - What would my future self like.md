@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/decision-tool-what-would-my-future-self-like/","title":"Decision tool - What would my future self like","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Decision tool - What would my future self like/","title":"Decision tool - What would my future self like","noteIcon":""}
 ---
 
 
