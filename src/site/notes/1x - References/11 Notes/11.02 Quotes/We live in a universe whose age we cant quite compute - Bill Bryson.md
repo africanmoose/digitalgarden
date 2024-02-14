@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-live-in-a-universe-whose-age-we-cant-quite-compute-bill-bryson/","title":"- Bill Bryson","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/We live in a universe whose age we cant quite compute - Bill Bryson/","title":"- Bill Bryson","noteIcon":""}
 ---
 
 
