@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/learning-is-never-done/","title":"Learning is never done","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning is never done/","title":"Learning is never done","noteIcon":""}
 ---
 
 
