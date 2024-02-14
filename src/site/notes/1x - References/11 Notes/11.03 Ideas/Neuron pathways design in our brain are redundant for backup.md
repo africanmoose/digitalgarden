@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/neuron-pathways-design-in-our-brain-are-redundant-for-backup/","title":"Neuron pathways design in our brain are redundant for backup","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Neuron pathways design in our brain are redundant for backup/","title":"Neuron pathways design in our brain are redundant for backup","noteIcon":""}
 ---
 
 ### Summary
