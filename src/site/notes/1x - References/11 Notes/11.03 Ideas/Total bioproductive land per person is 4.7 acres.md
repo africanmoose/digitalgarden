@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/total-bioproductive-land-per-person-is-4-7-acres/","title":"Total bioproductive land per person is 4.7 acres","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Total bioproductive land per person is 4.7 acres/","title":"Total bioproductive land per person is 4.7 acres","noteIcon":""}
 ---
 
 
