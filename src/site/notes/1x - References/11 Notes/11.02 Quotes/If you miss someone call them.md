@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/if-you-miss-someone-call-them/","title":"permanent note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/If you miss someone call them/","title":"permanent note","noteIcon":""}
 ---
 
 
