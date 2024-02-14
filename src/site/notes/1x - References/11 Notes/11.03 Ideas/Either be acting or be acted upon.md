@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/either-be-acting-or-be-acted-upon/","title":"Either be acting or be acted upon","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Either be acting or be acted upon/","title":"Either be acting or be acted upon","noteIcon":""}
 ---
 
 
