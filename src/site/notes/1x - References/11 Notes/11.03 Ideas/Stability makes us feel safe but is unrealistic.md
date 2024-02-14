@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/stability-makes-us-feel-safe-but-is-unrealistic/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Stability makes us feel safe but is unrealistic/","noteIcon":""}
 ---
 
 
