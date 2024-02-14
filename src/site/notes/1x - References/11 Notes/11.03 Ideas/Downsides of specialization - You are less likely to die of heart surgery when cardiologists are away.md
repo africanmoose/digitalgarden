@@ -10,7 +10,7 @@
 - A possible reason is that when a cardiologist has become so specialized, all problems look like the same and they may provide unnecessary heart surgery.
 
 ### References
-[[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+[[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 Highly specialized health care professionals have developed their own versions of the “if all you have is a hammer, everything looks like a nail” problem. Interventional cardiologists have gotten so used to treating chest pain with stents—metal tubes that pry open blood vessels—that they do so reflexively even in cases where voluminous research has proven that they are inappropriate or dangerous. A recent study found that cardiac patients were actually less likely to die if they were admitted during a national cardiology meeting, when thousands of cardiologists were away; the researchers suggested it could be because common treatments of dubious effect were less likely to be performed.
