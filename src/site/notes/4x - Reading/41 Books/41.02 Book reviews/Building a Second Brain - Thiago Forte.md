@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/building-a-second-brain-thiago-forte/","title":"Building a second brain - Thiago Forte","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Building a Second Brain - Thiago Forte/","title":"Building a second brain - Thiago Forte","noteIcon":""}
 ---
 
 
