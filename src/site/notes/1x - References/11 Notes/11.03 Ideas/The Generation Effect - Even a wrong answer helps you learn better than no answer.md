@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-generation-effect-even-a-wrong-answer-helps-you-learn-better-than-no-answer/","title":"Even a wrong answer helps you learn better than no answer","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The Generation Effect - Even a wrong answer helps you learn better than no answer/","title":"Even a wrong answer helps you learn better than no answer","noteIcon":""}
 ---
 
 
