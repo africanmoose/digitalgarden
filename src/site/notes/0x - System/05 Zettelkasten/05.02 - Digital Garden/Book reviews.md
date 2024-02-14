@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/book-reviews/","title":"Book reviews","noteIcon":""}
+{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/Book reviews/","title":"Book reviews","noteIcon":""}
 ---
 
  
