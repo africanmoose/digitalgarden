@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/life-is-harder-when-you-expect-a-lot-of-the-world-and-little-of-yourself-james-clear/","title":"Life is harder when you expect a lot of the world and little of yourself - James Clear","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Life is harder when you expect a lot of the world and little of yourself - James Clear/","title":"Life is harder when you expect a lot of the world and little of yourself - James Clear","noteIcon":""}
 ---
 
 
