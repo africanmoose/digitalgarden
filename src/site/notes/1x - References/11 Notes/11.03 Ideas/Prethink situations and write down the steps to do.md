@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/prethink-situations-and-write-down-the-steps-to-do/","title":"Prethink situations and write down the steps to do","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Prethink situations and write down the steps to do/","title":"Prethink situations and write down the steps to do","noteIcon":""}
 ---
 
 
