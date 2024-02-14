@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/mirroring-makes-people-feel-heard/","title":"Mirroring makes people feel heard","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Mirroring makes people feel heard/","title":"Mirroring makes people feel heard","noteIcon":""}
 ---
 
 
