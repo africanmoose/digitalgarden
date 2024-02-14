@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-only-way-to-improve-is-to-get-negative-feedback-adam-grant/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The only way to improve is to get negative feedback - Adam Grant/","title":"structure note","noteIcon":""}
 ---
 
 
