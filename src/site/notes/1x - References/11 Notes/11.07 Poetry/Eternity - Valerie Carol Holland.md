@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/eternity-valerie-carol-holland/","title":"Eternity - Valerie Carol Holland","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/Eternity - Valerie Carol Holland/","title":"Eternity - Valerie Carol Holland","noteIcon":""}
 ---
 
 
