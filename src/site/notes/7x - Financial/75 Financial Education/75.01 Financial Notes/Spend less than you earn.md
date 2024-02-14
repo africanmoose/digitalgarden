@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/spend-less-than-you-earn/","title":"Spend less than you earn","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Spend less than you earn/","title":"Spend less than you earn","noteIcon":""}
 ---
 
 
