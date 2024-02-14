@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/creativity-is-yoga-for-the-brain/","title":"Creativity is yoga for the brain","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Creativity is yoga for the brain/","title":"Creativity is yoga for the brain","noteIcon":""}
 ---
 
 
