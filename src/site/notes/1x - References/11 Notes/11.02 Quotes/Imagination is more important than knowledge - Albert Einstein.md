@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/imagination-is-more-important-than-knowledge-albert-einstein/","title":"Imagination is more important than knowledge - Albert Einstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Imagination is more important than knowledge - Albert Einstein/","title":"Imagination is more important than knowledge - Albert Einstein","noteIcon":""}
 ---
 
 
