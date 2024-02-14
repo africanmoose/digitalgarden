@@ -16,7 +16,7 @@
 
 ### References
 - The Science of Rapid Skill Acquisition: Advanced Methods to Learn, Remember, and Master New Skills, Information, and Abilities - [Peter Hollins](https://www.goodreads.com/author/show/16593818.Peter_Hollins)
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 - "When you focus on frequency of learning versus duration or even intensity, you will learn better. Focusing on duration usually becomes motion for motion's sake, adn can oftentimes become detrimental overall to your goals."
