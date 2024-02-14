@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/thinking-is-hard-work/","title":"Thinking is hard work","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Thinking is hard work/","title":"Thinking is hard work","noteIcon":""}
 ---
 
 
