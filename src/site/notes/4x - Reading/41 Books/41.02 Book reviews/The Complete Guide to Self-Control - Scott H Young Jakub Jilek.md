@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-complete-guide-to-self-control-scott-h-young-jakub-jilek/","title":"The Complete Guide to Self-Control - Scott H Young Jakub Jilek","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek/","title":"The Complete Guide to Self-Control - Scott H Young Jakub Jilek","noteIcon":""}
 ---
 
 
