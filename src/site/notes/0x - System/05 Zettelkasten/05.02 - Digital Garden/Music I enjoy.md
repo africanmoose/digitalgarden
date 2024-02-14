@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/music-i-enjoy/","title":"Music I enjoy","noteIcon":""}
+{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/Music I enjoy/","title":"Music I enjoy","noteIcon":""}
 ---
 
 
