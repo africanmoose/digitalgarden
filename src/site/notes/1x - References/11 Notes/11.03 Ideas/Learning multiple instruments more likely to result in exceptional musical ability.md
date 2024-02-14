@@ -10,7 +10,7 @@
 - Many exceptional students were from less musical families, had taken fewer lessons, and had practiced less.
 
 ### References
-- [[0x - System/01 Index/01.04 Notes in process/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
+- [[4x - Reading/41 Books/41.02 Book reviews/Range - Why Generalists Triumph in a Specialized World - David Epstein\|Range - Why Generalists Triumph in a Specialized World - David Epstein]]
 
 ### Quotes
 When Sloboda and a colleague conducted a study with students at a British boarding school that recruited from around the country—admission rested entirely on an audition—they were surprised to find that the students classified as exceptional by the school came from less musically active families compared to less accomplished students, did not start playing at a younger age, were less likely to have had an instrument in the home at a very young age, had taken fewer lessons prior to entering the school, and had simply practiced less overall before arriving—a lot less. “It seems very clear,” the psychologists wrote, “that sheer amount of lesson or practice time is not a good indicator of exceptionality.” As to structured lessons, every single one of the students who had received a large amount of structured lesson time early in development fell into the “average” skill category, and not one was in the exceptional group. “The strong implication,” the researchers wrote, is “that that too many lessons at a young age may not be helpful.”
