@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/spend-your-privilege/","title":"Spend your privilege","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spend your privilege/","title":"Spend your privilege","noteIcon":""}
 ---
 
 
