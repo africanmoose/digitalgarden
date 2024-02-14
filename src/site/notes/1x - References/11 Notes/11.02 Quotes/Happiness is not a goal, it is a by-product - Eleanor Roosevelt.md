@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/happiness-is-not-a-goal-it-is-a-by-product-eleanor-roosevelt/","title":"Happiness is not a goal, it is a by-product - Eleanor Roosevelt","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Happiness is not a goal, it is a by-product - Eleanor Roosevelt/","title":"Happiness is not a goal, it is a by-product - Eleanor Roosevelt","noteIcon":""}
 ---
 
 
