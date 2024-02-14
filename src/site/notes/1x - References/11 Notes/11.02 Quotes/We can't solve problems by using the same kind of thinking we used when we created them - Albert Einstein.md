@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-can-t-solve-problems-by-using-the-same-kind-of-thinking-we-used-when-we-created-them-albert-einstein/","title":"We can't solve problems by using the same kind of thinking we used when we created them - Albert Einstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/We can't solve problems by using the same kind of thinking we used when we created them - Albert Einstein/","title":"We can't solve problems by using the same kind of thinking we used when we created them - Albert Einstein","noteIcon":""}
 ---
 
 
