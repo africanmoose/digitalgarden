@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-an-expert-to-share-their-knowlege/","title":"Ask an expert to share their knowlege","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask an expert to share their knowlege/","title":"Ask an expert to share their knowlege","noteIcon":""}
 ---
 
 
