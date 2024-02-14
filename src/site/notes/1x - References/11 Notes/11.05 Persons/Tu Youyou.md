@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/tu-youyou/","title":"Tu Youyou","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Tu Youyou/","title":"Tu Youyou","noteIcon":""}
 ---
 
 
