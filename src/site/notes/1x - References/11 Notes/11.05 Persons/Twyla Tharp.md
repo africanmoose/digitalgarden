@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/twyla-tharp/","title":"Twyla Tharp","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Twyla Tharp/","title":"Twyla Tharp","noteIcon":""}
 ---
 
 
