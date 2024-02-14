@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/dna-is-like-a-computer-program-but-far-more-advanced-than-any-software-ever-created-bill-gates/","title":"DNA is like a computer program but far more advanced than any software ever created - Bill Gates","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/DNA is like a computer program but far more advanced than any software ever created - Bill Gates/","title":"DNA is like a computer program but far more advanced than any software ever created - Bill Gates","noteIcon":""}
 ---
 
 
