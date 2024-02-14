@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/bacteria-are-on-us-in-us-and-around-us-in-number-we-cannot-imagine/","title":"Bacteria are on us, in us and around us in number we cannot imagine","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Bacteria are on us, in us and around us in number we cannot imagine/","title":"Bacteria are on us, in us and around us in number we cannot imagine","noteIcon":""}
 ---
 
 
