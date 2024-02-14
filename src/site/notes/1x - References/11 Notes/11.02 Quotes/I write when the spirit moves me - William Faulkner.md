@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-write-when-the-spirit-moves-me-william-faulkner/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/I write when the spirit moves me - William Faulkner/","title":"structure note","noteIcon":""}
 ---
 
 
