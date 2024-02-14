@@ -14,3 +14,6 @@ Carl Sagan
 - Quoted by Andy Matsuchek [https://andymatuschak.org/books/]
 
 ## Related
+- [[1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject\|The 10 book rule for learning a subject]]
+- [[1x - References/11 Notes/11.02 Quotes/A new era from reading a book - Henry David Thoreau\|A new era from reading a book - Henry David Thoreau]]
+- [[1x - References/11 Notes/11.02 Quotes/Two ways change a man - his books and his friends\|Two ways change a man - his books and his friends]]
