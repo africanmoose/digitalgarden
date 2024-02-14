@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/think-in-decades-and-act-in-days-matt-griswold/","title":"Think in decades and act in days - Matt Griswold","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Think in decades and act in days - Matt Griswold/","title":"Think in decades and act in days - Matt Griswold","noteIcon":""}
 ---
 
 
