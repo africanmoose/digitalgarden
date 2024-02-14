@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/stop-worrying-about-what-other-people-think-of-your-finances/","title":"Stop worrying about what other people think of your finances","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Stop worrying about what other people think of your finances/","title":"Stop worrying about what other people think of your finances","noteIcon":""}
 ---
 
 
