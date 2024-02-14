@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/making-the-simple-complicated-is-commonplace-charles-mingus/","title":"Making the simple complicated is commonplace - Charles Mingus","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Making the simple complicated is commonplace - Charles Mingus/","title":"Making the simple complicated is commonplace - Charles Mingus","noteIcon":""}
 ---
 
 
