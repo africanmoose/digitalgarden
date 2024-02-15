@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Average knowlege worker spends considerable time looking for stuff/","title":"Average knowlege worker spends considerable time looking for stuff","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Average knowlege worker spends considerable time looking for stuff/","title":"Average knowlege worker spends considerable time looking for stuff","noteIcon":"","created":"2023-09-15T16:43:03.328+03:00","updated":"2024-02-14T20:18:35.884+03:00"}
 ---
 
 
