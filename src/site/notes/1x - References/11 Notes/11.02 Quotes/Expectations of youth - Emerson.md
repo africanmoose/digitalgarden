@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Expectations of youth - Emerson/","title":"Expectations of youth - Emerson","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Expectations of youth - Emerson/","title":"Expectations of youth - Emerson","noteIcon":"","created":"2023-08-06T13:08:51.726+03:00","updated":"2024-02-14T20:18:44.718+03:00"}
 ---
 
 
