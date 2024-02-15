@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton/","title":"Wabi Sabi -Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton/","title":"Wabi Sabi - Japanese Wisdom for a Perfectly Imperfect Life - Beth Kempton","noteIcon":""}
 ---
 
 
