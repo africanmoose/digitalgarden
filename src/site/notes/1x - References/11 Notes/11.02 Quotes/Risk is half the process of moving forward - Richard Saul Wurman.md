@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Risk is half the process of moving forward - Richard Saul Wurman/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Risk is half the process of moving forward - Richard Saul Wurman/","title":"Risk is half the process of moving forward - Richard Saul Wurman","noteIcon":""}
 ---
 
 
