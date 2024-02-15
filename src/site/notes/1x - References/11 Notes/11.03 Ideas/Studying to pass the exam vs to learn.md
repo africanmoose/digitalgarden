@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Studying to pass the exam vs to learn/","title":"Studying to pass the exam vs to learn","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Studying to pass the exam vs to learn/","title":"Studying to pass the exam vs to learn","noteIcon":"","created":"2023-07-02T18:31:11.000+03:00","updated":"2024-02-14T20:18:23.325+03:00"}
 ---
 
 
