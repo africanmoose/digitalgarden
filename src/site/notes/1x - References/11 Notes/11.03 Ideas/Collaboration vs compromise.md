@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise/","title":"Collaboration vs cooperation","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise/","title":"Collaboration vs compromise","noteIcon":""}
 ---
 
 
