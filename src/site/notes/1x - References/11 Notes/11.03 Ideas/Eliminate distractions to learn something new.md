@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Eliminate distractions to learn something new/","title":"Eliminate distractions to learn something new","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Eliminate distractions to learn something new/","title":"Eliminate distractions to learn something new","noteIcon":"","created":"2023-03-13T15:09:32.000+03:00","updated":"2024-02-14T20:18:32.972+03:00"}
 ---
 
 
