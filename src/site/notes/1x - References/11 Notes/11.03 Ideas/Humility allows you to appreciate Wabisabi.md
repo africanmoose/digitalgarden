@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Humility allows you to appreciate Wabisabi/","title":"Humility allows you to appreciate Wabisabi","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Humility allows you to appreciate Wabisabi/","title":"Humility allows you to appreciate Wabisabi","noteIcon":"","created":"2022-11-27T23:16:09.000+03:00","updated":"2024-02-14T20:18:30.148+03:00"}
 ---
 
 
