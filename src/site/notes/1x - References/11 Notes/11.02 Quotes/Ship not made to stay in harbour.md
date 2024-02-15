@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ship not made to stay in harbour/","title":"Ship not made to stay in harbour","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ship not made to stay in harbour/","title":"Ship not made to stay in harbour","noteIcon":"","created":"2022-11-11T07:56:22.000+03:00","updated":"2024-02-14T20:18:39.519+03:00"}
 ---
 
 
