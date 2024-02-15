@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books/","title":"2023 Top books","noteIcon":""}
+{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/06 2023 Top books/","title":"2023 Top books","noteIcon":"","created":"2023-12-29T14:06:35.000+03:00","updated":"2024-02-14T20:19:10.630+03:00"}
 ---
 
  
