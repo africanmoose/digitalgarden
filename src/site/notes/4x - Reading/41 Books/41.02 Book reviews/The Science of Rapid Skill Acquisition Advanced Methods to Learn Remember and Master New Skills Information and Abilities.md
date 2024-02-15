@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities/","title":"The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities/","title":"The Science of Rapid Skill Acquisition Advanced Methods to Learn Remember and Master New Skills Information and Abilities","noteIcon":"","created":"2022-11-09T20:23:36.000+03:00","updated":"2024-02-14T20:17:40.379+03:00"}
 ---
 
 ### Summary
