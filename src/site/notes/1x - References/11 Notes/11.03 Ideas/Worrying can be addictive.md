@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Worrying can be addictive/","title":"Worrying can be addictive","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Worrying can be addictive/","title":"Worrying can be addictive","noteIcon":"","created":"2023-10-20T17:14:38.000+03:00","updated":"2024-02-14T20:18:20.012+03:00"}
 ---
 
 
