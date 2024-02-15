@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Begin badly anywhere/","title":"Begin badly anywhere","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Begin badly anywhere/","title":"Begin badly anywhere","noteIcon":"","created":"2023-06-05T22:09:27.000+03:00","updated":"2024-02-14T20:18:35.613+03:00"}
 ---
 
 
