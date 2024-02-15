@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Start where you use what you have do what you can - Brianna Wiest/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Start where you use what you have do what you can - Brianna Wiest/","title":"Start where you use what you have do what you can - Brianna Wiest","noteIcon":""}
 ---
 
 
