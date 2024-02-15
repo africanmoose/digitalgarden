@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use pre-reading questions to enhance memory/","title":"Use pre-reading questions to enhance memory","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use pre-reading questions to enhance memory/","title":"Use pre-reading questions to enhance memory","noteIcon":"","created":"2023-04-23T19:52:52.000+03:00","updated":"2024-02-14T20:18:21.647+03:00"}
 ---
 
 
