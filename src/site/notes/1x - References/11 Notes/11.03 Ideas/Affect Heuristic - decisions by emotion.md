@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Affect Heuristic - decisions by emotion/","title":"Affect Heuristic - decisions by emotion","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Affect Heuristic - decisions by emotion/","title":"Affect Heuristic - decisions by emotion","noteIcon":"","created":"2022-12-28T21:58:02.000+03:00","updated":"2024-02-14T20:18:36.185+03:00"}
 ---
 
 
