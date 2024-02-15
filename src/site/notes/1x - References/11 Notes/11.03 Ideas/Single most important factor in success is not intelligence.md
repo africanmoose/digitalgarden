@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Single most important factor in success is not intelligence/","title":"Single most important factor in success is not intelligence","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Single most important factor in success is not intelligence/","title":"Single most important factor in success is not intelligence","noteIcon":"","created":"2023-07-02T18:24:45.000+03:00","updated":"2024-02-14T20:18:24.178+03:00"}
 ---
 
 
