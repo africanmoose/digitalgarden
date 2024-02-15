@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What is wabisabi/","title":"permanent note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What is wabisabi/","title":"What is wabisabi","noteIcon":""}
 ---
 
 
