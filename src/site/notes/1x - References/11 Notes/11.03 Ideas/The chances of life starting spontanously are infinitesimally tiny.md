@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The chances of life starting spontanously are infinitesimally tiny/","title":"The chances of life starting spontanously are infinitesimally tiny","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The chances of life starting spontanously are infinitesimally tiny/","title":"The chances of life starting spontanously are infinitesimally tiny","noteIcon":"","created":"2023-08-29T18:30:14.346+03:00","updated":"2024-02-14T20:18:22.403+03:00"}
 ---
 
 
