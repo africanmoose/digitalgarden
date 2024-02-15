@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/african-moose-digital-garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/AfricanMoose Digital Garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ## Pic of the week
