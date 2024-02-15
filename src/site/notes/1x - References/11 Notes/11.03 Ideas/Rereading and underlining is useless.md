@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Rereading and underlining is useless/","title":"Rereading and underlining is useless","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Rereading and underlining is useless/","title":"Rereading and underlining is useless","noteIcon":"","created":"2023-07-19T19:05:35.082+03:00","updated":"2024-02-14T20:18:24.826+03:00"}
 ---
 
 
