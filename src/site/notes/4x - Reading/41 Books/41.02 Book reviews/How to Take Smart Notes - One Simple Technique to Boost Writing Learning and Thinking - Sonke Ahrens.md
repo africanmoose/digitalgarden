@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens/","title":"How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens/","title":"How to Take Smart Notes - One Simple Technique to Boost Writing Learning and Thinking - Sonke Ahrens","noteIcon":"","created":"2023-11-10T21:45:51.000+03:00","updated":"2024-02-14T20:17:40.787+03:00"}
 ---
 
 
