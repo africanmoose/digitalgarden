@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive bias - Heavens reward fallacy/","title":"Cognitive bias - Heavens reward fallacy","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive bias - Heavens reward fallacy/","title":"Cognitive bias - Heavens reward fallacy","noteIcon":"","created":"2022-11-14T21:33:34.000+03:00","updated":"2024-02-14T20:18:34.340+03:00"}
 ---
 
 
