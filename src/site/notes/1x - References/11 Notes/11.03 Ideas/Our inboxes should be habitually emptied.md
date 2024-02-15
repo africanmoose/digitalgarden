@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our inboxes should be habitually emptied/","title":"Our inboxes should be habitually emptied","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our inboxes should be habitually emptied/","title":"Our inboxes should be habitually emptied","noteIcon":"","created":"2023-10-23T19:18:39.000+03:00","updated":"2024-02-14T20:18:26.197+03:00"}
 ---
 
 
