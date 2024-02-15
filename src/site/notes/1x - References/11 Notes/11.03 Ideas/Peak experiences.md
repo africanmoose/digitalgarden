@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Peak experiences/","title":"Peak experiences","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Peak experiences/","title":"Peak experiences","noteIcon":"","created":"2023-01-07T07:54:18.000+03:00","updated":"2024-02-14T20:18:25.826+03:00"}
 ---
 
 
