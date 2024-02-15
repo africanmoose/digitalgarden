@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Susan Polgar/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Susan Polgar/","title":"Susan Polgar","noteIcon":""}
 ---
 
 
