@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our attitude makes all the difference/","title":"Our attitude makes all the difference","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our attitude makes all the difference/","title":"Our attitude makes all the difference","noteIcon":"","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:26.209+03:00"}
 ---
 
 
