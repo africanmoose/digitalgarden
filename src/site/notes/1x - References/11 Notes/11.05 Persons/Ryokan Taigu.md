@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Ryokan Taigu/","title":"permanent note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Ryokan Taigu/","title":"Ryokan Taigu","noteIcon":""}
 ---
 
 
