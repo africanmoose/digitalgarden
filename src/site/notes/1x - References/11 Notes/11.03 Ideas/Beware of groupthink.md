@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Beware of groupthink/","title":"Beware of groupthink","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Beware of groupthink/","title":"Beware of groupthink","noteIcon":"","created":"2022-12-15T08:02:40.000+03:00","updated":"2024-02-14T20:18:35.208+03:00"}
 ---
 
 
