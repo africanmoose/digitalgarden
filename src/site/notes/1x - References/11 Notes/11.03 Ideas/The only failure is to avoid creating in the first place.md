@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The only failure is to avoid creating in the first place/","title":"The only failure is to avoid creating in the first place","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The only failure is to avoid creating in the first place/","title":"The only failure is to avoid creating in the first place","noteIcon":"","created":"2022-11-08T22:36:28.000+03:00","updated":"2024-02-14T20:18:22.071+03:00"}
 ---
 
 
