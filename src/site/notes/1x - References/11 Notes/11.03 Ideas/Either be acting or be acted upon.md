@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Either be acting or be acted upon/","title":"Either be acting or be acted upon","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Either be acting or be acted upon/","title":"Either be acting or be acted upon","noteIcon":"","created":"2023-07-23T18:37:06.305+03:00","updated":"2024-02-14T20:18:33.015+03:00"}
 ---
 
 
