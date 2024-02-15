@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How I act during a crisis says a lot about what I truly believe/","title":"How I act during a crisis says a lot about what I truly believe","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How I act during a crisis says a lot about what I truly believe/","title":"How I act during a crisis says a lot about what I truly believe","noteIcon":"","created":"2023-07-30T12:28:35.939+03:00","updated":"2024-02-14T20:18:30.663+03:00"}
 ---
 
 
