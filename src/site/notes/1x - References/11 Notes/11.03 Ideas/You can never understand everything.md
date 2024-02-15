@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/You can never understand everything/","title":"You can never understand everything","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/You can never understand everything/","title":"You can never understand everything","noteIcon":"","created":"2022-10-31T22:37:44.000+03:00","updated":"2024-02-14T20:18:19.876+03:00"}
 ---
 
 ---
