@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Go to the ant - hard work without motivation/","title":"Go to the ant - hard work without motivation","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Go to the ant - hard work without motivation/","title":"Go to the ant - hard work without motivation","noteIcon":"","created":"2023-01-15T10:20:36.000+03:00","updated":"2024-02-14T20:18:31.601+03:00"}
 ---
 
 
