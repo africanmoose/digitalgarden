@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The problem is not the problem. The problem is how you think about the problem - Brianna Wiest/","title":"The problem is not the problem. The problem is how you think about the problem - Brianna Wiest","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The problem is not the problem. The problem is how you think about the problem - Brianna Wiest/","title":"The problem is not the problem. The problem is how you think about the problem - Brianna Wiest","noteIcon":"","created":"2022-11-14T21:33:35.000+03:00","updated":"2024-02-14T20:18:37.523+03:00"}
 ---
 
 
