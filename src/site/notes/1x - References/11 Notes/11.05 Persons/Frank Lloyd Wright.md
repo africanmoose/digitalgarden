@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Frank Lloyd Wright/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Frank Lloyd Wright/","title":"Frank Lloyd Wright","noteIcon":""}
 ---
 
 
