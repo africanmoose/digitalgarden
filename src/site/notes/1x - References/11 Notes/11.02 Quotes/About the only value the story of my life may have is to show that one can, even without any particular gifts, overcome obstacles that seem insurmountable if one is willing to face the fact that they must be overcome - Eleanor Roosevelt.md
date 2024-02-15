@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/About the only value the story of my life may have is to show that one can, even without any particular gifts, overcome obstacles that seem insurmountable if one is willing to face the fact that they must be overcome - Eleanor Roosevelt/","title":"About the only value the story of my life may have is to show that one can, even without any particular gifts, overcome obstacles that seem insurmountable if one is willing to face the fact that they must be overcome - Eleanor Roosevelt","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/About the only value the story of my life may have is to show that one can, even without any particular gifts, overcome obstacles that seem insurmountable if one is willing to face the fact that they must be overcome - Eleanor Roosevelt/","title":"About the only value the story of my life may have is to show that one can, even without any particular gifts, overcome obstacles that seem insurmountable if one is willing to face the fact that they must be overcome - Eleanor Roosevelt","noteIcon":"","created":"2023-10-21T09:54:29.000+03:00","updated":"2024-02-14T20:18:47.545+03:00"}
 ---
 
 
