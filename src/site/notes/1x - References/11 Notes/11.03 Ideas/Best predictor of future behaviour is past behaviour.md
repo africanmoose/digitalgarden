@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Best predictor of future behaviour is past behaviour/","title":"Best predictor of future behaviour is past behaviour","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Best predictor of future behaviour is past behaviour/","title":"Best predictor of future behaviour is past behaviour","noteIcon":"","created":"2023-07-23T18:57:01.134+03:00","updated":"2024-02-14T20:18:35.321+03:00"}
 ---
 
 
