@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Polanyi Paradox - We know more than we can explain/","title":"Polanyi effect - We know more than we can explain","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Polanyi Paradox - We know more than we can explain/","title":"Polanyi Paradox - We know more than we can explain","noteIcon":""}
 ---
 
 
