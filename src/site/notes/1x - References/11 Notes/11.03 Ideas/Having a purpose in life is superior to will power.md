@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Having a purpose in life is superior to will power/","title":"Having a purpose in life is superior to will power","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Having a purpose in life is superior to will power/","title":"Having a purpose in life is superior to will power","noteIcon":"","created":"2023-10-15T22:28:03.000+03:00","updated":"2024-02-14T20:18:31.119+03:00"}
 ---
 
 
