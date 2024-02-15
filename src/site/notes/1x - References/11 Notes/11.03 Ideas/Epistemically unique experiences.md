@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Epistemically unique experiences/","title":"Epistemically unique experiences","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Epistemically unique experiences/","title":"Epistemically unique experiences","noteIcon":"","created":"2023-02-08T22:24:51.000+03:00","updated":"2024-02-14T20:18:32.880+03:00"}
 ---
 
 
