@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Good relationships make us more productivity/","title":"Good relationships make us more productivity","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Good relationships make us more productivity/","title":"Good relationships make us more productivity","noteIcon":"","created":"2023-10-29T23:42:58.000+03:00","updated":"2024-02-14T20:18:31.478+03:00"}
 ---
 
 
