@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Do the things that interest you and do them with all your heart. Dont be concerned about whether people are watching you - Eleanor Roosevelt/","title":"Do the things that interest you and do them with all your heart","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Do the things that interest you and do them with all your heart. Dont be concerned about whether people are watching you - Eleanor Roosevelt/","title":"Do the things that interest you and do them with all your heart. Dont be concerned about whether people are watching you - Eleanor Roosevelt","noteIcon":""}
 ---
 
 
