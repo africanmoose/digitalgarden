@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"trollope","permalink":"/trollope/","title":"Anthony Trollope","noteIcon":""}
+{"dg-publish":true,"dg-permalink":"trollope","permalink":"/trollope/","title":"Anthony Trollope","noteIcon":"","created":"2023-04-30T19:21:52.000+03:00","updated":"2024-02-14T20:18:19.120+03:00"}
 ---
 
 
