@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Judgement of others reflects more about how I view myself than how I view them/","title":"Judgement of others reflects more about how I view myself than how I view them","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Judgement of others reflects more about how I view myself than how I view them/","title":"Judgement of others reflects more about how I view myself than how I view them","noteIcon":"","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:29.051+03:00"}
 ---
 
 
