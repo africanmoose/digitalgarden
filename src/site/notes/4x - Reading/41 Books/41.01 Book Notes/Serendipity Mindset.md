@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.01 Book Notes/Serendipity Mindset/","title":"Serendipity Mindset","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.01 Book Notes/Serendipity Mindset/","title":"Serendipity Mindset","noteIcon":"","created":"2022-12-20T00:10:09.000+03:00","updated":"2024-02-14T20:17:41.795+03:00"}
 ---
 
 Serendipity Mindset
