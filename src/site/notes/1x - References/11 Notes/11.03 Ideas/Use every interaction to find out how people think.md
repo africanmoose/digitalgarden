@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use every interaction to find out how people think/","title":"Use every interaction to find out how people think","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use every interaction to find out how people think/","title":"Use every interaction to find out how people think","noteIcon":"","created":"2023-06-24T17:34:37.000+03:00","updated":"2024-02-14T20:18:21.703+03:00"}
 ---
 
 
