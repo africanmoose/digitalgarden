@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Sleep is good for you/","title":"Sleep is good for you","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Sleep is good for you/","title":"Sleep is good for you","noteIcon":"","created":"2023-12-01T00:00:27.000+03:00","updated":"2024-02-14T20:18:24.172+03:00"}
 ---
 
 
