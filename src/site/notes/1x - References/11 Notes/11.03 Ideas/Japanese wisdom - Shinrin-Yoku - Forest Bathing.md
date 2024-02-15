@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Shinrin-Yoku - Forest Bathing/","title":"Japanese wisdom - Shinrin-Yoku - Forest Bathing","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Shinrin-Yoku - Forest Bathing/","title":"Japanese wisdom - Shinrin-Yoku - Forest Bathing","noteIcon":"","created":"2023-08-12T09:32:32.823+03:00","updated":"2024-02-14T20:18:29.058+03:00"}
 ---
 
 ### Summary
