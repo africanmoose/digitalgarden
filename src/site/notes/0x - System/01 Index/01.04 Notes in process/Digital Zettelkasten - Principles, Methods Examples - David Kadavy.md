@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/digital-zettelkasten-principles-methods-examples-david-kadavy/","title":"Digital Zettelkasten - Principles, Methods Examples - David Kadavy","noteIcon":""}
+{"dg-publish":true,"permalink":"/0x - System/01 Index/01.04 Notes in process/Digital Zettelkasten - Principles, Methods Examples - David Kadavy/","title":"Digital Zettelkasten - Principles, Methods Examples - David Kadavy","noteIcon":""}
 ---
 
 ![Digital Zettelkasten - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Digital%20Zettelkasten%20-%20cover.jpg)
