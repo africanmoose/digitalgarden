@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Curiousity is a powerful learning tool/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Curiousity is a powerful learning tool/","title":"Curiousity is a powerful learning tool","noteIcon":""}
 ---
 
 ---
