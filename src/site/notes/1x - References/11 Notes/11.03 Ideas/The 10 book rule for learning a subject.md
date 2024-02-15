@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject/","title":"Scott Youngs 10 book rule for learning a subject","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject/","title":"The 10 book rule for learning a subject","noteIcon":""}
 ---
 
 
