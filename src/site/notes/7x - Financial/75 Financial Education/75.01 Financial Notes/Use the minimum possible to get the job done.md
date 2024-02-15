@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Use the minimum possible to get the job done/","title":"Use the minimum possible to get the job done","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Use the minimum possible to get the job done/","title":"Use the minimum possible to get the job done","noteIcon":"","created":"2023-12-25T17:35:39.516+03:00","updated":"2024-02-14T20:17:37.891+03:00"}
 ---
 
 
