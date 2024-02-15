@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Pillars of Creation/","title":"Pillars of Creation","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Pillars of Creation/","title":"Pillars of Creation","noteIcon":"","created":"2022-11-05T22:58:59.000+03:00","updated":"2024-02-14T20:18:25.671+03:00"}
 ---
 
 
