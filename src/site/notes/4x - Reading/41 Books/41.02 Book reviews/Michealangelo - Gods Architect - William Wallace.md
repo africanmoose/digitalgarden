@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Michealangelo - Gods Architect - William Wallace/","title":"Michealangelo - Gods Architect","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Michealangelo - Gods Architect - William Wallace/","title":"Michealangelo - Gods Architect - William Wallace","noteIcon":""}
 ---
 
 
