@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The cathedral effect - our surroundings affect how we think/","title":"The cathedral effect - our surroundings affect how we think","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The cathedral effect - our surroundings affect how we think/","title":"The cathedral effect - our surroundings affect how we think","noteIcon":"","created":"2023-09-16T12:35:13.841+03:00","updated":"2024-02-14T20:18:22.424+03:00"}
 ---
 
 
