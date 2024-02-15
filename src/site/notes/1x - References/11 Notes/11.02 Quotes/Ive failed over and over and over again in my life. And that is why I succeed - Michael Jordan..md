@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan./","title":"Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan./","title":"Ive failed over and over and over again in my life. And that is why I succeed - Michael Jordan.","noteIcon":"","created":"2023-08-26T09:23:19.965+03:00","updated":"2024-02-14T20:18:41.308+03:00"}
 ---
 
 
