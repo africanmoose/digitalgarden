@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The only thing that interferes with my learning is my education - Albert Einstein/","title":"The only thing that interferes with my learning is my education - Albert Einstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The only thing that interferes with my learning is my education - Albert Einstein/","title":"The only thing that interferes with my learning is my education - Albert Einstein","noteIcon":"","created":"2023-09-25T21:16:10.000+03:00","updated":"2024-02-14T20:18:37.626+03:00"}
 ---
 
 
