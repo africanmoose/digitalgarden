@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Anyone can steer the ship when the sea is calm - Publilius Syrus/","title":"Anyone can steer the ship when the sea is calm - Publilius Syrus","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Anyone can steer the ship when the sea is calm - Publilius Syrus/","title":"Anyone can steer the ship when the sea is calm - Publilius Syrus","noteIcon":"","created":"2023-12-01T20:38:50.000+03:00","updated":"2024-02-14T20:18:46.876+03:00"}
 ---
 
 
