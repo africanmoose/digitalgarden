@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity/","title":"Focus on producing quality rather than quantity","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity/","title":"Focus on producing quality rather than quantity","noteIcon":"","created":"2022-11-26T17:05:05.000+03:00","updated":"2024-02-14T20:18:31.995+03:00"}
 ---
 
 
