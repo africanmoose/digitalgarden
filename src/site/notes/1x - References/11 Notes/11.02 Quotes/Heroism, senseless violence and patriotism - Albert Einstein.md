@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Heroism, senseless violence and patriotism - Albert Einstein/","title":"Heroism, senseless violence and patriotism - Albert Einstein","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Heroism, senseless violence and patriotism - Albert Einstein/","title":"Heroism, senseless violence and patriotism - Albert Einstein","noteIcon":"","created":"2023-09-25T21:29:57.000+03:00","updated":"2024-02-14T20:18:43.448+03:00"}
 ---
 
 
