@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt/","title":"Eleanor Roosevelt","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Eleanor Roosevelt/","title":"Eleanor Roosevelt","noteIcon":"","created":"2023-10-20T19:16:37.000+03:00","updated":"2024-02-14T20:18:18.705+03:00"}
 ---
 
 
