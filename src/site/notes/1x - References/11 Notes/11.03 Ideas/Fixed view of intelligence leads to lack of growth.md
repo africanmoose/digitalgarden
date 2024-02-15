@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fixed view of intelligence leads to lack of growth/","title":"Fixed view of intelligence leads to lack of growth","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fixed view of intelligence leads to lack of growth/","title":"Fixed view of intelligence leads to lack of growth","noteIcon":"","created":"2023-11-04T23:50:25.000+03:00","updated":"2024-02-14T20:18:32.098+03:00"}
 ---
 
 
