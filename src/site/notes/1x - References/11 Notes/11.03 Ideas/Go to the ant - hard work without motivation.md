@@ -12,9 +12,9 @@
 
 
 
+###### 6
+Go to the ant, you lazy one; Observe its ways and become wise.
 
-###### 4
-Do not allow your eyes to sleep, Nor your eyelids to slumber.
 
 </div></div>
 
