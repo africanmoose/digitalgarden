@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Clutter attracts clutter/","title":"Clutter attracts clutter","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Clutter attracts clutter/","title":"Clutter attracts clutter","noteIcon":"","created":"2023-07-24T20:14:30.740+03:00","updated":"2024-02-14T20:18:34.658+03:00"}
 ---
 
 
