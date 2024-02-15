@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/People would rather get electric shock than sit with their own thoughts/","title":"People would rather get electric shock than sit with their own thoughts","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/People would rather get electric shock than sit with their own thoughts/","title":"People would rather get electric shock than sit with their own thoughts","noteIcon":"","created":"2022-11-26T17:57:25.000+03:00","updated":"2024-02-14T20:18:25.758+03:00"}
 ---
 
 
