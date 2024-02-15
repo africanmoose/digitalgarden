@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Coffee taste can be affected by so many factors/","title":"Coffee taste can be affected by so many factors","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Coffee taste can be affected by so many factors/","title":"Coffee taste can be affected by so many factors","noteIcon":"","created":"2023-12-25T22:48:49.718+03:00","updated":"2024-02-14T20:18:34.503+03:00"}
 ---
 
 
