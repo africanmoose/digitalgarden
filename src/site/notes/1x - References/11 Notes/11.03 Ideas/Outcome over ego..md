@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Outcome over ego./","title":"Outcome over ego.","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Outcome over ego./","title":"Outcome over ego.","noteIcon":"","created":"2023-12-06T23:06:56.000+03:00","updated":"2024-02-14T20:18:26.007+03:00"}
 ---
 
 
