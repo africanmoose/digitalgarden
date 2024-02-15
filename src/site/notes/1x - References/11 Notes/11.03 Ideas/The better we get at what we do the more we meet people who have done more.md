@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The better we get at what we do the more we meet people who have done more/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The better we get at what we do the more we meet people who have done more/","title":"The better we get at what we do the more we meet people who have done more","noteIcon":""}
 ---
 
 
