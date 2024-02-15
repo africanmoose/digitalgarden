@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Information is only information if it is Surprising/","title":"Information is only information if it is Surprising","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Information is only information if it is Surprising/","title":"Information is only information if it is Surprising","noteIcon":"","created":"2022-11-05T18:20:25.000+03:00","updated":"2024-02-14T20:18:29.353+03:00"}
 ---
 
 
