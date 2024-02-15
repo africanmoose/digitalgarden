@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Alternative paths and risk not directly visible/","title":"Alternative paths and risk not directlly visible","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Alternative paths and risk not directly visible/","title":"Alternative paths and risk not directly visible","noteIcon":""}
 ---
 
 
