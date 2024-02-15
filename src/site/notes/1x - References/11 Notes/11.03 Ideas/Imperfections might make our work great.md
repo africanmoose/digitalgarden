@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Imperfections might make our work great/","title":"Imperfections might make our work great","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Imperfections might make our work great/","title":"Imperfections might make our work great","noteIcon":"","created":"2023-03-22T23:31:37.000+03:00","updated":"2024-02-14T20:18:29.402+03:00"}
 ---
 
 
