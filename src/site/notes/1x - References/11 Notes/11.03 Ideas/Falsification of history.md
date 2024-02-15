@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Falsification of history/","title":"Falsification of history","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Falsification of history/","title":"Falsification of history","noteIcon":"","created":"2022-12-28T21:58:33.000+03:00","updated":"2024-02-14T20:18:32.363+03:00"}
 ---
 
 
