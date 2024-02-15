@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Starting something is hard, but so is stopping something/","title":"Starting something is hard, but so is stopping something","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Starting something is hard, but so is stopping something/","title":"Starting something is hard, but so is stopping something","noteIcon":"","created":"2023-12-01T19:34:18.000+03:00","updated":"2024-02-14T20:18:23.519+03:00"}
 ---
 
 
