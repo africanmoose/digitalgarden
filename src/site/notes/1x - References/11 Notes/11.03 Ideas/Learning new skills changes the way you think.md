@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning new skills changes the way you think/","title":"Learning new skills changes the way you think","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning new skills changes the way you think/","title":"Learning new skills changes the way you think","noteIcon":"","created":"2023-02-11T08:46:09.000+03:00","updated":"2024-02-14T20:18:28.508+03:00"}
 ---
 
 
