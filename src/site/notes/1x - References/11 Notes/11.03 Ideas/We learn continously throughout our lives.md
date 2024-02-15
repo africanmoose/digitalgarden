@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We learn continously throughout our lives/","title":"We learn continously throughout our lives","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We learn continously throughout our lives/","title":"We learn continously throughout our lives","noteIcon":"","created":"2023-08-11T20:12:55.235+03:00","updated":"2024-02-14T20:18:21.169+03:00"}
 ---
 
 
