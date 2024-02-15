@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt/","title":"Beginners - The Joy and Transformative Power of Lifelong Learning","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt/","title":"Beginners - The Joy and Transformative Power of Lifelong Learning - Tom Vanderbilt","noteIcon":""}
 ---
 
 
