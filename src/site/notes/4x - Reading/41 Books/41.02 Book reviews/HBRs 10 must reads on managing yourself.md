@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself/","title":"HBRs 10 must reads on managing yourself","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/HBRs 10 must reads on managing yourself/","title":"HBRs 10 must reads on managing yourself","noteIcon":"","created":"2023-07-26T19:53:51.753+03:00","updated":"2024-02-14T20:17:40.821+03:00"}
 ---
 
 ![HBR 10 must reads cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/HBR%2010%20must%20reads%20cover.jpg)
