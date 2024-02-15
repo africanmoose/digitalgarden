@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Lessons Learned from 1 year in USA/","title":"Lessons Learned from 1 year in USA","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Lessons Learned from 1 year in USA/","title":"Lessons Learned from 1 year in USA","noteIcon":"","created":"2022-12-20T00:10:20.000+03:00","updated":"2024-02-14T20:18:28.307+03:00"}
 ---
 
 
