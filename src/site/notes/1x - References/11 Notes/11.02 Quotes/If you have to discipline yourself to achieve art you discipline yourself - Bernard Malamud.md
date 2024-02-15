@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/If you have to discipline yourself to achieve art you discipline yourself - Bernard Malamud/","title":"Bernard Malamud","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/If you have to discipline yourself to achieve art you discipline yourself - Bernard Malamud/","title":"If you have to discipline yourself to achieve art you discipline yourself - Bernard Malamud","noteIcon":""}
 ---
 
 
