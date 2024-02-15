@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Keep changing your habits/","title":"Keep changing your habits","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Keep changing your habits/","title":"Keep changing your habits","noteIcon":"","created":"2023-01-22T11:02:50.000+03:00","updated":"2024-02-14T20:18:28.913+03:00"}
 ---
 
 
