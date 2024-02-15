@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Dont drain the reservoir - Henry Miller/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Dont drain the reservoir - Henry Miller/","title":"Dont drain the reservoir - Henry Miller","noteIcon":""}
 ---
 
 
