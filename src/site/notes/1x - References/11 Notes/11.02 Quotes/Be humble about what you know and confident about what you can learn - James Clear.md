@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Be humble about what you know and confident about what you can learn - James Clear/","title":"Be humble about what you know and confident about what you can learn - James Clear","noteIcon":""}
 ---
 
 
