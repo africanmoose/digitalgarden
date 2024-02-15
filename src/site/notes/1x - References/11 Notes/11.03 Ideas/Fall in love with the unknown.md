@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fall in love with the unknown/","title":"Fall in love with the unknown","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fall in love with the unknown/","title":"Fall in love with the unknown","noteIcon":"","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:32.478+03:00"}
 ---
 
 
