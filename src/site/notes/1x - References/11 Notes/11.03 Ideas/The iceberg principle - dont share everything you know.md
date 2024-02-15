@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The iceberg principle - dont share everything you know/","title":"The iceberg principle - dont share everything you know","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The iceberg principle - dont share everything you know/","title":"The iceberg principle - dont share everything you know","noteIcon":"","created":"2024-02-15T09:46:05.164+03:00","updated":"2024-02-15T09:49:54.514+03:00"}
 ---
 
 
