@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/You are who you are. You write by sitting down and writing - Bernard Malamud/","title":"Bernard Malamud","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/You are who you are. You write by sitting down and writing - Bernard Malamud/","title":"You are who you are. You write by sitting down and writing - Bernard Malamud","noteIcon":""}
 ---
 
 
