@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Only doing what you are good at is a trap - Tim Wu/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Only doing what you are good at is a trap - Tim Wu/","title":"Only doing what you are good at is a trap - Tim Wu","noteIcon":""}
 ---
 
 
