@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell/","title":"The Lazy Person's Guide to Investing - Paul Farrell","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Lazy Person's Guide to Investing - Paul Farrell/","title":"The Lazy Person's Guide to Investing - Paul Farrell","noteIcon":"","created":"2024-01-18T08:51:06.000+03:00","updated":"2024-02-14T20:17:40.426+03:00"}
 ---
 
 ![The Lazy persons guide to investing - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20Lazy%20persons%20guide%20to%20investing%20-%20cover.jpg)
