@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/By definition, best practices are average/","title":"By definition, best practices are average","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/By definition, best practices are average/","title":"By definition, best practices are average","noteIcon":"","created":"2023-12-01T12:19:07.000+03:00","updated":"2024-02-14T20:18:35.103+03:00"}
 ---
 
 
