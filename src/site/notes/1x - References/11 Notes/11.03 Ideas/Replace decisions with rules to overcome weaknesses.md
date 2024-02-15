@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Replace decisions with rules to overcome weaknesses/","title":"Replace decisions with rules to overcome weaknesses","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Replace decisions with rules to overcome weaknesses/","title":"Replace decisions with rules to overcome weaknesses","noteIcon":"","created":"2023-12-11T20:46:09.000+03:00","updated":"2024-02-14T20:18:24.883+03:00"}
 ---
 
 
