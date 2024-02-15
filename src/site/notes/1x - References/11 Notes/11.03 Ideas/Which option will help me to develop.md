@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Which option will help me to develop/","title":"Which option will help me to develop","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Which option will help me to develop/","title":"Which option will help me to develop","noteIcon":"","created":"2023-05-31T20:49:44.000+03:00","updated":"2024-02-14T20:18:20.353+03:00"}
 ---
 
 
