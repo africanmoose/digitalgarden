@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer/","title":"A Curious Mind: The Secret to a Bigger Life","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/A Curious Mind - The Secret to a Bigger Life - Brian Grazer/","title":"A Curious Mind - The Secret to a Bigger Life - Brian Grazer","noteIcon":""}
 ---
 
 ![A Curious Mind - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/A%20Curious%20Mind%20-%20cover.jpg)
