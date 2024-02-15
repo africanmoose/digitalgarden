@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Questions that lead to deeper conversations/","title":"Questions that lead to deeper conversations","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Questions that lead to deeper conversations/","title":"Questions that lead to deeper conversations","noteIcon":"","created":"2023-06-07T23:45:40.000+03:00","updated":"2024-02-14T20:18:24.934+03:00"}
 ---
 
 
