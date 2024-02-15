@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Like a pauper but with lots of money - Pablo Picasso/","title":"Like a pauper but with lots of money - Pablo Picasso","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Like a pauper but with lots of money - Pablo Picasso/","title":"Like a pauper but with lots of money - Pablo Picasso","noteIcon":"","created":"2023-05-01T09:00:56.000+03:00","updated":"2024-02-14T20:18:40.769+03:00"}
 ---
 
 
