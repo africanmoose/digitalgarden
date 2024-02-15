@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Track your progress/","title":"Track your progress","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Track your progress/","title":"Track your progress","noteIcon":"","created":"2023-10-29T23:42:58.000+03:00","updated":"2024-02-14T20:18:21.836+03:00"}
 ---
 
 
