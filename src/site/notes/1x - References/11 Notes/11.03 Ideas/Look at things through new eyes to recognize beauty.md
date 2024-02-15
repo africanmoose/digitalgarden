@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Look at things through new eyes to recognize beauty/","title":"Look at things through new eyes to recognize beauty","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Look at things through new eyes to recognize beauty/","title":"Look at things through new eyes to recognize beauty","noteIcon":"","created":"2022-11-08T18:08:36.000+03:00","updated":"2024-02-14T20:18:27.856+03:00"}
 ---
 
 
