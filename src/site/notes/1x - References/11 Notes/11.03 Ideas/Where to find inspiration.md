@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Where to find inspiration/","title":"Where to find inspiration","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Where to find inspiration/","title":"Where to find inspiration","noteIcon":"","created":"2023-03-14T10:16:08.000+03:00","updated":"2024-02-14T20:18:20.414+03:00"}
 ---
 
 
