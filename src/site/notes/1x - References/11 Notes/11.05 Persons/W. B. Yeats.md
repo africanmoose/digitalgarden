@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/W. B. Yeats/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/W. B. Yeats/","title":"W. B. Yeats","noteIcon":""}
 ---
 
 
