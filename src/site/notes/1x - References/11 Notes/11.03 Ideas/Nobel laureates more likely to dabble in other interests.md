@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Nobel laureates more likely to dabble in other interests/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Nobel laureates more likely to dabble in other interests/","title":"Nobel laureates more likely to dabble in other interests","noteIcon":""}
 ---
 
 
