@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Try differently instead of try harder/","title":"Try differently instead of try harder","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Try differently instead of try harder/","title":"Try differently instead of try harder","noteIcon":"","created":"2023-08-11T09:58:26.091+03:00","updated":"2024-02-14T20:18:21.826+03:00"}
 ---
 
 
