@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/You are not special and not exceptional - everyone is - David McCullough/","title":"You are not special and not exceptional - everyone is - David McCullough","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/You are not special and not exceptional - everyone is - David McCullough/","title":"You are not special and not exceptional - everyone is - David McCullough","noteIcon":"","created":"2023-03-09T09:38:58.000+03:00","updated":"2024-02-14T20:18:36.345+03:00"}
 ---
 
 
