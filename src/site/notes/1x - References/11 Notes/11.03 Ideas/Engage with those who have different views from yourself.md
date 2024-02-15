@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Engage with those who have different views from yourself/","title":"Engage with those who have different views from yourself","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Engage with those who have different views from yourself/","title":"Engage with those who have different views from yourself","noteIcon":"","created":"2023-03-08T08:29:06.000+03:00","updated":"2024-02-14T20:18:32.948+03:00"}
 ---
 
 
