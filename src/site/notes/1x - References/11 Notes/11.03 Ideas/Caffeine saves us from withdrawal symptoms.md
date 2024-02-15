@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Caffeine saves us from withdrawal symptoms/","title":"Caffeine withdrawal symptoms","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Caffeine saves us from withdrawal symptoms/","title":"Caffeine saves us from withdrawal symptoms","noteIcon":""}
 ---
 
 
