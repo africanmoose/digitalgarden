@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Challenge your process/","title":"Challenge your process","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Challenge your process/","title":"Challenge your process","noteIcon":"","created":"2023-03-23T18:34:10.000+03:00","updated":"2024-02-14T20:18:35.064+03:00"}
 ---
 
 
