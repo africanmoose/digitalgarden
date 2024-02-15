@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The exotic idea of drinking hot beverages reduced disease/","title":"The exotic idea of drinking hot beverages reduced disease","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The exotic idea of drinking hot beverages reduced disease/","title":"The exotic idea of drinking hot beverages reduced disease","noteIcon":"","created":"2023-08-01T20:48:42.096+03:00","updated":"2024-02-14T20:18:22.296+03:00"}
 ---
 
 
