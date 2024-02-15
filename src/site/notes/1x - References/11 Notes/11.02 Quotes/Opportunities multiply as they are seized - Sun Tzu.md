@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Opportunities multiply as they are seized - Sun Tzu/","title":"Opportunities multiply as they are seized - Sun Tzu","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Opportunities multiply as they are seized - Sun Tzu/","title":"Opportunities multiply as they are seized - Sun Tzu","noteIcon":"","created":"2024-01-16T19:19:53.000+03:00","updated":"2024-01-29T20:03:43.804+03:00"}
 ---
 
 
