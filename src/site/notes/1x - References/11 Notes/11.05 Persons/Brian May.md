@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Brian May/","title":"Brian May","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Brian May/","title":"Brian May","noteIcon":"","created":"2023-10-24T21:45:28.000+03:00","updated":"2024-02-14T20:18:19.039+03:00"}
 ---
 
 
