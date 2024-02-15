@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Move to learn something new/","title":"Move to learn something new","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Move to learn something new/","title":"Move to learn something new","noteIcon":"","created":"2023-07-02T11:44:10.000+03:00","updated":"2024-02-14T20:18:26.830+03:00"}
 ---
 
 
