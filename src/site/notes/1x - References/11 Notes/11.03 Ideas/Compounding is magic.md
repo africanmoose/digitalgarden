@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Compounding is magic/","title":"Compounding is magic","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Compounding is magic/","title":"Compounding is magic","noteIcon":"","created":"2022-11-01T15:02:35.000+03:00","updated":"2024-02-14T20:18:34.277+03:00"}
 ---
 
 ---
