@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Not project ideal of perfection on those we admire/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Not project ideal of perfection on those we admire/","title":"Not project ideal of perfection on those we admire","noteIcon":""}
 ---
 
 
