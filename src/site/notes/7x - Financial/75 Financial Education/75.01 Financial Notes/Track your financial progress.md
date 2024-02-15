@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress/","title":"Track your financial progress","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Track your financial progress/","title":"Track your financial progress","noteIcon":"","created":"2023-08-26T16:45:48.177+03:00","updated":"2024-02-14T20:17:37.936+03:00"}
 ---
 
 
