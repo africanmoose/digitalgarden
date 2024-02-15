@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/01 AfricanMoose Digital Garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/01 AfricanMoose Digital Garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-15T22:34:37.079+03:00"}
 ---
 
 ## Pic of the week
@@ -12,7 +12,7 @@ Juja bike repair shop fixing my puncture.
 - Many of the ideas written here are not quite fully formed, but in the spirit of working with the door open, I am publishing them here
 - A place to share interesting quotes, book reviews, music I like and any other random information
 - A place to share interesting workflows, productivity tools and ideas on how to work
-- I update this site usually a few times a week, so feel free to come back often
+- I update this site usually a few times a week, so feel free to come back often, or use the RSS feed at the bottom of the page
 
 
 ## Interesting Quotes
