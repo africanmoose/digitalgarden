@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How chocolate melts/","title":"How chocolate melts","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How chocolate melts/","title":"How chocolate melts","noteIcon":"","created":"2023-06-25T14:01:57.000+03:00","updated":"2024-02-14T20:18:30.623+03:00"}
 ---
 
 
