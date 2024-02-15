@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The more you know the less you feel the need to ask/","title":"The more you know the less you feel the need to ask","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The more you know the less you feel the need to ask/","title":"The more you know the less you feel the need to ask","noteIcon":"","created":"2023-05-28T16:57:52.000+03:00","updated":"2024-02-14T20:18:22.083+03:00"}
 ---
 
 
