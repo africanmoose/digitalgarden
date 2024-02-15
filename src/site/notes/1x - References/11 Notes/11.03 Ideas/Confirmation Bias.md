@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Confirmation Bias/","title":"Confirmation Bias","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Confirmation Bias/","title":"Confirmation Bias","noteIcon":"","created":"2022-12-15T08:00:31.000+03:00","updated":"2024-02-14T20:18:34.273+03:00"}
 ---
 
 
