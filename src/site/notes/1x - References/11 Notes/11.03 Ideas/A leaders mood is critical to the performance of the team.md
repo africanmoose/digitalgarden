@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/A leaders mood is critical to the performance of the team/","title":"A leaders mood is critical to the performance of the team","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/A leaders mood is critical to the performance of the team/","title":"A leaders mood is critical to the performance of the team","noteIcon":"","created":"2023-07-31T21:49:18.106+03:00","updated":"2024-02-14T20:18:36.222+03:00"}
 ---
 
 
