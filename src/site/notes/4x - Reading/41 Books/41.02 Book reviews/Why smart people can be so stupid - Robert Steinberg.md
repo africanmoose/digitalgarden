@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg/","title":"Why smart people do stupid things","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Why smart people can be so stupid - Robert Steinberg/","title":"Why smart people can be so stupid - Robert Steinberg","noteIcon":""}
 ---
 
 
