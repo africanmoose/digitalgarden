@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Talk honestly about money/","title":"Talk honestly about money","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Talk honestly about money/","title":"Talk honestly about money","noteIcon":"","created":"2023-08-26T16:19:16.283+03:00","updated":"2024-02-14T20:17:37.942+03:00"}
 ---
 
 
