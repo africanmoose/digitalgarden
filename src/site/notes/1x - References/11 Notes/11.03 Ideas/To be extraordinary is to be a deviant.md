@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/To be extraordinary is to be a deviant/","title":"To be extraordinary is to be a deviant","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/To be extraordinary is to be a deviant/","title":"To be extraordinary is to be a deviant","noteIcon":"","created":"2023-07-29T18:48:10.592+03:00","updated":"2024-02-14T20:18:21.871+03:00"}
 ---
 
 
