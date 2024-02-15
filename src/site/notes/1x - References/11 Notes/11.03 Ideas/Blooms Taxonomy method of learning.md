@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Blooms Taxonomy method of learning/","title":"Blooms Taxonomy method of learning","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Blooms Taxonomy method of learning/","title":"Blooms Taxonomy method of learning","noteIcon":"","created":"2022-11-01T15:00:48.000+03:00","updated":"2024-02-14T20:18:35.114+03:00"}
 ---
 
 ---
