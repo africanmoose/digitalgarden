@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Be the hammer not the nail - try to be proactive in your life/","title":"Be the hammer not the nail - try to be proactive in your life","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Be the hammer not the nail - try to be proactive in your life/","title":"Be the hammer not the nail - try to be proactive in your life","noteIcon":"","created":"2024-02-05T10:33:03.429+03:00","updated":"2024-02-15T09:56:55.756+03:00"}
 ---
 
 ### Summary
