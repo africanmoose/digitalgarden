@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger/","title":"The Gift - 12 Lessons to save your life - Edith Eger","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Gift - 12 Lessons to save your life - Edith Eger/","title":"The Gift - 12 Lessons to save your life - Edith Eger","noteIcon":"","created":"2023-11-10T21:19:25.000+03:00","updated":"2024-02-14T20:17:40.466+03:00"}
 ---
 
 ---
