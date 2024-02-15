@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Passive patience vs active patience/","title":"Passive patience vs active patience","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Passive patience vs active patience/","title":"Passive patience vs active patience","noteIcon":"","created":"2023-07-09T13:04:05.000+03:00","updated":"2024-02-14T20:18:25.830+03:00"}
 ---
 
 
