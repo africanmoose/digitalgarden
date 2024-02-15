@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont define solutions in binary terms/","title":"Dont define solutions in binary terms","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont define solutions in binary terms/","title":"Dont define solutions in binary terms","noteIcon":"","created":"2023-05-28T19:38:41.000+03:00","updated":"2024-02-14T20:18:33.283+03:00"}
 ---
 
 
