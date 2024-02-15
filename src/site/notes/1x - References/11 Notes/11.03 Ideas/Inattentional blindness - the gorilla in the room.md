@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Inattentional blindness - the gorilla in the room/","title":"Inattentional blindness - the gorilla in the room","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Inattentional blindness - the gorilla in the room/","title":"Inattentional blindness - the gorilla in the room","noteIcon":"","created":"2023-03-06T06:45:33.000+03:00","updated":"2024-02-14T20:18:29.398+03:00"}
 ---
 
 
