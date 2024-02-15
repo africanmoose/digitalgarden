@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/The wonders of ordinary life - William Martin/","title":"The wonders of ordinary life - William Martin","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/The wonders of ordinary life - William Martin/","title":"The wonders of ordinary life - William Martin","noteIcon":"","created":"2023-11-06T13:08:55.000+03:00","updated":"2024-02-14T20:18:17.926+03:00"}
 ---
 
 
