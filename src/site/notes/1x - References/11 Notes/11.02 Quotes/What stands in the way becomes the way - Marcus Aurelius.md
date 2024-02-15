@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What stands in the way becomes the way - Marcus Aurelius/","title":"What stands in the way becomes the way - Marcus Aurelius","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What stands in the way becomes the way - Marcus Aurelius/","title":"What stands in the way becomes the way - Marcus Aurelius","noteIcon":"","created":"2023-08-06T13:30:29.808+03:00","updated":"2024-02-14T20:18:36.429+03:00"}
 ---
 
 
