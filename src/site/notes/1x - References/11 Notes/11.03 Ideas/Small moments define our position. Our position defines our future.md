@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Small moments define our position. Our position defines our future/","title":"Small moments define our position. Our position defines our future","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Small moments define our position. Our position defines our future/","title":"Small moments define our position. Our position defines our future","noteIcon":"","created":"2023-12-01T11:46:55.000+03:00","updated":"2024-02-14T20:18:24.061+03:00"}
 ---
 
 
