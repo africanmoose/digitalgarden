@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran/","title":"What is a friend? Just one with whom you dare to be yourself - C. Raymond Beran","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran/","title":"What is a friend - Just one with whom you dare to be yourself - C. Raymond Beran","noteIcon":""}
 ---
 
 
