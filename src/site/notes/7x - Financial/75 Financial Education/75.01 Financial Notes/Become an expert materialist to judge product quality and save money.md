@@ -15,4 +15,4 @@
 ### Related
 - [[1x - References/11 Notes/11.03 Ideas/Focus on producing quality rather than quantity\|Focus on producing quality rather than quantity]]
 - [[1x - References/11 Notes/11.03 Ideas/Financial independence is having enough\|Financial independence is having enough]]
-- [[0x - System/05 Zettelkasten/05.02 - Digital Garden/Improve your finances\|Improve your finances]]
+- [[0x - System/05 Zettelkasten/05.02 - Digital Garden/03 Improve your finances\|03 Improve your finances]]
