@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Issues with Inflationary cosmology theory/","title":"Issues with Inflationary cosmology theory","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Issues with Inflationary cosmology theory/","title":"Issues with Inflationary cosmology theory","noteIcon":"","created":"2024-01-20T11:22:36.000+03:00","updated":"2024-02-14T20:18:29.208+03:00"}
 ---
 
 
