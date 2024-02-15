@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Sleep is vital for memory consolidation/","title":"Sleep is vital for memory consolidation","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Sleep is vital for memory consolidation/","title":"Sleep is vital for memory consolidation","noteIcon":"","created":"2023-04-23T20:48:43.000+03:00","updated":"2024-02-14T20:18:24.117+03:00"}
 ---
 
 
