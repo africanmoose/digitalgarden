@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Questions to confront fear of failure/","title":"Questions to confront fear of failure","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Questions to confront fear of failure/","title":"Questions to confront fear of failure","noteIcon":"","created":"2023-05-30T23:11:33.000+03:00","updated":"2024-02-14T20:18:24.930+03:00"}
 ---
 
 
