@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Clutter is everywhere/","title":"Clutter is everywhere","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Clutter is everywhere/","title":"Clutter is everywhere","noteIcon":"","created":"2023-12-25T17:35:32.765+03:00","updated":"2024-02-14T20:18:34.617+03:00"}
 ---
 
 
