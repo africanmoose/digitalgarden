@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Constraints help learn better/","title":"Constraints help learn better","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Constraints help learn better/","title":"Constraints help learn better","noteIcon":"","created":"2023-03-13T15:24:36.000+03:00","updated":"2024-02-14T20:18:34.174+03:00"}
 ---
 
 
