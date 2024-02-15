@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning with hints is bad for your long term remembering, even in monkeys/","title":"Learning with hints is bad for your long term remembering","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning with hints is bad for your long term remembering, even in monkeys/","title":"Learning with hints is bad for your long term remembering, even in monkeys","noteIcon":""}
 ---
 
 
