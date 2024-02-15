@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage/","title":"A history of the world in 6 glasses - Tom Standage","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/A history of the world in 6 glasses - Tom Standage/","title":"A history of the world in 6 glasses - Tom Standage","noteIcon":"","created":"2023-08-21T13:58:54.585+03:00","updated":"2024-02-14T20:17:41.018+03:00"}
 ---
 
 ![A History of the world - cover.jpeg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/A%20History%20of%20the%20world%20-%20cover.jpeg)
