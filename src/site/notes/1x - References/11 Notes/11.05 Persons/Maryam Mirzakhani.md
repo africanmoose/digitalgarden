@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Maryam Mirzakhani/","title":"Maryam Mirzakhani","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Maryam Mirzakhani/","title":"Maryam Mirzakhani","noteIcon":"","created":"2024-01-20T13:01:17.000+03:00","updated":"2024-02-14T20:18:18.199+03:00"}
 ---
 
 
