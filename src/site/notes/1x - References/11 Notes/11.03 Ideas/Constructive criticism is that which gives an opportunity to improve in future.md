@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Constructive criticism is that which gives an opportunity to improve in future/","title":"Constructive criticism is that which gives an opportunity to improve in future","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Constructive criticism is that which gives an opportunity to improve in future/","title":"Constructive criticism is that which gives an opportunity to improve in future","noteIcon":"","created":"2023-11-04T23:50:26.000+03:00","updated":"2024-02-14T20:18:34.171+03:00"}
 ---
 
 
