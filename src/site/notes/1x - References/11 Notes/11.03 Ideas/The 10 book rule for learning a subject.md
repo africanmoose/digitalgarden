@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject/","title":"The 10 book rule for learning a subject","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The 10 book rule for learning a subject/","title":"The 10 book rule for learning a subject","noteIcon":"","created":"2023-09-16T20:28:13.784+03:00","updated":"2024-02-14T20:18:22.639+03:00"}
 ---
 
 
