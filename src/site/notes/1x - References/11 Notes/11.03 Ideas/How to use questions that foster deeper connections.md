@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How to use questions that foster deeper connections/","title":"How to use questions that foster deeper connections","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How to use questions that foster deeper connections/","title":"How to use questions that foster deeper connections","noteIcon":"","created":"2023-06-07T23:45:50.000+03:00","updated":"2024-02-14T20:18:30.364+03:00"}
 ---
 
 
