@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Save beautiful and special moments in your memory/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Save beautiful and special moments in your memory/","title":"Save beautiful and special moments in your memory","noteIcon":""}
 ---
 
 
