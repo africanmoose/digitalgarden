@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Managers schedule vs Makers schedule/","title":"Managers schedule vs Makers schedulet","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Managers schedule vs Makers schedule/","title":"Managers schedule vs Makers schedule","noteIcon":""}
 ---
 
 
