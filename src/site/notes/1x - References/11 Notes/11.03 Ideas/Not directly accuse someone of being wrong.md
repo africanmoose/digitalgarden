@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Not directly accuse someone of being wrong/","title":"permanent note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Not directly accuse someone of being wrong/","title":"Not directly accuse someone of being wrong","noteIcon":""}
 ---
 
 
