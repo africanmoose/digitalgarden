@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Human capital/","title":"Human capital","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Human capital/","title":"Human capital","noteIcon":"","created":"2023-09-12T08:06:26.140+03:00","updated":"2024-02-14T20:18:30.247+03:00"}
 ---
 
 
