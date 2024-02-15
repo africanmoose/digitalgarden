@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Never be the first to arrive at a party, or the last to go home, and never, ever, be both - David Brown/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Never be the first to arrive at a party, or the last to go home, and never, ever, be both - David Brown/","title":"Never be the first to arrive at a party, or the last to go home, and never, ever, be both - David Brown","noteIcon":""}
 ---
 
 
