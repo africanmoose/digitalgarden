@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Too many notifications for modern workers reduces IQ/","title":"Too many notifications for modern workers","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Too many notifications for modern workers reduces IQ/","title":"Too many notifications for modern workers reduces IQ","noteIcon":""}
 ---
 
 
