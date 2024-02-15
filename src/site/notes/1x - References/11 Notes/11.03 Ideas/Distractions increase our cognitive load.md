@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Distractions increase our cognitive load/","title":"Distractions increase our cognitive load","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Distractions increase our cognitive load/","title":"Distractions increase our cognitive load","noteIcon":"","created":"2023-04-22T20:42:35.000+03:00","updated":"2024-02-14T20:18:33.498+03:00"}
 ---
 
 
