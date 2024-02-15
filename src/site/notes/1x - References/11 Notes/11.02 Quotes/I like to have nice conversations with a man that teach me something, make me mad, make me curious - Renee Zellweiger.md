@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/I like to have nice conversations with a man that teach me something, make me mad, make me curious - Renee Zellweiger/","title":"I like to have nice conversations with a man that teach me something, make me mad, make me curious - Renee Zellweiger","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/I like to have nice conversations with a man that teach me something, make me mad, make me curious - Renee Zellweiger/","title":"I like to have nice conversations with a man that teach me something, make me mad, make me curious - Renee Zellweiger","noteIcon":"","created":"2023-09-11T08:16:48.534+03:00","updated":"2024-02-14T20:18:43.020+03:00"}
 ---
 
 
