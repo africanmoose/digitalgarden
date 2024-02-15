@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Planning fallacy/","title":"Planning fallacy","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Planning fallacy/","title":"Planning fallacy","noteIcon":"","created":"2022-12-30T00:27:13.000+03:00","updated":"2024-02-14T20:18:25.613+03:00"}
 ---
 
 
