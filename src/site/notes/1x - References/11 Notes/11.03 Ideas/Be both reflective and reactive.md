@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Be both reflective and reactive/","title":"Be both reflective and reactive","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Be both reflective and reactive/","title":"Be both reflective and reactive","noteIcon":"","created":"2023-07-30T12:18:47.413+03:00","updated":"2024-02-14T20:18:35.726+03:00"}
 ---
 
 
