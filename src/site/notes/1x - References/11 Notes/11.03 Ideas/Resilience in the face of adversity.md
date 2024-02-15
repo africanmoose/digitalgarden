@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity/","title":"Resilience in the face of adversity","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Resilience in the face of adversity/","title":"Resilience in the face of adversity","noteIcon":"","created":"2023-07-28T19:27:42.444+03:00","updated":"2024-02-14T20:18:24.770+03:00"}
 ---
 
 
