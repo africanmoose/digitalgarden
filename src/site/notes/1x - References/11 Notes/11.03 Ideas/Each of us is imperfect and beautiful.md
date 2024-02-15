@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Each of us is imperfect and beautiful/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Each of us is imperfect and beautiful/","title":"Each of us is imperfect and beautiful","noteIcon":""}
 ---
 
 
