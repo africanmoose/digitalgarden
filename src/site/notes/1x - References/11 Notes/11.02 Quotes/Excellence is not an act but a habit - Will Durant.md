@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Excellence is not an act but a habit - Will Durant/","title":"Excellence is not an act but a habit - Will Durant","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Excellence is not an act but a habit - Will Durant/","title":"Excellence is not an act but a habit - Will Durant","noteIcon":"","created":"2023-01-14T23:25:37.000+03:00","updated":"2024-02-14T20:18:44.838+03:00"}
 ---
 
 
