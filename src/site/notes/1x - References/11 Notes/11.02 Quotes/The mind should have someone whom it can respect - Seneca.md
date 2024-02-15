@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The mind should have someone whom it can respect - Seneca/","title":"The mind should have someone whom it can respect - Seneca","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The mind should have someone whom it can respect - Seneca/","title":"The mind should have someone whom it can respect - Seneca","noteIcon":"","created":"2023-12-11T19:11:29.000+03:00","updated":"2024-02-14T20:18:37.749+03:00"}
 ---
 
 
