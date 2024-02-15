@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When pushing boundaries, mistakes are inevitable/","title":"When pushing boundaries, mistakes are inevitable","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When pushing boundaries, mistakes are inevitable/","title":"When pushing boundaries, mistakes are inevitable","noteIcon":"","created":"2023-12-22T19:30:17.000+03:00","updated":"2024-02-14T20:18:20.610+03:00"}
 ---
 
 
