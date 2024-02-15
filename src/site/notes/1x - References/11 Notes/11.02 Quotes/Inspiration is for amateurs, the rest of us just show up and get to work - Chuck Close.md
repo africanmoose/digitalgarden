@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Inspiration is for amateurs, the rest of us just show up and get to work - Chuck Close/","title":"Inspiration is for amateurs, the rest of us just show up and get to work - Chuck Close","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Inspiration is for amateurs, the rest of us just show up and get to work - Chuck Close/","title":"Inspiration is for amateurs, the rest of us just show up and get to work - Chuck Close","noteIcon":"","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:41.902+03:00"}
 ---
 
 
