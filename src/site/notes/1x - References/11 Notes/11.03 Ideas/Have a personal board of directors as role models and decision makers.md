@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Have a personal board of directors as role models and decision makers/","title":"Have a personal board of directors as role models and decision makers","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Have a personal board of directors as role models and decision makers/","title":"Have a personal board of directors as role models and decision makers","noteIcon":"","created":"2023-12-11T19:20:34.000+03:00","updated":"2024-02-14T20:18:31.238+03:00"}
 ---
 
 
