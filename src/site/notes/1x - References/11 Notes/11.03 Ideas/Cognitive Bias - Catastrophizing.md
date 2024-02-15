@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive Bias - Catastrophizing/","title":"Untitled","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive Bias - Catastrophizing/","title":"Cognitive Bias - Catastrophizing","noteIcon":""}
 ---
 
 
