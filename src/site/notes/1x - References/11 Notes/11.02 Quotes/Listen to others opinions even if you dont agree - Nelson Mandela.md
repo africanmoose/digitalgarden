@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Listen to others opinions even if you dont agree - Nelson Mandela/","title":"Listen to others opinions even if you dont agree - Nelson Mandela","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Listen to others opinions even if you dont agree - Nelson Mandela/","title":"Listen to others opinions even if you dont agree - Nelson Mandela","noteIcon":"","created":"2023-09-09T23:55:38.480+03:00","updated":"2024-02-14T20:18:40.765+03:00"}
 ---
 
 
