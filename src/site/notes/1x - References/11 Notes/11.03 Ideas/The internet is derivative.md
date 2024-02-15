@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The internet is derivative/","title":"The internet is derivative","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The internet is derivative/","title":"The internet is derivative","noteIcon":"","created":"2023-09-29T19:09:12.000+03:00","updated":"2024-02-14T20:18:22.098+03:00"}
 ---
 
 
