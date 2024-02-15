@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Not everything that counts can be counted, and not everything  that can be counted counts - Albert Einstein/","title":"structure note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Not everything that counts can be counted, and not everything  that can be counted counts - Albert Einstein/","title":"Not everything that counts can be counted, and not everything  that can be counted counts - Albert Einstein","noteIcon":""}
 ---
 
 
