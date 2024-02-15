@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When you face a problem, struggle with it for as long as possible before asking for help/","title":"When you face a problem, struggle with it for as long as possible before asking for help","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When you face a problem, struggle with it for as long as possible before asking for help/","title":"When you face a problem, struggle with it for as long as possible before asking for help","noteIcon":"","created":"2024-02-15T11:53:23.499+03:00","updated":"2024-02-15T11:57:56.975+03:00"}
 ---
 
 
