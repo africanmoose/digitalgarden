@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spiders on caffeine make weird webs/","title":"Spiders on caffeine make weird webs","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spiders on caffeine make weird webs/","title":"Spiders on caffeine make weird webs","noteIcon":"","created":"2023-08-01T20:44:58.990+03:00","updated":"2024-02-14T20:18:23.642+03:00"}
 ---
 
 
