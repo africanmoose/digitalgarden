@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The testing effect - Revising with practise tests is the most effective/","title":"Revising with practise tests is the most","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The testing effect - Revising with practise tests is the most effective/","title":"The testing effect - Revising with practise tests is the most effective","noteIcon":""}
 ---
 
 
