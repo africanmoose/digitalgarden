@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Disregard the brand new/","title":"Disregard the brand new","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Disregard the brand new/","title":"Disregard the brand new","noteIcon":"","created":"2023-01-14T08:34:58.000+03:00","updated":"2024-02-14T20:18:33.633+03:00"}
 ---
 
 
