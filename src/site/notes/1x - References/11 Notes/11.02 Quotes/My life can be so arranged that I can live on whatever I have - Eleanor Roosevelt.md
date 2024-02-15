@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/My life can be so arranged that I can live on whatever I have - Eleanor Roosevelt/","title":"My life can be so arranged that I can live on whatever I have - Eleanor Roosevelt","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/My life can be so arranged that I can live on whatever I have - Eleanor Roosevelt/","title":"My life can be so arranged that I can live on whatever I have - Eleanor Roosevelt","noteIcon":"","created":"2023-12-25T17:35:33.156+03:00","updated":"2024-02-14T20:18:40.564+03:00"}
 ---
 
 
