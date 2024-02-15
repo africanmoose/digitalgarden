@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Duke Ellington/","title":"Duke Ellington","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Duke Ellington/","title":"Duke Ellington","noteIcon":"","created":"2024-01-20T12:48:30.000+03:00","updated":"2024-02-14T20:18:18.761+03:00"}
 ---
 
 
