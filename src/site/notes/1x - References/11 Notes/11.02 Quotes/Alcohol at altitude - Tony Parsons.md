@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Alcohol at altitude - Tony Parsons/","title":"Alcohol at altitude - Tony Parsons","noteIcon":""}
+---
+
+
+## Quote
+"But alcohol at altitude is one of the most enjoyable experiences known to man, so don’t deny yourself when looking down at the moonscape of Mongolia or watching the sun come up in the sky above the Atlantic. For almost all of history, these experiences were unknown to the human race. Be grateful for going."
+
+## Author
+- Tony Parsons
+
+## Reference
+[GQ 2015 article:  Terrorists and budget airlines will never ruin the romance of flying](https://www.gq-magazine.co.uk/article/tony-parsons-frank-sinatra-flying)
+
+## Related
+- [[1x - References/11 Notes/11.02 Quotes/Experience vs Money - Leonard Lauder\|Experience vs Money - Leonard Lauder]]
+
