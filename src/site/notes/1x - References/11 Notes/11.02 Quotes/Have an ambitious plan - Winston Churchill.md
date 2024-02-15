@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Have an ambitious plan - Winston Churchill/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Have an ambitious plan - Winston Churchill/","title":"Have an ambitious plan - Winston Churchill","noteIcon":""}
 ---
 
 
