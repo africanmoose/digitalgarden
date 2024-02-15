@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ambiguity Aversion/","title":"permanent note","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ambiguity Aversion/","title":"Ambiguity Aversion","noteIcon":""}
 ---
 
 
