@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto 1/","title":"How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto 1","noteIcon":""}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto 1/","title":"How to Taste Coffee - Develop Your Sensory Skills and Get the Most Out of Every Cup - Jessica Easto 1","noteIcon":"","created":"2023-12-29T23:53:27.909+03:00","updated":"2024-02-14T20:17:40.783+03:00"}
 ---
 
 
