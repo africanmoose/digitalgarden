@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spend 5 minutes a day savoring something/","title":"Spend 5 minutes a day savouring something","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spend 5 minutes a day savoring something/","title":"Spend 5 minutes a day savoring something","noteIcon":""}
 ---
 
 
