@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Forest bathing therapy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Forest bathing therapy/","title":"Forest bathing therapy","noteIcon":""}
 ---
 
 
