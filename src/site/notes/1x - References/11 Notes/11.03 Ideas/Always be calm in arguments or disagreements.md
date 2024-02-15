@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Always be calm in arguments or disagreements/","title":"Always be calm in arguments or disagreements","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Always be calm in arguments or disagreements/","title":"Always be calm in arguments or disagreements","noteIcon":"","created":"2022-11-10T20:58:08.000+03:00","updated":"2024-02-14T20:18:36.135+03:00"}
 ---
 
 
