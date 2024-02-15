@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When bad things happen, it is still your responsibility to move on from them/","title":"When bad things happen, it is still your responsibility to move on from them","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When bad things happen, it is still your responsibility to move on from them/","title":"When bad things happen, it is still your responsibility to move on from them","noteIcon":"","created":"2023-12-01T20:37:29.000+03:00","updated":"2024-02-14T20:18:20.690+03:00"}
 ---
 
 
