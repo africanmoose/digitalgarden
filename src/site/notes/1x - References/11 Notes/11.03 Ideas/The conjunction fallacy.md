@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The conjunction fallacy/","title":"The conjunction fallacy","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The conjunction fallacy/","title":"The conjunction fallacy","noteIcon":"","created":"2022-12-22T00:05:25.000+03:00","updated":"2024-02-14T20:18:22.379+03:00"}
 ---
 
 
