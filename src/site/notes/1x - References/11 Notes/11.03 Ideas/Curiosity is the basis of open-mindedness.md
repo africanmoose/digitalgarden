@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Curiosity is the basis of open-mindedness/","title":"Curiosity is the basis of open-mindedness","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Curiosity is the basis of open-mindedness/","title":"Curiosity is the basis of open-mindedness","noteIcon":"","created":"2023-03-26T21:04:52.000+03:00","updated":"2024-02-14T20:18:34.100+03:00"}
 ---
 
 
