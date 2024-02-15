@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Memento mori/","title":"Momentus Mori","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Memento mori/","title":"Memento mori","noteIcon":""}
 ---
 
 
