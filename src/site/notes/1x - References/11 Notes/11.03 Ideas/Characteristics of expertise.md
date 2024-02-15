@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Characteristics of expertise/","title":"Characteristics of expertise","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Characteristics of expertise/","title":"Characteristics of expertise","noteIcon":"","created":"2023-11-04T23:50:25.000+03:00","updated":"2024-02-14T20:18:34.941+03:00"}
 ---
 
 
