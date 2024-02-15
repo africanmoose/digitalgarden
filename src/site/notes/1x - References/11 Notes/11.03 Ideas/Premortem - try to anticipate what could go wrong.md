@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Premortem - try to anticipate what could go wrong/","title":"Premortem","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Premortem - try to anticipate what could go wrong/","title":"Premortem - try to anticipate what could go wrong","noteIcon":""}
 ---
 
 
