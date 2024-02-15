@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Test and learn is preferable to plan and implement strategy/","title":"Test and learn is preferable to plan and implement strategy","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Test and learn is preferable to plan and implement strategy/","title":"Test and learn is preferable to plan and implement strategy","noteIcon":"","created":"2024-02-10T20:16:30.712+03:00","updated":"2024-02-14T20:18:22.697+03:00"}
 ---
 
 
