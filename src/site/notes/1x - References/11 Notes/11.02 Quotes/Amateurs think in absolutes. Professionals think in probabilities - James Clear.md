@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Amateurs think in absolutes. Professionals think in probabilities - James Clear/","title":"Amateurs think in absolutes. Professionals think in probabilities - James Clear","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Amateurs think in absolutes. Professionals think in probabilities - James Clear/","title":"Amateurs think in absolutes. Professionals think in probabilities - James Clear","noteIcon":"","created":"2023-11-26T18:12:15.000+03:00","updated":"2024-02-14T20:18:47.095+03:00"}
 ---
 
 
