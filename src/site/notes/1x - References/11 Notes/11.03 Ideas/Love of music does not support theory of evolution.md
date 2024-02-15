@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Love of music does not support theory of evolution/","title":"Love of music does not support theory of evolution","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Love of music does not support theory of evolution/","title":"Love of music does not support theory of evolution","noteIcon":"","created":"2023-02-12T21:04:41.000+03:00","updated":"2024-02-14T20:18:27.625+03:00"}
 ---
 
 
