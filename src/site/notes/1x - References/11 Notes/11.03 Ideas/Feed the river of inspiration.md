@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Feed the river of inspiration/","title":"Feed the river of inspiration","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Feed the river of inspiration/","title":"Feed the river of inspiration","noteIcon":"","created":"2023-03-26T18:37:29.000+03:00","updated":"2024-02-14T20:18:32.284+03:00"}
 ---
 
 
