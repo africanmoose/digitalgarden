@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Chrissie Wellington/","title":"Chrissie Wellington","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Chrissie Wellington/","title":"Chrissie Wellington","noteIcon":"","created":"2024-02-11T14:47:41.462+03:00","updated":"2024-02-14T20:18:19.001+03:00"}
 ---
 
 
