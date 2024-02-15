@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Memory is state-dependent/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Memory is state-dependent/","title":"Memory is state-dependent","noteIcon":""}
 ---
 
 
