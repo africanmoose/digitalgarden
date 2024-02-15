@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Sen no Rikyū/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Sen no Rikyū/","title":"Sen no Rikyū","noteIcon":""}
 ---
 
 ---
