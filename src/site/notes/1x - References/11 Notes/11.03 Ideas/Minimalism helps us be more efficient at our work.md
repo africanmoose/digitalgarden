@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work/","title":"Minimalism helps us be more efficient at our work","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Minimalism helps us be more efficient at our work/","title":"Minimalism helps us be more efficient at our work","noteIcon":"","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:18:27.138+03:00"}
 ---
 
 
