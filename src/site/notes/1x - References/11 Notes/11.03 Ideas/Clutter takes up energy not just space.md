@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Clutter takes up energy not just space/","title":"Clutter takes up energy not just space","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Clutter takes up energy not just space/","title":"Clutter takes up energy not just space","noteIcon":"","created":"2023-11-11T23:41:48.000+03:00","updated":"2024-02-14T20:18:34.611+03:00"}
 ---
 
 
