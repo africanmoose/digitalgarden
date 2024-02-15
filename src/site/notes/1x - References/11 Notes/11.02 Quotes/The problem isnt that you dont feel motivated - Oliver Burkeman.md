@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The problem isnt that you dont feel motivated - Oliver Burkeman/","title":"The problem isnt that you dont feel motivated - Oliver Burkeman","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The problem isnt that you dont feel motivated - Oliver Burkeman/","title":"The problem isnt that you dont feel motivated - Oliver Burkeman","noteIcon":"","created":"2023-01-23T18:31:40.000+03:00","updated":"2024-02-14T20:18:37.498+03:00"}
 ---
 
 
