@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/People are usually happy to talk about themselves and their work/","title":"People are usually happy to talk about themselves","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/People are usually happy to talk about themselves and their work/","title":"People are usually happy to talk about themselves and their work","noteIcon":""}
 ---
 
 
