@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spaced repetition is the best way to remember things/","title":"Spaced Repetition","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spaced repetition is the best way to remember things/","title":"Spaced repetition is the best way to remember things","noteIcon":""}
 ---
 
 ---
