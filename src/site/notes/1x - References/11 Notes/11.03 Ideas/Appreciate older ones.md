@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Appreciate older ones/","title":"Appreciate older ones","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Appreciate older ones/","title":"Appreciate older ones","noteIcon":"","created":"2022-11-08T18:10:13.000+03:00","updated":"2024-02-14T20:18:36.089+03:00"}
 ---
 
 
