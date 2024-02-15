@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Reality - Philip K Dick/","title":"Reality - Philip K Dick","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Reality - Philip K Dick/","title":"Reality - Philip K Dick","noteIcon":"","created":"2023-01-07T07:48:55.000+03:00","updated":"2024-02-14T20:18:39.762+03:00"}
 ---
 
 
