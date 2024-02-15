@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Earth is the exact right kind of planet for life/","title":"Earth is the precise correct distance from the sun","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Earth is the exact right kind of planet for life/","title":"Earth is the exact right kind of planet for life","noteIcon":""}
 ---
 
 
