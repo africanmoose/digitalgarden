@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Envy is stupid/","title":"Envy is stupid","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Envy is stupid/","title":"Envy is stupid","noteIcon":"","created":"2022-12-29T17:15:05.000+03:00","updated":"2024-02-14T20:18:32.920+03:00"}
 ---
 
 
