@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The importance of Analysis to improve/","title":"The importance of Analysis to improve","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The importance of Analysis to improve/","title":"The importance of Analysis to improve","noteIcon":"","created":"2023-02-08T17:53:01.000+03:00","updated":"2024-02-14T20:18:22.123+03:00"}
 ---
 
 
