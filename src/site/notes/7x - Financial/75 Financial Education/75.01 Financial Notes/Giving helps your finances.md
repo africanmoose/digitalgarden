@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Giving helps your finances/","title":"Giving helps your finances","noteIcon":""}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Giving helps your finances/","title":"Giving helps your finances","noteIcon":"","created":"2023-08-27T15:56:55.240+03:00","updated":"2024-02-14T20:17:37.991+03:00"}
 ---
 
 
