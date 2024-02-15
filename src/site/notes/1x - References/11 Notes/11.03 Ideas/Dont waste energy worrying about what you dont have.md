@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont waste energy worrying about what you dont have/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont waste energy worrying about what you dont have/","title":"Dont waste energy worrying about what you dont have","noteIcon":""}
 ---
 
 
