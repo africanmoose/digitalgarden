@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power/","title":"Writing notes in your own words has power","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Writing notes in your own words has power/","title":"Writing notes in your own words has power","noteIcon":"","created":"2022-11-01T13:43:58.000+03:00","updated":"2024-02-14T20:18:19.932+03:00"}
 ---
 
 
