@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Alcohol at altitude - Tony Parsons/","title":"Alcohol at altitude - Tony Parsons","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Alcohol at altitude - Tony Parsons/","title":"Alcohol at altitude - Tony Parsons","noteIcon":"","created":"2022-11-08T22:18:06.000+03:00","updated":"2024-02-15T10:00:39.655+03:00"}
 ---
 
 
