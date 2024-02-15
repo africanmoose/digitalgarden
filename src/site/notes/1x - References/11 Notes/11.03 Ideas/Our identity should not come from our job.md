@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our identity should not come from our job/","title":"Our identity should not come from our job","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our identity should not come from our job/","title":"Our identity should not come from our job","noteIcon":"","created":"2023-10-01T21:34:30.000+03:00","updated":"2024-02-14T20:18:26.201+03:00"}
 ---
 
 
