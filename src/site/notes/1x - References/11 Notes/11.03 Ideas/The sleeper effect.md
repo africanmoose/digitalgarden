@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The sleeper effect/","title":"The sleeper effect","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The sleeper effect/","title":"The sleeper effect","noteIcon":"","created":"2022-12-26T21:17:44.000+03:00","updated":"2024-02-14T20:18:22.052+03:00"}
 ---
 
 
