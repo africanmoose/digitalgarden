@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/James Croll/","title":"James Croll","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/James Croll/","title":"James Croll","noteIcon":"","created":"2023-08-28T20:27:32.012+03:00","updated":"2024-02-14T20:18:18.271+03:00"}
 ---
 
 
