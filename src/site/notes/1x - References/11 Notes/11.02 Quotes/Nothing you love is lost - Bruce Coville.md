@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Nothing you love is lost - Bruce Coville/","title":"Nothing you love is lost - Bruce Coville","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Nothing you love is lost - Bruce Coville/","title":"Nothing you love is lost - Bruce Coville","noteIcon":"","created":"2024-02-11T22:06:00.450+03:00","updated":"2024-02-14T20:18:40.080+03:00"}
 ---
 
 
