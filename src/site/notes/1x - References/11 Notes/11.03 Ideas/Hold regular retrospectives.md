@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hold regular retrospectives/","title":"Hold regular retrospectives","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hold regular retrospectives/","title":"Hold regular retrospectives","noteIcon":"","created":"2023-01-08T08:44:29.000+03:00","updated":"2024-02-14T20:18:30.785+03:00"}
 ---
 
 
