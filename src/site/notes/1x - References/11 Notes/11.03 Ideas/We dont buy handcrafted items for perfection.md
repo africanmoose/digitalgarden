@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We dont buy handcrafted items for perfection/","title":"We dont buy handcrafted items for perfection","noteIcon":""}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We dont buy handcrafted items for perfection/","title":"We dont buy handcrafted items for perfection","noteIcon":"","created":"2022-11-09T10:44:22.000+03:00","updated":"2024-02-14T20:18:21.249+03:00"}
 ---
 
 
