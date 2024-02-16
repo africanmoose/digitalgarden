@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Stability makes us feel safe but is unrealistic/","title":"Stability makes us feel safe but is unrealistic","noteIcon":"","created":"2022-11-08T10:27:33.000+03:00","updated":"2024-02-14T20:18:23.559+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Stability makes us feel safe but is unrealistic/","title":"Stability makes us feel safe but is unrealistic","created":"2022-11-08T10:27:33.000+03:00","updated":"2024-02-14T20:18:23.559+03:00"}
 ---
 
 
