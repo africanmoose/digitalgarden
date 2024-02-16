@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The word Alcohol from Arabic alkohl/","title":"The word Alcohol from Arabic alkohl","noteIcon":"","created":"2023-09-01T20:48:34.621+03:00","updated":"2024-02-14T20:18:21.945+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The word Alcohol from Arabic alkohl/","title":"The word Alcohol from Arabic alkohl","created":"2023-09-01T20:48:34.621+03:00","updated":"2024-02-14T20:18:21.945+03:00"}
 ---
 
 
