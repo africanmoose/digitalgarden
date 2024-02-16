@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Flexible focus better than relentless focus/","title":"Flexible focus better than relentless focus","noteIcon":"","created":"2023-07-17T21:43:11.000+03:00","updated":"2024-02-14T20:18:32.058+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Flexible focus better than relentless focus/","title":"Flexible focus better than relentless focus","created":"2023-07-17T21:43:11.000+03:00","updated":"2024-02-14T20:18:32.058+03:00"}
 ---
 
 
