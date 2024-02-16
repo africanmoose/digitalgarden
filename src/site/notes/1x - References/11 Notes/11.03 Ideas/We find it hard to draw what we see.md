@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We find it hard to draw what we see/","title":"We find it hard to draw what we see","noteIcon":"","created":"2023-02-13T13:10:47.000+03:00","updated":"2024-02-14T20:18:21.209+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We find it hard to draw what we see/","title":"We find it hard to draw what we see","created":"2023-02-13T13:10:47.000+03:00","updated":"2024-02-14T20:18:21.209+03:00"}
 ---
 
 
