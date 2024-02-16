@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/W. B. Yeats/","title":"W. B. Yeats","noteIcon":"","created":"2023-05-01T09:31:42.000+03:00","updated":"2024-02-14T20:18:18.028+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/W. B. Yeats/","title":"W. B. Yeats","created":"2023-05-01T09:31:42.000+03:00","updated":"2024-02-14T20:18:18.028+03:00"}
 ---
 
 
