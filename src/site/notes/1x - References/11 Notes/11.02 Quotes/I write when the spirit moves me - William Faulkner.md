@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/I write when the spirit moves me - William Faulkner/","title":"I write when the spirit moves me - William Faulkner","noteIcon":"","created":"2023-04-30T21:36:44.000+03:00","updated":"2024-02-14T20:18:42.909+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/I write when the spirit moves me - William Faulkner/","title":"I write when the spirit moves me - William Faulkner","created":"2023-04-30T21:36:44.000+03:00","updated":"2024-02-14T20:18:42.909+03:00"}
 ---
 
 
