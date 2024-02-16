@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Genius versus skill accumulation/","title":"Genius versus skill accumulation","noteIcon":"","created":"2023-01-22T21:47:32.000+03:00","updated":"2024-02-14T20:18:31.741+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Genius versus skill accumulation/","title":"Genius versus skill accumulation","created":"2023-01-22T21:47:32.000+03:00","updated":"2024-02-14T20:18:31.741+03:00"}
 ---
 
 
