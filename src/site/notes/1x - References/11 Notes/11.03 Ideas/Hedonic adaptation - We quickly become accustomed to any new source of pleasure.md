@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure/","title":"Hedonic adaptation - We quickly become accustomed to any new source of pleasure","noteIcon":"","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:30.982+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hedonic adaptation - We quickly become accustomed to any new source of pleasure/","title":"Hedonic adaptation - We quickly become accustomed to any new source of pleasure","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:30.982+03:00"}
 ---
 
 
