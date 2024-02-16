@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Save beautiful and special moments in your memory/","title":"Save beautiful and special moments in your memory","noteIcon":"","created":"2022-11-08T18:09:57.000+03:00","updated":"2024-02-14T20:18:24.672+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Save beautiful and special moments in your memory/","title":"Save beautiful and special moments in your memory","created":"2022-11-08T18:09:57.000+03:00","updated":"2024-02-14T20:18:24.672+03:00"}
 ---
 
 
