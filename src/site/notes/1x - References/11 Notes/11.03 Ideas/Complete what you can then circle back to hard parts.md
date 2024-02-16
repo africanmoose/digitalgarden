@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Complete what you can then circle back to hard parts/","title":"Complete what you can then circle back to hard parts","noteIcon":"","created":"2023-03-26T19:04:46.000+03:00","updated":"2024-02-14T20:18:34.281+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Complete what you can then circle back to hard parts/","title":"Complete what you can then circle back to hard parts","created":"2023-03-26T19:04:46.000+03:00","updated":"2024-02-14T20:18:34.281+03:00"}
 ---
 
 
