@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Ernest Hemmingway/","title":"Ernest Hemmingway","noteIcon":"","created":"2023-04-30T20:21:00.000+03:00","updated":"2024-02-14T20:18:18.665+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Ernest Hemmingway/","title":"Ernest Hemmingway","created":"2023-04-30T20:21:00.000+03:00","updated":"2024-02-14T20:18:18.665+03:00"}
 ---
 
 
