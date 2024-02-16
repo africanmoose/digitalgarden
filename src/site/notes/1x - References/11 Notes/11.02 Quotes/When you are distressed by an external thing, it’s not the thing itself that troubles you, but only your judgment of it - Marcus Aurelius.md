@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/When you are distressed by an external thing, it’s not the thing itself that troubles you, but only your judgment of it - Marcus Aurelius/","title":"When you are distressed by an external thing, it’s not the thing itself that troubles you, but only your judgment of it - Marcus Aurelius","noteIcon":"","created":"2023-12-23T23:04:52.000+03:00","updated":"2024-02-14T20:18:36.395+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/When you are distressed by an external thing, it’s not the thing itself that troubles you, but only your judgment of it - Marcus Aurelius/","title":"When you are distressed by an external thing, it’s not the thing itself that troubles you, but only your judgment of it - Marcus Aurelius","created":"2023-12-23T23:04:52.000+03:00","updated":"2024-02-14T20:18:36.395+03:00"}
 ---
 
 
