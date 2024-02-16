@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Opportunity Engineering and Serendipity/","title":"Opportunity Engineering and Serendipity","noteIcon":"","created":"2022-10-28T13:09:37.000+03:00","updated":"2024-02-14T20:18:26.314+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Opportunity Engineering and Serendipity/","title":"Opportunity Engineering and Serendipity","created":"2022-10-28T13:09:37.000+03:00","updated":"2024-02-14T20:18:26.314+03:00"}
 ---
 
 
