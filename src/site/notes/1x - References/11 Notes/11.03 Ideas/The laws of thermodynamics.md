@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The laws of thermodynamics/","title":"The laws of thermodynamics","noteIcon":"","created":"2023-08-28T20:41:01.395+03:00","updated":"2024-02-14T20:18:22.094+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The laws of thermodynamics/","title":"The laws of thermodynamics","created":"2023-08-28T20:41:01.395+03:00","updated":"2024-02-14T20:18:22.094+03:00"}
 ---
 
 
