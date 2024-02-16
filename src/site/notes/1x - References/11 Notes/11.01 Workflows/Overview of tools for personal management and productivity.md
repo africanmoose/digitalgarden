@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tools","permalink":"/tools/","title":"Overview of tools for personal management and productivity","noteIcon":"","created":"2023-12-05T10:55:50.000+03:00","updated":"2024-02-14T20:18:47.909+03:00"}
+{"dg-publish":true,"dg-permalink":"tools","permalink":"/tools/","title":"Overview of tools for personal management and productivity","created":"2023-12-05T10:55:50.000+03:00","updated":"2024-02-14T20:18:47.909+03:00"}
 ---
 
 ---
