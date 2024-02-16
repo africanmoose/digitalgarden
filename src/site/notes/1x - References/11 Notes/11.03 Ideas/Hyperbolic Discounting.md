@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hyperbolic Discounting/","title":"Hyperbolic Discounting","noteIcon":"","created":"2022-12-23T00:04:06.000+03:00","updated":"2024-02-14T20:18:30.035+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hyperbolic Discounting/","title":"Hyperbolic Discounting","created":"2022-12-23T00:04:06.000+03:00","updated":"2024-02-14T20:18:30.035+03:00"}
 ---
 
 
