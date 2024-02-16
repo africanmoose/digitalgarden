@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Yo-Yo Ma/","title":"Yo-Yo Ma","noteIcon":"","created":"2024-02-03T11:44:37.916+03:00","updated":"2024-02-14T20:18:18.002+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Yo-Yo Ma/","title":"Yo-Yo Ma","created":"2024-02-03T11:44:37.916+03:00","updated":"2024-02-14T20:18:18.002+03:00"}
 ---
 
 
