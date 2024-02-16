@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/William James/","title":"William James","noteIcon":"","created":"2023-05-01T08:57:39.000+03:00","updated":"2024-02-14T20:18:18.003+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/William James/","title":"William James","created":"2023-05-01T08:57:39.000+03:00","updated":"2024-02-14T20:18:18.003+03:00"}
 ---
 
 
