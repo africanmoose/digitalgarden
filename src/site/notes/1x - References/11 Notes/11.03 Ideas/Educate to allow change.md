@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Educate to allow change/","title":"Educate to allow change","noteIcon":"","created":"2024-01-08T21:33:06.000+03:00","updated":"2024-02-14T20:18:33.097+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Educate to allow change/","title":"Educate to allow change","created":"2024-01-08T21:33:06.000+03:00","updated":"2024-02-14T20:18:33.097+03:00"}
 ---
 
 
