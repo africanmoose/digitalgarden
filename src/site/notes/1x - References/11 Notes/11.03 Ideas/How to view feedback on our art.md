@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How to view feedback on our art/","title":"How to view feedback on our art","noteIcon":"","created":"2023-03-26T18:28:58.000+03:00","updated":"2024-02-14T20:18:30.285+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How to view feedback on our art/","title":"How to view feedback on our art","created":"2023-03-26T18:28:58.000+03:00","updated":"2024-02-14T20:18:30.285+03:00"}
 ---
 
 
