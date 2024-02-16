@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Find joy in what you do not in what you wish you did/","title":"Find joy in what you do not in what you wish you did","noteIcon":"","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:32.179+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Find joy in what you do not in what you wish you did/","title":"Find joy in what you do not in what you wish you did","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:32.179+03:00"}
 ---
 
 
