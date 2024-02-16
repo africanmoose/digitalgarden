@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Be able to enjoy silence/","title":"Be able to enjoy silence","noteIcon":"","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:35.782+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Be able to enjoy silence/","title":"Be able to enjoy silence","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:35.782+03:00"}
 ---
 
 
