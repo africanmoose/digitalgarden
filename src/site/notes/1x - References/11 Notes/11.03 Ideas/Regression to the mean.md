@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Regression to the mean/","title":"Regression to the mean","noteIcon":"","created":"2022-12-21T20:38:11.000+03:00","updated":"2024-02-14T20:18:24.890+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Regression to the mean/","title":"Regression to the mean","created":"2022-12-21T20:38:11.000+03:00","updated":"2024-02-14T20:18:24.890+03:00"}
 ---
 
 
