@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Happiness comes when we are otherwise engaged/","title":"Happiness comes when we are otherwise engaged","noteIcon":"","created":"2023-01-22T11:25:48.000+03:00","updated":"2024-02-14T20:18:31.317+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Happiness comes when we are otherwise engaged/","title":"Happiness comes when we are otherwise engaged","created":"2023-01-22T11:25:48.000+03:00","updated":"2024-02-14T20:18:31.317+03:00"}
 ---
 
 
