@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask an expert to share their knowlege/","title":"Ask an expert to share their knowlege","noteIcon":"","created":"2023-12-23T21:25:43.000+03:00","updated":"2024-02-14T20:18:35.908+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask an expert to share their knowlege/","title":"Ask an expert to share their knowlege","created":"2023-12-23T21:25:43.000+03:00","updated":"2024-02-14T20:18:35.908+03:00"}
 ---
 
 
