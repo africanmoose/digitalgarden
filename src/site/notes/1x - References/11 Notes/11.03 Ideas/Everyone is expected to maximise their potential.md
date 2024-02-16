@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Everyone is expected to maximise their potential/","title":"Everyone is expected to maximise their potential","noteIcon":"","created":"2023-02-11T15:05:37.000+03:00","updated":"2024-02-14T20:18:32.795+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Everyone is expected to maximise their potential/","title":"Everyone is expected to maximise their potential","created":"2023-02-11T15:05:37.000+03:00","updated":"2024-02-14T20:18:32.795+03:00"}
 ---
 
 
