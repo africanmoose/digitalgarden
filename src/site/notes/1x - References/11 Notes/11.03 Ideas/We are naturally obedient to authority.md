@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We are naturally obedient to authority/","title":"We are naturally obedient to authority","noteIcon":"","created":"2023-03-08T07:56:43.000+03:00","updated":"2024-02-14T20:18:21.344+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We are naturally obedient to authority/","title":"We are naturally obedient to authority","created":"2023-03-08T07:56:43.000+03:00","updated":"2024-02-14T20:18:21.344+03:00"}
 ---
 
 
