@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Earth is the exact right kind of planet for life/","title":"Earth is the exact right kind of planet for life","noteIcon":"","created":"2023-08-29T17:40:37.954+03:00","updated":"2024-02-14T20:18:33.149+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Earth is the exact right kind of planet for life/","title":"Earth is the exact right kind of planet for life","created":"2023-08-29T17:40:37.954+03:00","updated":"2024-02-14T20:18:33.149+03:00"}
 ---
 
 
