@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learn Slow/","title":"Learn Slow","noteIcon":"","created":"2022-11-01T15:01:51.000+03:00","updated":"2024-02-14T20:18:28.749+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learn Slow/","title":"Learn Slow","created":"2022-11-01T15:01:51.000+03:00","updated":"2024-02-14T20:18:28.749+03:00"}
 ---
 
 ---
