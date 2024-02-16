@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The forecast illusion/","title":"The forecast illusion","noteIcon":"","created":"2023-01-01T17:58:09.000+03:00","updated":"2024-02-14T20:18:22.247+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The forecast illusion/","title":"The forecast illusion","created":"2023-01-01T17:58:09.000+03:00","updated":"2024-02-14T20:18:22.247+03:00"}
 ---
 
 
