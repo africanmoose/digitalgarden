@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fallacy of the single cause/","title":"Fallacy of the single cause","noteIcon":"","created":"2023-01-01T17:48:54.000+03:00","updated":"2024-02-14T20:18:32.419+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fallacy of the single cause/","title":"Fallacy of the single cause","created":"2023-01-01T17:48:54.000+03:00","updated":"2024-02-14T20:18:32.419+03:00"}
 ---
 
 
