@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Sen no Rikyū/","title":"Sen no Rikyū","noteIcon":"","created":"2023-07-24T20:14:35.881+03:00","updated":"2024-02-14T20:18:18.041+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Sen no Rikyū/","title":"Sen no Rikyū","created":"2023-07-24T20:14:35.881+03:00","updated":"2024-02-14T20:18:18.041+03:00"}
 ---
 
 ---
