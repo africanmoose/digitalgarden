@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Be more Japan - the art of japanese living/","title":"Be more Japan - the art of japanese living","noteIcon":"","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:17:40.971+03:00"}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Be more Japan - the art of japanese living/","title":"Be more Japan - the art of japanese living","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:17:40.971+03:00"}
 ---
 
 
