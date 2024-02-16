@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Everything you own should have a specific home/","title":"Everything you own should have a specific home","noteIcon":"","created":"2023-07-24T20:14:32.124+03:00","updated":"2024-02-14T20:18:32.745+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Everything you own should have a specific home/","title":"Everything you own should have a specific home","created":"2023-07-24T20:14:32.124+03:00","updated":"2024-02-14T20:18:32.745+03:00"}
 ---
 
 
