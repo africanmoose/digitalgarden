@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/I watch people in the world - Ryokan Taigu/","title":"I watch people in the world - Ryokan Taigu","noteIcon":"","created":"2023-09-07T11:45:01.056+03:00","updated":"2024-02-14T20:18:17.957+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/I watch people in the world - Ryokan Taigu/","title":"I watch people in the world - Ryokan Taigu","created":"2023-09-07T11:45:01.056+03:00","updated":"2024-02-14T20:18:17.957+03:00"}
 ---
 
 
