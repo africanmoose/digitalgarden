@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Preserve optionality even if it makes you look stupid in the short term/","title":"Preserve optionality even if it makes you look stupid in the short term","noteIcon":"","created":"2023-12-23T22:46:21.000+03:00","updated":"2024-02-14T20:18:25.316+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Preserve optionality even if it makes you look stupid in the short term/","title":"Preserve optionality even if it makes you look stupid in the short term","created":"2023-12-23T22:46:21.000+03:00","updated":"2024-02-14T20:18:25.316+03:00"}
 ---
 
 
