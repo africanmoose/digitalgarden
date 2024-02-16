@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Appreciate people for who they are not how you want them to be/","title":"Appreciate people for who they are not how you want them to be","noteIcon":"","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:36.085+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Appreciate people for who they are not how you want them to be/","title":"Appreciate people for who they are not how you want them to be","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:36.085+03:00"}
 ---
 
 
