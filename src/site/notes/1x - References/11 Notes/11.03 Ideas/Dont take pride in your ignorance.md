@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont take pride in your ignorance/","title":"Dont take pride in your ignorance","noteIcon":"","created":"2023-07-28T19:00:13.936+03:00","updated":"2024-02-14T20:18:33.183+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont take pride in your ignorance/","title":"Dont take pride in your ignorance","created":"2023-07-28T19:00:13.936+03:00","updated":"2024-02-14T20:18:33.183+03:00"}
 ---
 
 
