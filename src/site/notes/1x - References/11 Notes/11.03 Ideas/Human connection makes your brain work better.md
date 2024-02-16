@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Human connection makes your brain work better/","title":"Human connection makes your brain work better","noteIcon":"","created":"2023-07-29T18:44:42.647+03:00","updated":"2024-02-14T20:18:30.208+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Human connection makes your brain work better/","title":"Human connection makes your brain work better","created":"2023-07-29T18:44:42.647+03:00","updated":"2024-02-14T20:18:30.208+03:00"}
 ---
 
 
