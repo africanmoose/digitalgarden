@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Train employees well enough to get another job/","title":"Train employees well enough to get another job","noteIcon":"","created":"2022-12-20T00:30:51.000+03:00","updated":"2024-02-14T20:18:36.860+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Train employees well enough to get another job/","title":"Train employees well enough to get another job","created":"2022-12-20T00:30:51.000+03:00","updated":"2024-02-14T20:18:36.860+03:00"}
 ---
 
 
