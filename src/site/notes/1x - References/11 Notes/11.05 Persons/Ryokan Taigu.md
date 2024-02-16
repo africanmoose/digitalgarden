@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Ryokan Taigu/","title":"Ryokan Taigu","noteIcon":"","created":"2022-11-29T23:12:48.000+03:00","updated":"2024-02-14T20:18:18.043+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Ryokan Taigu/","title":"Ryokan Taigu","created":"2022-11-29T23:12:48.000+03:00","updated":"2024-02-14T20:18:18.043+03:00"}
 ---
 
 
