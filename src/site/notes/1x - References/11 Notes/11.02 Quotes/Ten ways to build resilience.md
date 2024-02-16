@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ten ways to build resilience/","title":"Ten ways to build resilience","noteIcon":"","created":"2022-11-08T22:18:05.000+03:00","updated":"2024-02-14T20:18:38.590+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Ten ways to build resilience/","title":"Ten ways to build resilience","created":"2022-11-08T22:18:05.000+03:00","updated":"2024-02-14T20:18:38.590+03:00"}
 ---
 
 
