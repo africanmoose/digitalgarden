@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered - Nelson Mandela/","title":"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered - Nelson Mandela","noteIcon":"","created":"2023-09-09T23:56:55.905+03:00","updated":"2024-02-14T20:18:37.223+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered - Nelson Mandela/","title":"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered - Nelson Mandela","created":"2023-09-09T23:56:55.905+03:00","updated":"2024-02-14T20:18:37.223+03:00"}
 ---
 
 
