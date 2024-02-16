@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Thinking uses energy/","title":"Thinking uses energy","noteIcon":"","created":"2022-12-25T08:47:05.000+03:00","updated":"2024-02-14T20:18:21.887+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Thinking uses energy/","title":"Thinking uses energy","created":"2022-12-25T08:47:05.000+03:00","updated":"2024-02-14T20:18:21.887+03:00"}
 ---
 
 
