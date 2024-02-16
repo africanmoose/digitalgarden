@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey/","title":"The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey","noteIcon":"","created":"2023-10-29T23:43:26.000+03:00","updated":"2024-02-14T20:17:40.402+03:00"}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey/","title":"The Productivity Project - Accomplishing More by Managing Your Time, Attention, and Energy - Chris Bailey","created":"2023-10-29T23:43:26.000+03:00","updated":"2024-02-14T20:17:40.402+03:00"}
 ---
 
 ![The Productivity Project - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20Productivity%20Project%20-%20cover.jpg)
