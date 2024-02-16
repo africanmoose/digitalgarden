@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The great men keep working - Pritchett/","title":"The great men keep working - Pritchett","noteIcon":"","created":"2023-05-03T07:44:49.000+03:00","updated":"2024-02-14T20:18:37.945+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The great men keep working - Pritchett/","title":"The great men keep working - Pritchett","created":"2023-05-03T07:44:49.000+03:00","updated":"2024-02-14T20:18:37.945+03:00"}
 ---
 
 
