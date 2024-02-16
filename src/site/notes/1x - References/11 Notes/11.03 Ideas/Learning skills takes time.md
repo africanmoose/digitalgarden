@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning skills takes time/","title":"Learning skills takes time","noteIcon":"","created":"2023-02-12T08:02:30.000+03:00","updated":"2024-02-14T20:18:28.428+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning skills takes time/","title":"Learning skills takes time","created":"2023-02-12T08:02:30.000+03:00","updated":"2024-02-14T20:18:28.428+03:00"}
 ---
 
 
