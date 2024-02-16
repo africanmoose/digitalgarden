@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Specific goals can be counter productive/","title":"Specific goals can be counter productive","noteIcon":"","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:23.757+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Specific goals can be counter productive/","title":"Specific goals can be counter productive","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:23.757+03:00"}
 ---
 
 
