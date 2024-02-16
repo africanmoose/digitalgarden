@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ability to do hard things is an asset/","title":"Ability to do hard things is an asset","noteIcon":"","created":"2023-07-20T21:24:19.383+03:00","updated":"2024-02-14T20:18:36.217+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ability to do hard things is an asset/","title":"Ability to do hard things is an asset","created":"2023-07-20T21:24:19.383+03:00","updated":"2024-02-14T20:18:36.217+03:00"}
 ---
 
 
