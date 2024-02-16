@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/If a nation's literature declines, the nation atrophies and decays - Ezra Pound/","title":"If a nation's literature declines, the nation atrophies and decays - Ezra Pound","noteIcon":"","created":"2023-09-06T21:35:50.786+03:00","updated":"2024-02-14T20:18:42.870+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/If a nation's literature declines, the nation atrophies and decays - Ezra Pound/","title":"If a nation's literature declines, the nation atrophies and decays - Ezra Pound","created":"2023-09-06T21:35:50.786+03:00","updated":"2024-02-14T20:18:42.870+03:00"}
 ---
 
 
