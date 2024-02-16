@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/How Powerpoint makes you stupid - Franck Frommer/","title":"How Powerpoint makes you stupid - Franck Frommer","noteIcon":"","created":"2023-01-12T19:33:59.000+03:00","updated":"2024-02-14T20:17:40.790+03:00"}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/How Powerpoint makes you stupid - Franck Frommer/","title":"How Powerpoint makes you stupid - Franck Frommer","created":"2023-01-12T19:33:59.000+03:00","updated":"2024-02-14T20:17:40.790+03:00"}
 ---
 
 
