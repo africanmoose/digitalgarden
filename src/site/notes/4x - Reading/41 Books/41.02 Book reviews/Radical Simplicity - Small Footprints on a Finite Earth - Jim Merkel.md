@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel/","title":"Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel","noteIcon":"","created":"2024-01-12T11:04:16.000+03:00","updated":"2024-02-14T20:17:40.640+03:00"}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel/","title":"Radical Simplicity - Small Footprints on a Finite Earth - Jim Merkel","created":"2024-01-12T11:04:16.000+03:00","updated":"2024-02-14T20:17:40.640+03:00"}
 ---
 
 ![Radical simplicity - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/Radical%20simplicity%20-%20cover.jpg)
