@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar/","title":"You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar","noteIcon":"","created":"2023-02-11T22:42:54.000+03:00","updated":"2024-02-14T20:18:36.310+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar/","title":"You have to learn to learn - learn to unlearn and learn to re-learn - Ravi Kumar","created":"2023-02-11T22:42:54.000+03:00","updated":"2024-02-14T20:18:36.310+03:00"}
 ---
 
 
