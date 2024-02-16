@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The Sechenov Effect/","title":"The Sechenov Effect","noteIcon":"","created":"2023-01-21T00:17:01.000+03:00","updated":"2024-02-14T20:18:22.572+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The Sechenov Effect/","title":"The Sechenov Effect","created":"2023-01-21T00:17:01.000+03:00","updated":"2024-02-14T20:18:22.572+03:00"}
 ---
 
 
