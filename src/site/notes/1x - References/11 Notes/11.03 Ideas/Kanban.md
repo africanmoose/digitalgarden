@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Kanban/","title":"Kanban","noteIcon":"","created":"2023-01-05T20:41:45.000+03:00","updated":"2024-02-14T20:18:28.934+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Kanban/","title":"Kanban","created":"2023-01-05T20:41:45.000+03:00","updated":"2024-02-14T20:18:28.934+03:00"}
 ---
 
 
