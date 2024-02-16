@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learn like a baby - Just dive in and try it/","title":"Learn like a baby - Just dive in and try it","noteIcon":"","created":"2024-02-08T21:01:15.495+03:00","updated":"2024-02-15T08:54:39.343+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learn like a baby - Just dive in and try it/","title":"Learn like a baby - Just dive in and try it","created":"2024-02-08T21:01:15.495+03:00","updated":"2024-02-15T08:54:39.343+03:00"}
 ---
 
 
