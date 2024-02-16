@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Replace judgement with curiousity - Nottage/","title":"Replace judgement with curiousity - Nottage","noteIcon":"","created":"2023-06-24T17:22:05.000+03:00","updated":"2024-02-14T20:18:39.623+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Replace judgement with curiousity - Nottage/","title":"Replace judgement with curiousity - Nottage","created":"2023-06-24T17:22:05.000+03:00","updated":"2024-02-14T20:18:39.623+03:00"}
 ---
 
 
