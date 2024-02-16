@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain/","title":"Learning something new is good for your brain","noteIcon":"","created":"2023-02-11T08:46:13.000+03:00","updated":"2024-02-14T20:18:28.368+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning something new is good for your brain/","title":"Learning something new is good for your brain","created":"2023-02-11T08:46:13.000+03:00","updated":"2024-02-14T20:18:28.368+03:00"}
 ---
 
 
