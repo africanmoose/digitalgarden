@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Intention to remember is not important in actual remembering/","title":"Intention to remember is not important in actual remembering","noteIcon":"","created":"2023-04-23T10:07:19.000+03:00","updated":"2024-02-14T20:18:29.344+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Intention to remember is not important in actual remembering/","title":"Intention to remember is not important in actual remembering","created":"2023-04-23T10:07:19.000+03:00","updated":"2024-02-14T20:18:29.344+03:00"}
 ---
 
 
