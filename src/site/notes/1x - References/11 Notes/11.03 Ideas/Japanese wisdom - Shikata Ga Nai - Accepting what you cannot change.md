@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Shikata Ga Nai - Accepting what you cannot change/","title":"Japanese wisdom - Shikata Ga Nai - Accepting what you cannot change","noteIcon":"","created":"2023-08-12T09:08:08.794+03:00","updated":"2024-02-14T20:18:29.082+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Japanese wisdom - Shikata Ga Nai - Accepting what you cannot change/","title":"Japanese wisdom - Shikata Ga Nai - Accepting what you cannot change","created":"2023-08-12T09:08:08.794+03:00","updated":"2024-02-14T20:18:29.082+03:00"}
 ---
 
 
