@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/All work is collaboration/","title":"All work is collaboration","noteIcon":"","created":"2023-03-23T18:28:11.000+03:00","updated":"2024-02-14T20:18:36.169+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/All work is collaboration/","title":"All work is collaboration","created":"2023-03-23T18:28:11.000+03:00","updated":"2024-02-14T20:18:36.169+03:00"}
 ---
 
 
