@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Practical usage of knowlege is superior to theory/","title":"Practical usage of knowlege is superior to theory","noteIcon":"","created":"2023-04-26T21:17:51.000+03:00","updated":"2024-02-14T20:18:25.363+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Practical usage of knowlege is superior to theory/","title":"Practical usage of knowlege is superior to theory","created":"2023-04-26T21:17:51.000+03:00","updated":"2024-02-14T20:18:25.363+03:00"}
 ---
 
 
