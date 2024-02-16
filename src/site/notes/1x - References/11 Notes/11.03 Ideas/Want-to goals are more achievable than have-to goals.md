@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Want-to goals are more achievable than have-to goals/","title":"Want-to goals are more achievable than have-to goals","noteIcon":"","created":"2023-04-22T19:27:56.000+03:00","updated":"2024-02-14T20:18:21.391+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Want-to goals are more achievable than have-to goals/","title":"Want-to goals are more achievable than have-to goals","created":"2023-04-22T19:27:56.000+03:00","updated":"2024-02-14T20:18:21.391+03:00"}
 ---
 
 
