@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The natural world is always changing/","title":"The natural world is always changing","noteIcon":"","created":"2023-03-21T00:06:21.000+03:00","updated":"2024-02-14T20:18:22.079+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The natural world is always changing/","title":"The natural world is always changing","created":"2023-03-21T00:06:21.000+03:00","updated":"2024-02-14T20:18:22.079+03:00"}
 ---
 
 
