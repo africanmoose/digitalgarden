@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Accept change by how we pursue stuff/","title":"Accept change by how we pursue stuff","noteIcon":"","created":"2022-11-08T18:08:55.000+03:00","updated":"2024-02-14T20:18:36.207+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Accept change by how we pursue stuff/","title":"Accept change by how we pursue stuff","created":"2022-11-08T18:08:55.000+03:00","updated":"2024-02-14T20:18:36.207+03:00"}
 ---
 
 
