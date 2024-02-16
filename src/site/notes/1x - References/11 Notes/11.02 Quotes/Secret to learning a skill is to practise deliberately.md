@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately/","title":"Secret to learning a skill is to practise deliberately","noteIcon":"","created":"2022-11-08T22:18:06.000+03:00","updated":"2024-02-14T20:18:39.591+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Secret to learning a skill is to practise deliberately/","title":"Secret to learning a skill is to practise deliberately","created":"2022-11-08T22:18:06.000+03:00","updated":"2024-02-14T20:18:39.591+03:00"}
 ---
 
 ---
