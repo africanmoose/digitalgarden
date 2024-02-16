@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning with others is more effective/","title":"Learning with others is more effective","noteIcon":"","created":"2023-02-11T15:23:08.000+03:00","updated":"2024-02-14T20:18:28.346+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning with others is more effective/","title":"Learning with others is more effective","created":"2023-02-11T15:23:08.000+03:00","updated":"2024-02-14T20:18:28.346+03:00"}
 ---
 
 
