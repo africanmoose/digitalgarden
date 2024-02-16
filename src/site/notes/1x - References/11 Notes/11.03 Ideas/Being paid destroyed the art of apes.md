@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Being paid destroyed the art of apes/","title":"Being paid destroyed the art of apes","noteIcon":"","created":"2023-10-16T22:02:34.000+03:00","updated":"2024-02-14T20:18:35.472+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Being paid destroyed the art of apes/","title":"Being paid destroyed the art of apes","created":"2023-10-16T22:02:34.000+03:00","updated":"2024-02-14T20:18:35.472+03:00"}
 ---
 
 
