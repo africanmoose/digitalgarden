@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Incentive super response tendency/","title":"Incentive super response tendency","noteIcon":"","created":"2022-12-15T08:01:30.000+03:00","updated":"2024-02-14T20:18:29.394+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Incentive super response tendency/","title":"Incentive super response tendency","created":"2022-12-15T08:01:30.000+03:00","updated":"2024-02-14T20:18:29.394+03:00"}
 ---
 
 
