@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/01 AfricanMoose Digital Garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":"","created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-15T22:34:37.079+03:00"}
+{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/01 AfricanMoose Digital Garden/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"dgShowToc":true,"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-16T14:07:47.158+03:00"}
 ---
 
 ## Pic of the week
@@ -8,7 +8,7 @@ Juja bike repair shop fixing my puncture.
 
 ## What is this site for?
 
-- A place to explore ideas
+- A digital garden is like a physical garden, but for your mind. You collect ideas like so many seeds, you tend them by feeding them on related knowledge, and thoughts sprout like new fruits. It requires consistency and patience, but each interaction with your garden is unique
 - Many of the ideas written here are not quite fully formed, but in the spirit of working with the door open, I am publishing them here
 - A place to share interesting quotes, book reviews, music I like and any other random information
 - A place to share interesting workflows, productivity tools and ideas on how to work
@@ -106,3 +106,7 @@ Apparently, my top artists of 2023 are:
 Copy and paste this URL into your RSS Feed reader (If you had done this before July 3rd, 2023, please delete that one and use this one instead:)
 [RSS feed](https://rssproxy.migor.org/api/w2f?v=0.1&url=https%3A%2F%2Fafricanmoose.netlify.app%2F&link=.%2Fa%5B1%5D&context=%2F%2Fdiv%5B1%5D%2Ful%2Fli&re=none&out=atom&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYW5vbnltb3VzIiwiaWF0IjoxNjc1MTA1OTQ2fQ.OjesabTBFfq8PUwQKkj_oSm6zKrRDAgo-nQH9jx6Tmw)
 
+## Copyright
+Feel free to use anything I have created from this site. Please attribute in keeping with cc4.0
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+All quotations belong to their original copyright holder.
