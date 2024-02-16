@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human/","title":"Creativity is a fundamental quality of being human","noteIcon":"","created":"2023-03-19T11:49:10.000+03:00","updated":"2024-02-14T20:18:34.126+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Creativity is a fundamental quality of being human/","title":"Creativity is a fundamental quality of being human","created":"2023-03-19T11:49:10.000+03:00","updated":"2024-02-14T20:18:34.126+03:00"}
 ---
 
 
