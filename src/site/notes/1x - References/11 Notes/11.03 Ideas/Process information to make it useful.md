@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Process information to make it useful/","title":"Process information to make it useful","noteIcon":"","created":"2022-11-05T18:20:25.000+03:00","updated":"2024-02-14T20:18:25.091+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Process information to make it useful/","title":"Process information to make it useful","created":"2022-11-05T18:20:25.000+03:00","updated":"2024-02-14T20:18:25.091+03:00"}
 ---
 
 ---
