@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Make yourself inflation proof/","title":"Make yourself inflation proof","noteIcon":"","created":"2023-10-17T20:05:00.000+03:00","updated":"2024-02-14T20:18:27.547+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Make yourself inflation proof/","title":"Make yourself inflation proof","created":"2023-10-17T20:05:00.000+03:00","updated":"2024-02-14T20:18:27.547+03:00"}
 ---
 
 
