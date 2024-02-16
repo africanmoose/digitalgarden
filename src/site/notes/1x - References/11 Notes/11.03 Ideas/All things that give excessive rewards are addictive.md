@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/All things that give excessive rewards are addictive/","title":"All things that give excessive rewards are addictive","noteIcon":"","created":"2023-01-16T12:50:58.000+03:00","updated":"2024-02-14T20:18:36.172+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/All things that give excessive rewards are addictive/","title":"All things that give excessive rewards are addictive","created":"2023-01-16T12:50:58.000+03:00","updated":"2024-02-14T20:18:36.172+03:00"}
 ---
 
 
