@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive biases - Filtering/","title":"Cognitive biases - Filtering","noteIcon":"","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:34.322+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive biases - Filtering/","title":"Cognitive biases - Filtering","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:34.322+03:00"}
 ---
 
 
