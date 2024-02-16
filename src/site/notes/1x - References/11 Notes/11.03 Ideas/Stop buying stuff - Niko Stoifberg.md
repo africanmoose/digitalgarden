@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Stop buying stuff - Niko Stoifberg/","title":"Stop buying stuff - Niko Stoifberg","noteIcon":"","created":"2023-07-24T20:14:34.541+03:00","updated":"2024-02-14T20:18:23.368+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Stop buying stuff - Niko Stoifberg/","title":"Stop buying stuff - Niko Stoifberg","created":"2023-07-24T20:14:34.541+03:00","updated":"2024-02-14T20:18:23.368+03:00"}
 ---
 
 
