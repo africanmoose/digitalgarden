@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Museums are custodians of epiphanies - George Lois/","title":"Museums are custodians of epiphanies - George Lois","noteIcon":"","created":"2023-06-05T12:57:06.000+03:00","updated":"2024-02-14T20:18:40.636+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Museums are custodians of epiphanies - George Lois/","title":"Museums are custodians of epiphanies - George Lois","created":"2023-06-05T12:57:06.000+03:00","updated":"2024-02-14T20:18:40.636+03:00"}
 ---
 
 
