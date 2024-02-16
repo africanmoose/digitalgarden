@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Winners curse/","title":"Winners curse","noteIcon":"","created":"2022-12-16T22:54:14.000+03:00","updated":"2024-02-14T20:18:20.172+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Winners curse/","title":"Winners curse","created":"2022-12-16T22:54:14.000+03:00","updated":"2024-02-14T20:18:20.172+03:00"}
 ---
 
 
