@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Set aside time to think regularly/","title":"Set aside time to think regularly","noteIcon":"","created":"2023-06-24T18:25:17.000+03:00","updated":"2024-02-14T20:18:24.317+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Set aside time to think regularly/","title":"Set aside time to think regularly","created":"2023-06-24T18:25:17.000+03:00","updated":"2024-02-14T20:18:24.317+03:00"}
 ---
 
 
