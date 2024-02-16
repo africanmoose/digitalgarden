@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Collecting new ideas for creativity/","title":"Collecting new ideas for creativity","noteIcon":"","created":"2023-03-23T19:36:39.000+03:00","updated":"2024-02-14T20:18:34.295+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Collecting new ideas for creativity/","title":"Collecting new ideas for creativity","created":"2023-03-23T19:36:39.000+03:00","updated":"2024-02-14T20:18:34.295+03:00"}
 ---
 
 
