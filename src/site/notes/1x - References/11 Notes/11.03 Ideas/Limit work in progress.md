@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Limit work in progress/","title":"Limit work in progress","noteIcon":"","created":"2023-11-17T20:43:36.000+03:00","updated":"2024-02-14T20:18:28.210+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Limit work in progress/","title":"Limit work in progress","created":"2023-11-17T20:43:36.000+03:00","updated":"2024-02-14T20:18:28.210+03:00"}
 ---
 
 
