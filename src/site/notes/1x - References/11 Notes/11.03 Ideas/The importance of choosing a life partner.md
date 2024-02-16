@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The importance of choosing a life partner/","title":"The importance of choosing a life partner","noteIcon":"","created":"2023-03-06T06:45:33.000+03:00","updated":"2024-02-14T20:18:22.120+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The importance of choosing a life partner/","title":"The importance of choosing a life partner","created":"2023-03-06T06:45:33.000+03:00","updated":"2024-02-14T20:18:22.120+03:00"}
 ---
 
 
