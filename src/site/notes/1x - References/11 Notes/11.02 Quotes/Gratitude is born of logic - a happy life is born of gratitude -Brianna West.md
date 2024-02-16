@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Gratitude is born of logic - a happy life is born of gratitude -Brianna West/","title":"Gratitude is born of logic - a happy life is born of gratitude -Brianna West","noteIcon":"","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:43.946+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Gratitude is born of logic - a happy life is born of gratitude -Brianna West/","title":"Gratitude is born of logic - a happy life is born of gratitude -Brianna West","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:43.946+03:00"}
 ---
 
 
