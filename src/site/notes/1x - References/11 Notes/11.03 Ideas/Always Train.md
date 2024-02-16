@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Always Train/","title":"Always Train","noteIcon":"","created":"2022-12-20T22:43:12.000+03:00","updated":"2024-02-14T20:18:36.160+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Always Train/","title":"Always Train","created":"2022-12-20T22:43:12.000+03:00","updated":"2024-02-14T20:18:36.160+03:00"}
 ---
 
 
