@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Wasting time results in reduced income/","title":"Wasting time results in reduced income","noteIcon":"","created":"2023-11-17T20:43:36.000+03:00","updated":"2024-02-14T20:17:37.888+03:00"}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Wasting time results in reduced income/","title":"Wasting time results in reduced income","created":"2023-11-17T20:43:36.000+03:00","updated":"2024-02-14T20:17:37.888+03:00"}
 ---
 
 
