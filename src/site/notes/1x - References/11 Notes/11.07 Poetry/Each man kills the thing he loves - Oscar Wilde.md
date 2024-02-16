@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/Each man kills the thing he loves - Oscar Wilde/","title":"Each man kills the thing he loves - Oscar Wilde","noteIcon":"","created":"2022-11-02T00:14:04.000+03:00","updated":"2024-02-14T20:18:17.967+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/Each man kills the thing he loves - Oscar Wilde/","title":"Each man kills the thing he loves - Oscar Wilde","created":"2022-11-02T00:14:04.000+03:00","updated":"2024-02-14T20:18:17.967+03:00"}
 ---
 
 
