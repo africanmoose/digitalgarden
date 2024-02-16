@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Trying to feel safe does not bring happiness/","title":"Trying to feel safe does not bring happiness","noteIcon":"","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:21.803+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Trying to feel safe does not bring happiness/","title":"Trying to feel safe does not bring happiness","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:21.803+03:00"}
 ---
 
 
