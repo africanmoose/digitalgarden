@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Positive feedback works better than criticism/","title":"Positive feedback works better than criticism","noteIcon":"","created":"2023-02-14T07:33:11.000+03:00","updated":"2024-02-14T20:18:25.424+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Positive feedback works better than criticism/","title":"Positive feedback works better than criticism","created":"2023-02-14T07:33:11.000+03:00","updated":"2024-02-14T20:18:25.424+03:00"}
 ---
 
 
