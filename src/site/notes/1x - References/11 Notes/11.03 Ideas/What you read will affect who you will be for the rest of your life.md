@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What you read will affect who you will be for the rest of your life/","title":"What you read will affect who you will be for the rest of your life","noteIcon":"","created":"2022-11-14T21:33:35.000+03:00","updated":"2024-02-14T20:18:20.728+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What you read will affect who you will be for the rest of your life/","title":"What you read will affect who you will be for the rest of your life","created":"2022-11-14T21:33:35.000+03:00","updated":"2024-02-14T20:18:20.728+03:00"}
 ---
 
 
