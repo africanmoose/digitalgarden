@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use questions to elicit feedback and criticism/","title":"Use questions to elicit feedback and criticism","noteIcon":"","created":"2023-06-05T23:57:54.000+03:00","updated":"2024-02-14T20:18:21.592+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use questions to elicit feedback and criticism/","title":"Use questions to elicit feedback and criticism","created":"2023-06-05T23:57:54.000+03:00","updated":"2024-02-14T20:18:21.592+03:00"}
 ---
 
 
