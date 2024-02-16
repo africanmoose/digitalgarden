@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan/","title":"What an astonishing thing a book is - Carl Sagan","noteIcon":"","created":"2023-11-14T23:27:04.000+03:00","updated":"2024-02-14T20:18:36.502+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is - Carl Sagan/","title":"What an astonishing thing a book is - Carl Sagan","created":"2023-11-14T23:27:04.000+03:00","updated":"2024-02-14T20:18:36.502+03:00"}
 ---
 
 
