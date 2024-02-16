@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Vannevar Bush/","title":"Vannevar Bush","noteIcon":"","created":"2022-10-26T23:26:26.000+03:00","updated":"2024-02-14T20:18:18.031+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Vannevar Bush/","title":"Vannevar Bush","created":"2022-10-26T23:26:26.000+03:00","updated":"2024-02-14T20:18:18.031+03:00"}
 ---
 
 17.01 - References - Persons - Vannevar Bush
