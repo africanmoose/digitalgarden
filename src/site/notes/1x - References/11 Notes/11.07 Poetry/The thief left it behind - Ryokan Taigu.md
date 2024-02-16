@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/The thief left it behind - Ryokan Taigu/","title":"The thief left it behind - Ryokan Taigu","noteIcon":"","created":"2022-11-29T23:19:53.000+03:00","updated":"2024-02-14T20:18:17.948+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/The thief left it behind - Ryokan Taigu/","title":"The thief left it behind - Ryokan Taigu","created":"2022-11-29T23:19:53.000+03:00","updated":"2024-02-14T20:18:17.948+03:00"}
 ---
 
 
