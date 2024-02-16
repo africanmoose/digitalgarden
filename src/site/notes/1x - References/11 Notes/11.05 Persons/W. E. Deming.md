@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/W. E. Deming/","title":"W. E. Deming","noteIcon":"","created":"2023-01-05T20:15:46.000+03:00","updated":"2024-02-14T20:18:18.026+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/W. E. Deming/","title":"W. E. Deming","created":"2023-01-05T20:15:46.000+03:00","updated":"2024-02-14T20:18:18.026+03:00"}
 ---
 
 
