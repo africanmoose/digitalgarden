@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Distances in the Solar system are unfathomably vast/","title":"Distances in the Solar system are unfathomably vast","noteIcon":"","created":"2023-08-28T20:36:31.120+03:00","updated":"2024-02-14T20:18:33.577+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Distances in the Solar system are unfathomably vast/","title":"Distances in the Solar system are unfathomably vast","created":"2023-08-28T20:36:31.120+03:00","updated":"2024-02-14T20:18:33.577+03:00"}
 ---
 
 
