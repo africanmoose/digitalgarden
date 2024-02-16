@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Good mentors help learning/","title":"Good mentors help learning","noteIcon":"","created":"2022-11-01T15:00:18.000+03:00","updated":"2024-02-14T20:18:31.538+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Good mentors help learning/","title":"Good mentors help learning","created":"2022-11-01T15:00:18.000+03:00","updated":"2024-02-14T20:18:31.538+03:00"}
 ---
 
 ---
