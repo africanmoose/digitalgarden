@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The best people want to know if they are right - John Cleese/","title":"The best people want to know if they are right - John Cleese","noteIcon":"","created":"2022-12-26T12:57:39.000+03:00","updated":"2024-02-14T20:18:38.366+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The best people want to know if they are right - John Cleese/","title":"The best people want to know if they are right - John Cleese","created":"2022-12-26T12:57:39.000+03:00","updated":"2024-02-14T20:18:38.366+03:00"}
 ---
 
 
