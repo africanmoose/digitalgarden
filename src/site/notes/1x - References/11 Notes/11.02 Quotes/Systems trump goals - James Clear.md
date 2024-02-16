@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Systems trump goals - James Clear/","title":"Systems trump goals - James Clear","noteIcon":"","created":"2023-08-03T23:30:48.524+03:00","updated":"2024-02-14T20:18:38.664+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Systems trump goals - James Clear/","title":"Systems trump goals - James Clear","created":"2023-08-03T23:30:48.524+03:00","updated":"2024-02-14T20:18:38.664+03:00"}
 ---
 
 
