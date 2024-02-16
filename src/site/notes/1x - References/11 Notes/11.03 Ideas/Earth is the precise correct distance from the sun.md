@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Earth is the precise correct distance from the sun/","title":"Earth is the precise correct distance from the sun","noteIcon":"","created":"2023-08-29T17:30:23.647+03:00","updated":"2024-02-14T20:18:33.126+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Earth is the precise correct distance from the sun/","title":"Earth is the precise correct distance from the sun","created":"2023-08-29T17:30:23.647+03:00","updated":"2024-02-14T20:18:33.126+03:00"}
 ---
 
 
