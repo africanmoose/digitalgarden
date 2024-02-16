@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Neglect of Probability/","title":"Neglect of Probability","noteIcon":"","created":"2022-12-15T07:58:30.000+03:00","updated":"2024-02-14T20:18:26.805+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Neglect of Probability/","title":"Neglect of Probability","created":"2022-12-15T07:58:30.000+03:00","updated":"2024-02-14T20:18:26.805+03:00"}
 ---
 
 
