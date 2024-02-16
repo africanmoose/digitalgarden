@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Instead of focusing exclusively on our finances, we should be thinking about the things that truly make a difference in our later years - our health spiritual life relationships with family and friends and having interesting things to do - Ralph Warner/","title":"Instead of focusing exclusively on our finances, we should be thinking about the things that truly make a difference in our later years - our health spiritual life relationships with family and friends and having interesting things to do - Ralph Warner","noteIcon":"","created":"2024-01-17T21:14:31.000+03:00","updated":"2024-02-14T20:18:41.801+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Instead of focusing exclusively on our finances, we should be thinking about the things that truly make a difference in our later years - our health spiritual life relationships with family and friends and having interesting things to do - Ralph Warner/","title":"Instead of focusing exclusively on our finances, we should be thinking about the things that truly make a difference in our later years - our health spiritual life relationships with family and friends and having interesting things to do - Ralph Warner","created":"2024-01-17T21:14:31.000+03:00","updated":"2024-02-14T20:18:41.801+03:00"}
 ---
 
 
