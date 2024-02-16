@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Tu Youyou/","title":"Tu Youyou","noteIcon":"","created":"2024-02-13T22:39:19.562+03:00","updated":"2024-02-14T20:18:17.999+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Tu Youyou/","title":"Tu Youyou","created":"2024-02-13T22:39:19.562+03:00","updated":"2024-02-14T20:18:17.999+03:00"}
 ---
 
 
