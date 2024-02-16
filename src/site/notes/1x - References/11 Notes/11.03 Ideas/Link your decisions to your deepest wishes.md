@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Link your decisions to your deepest wishes/","title":"Link your decisions to your deepest wishes","noteIcon":"","created":"2023-04-23T09:58:21.000+03:00","updated":"2024-02-14T20:18:28.149+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Link your decisions to your deepest wishes/","title":"Link your decisions to your deepest wishes","created":"2023-04-23T09:58:21.000+03:00","updated":"2024-02-14T20:18:28.149+03:00"}
 ---
 
 
