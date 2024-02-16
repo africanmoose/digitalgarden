@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What to do when someone asks a good question/","title":"What to do when someone asks a good question","noteIcon":"","created":"2023-06-25T13:27:31.000+03:00","updated":"2024-02-14T20:18:20.787+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What to do when someone asks a good question/","title":"What to do when someone asks a good question","created":"2023-06-25T13:27:31.000+03:00","updated":"2024-02-14T20:18:20.787+03:00"}
 ---
 
 
