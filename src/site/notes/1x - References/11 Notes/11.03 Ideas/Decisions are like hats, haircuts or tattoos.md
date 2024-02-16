@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Decisions are like hats, haircuts or tattoos/","title":"Decisions are like hats, haircuts or tattoos","noteIcon":"","created":"2024-02-03T20:02:35.897+03:00","updated":"2024-02-14T20:18:34.059+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Decisions are like hats, haircuts or tattoos/","title":"Decisions are like hats, haircuts or tattoos","created":"2024-02-03T20:02:35.897+03:00","updated":"2024-02-14T20:18:34.059+03:00"}
 ---
 
 
