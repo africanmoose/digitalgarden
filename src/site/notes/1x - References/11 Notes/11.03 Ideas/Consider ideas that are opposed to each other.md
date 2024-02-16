@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Consider ideas that are opposed to each other/","title":"Consider ideas that are opposed to each other","noteIcon":"","created":"2023-09-16T12:27:00.078+03:00","updated":"2024-02-14T20:18:34.233+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Consider ideas that are opposed to each other/","title":"Consider ideas that are opposed to each other","created":"2023-09-16T12:27:00.078+03:00","updated":"2024-02-14T20:18:34.233+03:00"}
 ---
 
 
