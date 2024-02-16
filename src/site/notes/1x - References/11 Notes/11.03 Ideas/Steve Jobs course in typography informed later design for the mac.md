@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Steve Jobs course in typography informed later design for the mac/","title":"Steve Jobs course in typography informed later design for the mac","noteIcon":"","created":"2023-03-09T09:17:05.000+03:00","updated":"2024-02-14T20:18:23.407+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Steve Jobs course in typography informed later design for the mac/","title":"Steve Jobs course in typography informed later design for the mac","created":"2023-03-09T09:17:05.000+03:00","updated":"2024-02-14T20:18:23.407+03:00"}
 ---
 
 
