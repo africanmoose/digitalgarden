@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Productivity systems need a course-correction method/","title":"Productivity systems need a course-correction method","noteIcon":"","created":"2023-10-22T21:19:49.000+03:00","updated":"2024-02-14T20:18:24.974+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Productivity systems need a course-correction method/","title":"Productivity systems need a course-correction method","created":"2023-10-22T21:19:49.000+03:00","updated":"2024-02-14T20:18:24.974+03:00"}
 ---
 
 
