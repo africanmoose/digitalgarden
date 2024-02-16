@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Personification highlight/","title":"Personification highlight","noteIcon":"","created":"2022-12-29T17:40:41.000+03:00","updated":"2024-02-14T20:18:25.677+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Personification highlight/","title":"Personification highlight","created":"2022-12-29T17:40:41.000+03:00","updated":"2024-02-14T20:18:25.677+03:00"}
 ---
 
 
