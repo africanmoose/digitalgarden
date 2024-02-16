@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Octavia Estelle Butler/","title":"Octavia Estelle Butler","noteIcon":"","created":"2023-09-16T12:45:00.221+03:00","updated":"2024-02-14T20:18:18.076+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Octavia Estelle Butler/","title":"Octavia Estelle Butler","created":"2023-09-16T12:45:00.221+03:00","updated":"2024-02-14T20:18:18.076+03:00"}
 ---
 
 
