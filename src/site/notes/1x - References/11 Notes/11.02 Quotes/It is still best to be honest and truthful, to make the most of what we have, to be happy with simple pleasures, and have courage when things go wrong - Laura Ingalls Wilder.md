@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/It is still best to be honest and truthful, to make the most of what we have, to be happy with simple pleasures, and have courage when things go wrong - Laura Ingalls Wilder/","title":"It is still best to be honest and truthful, to make the most of what we have, to be happy with simple pleasures, and have courage when things go wrong - Laura Ingalls Wilder","noteIcon":"","created":"2023-10-13T08:14:19.000+03:00","updated":"2024-02-14T20:18:41.605+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/It is still best to be honest and truthful, to make the most of what we have, to be happy with simple pleasures, and have courage when things go wrong - Laura Ingalls Wilder/","title":"It is still best to be honest and truthful, to make the most of what we have, to be happy with simple pleasures, and have courage when things go wrong - Laura Ingalls Wilder","created":"2023-10-13T08:14:19.000+03:00","updated":"2024-02-14T20:18:41.605+03:00"}
 ---
 
 
