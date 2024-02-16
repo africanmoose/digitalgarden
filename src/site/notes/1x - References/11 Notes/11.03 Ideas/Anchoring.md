@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Anchoring/","title":"Anchoring","noteIcon":"","created":"2023-01-01T17:57:51.000+03:00","updated":"2024-02-14T20:18:36.118+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Anchoring/","title":"Anchoring","created":"2023-01-01T17:57:51.000+03:00","updated":"2024-02-14T20:18:36.118+03:00"}
 ---
 
 
