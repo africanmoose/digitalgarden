@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Only have stuff that is useful or beautiful - William Morris/","title":"Only have stuff that is useful or beautiful - William Morris","noteIcon":"","created":"2023-07-24T20:14:18.925+03:00","updated":"2024-02-14T20:18:40.060+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Only have stuff that is useful or beautiful - William Morris/","title":"Only have stuff that is useful or beautiful - William Morris","created":"2023-07-24T20:14:18.925+03:00","updated":"2024-02-14T20:18:40.060+03:00"}
 ---
 
 
