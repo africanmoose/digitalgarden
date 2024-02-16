@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask people you think you know well questions/","title":"Ask people you think you know well questions","noteIcon":"","created":"2023-05-28T16:57:52.000+03:00","updated":"2024-02-14T20:18:35.901+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask people you think you know well questions/","title":"Ask people you think you know well questions","created":"2023-05-28T16:57:52.000+03:00","updated":"2024-02-14T20:18:35.901+03:00"}
 ---
 
 
