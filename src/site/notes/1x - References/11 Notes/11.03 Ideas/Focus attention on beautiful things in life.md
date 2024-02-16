@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Focus attention on beautiful things in life/","title":"Focus attention on beautiful things in life","noteIcon":"","created":"2022-11-10T20:58:08.000+03:00","updated":"2024-02-14T20:18:32.037+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Focus attention on beautiful things in life/","title":"Focus attention on beautiful things in life","created":"2022-11-10T20:58:08.000+03:00","updated":"2024-02-14T20:18:32.037+03:00"}
 ---
 
 
