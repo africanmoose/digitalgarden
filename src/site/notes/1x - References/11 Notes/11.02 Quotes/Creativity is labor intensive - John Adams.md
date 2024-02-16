@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Creativity is labor intensive - John Adams/","title":"Creativity is labor intensive - John Adams","noteIcon":"","created":"2023-05-01T08:30:11.000+03:00","updated":"2024-02-14T20:18:46.093+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Creativity is labor intensive - John Adams/","title":"Creativity is labor intensive - John Adams","created":"2023-05-01T08:30:11.000+03:00","updated":"2024-02-14T20:18:46.093+03:00"}
 ---
 
 
