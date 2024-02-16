@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki/","title":"Hello Habits - Fumio Sasaki","noteIcon":"","created":"2023-01-23T18:35:57.000+03:00","updated":"2024-02-14T20:17:40.792+03:00"}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Hello Habits - Fumio Sasaki/","title":"Hello Habits - Fumio Sasaki","created":"2023-01-23T18:35:57.000+03:00","updated":"2024-02-14T20:17:40.792+03:00"}
 ---
 
 
