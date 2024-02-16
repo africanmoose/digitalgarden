@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/If Only I Could Write A Beautiful Poem - Douglas Carter/","title":"If Only I Could Write A Beautiful Poem - Douglas Carter","noteIcon":"","created":"2023-09-06T21:34:07.181+03:00","updated":"2024-02-14T20:18:17.955+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/If Only I Could Write A Beautiful Poem - Douglas Carter/","title":"If Only I Could Write A Beautiful Poem - Douglas Carter","created":"2023-09-06T21:34:07.181+03:00","updated":"2024-02-14T20:18:17.955+03:00"}
 ---
 
 
