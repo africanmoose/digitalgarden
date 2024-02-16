@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Difference between manners and etiquette/","title":"Difference between manners and etiquette","noteIcon":"","created":"2023-09-29T18:55:20.000+03:00","updated":"2024-02-14T20:18:33.827+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Difference between manners and etiquette/","title":"Difference between manners and etiquette","created":"2023-09-29T18:55:20.000+03:00","updated":"2024-02-14T20:18:33.827+03:00"}
 ---
 
 
