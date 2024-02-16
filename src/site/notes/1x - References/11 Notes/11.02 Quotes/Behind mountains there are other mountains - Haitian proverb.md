@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Behind mountains there are other mountains - Haitian proverb/","title":"Behind mountains there are other mountains - Haitian proverb","noteIcon":"","created":"2023-08-06T13:16:08.942+03:00","updated":"2024-02-14T20:18:46.615+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Behind mountains there are other mountains - Haitian proverb/","title":"Behind mountains there are other mountains - Haitian proverb","created":"2023-08-06T13:16:08.942+03:00","updated":"2024-02-14T20:18:46.615+03:00"}
 ---
 
 
