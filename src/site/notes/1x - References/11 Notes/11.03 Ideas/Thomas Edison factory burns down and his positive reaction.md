@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Thomas Edison factory burns down and his positive reaction/","title":"Thomas Edison factory burns down and his positive reaction","noteIcon":"","created":"2023-08-06T12:07:32.543+03:00","updated":"2024-02-14T20:18:21.883+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Thomas Edison factory burns down and his positive reaction/","title":"Thomas Edison factory burns down and his positive reaction","created":"2023-08-06T12:07:32.543+03:00","updated":"2024-02-14T20:18:21.883+03:00"}
 ---
 
 
