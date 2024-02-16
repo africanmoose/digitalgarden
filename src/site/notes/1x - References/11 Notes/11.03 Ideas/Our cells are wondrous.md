@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our cells are wondrous/","title":"Our cells are wondrous","noteIcon":"","created":"2023-08-29T19:02:58.012+03:00","updated":"2024-02-14T20:18:26.204+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our cells are wondrous/","title":"Our cells are wondrous","created":"2023-08-29T19:02:58.012+03:00","updated":"2024-02-14T20:18:26.204+03:00"}
 ---
 
 
