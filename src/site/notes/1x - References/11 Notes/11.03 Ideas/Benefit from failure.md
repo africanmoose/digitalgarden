@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Benefit from failure/","title":"Benefit from failure","noteIcon":"","created":"2023-07-30T12:13:58.206+03:00","updated":"2024-02-14T20:18:35.379+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Benefit from failure/","title":"Benefit from failure","created":"2023-07-30T12:13:58.206+03:00","updated":"2024-02-14T20:18:35.379+03:00"}
 ---
 
 
