@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/It may take a lot of work to make something appear sponteneous/","title":"It may take a lot of work to make something appear sponteneous","noteIcon":"","created":"2023-03-26T21:34:45.000+03:00","updated":"2024-02-14T20:18:29.095+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/It may take a lot of work to make something appear sponteneous/","title":"It may take a lot of work to make something appear sponteneous","created":"2023-03-26T21:34:45.000+03:00","updated":"2024-02-14T20:18:29.095+03:00"}
 ---
 
 
