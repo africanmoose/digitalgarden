@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Working with a master elevates our standards/","title":"Working with a master elevates our standards","noteIcon":"","created":"2023-12-10T18:41:26.000+03:00","updated":"2024-02-14T20:18:20.053+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Working with a master elevates our standards/","title":"Working with a master elevates our standards","created":"2023-12-10T18:41:26.000+03:00","updated":"2024-02-14T20:18:20.053+03:00"}
 ---
 
 
