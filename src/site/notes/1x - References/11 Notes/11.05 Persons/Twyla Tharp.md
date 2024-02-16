@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Twyla Tharp/","title":"Twyla Tharp","noteIcon":"","created":"2023-05-05T21:42:07.000+03:00","updated":"2024-02-14T20:18:18.032+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Twyla Tharp/","title":"Twyla Tharp","created":"2023-05-05T21:42:07.000+03:00","updated":"2024-02-14T20:18:18.032+03:00"}
 ---
 
 
