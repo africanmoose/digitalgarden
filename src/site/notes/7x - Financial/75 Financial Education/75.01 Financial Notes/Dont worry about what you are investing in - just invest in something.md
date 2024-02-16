@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Dont worry about what you are investing in - just invest in something/","title":"Dont worry about what you are investing in - just invest in something","noteIcon":"","created":"2023-08-26T13:49:42.267+03:00","updated":"2024-02-14T20:17:38.001+03:00"}
+{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Dont worry about what you are investing in - just invest in something/","title":"Dont worry about what you are investing in - just invest in something","created":"2023-08-26T13:49:42.267+03:00","updated":"2024-02-14T20:17:38.001+03:00"}
 ---
 
 
