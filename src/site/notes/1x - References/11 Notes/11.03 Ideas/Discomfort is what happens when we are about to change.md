@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Discomfort is what happens when we are about to change/","title":"Discomfort is what happens when we are about to change","noteIcon":"","created":"2022-11-14T21:33:31.000+03:00","updated":"2024-02-14T20:18:33.714+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Discomfort is what happens when we are about to change/","title":"Discomfort is what happens when we are about to change","created":"2022-11-14T21:33:31.000+03:00","updated":"2024-02-14T20:18:33.714+03:00"}
 ---
 
 
