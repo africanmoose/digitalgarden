@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously/","title":"Work on different things simultaneously","noteIcon":"","created":"2023-07-23T14:58:33.943+03:00","updated":"2024-02-14T20:18:20.131+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Work on different things simultaneously/","title":"Work on different things simultaneously","created":"2023-07-23T14:58:33.943+03:00","updated":"2024-02-14T20:18:20.131+03:00"}
 ---
 
 
