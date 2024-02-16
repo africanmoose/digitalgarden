@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Around 1000CE the greatest city in the world was Cordoba/","title":"Around 1000CE the greatest city in the world was Cordoba","noteIcon":"","created":"2023-09-01T20:39:30.082+03:00","updated":"2024-02-14T20:18:36.079+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Around 1000CE the greatest city in the world was Cordoba/","title":"Around 1000CE the greatest city in the world was Cordoba","created":"2023-09-01T20:39:30.082+03:00","updated":"2024-02-14T20:18:36.079+03:00"}
 ---
 
 
