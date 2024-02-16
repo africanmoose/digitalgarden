@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Dave Brubeck/","title":"Dave Brubeck","noteIcon":"","created":"2024-02-04T14:43:38.874+03:00","updated":"2024-02-14T20:18:18.920+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Dave Brubeck/","title":"Dave Brubeck","created":"2024-02-04T14:43:38.874+03:00","updated":"2024-02-14T20:18:18.920+03:00"}
 ---
 
 
