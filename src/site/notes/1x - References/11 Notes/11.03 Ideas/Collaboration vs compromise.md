@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise/","title":"Collaboration vs compromise","noteIcon":"","created":"2023-03-26T21:47:36.000+03:00","updated":"2024-02-14T20:18:34.300+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Collaboration vs compromise/","title":"Collaboration vs compromise","created":"2023-03-26T21:47:36.000+03:00","updated":"2024-02-14T20:18:34.300+03:00"}
 ---
 
 
