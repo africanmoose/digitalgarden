@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term/","title":"Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term","noteIcon":"","created":"2024-01-20T21:04:32.000+03:00","updated":"2024-02-14T20:18:28.662+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term/","title":"Learning is best done slowly to accumulate lasting knowledge even if it means doing badly in the short term","created":"2024-01-20T21:04:32.000+03:00","updated":"2024-02-14T20:18:28.662+03:00"}
 ---
 
 
