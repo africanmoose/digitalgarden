@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Things I learned in the past are now wrong/","title":"Things I learned in the past are now wrong","noteIcon":"","created":"2023-07-02T11:37:57.000+03:00","updated":"2024-02-14T20:18:21.929+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Things I learned in the past are now wrong/","title":"Things I learned in the past are now wrong","created":"2023-07-02T11:37:57.000+03:00","updated":"2024-02-14T20:18:21.929+03:00"}
 ---
 
 
