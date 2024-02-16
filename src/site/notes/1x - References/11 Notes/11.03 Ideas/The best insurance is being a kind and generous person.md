@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The best insurance is being a kind and generous person/","title":"The best insurance is being a kind and generous person","noteIcon":"","created":"2024-01-12T11:03:36.000+03:00","updated":"2024-02-14T20:18:22.447+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The best insurance is being a kind and generous person/","title":"The best insurance is being a kind and generous person","created":"2024-01-12T11:03:36.000+03:00","updated":"2024-02-14T20:18:22.447+03:00"}
 ---
 
 
