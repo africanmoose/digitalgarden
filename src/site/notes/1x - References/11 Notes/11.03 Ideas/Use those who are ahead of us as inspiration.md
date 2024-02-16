@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use those who are ahead of us as inspiration/","title":"Use those who are ahead of us as inspiration","noteIcon":"","created":"2022-11-08T18:06:37.000+03:00","updated":"2024-02-14T20:18:21.535+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Use those who are ahead of us as inspiration/","title":"Use those who are ahead of us as inspiration","created":"2022-11-08T18:06:37.000+03:00","updated":"2024-02-14T20:18:21.535+03:00"}
 ---
 
 
