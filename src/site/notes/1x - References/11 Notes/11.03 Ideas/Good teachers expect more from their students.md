@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Good teachers expect more from their students/","title":"Good teachers expect more from their students","noteIcon":"","created":"2023-12-08T23:57:02.000+03:00","updated":"2024-02-14T20:18:31.437+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Good teachers expect more from their students/","title":"Good teachers expect more from their students","created":"2023-12-08T23:57:02.000+03:00","updated":"2024-02-14T20:18:31.437+03:00"}
 ---
 
 
