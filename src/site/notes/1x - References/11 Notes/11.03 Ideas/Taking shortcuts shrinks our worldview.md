@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Taking shortcuts shrinks our worldview/","title":"Taking shortcuts shrinks our worldview","noteIcon":"","created":"2023-03-23T18:46:48.000+03:00","updated":"2024-02-14T20:18:23.026+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Taking shortcuts shrinks our worldview/","title":"Taking shortcuts shrinks our worldview","created":"2023-03-23T18:46:48.000+03:00","updated":"2024-02-14T20:18:23.026+03:00"}
 ---
 
 
