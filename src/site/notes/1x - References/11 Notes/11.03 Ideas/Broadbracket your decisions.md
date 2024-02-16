@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Broadbracket your decisions/","title":"Broadbracket your decisions","noteIcon":"","created":"2023-04-22T15:45:36.000+03:00","updated":"2024-02-14T20:18:35.110+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Broadbracket your decisions/","title":"Broadbracket your decisions","created":"2023-04-22T15:45:36.000+03:00","updated":"2024-02-14T20:18:35.110+03:00"}
 ---
 
 
