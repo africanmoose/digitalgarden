@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/You dont need many close friends/","title":"You dont need many close friends","noteIcon":"","created":"2022-11-14T21:33:31.000+03:00","updated":"2024-02-14T20:18:19.741+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/You dont need many close friends/","title":"You dont need many close friends","created":"2022-11-14T21:33:31.000+03:00","updated":"2024-02-14T20:18:19.741+03:00"}
 ---
 
 
