@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont be afraid to ask, dont be disappointed if someone says no/","title":"Dont be afraid to ask, dont be disappointed if someone says no","noteIcon":"","created":"2024-02-11T20:22:50.447+03:00","updated":"2024-02-14T20:18:33.310+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont be afraid to ask, dont be disappointed if someone says no/","title":"Dont be afraid to ask, dont be disappointed if someone says no","created":"2024-02-11T20:22:50.447+03:00","updated":"2024-02-14T20:18:33.310+03:00"}
 ---
 
 
