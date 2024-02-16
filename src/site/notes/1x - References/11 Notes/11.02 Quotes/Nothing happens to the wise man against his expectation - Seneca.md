@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca/","title":"Nothing happens to the wise man against his expectation - Seneca","noteIcon":"","created":"2023-08-06T11:56:33.342+03:00","updated":"2024-02-14T20:18:40.153+03:00"}
+{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Nothing happens to the wise man against his expectation - Seneca/","title":"Nothing happens to the wise man against his expectation - Seneca","created":"2023-08-06T11:56:33.342+03:00","updated":"2024-02-14T20:18:40.153+03:00"}
 ---
 
 
