@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper/","title":"Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper","noteIcon":"","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:17:39.834+03:00"}
+{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper/","title":"Wabi Sabi - The Japanese Art of Impermanence - Andrew Juniper","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:17:39.834+03:00"}
 ---
 
 
