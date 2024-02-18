@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Achieving success is so simple - Charlie Munger/","title":"Achieving success is so simple - Charlie Munger","created":"2023-10-22T14:01:58.000+03:00","updated":"2024-02-14T20:18:47.489+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/achieving-success-is-so-simple-charlie-munger/","title":"Achieving success is so simple - Charlie Munger","created":"2023-10-22T14:01:58.000+03:00","updated":"2024-02-14T20:18:47.489+03:00"}
 ---
 
 
