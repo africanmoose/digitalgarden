@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/04 Music I enjoy/","title":"Music I enjoy","created":"2023-12-01T21:28:53.000+03:00","updated":"2024-02-14T20:19:10.537+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/04-music-i-enjoy/","title":"Music I enjoy","created":"2023-12-01T21:28:53.000+03:00","updated":"2024-02-14T20:19:10.537+03:00"}
 ---
 
 
