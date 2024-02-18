@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Social media makes us more emotionally disconnected/","title":"Social media makes us more emotionally disconnected","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:23.910+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/social-media-makes-us-more-emotionally-disconnected/","title":"Social media makes us more emotionally disconnected","created":"2022-11-14T21:33:32.000+03:00","updated":"2024-02-14T20:18:23.910+03:00"}
 ---
 
 
