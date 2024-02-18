@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Knowing the work you have to do to know the work you have to do - David Allen/","title":"Knowing the work you have to do to know the work you have to do - David Allen","created":"2023-10-22T21:05:13.000+03:00","updated":"2024-02-14T20:18:41.100+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/knowing-the-work-you-have-to-do-to-know-the-work-you-have-to-do-david-allen/","title":"Knowing the work you have to do to know the work you have to do - David Allen","created":"2023-10-22T21:05:13.000+03:00","updated":"2024-02-14T20:18:41.100+03:00"}
 ---
 
 
