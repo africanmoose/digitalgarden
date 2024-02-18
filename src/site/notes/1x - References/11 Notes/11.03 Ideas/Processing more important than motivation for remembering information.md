@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Processing more important than motivation for remembering information/","title":"Processing more important than motivation for remembering information","created":"2023-04-05T20:13:58.000+03:00","updated":"2024-02-14T20:18:25.051+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/processing-more-important-than-motivation-for-remembering-information/","title":"Processing more important than motivation for remembering information","created":"2023-04-05T20:13:58.000+03:00","updated":"2024-02-14T20:18:25.051+03:00"}
 ---
 
 
