@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Reading is the greatest Bargain in the world - Gene Roddenberry/","title":"Reading is the greatest Bargain in the world - Gene Roddenberry","created":"2023-08-03T23:35:32.849+03:00","updated":"2024-02-14T20:18:39.766+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/reading-is-the-greatest-bargain-in-the-world-gene-roddenberry/","title":"Reading is the greatest Bargain in the world - Gene Roddenberry","created":"2023-08-03T23:35:32.849+03:00","updated":"2024-02-14T20:18:39.766+03:00"}
 ---
 
 
