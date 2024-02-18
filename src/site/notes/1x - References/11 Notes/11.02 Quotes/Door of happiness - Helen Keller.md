@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Door of happiness - Helen Keller/","title":"Door of happiness - Helen Keller","created":"2022-11-10T20:58:07.000+03:00","updated":"2024-02-14T20:18:45.298+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/door-of-happiness-helen-keller/","title":"Door of happiness - Helen Keller","created":"2022-11-10T20:58:07.000+03:00","updated":"2024-02-14T20:18:45.298+03:00"}
 ---
 
 
