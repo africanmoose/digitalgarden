@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Cognitive bias - Fallacy of fairness/","title":"Cognitive bias - Fallacy of fairness","created":"2022-11-14T21:33:34.000+03:00","updated":"2024-02-14T20:18:34.362+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/cognitive-bias-fallacy-of-fairness/","title":"Cognitive bias - Fallacy of fairness","created":"2022-11-14T21:33:34.000+03:00","updated":"2024-02-14T20:18:34.362+03:00"}
 ---
 
 
