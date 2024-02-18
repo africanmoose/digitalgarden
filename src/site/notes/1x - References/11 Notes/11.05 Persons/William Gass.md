@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/William Gass/","title":"William Gass","created":"2023-05-05T21:36:26.000+03:00","updated":"2024-02-14T20:18:18.006+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/william-gass/","title":"William Gass","created":"2023-05-05T21:36:26.000+03:00","updated":"2024-02-14T20:18:18.006+03:00"}
 ---
 
 
