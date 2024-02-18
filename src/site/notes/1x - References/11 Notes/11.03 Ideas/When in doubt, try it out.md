@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/When in doubt, try it out/","title":"When in doubt, try it out","created":"2023-12-15T13:24:09.000+03:00","updated":"2024-02-14T20:18:20.650+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/when-in-doubt-try-it-out/","title":"When in doubt, try it out","created":"2023-12-15T13:24:09.000+03:00","updated":"2024-02-14T20:18:20.650+03:00"}
 ---
 
 
