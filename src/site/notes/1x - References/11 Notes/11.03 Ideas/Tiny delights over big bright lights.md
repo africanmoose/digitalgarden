@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Tiny delights over big bright lights/","title":"Tiny delights over big bright lights","created":"2023-10-29T21:05:24.000+03:00","updated":"2024-02-14T20:18:21.875+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/tiny-delights-over-big-bright-lights/","title":"Tiny delights over big bright lights","created":"2023-10-29T21:05:24.000+03:00","updated":"2024-02-14T20:18:21.875+03:00"}
 ---
 
 
