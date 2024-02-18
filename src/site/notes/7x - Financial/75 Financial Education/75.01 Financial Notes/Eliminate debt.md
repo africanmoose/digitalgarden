@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Eliminate debt/","title":"Eliminate debt","created":"2023-08-26T14:25:12.240+03:00","updated":"2024-02-14T20:17:37.998+03:00"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/eliminate-debt/","title":"Eliminate debt","created":"2023-08-26T14:25:12.240+03:00","updated":"2024-02-14T20:17:37.998+03:00"}
 ---
 
 
