@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Poverty has crippled Kibera but it is not the pity-inducing cry for help that NGOs would have you believe - Jean-Pierre Larroque/","title":"Poverty has crippled Kibera but it is not the pity-inducing cry for help that NGOs would have you believe - Jean-Pierre Larroque","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:39.891+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/poverty-has-crippled-kibera-but-it-is-not-the-pity-inducing-cry-for-help-that-ng-os-would-have-you-believe-jean-pierre-larroque/","title":"Poverty has crippled Kibera but it is not the pity-inducing cry for help that NGOs would have you believe - Jean-Pierre Larroque","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:39.891+03:00"}
 ---
 
 
