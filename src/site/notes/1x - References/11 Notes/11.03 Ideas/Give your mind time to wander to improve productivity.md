@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Give your mind time to wander to improve productivity/","title":"Give your mind time to wander to improve productivity","created":"2023-10-29T23:42:58.000+03:00","updated":"2024-02-14T20:18:31.661+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/give-your-mind-time-to-wander-to-improve-productivity/","title":"Give your mind time to wander to improve productivity","created":"2023-10-29T23:42:58.000+03:00","updated":"2024-02-14T20:18:31.661+03:00"}
 ---
 
 
