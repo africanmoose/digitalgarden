@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Process information deeply by having a structured note system/","title":"Process information deeply by having a structured note system","created":"2023-04-23T19:40:25.000+03:00","updated":"2024-02-14T20:18:25.131+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/process-information-deeply-by-having-a-structured-note-system/","title":"Process information deeply by having a structured note system","created":"2023-04-23T19:40:25.000+03:00","updated":"2024-02-14T20:18:25.131+03:00"}
 ---
 
 
