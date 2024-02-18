@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/exercise-willpower-by-going-on-a-30-day-vice-fast/","title":"Exercise willpower by going on a 30-day vice fast","created":"2024-02-18T16:17:00.424+03:00","updated":"2024-02-18T16:18:59.738+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/exercise-willpower-by-going-on-a-30-day-vice-fast/","title":"Exercise willpower by going on a 30-day vice fast","created":"2024-02-18T16:17:00.424+03:00","updated":"2024-02-18T16:25:32.004+03:00"}
 ---
 
 
