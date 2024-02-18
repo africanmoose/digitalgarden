@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Self-control is not a learned skill/","title":"Self-control is not a learned skill","created":"2023-04-21T00:14:57.000+03:00","updated":"2024-02-14T20:18:24.530+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/self-control-is-not-a-learned-skill/","title":"Self-control is not a learned skill","created":"2023-04-21T00:14:57.000+03:00","updated":"2024-02-14T20:18:24.530+03:00"}
 ---
 
 
