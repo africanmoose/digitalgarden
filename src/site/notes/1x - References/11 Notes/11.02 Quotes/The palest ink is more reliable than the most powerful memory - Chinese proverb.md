@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The palest ink is more reliable than the most powerful memory - Chinese proverb/","title":"The palest ink is more reliable than the most powerful memory - Chinese proverb","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:37.567+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-palest-ink-is-more-reliable-than-the-most-powerful-memory-chinese-proverb/","title":"The palest ink is more reliable than the most powerful memory - Chinese proverb","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:37.567+03:00"}
 ---
 
 
