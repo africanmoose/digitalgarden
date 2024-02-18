@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The speaker is the source of information not the visual aids/","title":"The speaker is the source of information not the visual aids","created":"2023-01-12T19:32:50.000+03:00","updated":"2024-02-14T20:18:22.045+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-speaker-is-the-source-of-information-not-the-visual-aids/","title":"The speaker is the source of information not the visual aids","created":"2023-01-12T19:32:50.000+03:00","updated":"2024-02-14T20:18:22.045+03:00"}
 ---
 
 
