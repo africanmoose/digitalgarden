@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Rosenthal Effect/","title":"Rosenthal Effect","created":"2022-12-24T19:19:27.000+03:00","updated":"2024-02-14T20:18:24.676+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/rosenthal-effect/","title":"Rosenthal Effect","created":"2022-12-24T19:19:27.000+03:00","updated":"2024-02-14T20:18:24.676+03:00"}
 ---
 
 
