@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x - System/05 Zettelkasten/05.02 - Digital Garden/03 Improve your finances/","title":"Improve your finances","created":"2023-10-17T22:37:36.000+03:00","updated":"2024-02-14T20:19:10.579+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/05-zettelkasten/05-02-digital-garden/03-improve-your-finances/","title":"Improve your finances","created":"2023-10-17T22:37:36.000+03:00","updated":"2024-02-14T20:19:10.579+03:00"}
 ---
 
 
