@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Justify your behaviour/","title":"Justify your behaviour","created":"2022-12-24T00:31:10.000+03:00","updated":"2024-02-14T20:18:29.046+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/justify-your-behaviour/","title":"Justify your behaviour","created":"2022-12-24T00:31:10.000+03:00","updated":"2024-02-14T20:18:29.046+03:00"}
 ---
 
 
