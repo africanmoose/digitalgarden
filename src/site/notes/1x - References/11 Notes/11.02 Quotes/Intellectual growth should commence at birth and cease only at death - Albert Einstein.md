@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Intellectual growth should commence at birth and cease only at death - Albert Einstein/","title":"Intellectual growth should commence at birth and cease only at death - Albert Einstein","created":"2023-08-25T20:02:19.931+03:00","updated":"2024-02-14T20:18:41.761+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/intellectual-growth-should-commence-at-birth-and-cease-only-at-death-albert-einstein/","title":"Intellectual growth should commence at birth and cease only at death - Albert Einstein","created":"2023-08-25T20:02:19.931+03:00","updated":"2024-02-14T20:18:41.761+03:00"}
 ---
 
 
