@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/My year with Eleanor - Noelle Hancock/","title":"My year with Eleanor - Noelle Hancock","created":"2023-10-20T23:39:12.000+03:00","updated":"2024-02-14T20:17:40.707+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/my-year-with-eleanor-noelle-hancock/","title":"My year with Eleanor - Noelle Hancock","created":"2023-10-20T23:39:12.000+03:00","updated":"2024-02-14T20:17:40.707+03:00"}
 ---
 
 ![My year with Eleanor - Cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/My%20year%20with%20Eleanor%20-%20Cover.jpg)
