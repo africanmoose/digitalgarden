@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Develop the habit of paying the price as early as possible/","title":"Develop the habit of paying the price as early as possible","created":"2024-02-15T11:48:56.824+03:00","updated":"2024-02-15T11:52:00.412+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/develop-the-habit-of-paying-the-price-as-early-as-possible/","title":"Develop the habit of paying the price as early as possible","created":"2024-02-15T11:48:56.824+03:00","updated":"2024-02-15T11:52:00.412+03:00"}
 ---
 
 
