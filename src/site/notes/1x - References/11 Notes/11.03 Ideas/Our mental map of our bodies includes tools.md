@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Our mental map of our bodies includes tools/","title":"Our mental map of our bodies includes tools","created":"2023-09-15T22:42:11.595+03:00","updated":"2024-02-14T20:18:26.141+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/our-mental-map-of-our-bodies-includes-tools/","title":"Our mental map of our bodies includes tools","created":"2023-09-15T22:42:11.595+03:00","updated":"2024-02-14T20:18:26.141+03:00"}
 ---
 
 
