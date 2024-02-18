@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Think of things every day that we are grateful for/","title":"Think of things every day that we are grateful for","created":"2023-11-05T22:21:00.000+03:00","updated":"2024-02-14T20:18:21.896+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/think-of-things-every-day-that-we-are-grateful-for/","title":"Think of things every day that we are grateful for","created":"2023-11-05T22:21:00.000+03:00","updated":"2024-02-14T20:18:21.896+03:00"}
 ---
 
 
