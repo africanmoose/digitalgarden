@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Stop worrying about what other people think of your finances/","title":"Stop worrying about what other people think of your finances","created":"2023-08-26T16:39:07.185+03:00","updated":"2024-02-14T20:17:37.946+03:00"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/stop-worrying-about-what-other-people-think-of-your-finances/","title":"Stop worrying about what other people think of your finances","created":"2023-08-26T16:39:07.185+03:00","updated":"2024-02-14T20:17:37.946+03:00"}
 ---
 
 
