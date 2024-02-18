@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Kaizen/","title":"Kaizen","created":"2023-01-03T20:26:33.000+03:00","updated":"2024-02-14T20:18:29.015+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/kaizen/","title":"Kaizen","created":"2023-01-03T20:26:33.000+03:00","updated":"2024-02-14T20:18:29.015+03:00"}
 ---
 
 
