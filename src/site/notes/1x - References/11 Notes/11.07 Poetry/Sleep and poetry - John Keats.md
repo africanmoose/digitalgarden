@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/Sleep and poetry - John Keats/","title":"Sleep and poetry - John Keats","created":"2022-10-28T13:04:39.000+03:00","updated":"2024-02-14T20:18:17.953+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/sleep-and-poetry-john-keats/","title":"Sleep and poetry - John Keats","created":"2022-10-28T13:04:39.000+03:00","updated":"2024-02-14T20:18:17.953+03:00"}
 ---
 
 
