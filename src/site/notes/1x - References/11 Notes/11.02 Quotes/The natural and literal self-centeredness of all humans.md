@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The natural and literal self-centeredness of all humans/","title":"The natural and literal self-centeredness of all humans","created":"2023-03-09T09:21:23.000+03:00","updated":"2024-02-14T20:18:37.670+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-natural-and-literal-self-centeredness-of-all-humans/","title":"The natural and literal self-centeredness of all humans","created":"2023-03-09T09:21:23.000+03:00","updated":"2024-02-14T20:18:37.670+03:00"}
 ---
 
 
