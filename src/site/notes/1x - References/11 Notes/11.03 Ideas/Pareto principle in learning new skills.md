@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Pareto principle in learning new skills/","title":"Pareto principle in learning new skills","created":"2022-11-01T15:02:28.000+03:00","updated":"2024-02-14T20:18:25.834+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/pareto-principle-in-learning-new-skills/","title":"Pareto principle in learning new skills","created":"2022-11-01T15:02:28.000+03:00","updated":"2024-02-14T20:18:25.834+03:00"}
 ---
 
 ---
