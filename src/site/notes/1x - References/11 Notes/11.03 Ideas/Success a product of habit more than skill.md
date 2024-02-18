@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Success a product of habit more than skill/","title":"Success a product of habit more than skill","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:23.298+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/success-a-product-of-habit-more-than-skill/","title":"Success a product of habit more than skill","created":"2022-11-14T21:33:33.000+03:00","updated":"2024-02-14T20:18:23.298+03:00"}
 ---
 
 
