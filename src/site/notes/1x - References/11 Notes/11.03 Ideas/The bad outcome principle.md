@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The bad outcome principle/","title":"The bad outcome principle","created":"2023-12-22T20:28:31.000+03:00","updated":"2024-02-14T20:18:22.489+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-bad-outcome-principle/","title":"The bad outcome principle","created":"2023-12-22T20:28:31.000+03:00","updated":"2024-02-14T20:18:22.489+03:00"}
 ---
 
 
