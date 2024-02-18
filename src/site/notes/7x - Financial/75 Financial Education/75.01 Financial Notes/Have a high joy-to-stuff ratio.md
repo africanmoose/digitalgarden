@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Have a high joy-to-stuff ratio/","title":"Have a high joy-to-stuff ratio","created":"2023-10-15T23:05:22.000+03:00","updated":"2024-02-14T20:17:37.989+03:00"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/have-a-high-joy-to-stuff-ratio/","title":"Have a high joy-to-stuff ratio","created":"2023-10-15T23:05:22.000+03:00","updated":"2024-02-14T20:17:37.989+03:00"}
 ---
 
 
