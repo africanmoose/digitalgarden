@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Introspection illusion/","title":"Introspection illusion","created":"2022-12-25T23:42:59.000+03:00","updated":"2024-02-14T20:18:29.304+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/introspection-illusion/","title":"Introspection illusion","created":"2022-12-25T23:42:59.000+03:00","updated":"2024-02-14T20:18:29.304+03:00"}
 ---
 
 
