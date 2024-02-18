@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Authority Bias/","title":"Authority Bias","created":"2022-12-15T08:01:01.000+03:00","updated":"2024-02-14T20:18:35.891+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/authority-bias/","title":"Authority Bias","created":"2022-12-15T08:01:01.000+03:00","updated":"2024-02-14T20:18:35.891+03:00"}
 ---
 
 
