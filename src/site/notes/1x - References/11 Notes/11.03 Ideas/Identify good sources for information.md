@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Identify good sources for information/","title":"Identify good sources for information","created":"2022-11-01T15:02:21.000+03:00","updated":"2024-02-14T20:18:29.810+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/identify-good-sources-for-information/","title":"Identify good sources for information","created":"2022-11-01T15:02:21.000+03:00","updated":"2024-02-14T20:18:29.810+03:00"}
 ---
 
 ---
