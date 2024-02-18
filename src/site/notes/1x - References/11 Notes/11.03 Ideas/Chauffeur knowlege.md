@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Chauffeur knowlege/","title":"Chauffeur knowlege","created":"2022-12-15T08:01:19.000+03:00","updated":"2024-02-14T20:18:34.809+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/chauffeur-knowlege/","title":"Chauffeur knowlege","created":"2022-12-15T08:01:19.000+03:00","updated":"2024-02-14T20:18:34.809+03:00"}
 ---
 
 
