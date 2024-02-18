@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Principle of reciprocity/","title":"Principle of reciprocity","created":"2023-01-01T17:58:44.000+03:00","updated":"2024-02-14T20:18:25.243+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/principle-of-reciprocity/","title":"Principle of reciprocity","created":"2023-01-01T17:58:44.000+03:00","updated":"2024-02-14T20:18:25.243+03:00"}
 ---
 
 
