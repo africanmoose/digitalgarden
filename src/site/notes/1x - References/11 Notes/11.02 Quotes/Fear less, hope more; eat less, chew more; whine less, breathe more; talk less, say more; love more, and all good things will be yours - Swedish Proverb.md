@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; love more, and all good things will be yours - Swedish Proverb/","title":"Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; love more, and all good things will be yours - Swedish Proverb","created":"2024-01-07T23:07:53.000+03:00","updated":"2024-02-14T20:18:44.473+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/fear-less-hope-more-eat-less-chew-more-whine-less-breathe-more-talk-less-say-more-love-more-and-all-good-things-will-be-yours-swedish-proverb/","title":"Fear less, hope more; eat less, chew more; whine less, breathe more; talk less, say more; love more, and all good things will be yours - Swedish Proverb","created":"2024-01-07T23:07:53.000+03:00","updated":"2024-02-14T20:18:44.473+03:00"}
 ---
 
 
