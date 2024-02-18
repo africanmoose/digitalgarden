@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Writing isnt hard work its a nightmare - Philip Roth/","title":"Writing isnt hard work its a nightmare - Philip Roth","created":"2023-05-04T18:11:05.000+03:00","updated":"2024-02-14T20:18:36.351+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/writing-isnt-hard-work-its-a-nightmare-philip-roth/","title":"Writing isnt hard work its a nightmare - Philip Roth","created":"2023-05-04T18:11:05.000+03:00","updated":"2024-02-14T20:18:36.351+03:00"}
 ---
 
 
