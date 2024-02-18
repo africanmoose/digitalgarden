@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Keep notes in a commonplace book/","title":"Keep notes in a commonplace book","created":"2023-09-15T16:47:16.677+03:00","updated":"2024-02-14T20:18:28.893+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/keep-notes-in-a-commonplace-book/","title":"Keep notes in a commonplace book","created":"2023-09-15T16:47:16.677+03:00","updated":"2024-02-14T20:18:28.893+03:00"}
 ---
 
 
