@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0x - System/01 Index/01.04 Notes in process/365 Days with Self-Discipline - Martin Meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-02-17T12:09:16.464+03:00"}
+{"dg-publish":true,"permalink":"/0x-system/01-index/01-04-notes-in-process/365-days-with-self-discipline-martin-meadows/","title":"365 Days with Self-Discipline - Martin Meadows","created":"2024-02-15T09:57:45.987+03:00","updated":"2024-02-18T16:19:13.030+03:00"}
 ---
 
 
@@ -12,12 +12,16 @@
 ### Details
 - [[1x - References/11 Notes/11.03 Ideas/Develop the habit of paying the price as early as possible\|Develop the habit of paying the price as early as possible]]
 - [[1x - References/11 Notes/11.03 Ideas/When you face a problem, struggle with it for as long as possible before asking for help\|When you face a problem, struggle with it for as long as possible before asking for help]]
-
+- [[1x - References/11 Notes/11.03 Ideas/Improve patience by doing things that take long to accomplish\|Improve patience by doing things that take long to accomplish]]
+- [[1x - References/11 Notes/11.03 Ideas/Our limits are psychological and come from what we expose ourselves to\|Our limits are psychological and come from what we expose ourselves to]]
+- 
 ### References
 - 
 
 ### Quotes
 - [[1x - References/11 Notes/11.02 Quotes/Motivation is not permanent, but neither is bathing - Zig Ziglari\|Motivation is not permanent, but neither is bathing - Zig Ziglari]]
+- [[1x - References/11 Notes/11.02 Quotes/Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy\|Teach others what you are learning. You become what you teach. You teach what you are - Brian Tracy]]
 
 ### Related
+- [[4x - Reading/41 Books/41.02 Book reviews/The Complete Guide to Self-Control - Scott H Young Jakub Jilek\|The Complete Guide to Self-Control - Scott H Young Jakub Jilek]]
 
