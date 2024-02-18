@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Information Bias/","title":"Information Bias","created":"2022-12-24T14:37:44.000+03:00","updated":"2024-02-14T20:18:29.356+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/information-bias/","title":"Information Bias","created":"2022-12-24T14:37:44.000+03:00","updated":"2024-02-14T20:18:29.356+03:00"}
 ---
 
 
