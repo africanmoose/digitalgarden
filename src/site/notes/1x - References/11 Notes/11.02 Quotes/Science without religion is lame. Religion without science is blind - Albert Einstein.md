@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Science without religion is lame. Religion without science is blind - Albert Einstein/","title":"Science without religion is lame. Religion without science is blind - Albert Einstein","created":"2023-09-17T23:19:25.000+03:00","updated":"2024-02-14T20:18:39.597+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/science-without-religion-is-lame-religion-without-science-is-blind-albert-einstein/","title":"Science without religion is lame. Religion without science is blind - Albert Einstein","created":"2023-09-17T23:19:25.000+03:00","updated":"2024-02-14T20:18:39.597+03:00"}
 ---
 
 
