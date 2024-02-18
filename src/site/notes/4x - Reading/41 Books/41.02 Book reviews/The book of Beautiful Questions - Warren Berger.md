@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The book of Beautiful Questions - Warren Berger/","title":"The book of Beautiful Questions - Warren Berger","created":"2023-06-25T13:30:45.000+03:00","updated":"2024-02-14T20:17:40.257+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-book-of-beautiful-questions-warren-berger/","title":"The book of Beautiful Questions - Warren Berger","created":"2023-06-25T13:30:45.000+03:00","updated":"2024-02-14T20:17:40.257+03:00"}
 ---
 
 
