@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker/","title":"The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker","created":"2023-09-26T21:49:08.000+03:00","updated":"2024-02-14T20:18:38.189+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-cure-for-boredom-is-curiosity-there-is-no-cure-for-curiosity-dorothy-parker/","title":"The cure for boredom is curiosity. There is no cure for curiosity - Dorothy Parker","created":"2023-09-26T21:49:08.000+03:00","updated":"2024-02-14T20:18:38.189+03:00"}
 ---
 
 
