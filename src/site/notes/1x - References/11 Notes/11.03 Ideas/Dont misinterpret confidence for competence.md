@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont misinterpret confidence for competence/","title":"Dont misinterpret confidence for competence","created":"2023-06-24T17:30:23.000+03:00","updated":"2024-02-14T20:18:33.193+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-misinterpret-confidence-for-competence/","title":"Dont misinterpret confidence for competence","created":"2023-06-24T17:30:23.000+03:00","updated":"2024-02-14T20:18:33.193+03:00"}
 ---
 
 
