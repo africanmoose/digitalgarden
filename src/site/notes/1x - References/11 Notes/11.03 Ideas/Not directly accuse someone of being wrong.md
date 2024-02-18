@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Not directly accuse someone of being wrong/","title":"Not directly accuse someone of being wrong","created":"2022-11-14T21:33:31.000+03:00","updated":"2024-02-14T20:18:26.465+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/not-directly-accuse-someone-of-being-wrong/","title":"Not directly accuse someone of being wrong","created":"2022-11-14T21:33:31.000+03:00","updated":"2024-02-14T20:18:26.465+03:00"}
 ---
 
 
