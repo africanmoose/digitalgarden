@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Distraction can come from within our own mind/","title":"Distraction can come from within our own mind","created":"2023-10-22T20:59:17.000+03:00","updated":"2024-02-14T20:18:33.536+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/distraction-can-come-from-within-our-own-mind/","title":"Distraction can come from within our own mind","created":"2023-10-22T20:59:17.000+03:00","updated":"2024-02-14T20:18:33.536+03:00"}
 ---
 
 
