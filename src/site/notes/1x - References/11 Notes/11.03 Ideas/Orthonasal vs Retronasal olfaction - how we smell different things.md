@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Orthonasal vs Retronasal olfaction - how we smell different things/","title":"Orthonasal vs Retronasal olfaction - how we smell different things","created":"2023-12-29T22:09:39.604+03:00","updated":"2024-02-14T20:18:26.252+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/orthonasal-vs-retronasal-olfaction-how-we-smell-different-things/","title":"Orthonasal vs Retronasal olfaction - how we smell different things","created":"2023-12-29T22:09:39.604+03:00","updated":"2024-02-14T20:18:26.252+03:00"}
 ---
 
 
