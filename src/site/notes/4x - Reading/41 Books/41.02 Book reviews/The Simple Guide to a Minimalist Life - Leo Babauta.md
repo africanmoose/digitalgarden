@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/The Simple Guide to a Minimalist Life - Leo Babauta/","title":"The Simple Guide to a Minimalist Life - Leo Babauta","created":"2024-01-08T21:53:12.000+03:00","updated":"2024-02-14T20:17:40.339+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/the-simple-guide-to-a-minimalist-life-leo-babauta/","title":"The Simple Guide to a Minimalist Life - Leo Babauta","created":"2024-01-08T21:53:12.000+03:00","updated":"2024-02-14T20:17:40.339+03:00"}
 ---
 
 ![The simple guide - cover.jpg](/img/user/4x%20-%20Reading/41%20Books/41.02%20Book%20reviews/The%20simple%20guide%20-%20cover.jpg)
