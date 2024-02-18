@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont give the best of yourself to the least important things/","title":"Dont give the best of yourself to the least important things","created":"2023-12-11T22:44:06.000+03:00","updated":"2024-02-14T20:18:33.239+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-give-the-best-of-yourself-to-the-least-important-things/","title":"Dont give the best of yourself to the least important things","created":"2023-12-11T22:44:06.000+03:00","updated":"2024-02-14T20:18:33.239+03:00"}
 ---
 
 
