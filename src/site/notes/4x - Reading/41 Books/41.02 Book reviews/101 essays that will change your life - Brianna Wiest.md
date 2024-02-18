@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/101 essays that will change your life - Brianna Wiest/","title":"101 essays that will change your life - Brianna Wiest","created":"2022-11-15T10:56:19.000+03:00","updated":"2024-02-14T20:17:41.109+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/101-essays-that-will-change-your-life-brianna-wiest/","title":"101 essays that will change your life - Brianna Wiest","created":"2022-11-15T10:56:19.000+03:00","updated":"2024-02-14T20:17:41.109+03:00"}
 ---
 
 
