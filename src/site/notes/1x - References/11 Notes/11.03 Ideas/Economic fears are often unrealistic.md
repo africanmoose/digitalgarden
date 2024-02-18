@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Economic fears are often unrealistic/","title":"Economic fears are often unrealistic","created":"2023-10-08T23:36:42.000+03:00","updated":"2024-02-14T20:18:33.102+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/economic-fears-are-often-unrealistic/","title":"Economic fears are often unrealistic","created":"2023-10-08T23:36:42.000+03:00","updated":"2024-02-14T20:18:33.102+03:00"}
 ---
 
 
