@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Hedonic Treadmill/","title":"Hedonic Treadmill","created":"2022-12-22T00:04:45.000+03:00","updated":"2024-02-14T20:18:31.023+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/hedonic-treadmill/","title":"Hedonic Treadmill","created":"2022-12-22T00:04:45.000+03:00","updated":"2024-02-14T20:18:31.023+03:00"}
 ---
 
 
