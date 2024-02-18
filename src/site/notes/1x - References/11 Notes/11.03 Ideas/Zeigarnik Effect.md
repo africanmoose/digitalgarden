@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Zeigarnik Effect/","title":"Zeigarnik Effect","created":"2023-01-03T20:30:03.000+03:00","updated":"2024-02-14T20:18:19.660+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/zeigarnik-effect/","title":"Zeigarnik Effect","created":"2023-01-03T20:30:03.000+03:00","updated":"2024-02-14T20:18:19.660+03:00"}
 ---
 
 
