@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Do ordinary things to do something special/","title":"Do ordinary things to do something special","created":"2023-01-23T18:32:00.000+03:00","updated":"2024-02-14T20:18:45.837+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/do-ordinary-things-to-do-something-special/","title":"Do ordinary things to do something special","created":"2023-01-23T18:32:00.000+03:00","updated":"2024-02-14T20:18:45.837+03:00"}
 ---
 
 
