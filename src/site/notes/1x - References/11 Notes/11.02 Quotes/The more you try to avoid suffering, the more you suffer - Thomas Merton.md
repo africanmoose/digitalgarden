@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/The more you try to avoid suffering, the more you suffer - Thomas Merton/","title":"The more you try to avoid suffering, the more you suffer - Thomas Merton","created":"2023-12-01T12:20:38.000+03:00","updated":"2024-02-14T20:18:37.694+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-more-you-try-to-avoid-suffering-the-more-you-suffer-thomas-merton/","title":"The more you try to avoid suffering, the more you suffer - Thomas Merton","created":"2023-12-01T12:20:38.000+03:00","updated":"2024-02-14T20:18:37.694+03:00"}
 ---
 
 
