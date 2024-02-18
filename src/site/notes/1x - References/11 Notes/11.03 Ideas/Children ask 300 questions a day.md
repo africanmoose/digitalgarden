@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Children ask 300 questions a day/","title":"Children ask 300 questions a day","created":"2023-05-28T16:57:52.000+03:00","updated":"2024-02-14T20:18:34.764+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/children-ask-300-questions-a-day/","title":"Children ask 300 questions a day","created":"2023-05-28T16:57:52.000+03:00","updated":"2024-02-14T20:18:34.764+03:00"}
 ---
 
 
