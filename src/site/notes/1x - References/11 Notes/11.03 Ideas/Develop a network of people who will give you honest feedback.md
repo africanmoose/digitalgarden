@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Develop a network of people who will give you honest feedback/","title":"Develop a network of people who will give you honest feedback","created":"2023-07-30T12:24:46.578+03:00","updated":"2024-02-14T20:18:33.940+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/develop-a-network-of-people-who-will-give-you-honest-feedback/","title":"Develop a network of people who will give you honest feedback","created":"2023-07-30T12:24:46.578+03:00","updated":"2024-02-14T20:18:33.940+03:00"}
 ---
 
 
