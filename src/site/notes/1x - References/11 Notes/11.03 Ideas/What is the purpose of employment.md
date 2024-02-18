@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/What is the purpose of employment/","title":"What is the purpose of employment","created":"2023-10-16T21:55:20.000+03:00","updated":"2024-02-14T20:18:20.909+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/what-is-the-purpose-of-employment/","title":"What is the purpose of employment","created":"2023-10-16T21:55:20.000+03:00","updated":"2024-02-14T20:18:20.909+03:00"}
 ---
 
 
