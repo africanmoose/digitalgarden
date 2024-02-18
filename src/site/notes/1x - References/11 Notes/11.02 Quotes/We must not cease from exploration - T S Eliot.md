@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/We must not cease from exploration - T S Eliot/","title":"We must not cease from exploration - T S Eliot","created":"2023-08-23T20:25:41.414+03:00","updated":"2024-02-14T20:18:36.512+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/we-must-not-cease-from-exploration-t-s-eliot/","title":"We must not cease from exploration - T S Eliot","created":"2023-08-23T20:25:41.414+03:00","updated":"2024-02-14T20:18:36.512+03:00"}
 ---
 
 
