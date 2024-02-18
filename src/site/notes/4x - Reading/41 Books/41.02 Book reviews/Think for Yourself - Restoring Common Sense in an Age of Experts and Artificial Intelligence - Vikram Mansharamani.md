@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani/","title":"Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani","created":"2023-03-09T09:30:21.000+03:00","updated":"2024-02-14T20:17:40.083+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/think-for-yourself-restoring-common-sense-in-an-age-of-experts-and-artificial-intelligence-vikram-mansharamani/","title":"Think for Yourself - Restoring Common Sense in an Age of Experts and Artificial Intelligence - Vikram Mansharamani","created":"2023-03-09T09:30:21.000+03:00","updated":"2024-02-14T20:17:40.083+03:00"}
 ---
 
 
