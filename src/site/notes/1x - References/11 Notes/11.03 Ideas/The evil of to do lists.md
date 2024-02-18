@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The evil of to do lists/","title":"The evil of to do lists","created":"2023-01-05T12:52:48.000+03:00","updated":"2024-02-14T20:18:22.337+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-evil-of-to-do-lists/","title":"The evil of to do lists","created":"2023-01-05T12:52:48.000+03:00","updated":"2024-02-14T20:18:22.337+03:00"}
 ---
 
 
