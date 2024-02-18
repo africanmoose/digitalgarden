@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We are interpretation machines but rarely accurate/","title":"We are interpretation machines but rarely accurate","created":"2023-03-26T19:48:30.000+03:00","updated":"2024-02-14T20:18:21.365+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-are-interpretation-machines-but-rarely-accurate/","title":"We are interpretation machines but rarely accurate","created":"2023-03-26T19:48:30.000+03:00","updated":"2024-02-14T20:18:21.365+03:00"}
 ---
 
 
