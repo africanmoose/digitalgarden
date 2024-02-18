@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/If you always agree with a collaborator one of you is unnecessary/","title":"If you always agree with a collaborator one of you is unnecessary","created":"2023-03-26T21:50:37.000+03:00","updated":"2024-02-14T20:18:29.643+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/if-you-always-agree-with-a-collaborator-one-of-you-is-unnecessary/","title":"If you always agree with a collaborator one of you is unnecessary","created":"2023-03-26T21:50:37.000+03:00","updated":"2024-02-14T20:18:29.643+03:00"}
 ---
 
 
