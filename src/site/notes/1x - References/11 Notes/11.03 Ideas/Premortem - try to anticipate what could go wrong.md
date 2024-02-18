@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Premortem - try to anticipate what could go wrong/","title":"Premortem - try to anticipate what could go wrong","created":"2023-08-06T11:53:27.383+03:00","updated":"2024-02-14T20:18:25.320+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/premortem-try-to-anticipate-what-could-go-wrong/","title":"Premortem - try to anticipate what could go wrong","created":"2023-08-06T11:53:27.383+03:00","updated":"2024-02-14T20:18:25.320+03:00"}
 ---
 
 
