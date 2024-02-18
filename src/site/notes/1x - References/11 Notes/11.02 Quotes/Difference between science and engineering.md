@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Difference between science and engineering/","title":"Difference between science and engineering","created":"2023-02-13T13:06:37.000+03:00","updated":"2024-02-14T20:18:45.921+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/difference-between-science-and-engineering/","title":"Difference between science and engineering","created":"2023-02-13T13:06:37.000+03:00","updated":"2024-02-14T20:18:45.921+03:00"}
 ---
 
 
