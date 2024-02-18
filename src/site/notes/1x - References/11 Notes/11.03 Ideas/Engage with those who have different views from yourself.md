@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Engage with those who have different views from yourself/","title":"Engage with those who have different views from yourself","created":"2023-03-08T08:29:06.000+03:00","updated":"2024-02-14T20:18:32.948+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/engage-with-those-who-have-different-views-from-yourself/","title":"Engage with those who have different views from yourself","created":"2023-03-08T08:29:06.000+03:00","updated":"2024-02-14T20:18:32.948+03:00"}
 ---
 
 
