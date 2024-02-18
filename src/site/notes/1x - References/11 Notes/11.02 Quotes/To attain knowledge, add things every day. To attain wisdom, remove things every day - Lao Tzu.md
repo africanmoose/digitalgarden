@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/To attain knowledge, add things every day. To attain wisdom, remove things every day - Lao Tzu/","title":"To attain knowledge, add things every day. To attain wisdom, remove things every day - Lao Tzu","created":"2023-09-16T12:43:03.432+03:00","updated":"2024-02-14T20:18:37.072+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/to-attain-knowledge-add-things-every-day-to-attain-wisdom-remove-things-every-day-lao-tzu/","title":"To attain knowledge, add things every day. To attain wisdom, remove things every day - Lao Tzu","created":"2023-09-16T12:43:03.432+03:00","updated":"2024-02-14T20:18:37.072+03:00"}
 ---
 
 
