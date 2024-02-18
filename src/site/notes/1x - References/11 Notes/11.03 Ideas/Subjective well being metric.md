@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Subjective well being metric/","title":"Subjective well being metric","created":"2023-01-08T08:47:13.000+03:00","updated":"2024-02-14T20:18:23.303+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/subjective-well-being-metric/","title":"Subjective well being metric","created":"2023-01-08T08:47:13.000+03:00","updated":"2024-02-14T20:18:23.303+03:00"}
 ---
 
 
