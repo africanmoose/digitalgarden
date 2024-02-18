@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We can train our taste and smell palate to be wider/","title":"We can train our taste and smell palate to be wider","created":"2023-12-27T23:34:49.578+03:00","updated":"2024-02-14T20:18:21.289+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-can-train-our-taste-and-smell-palate-to-be-wider/","title":"We can train our taste and smell palate to be wider","created":"2023-12-27T23:34:49.578+03:00","updated":"2024-02-14T20:18:21.289+03:00"}
 ---
 
 
