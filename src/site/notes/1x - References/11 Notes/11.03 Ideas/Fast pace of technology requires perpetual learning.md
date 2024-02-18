@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Fast pace of technology requires perpetual learning/","title":"Fast pace of technology requires perpetual learning","created":"2023-02-11T08:46:22.000+03:00","updated":"2024-02-14T20:18:32.324+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/fast-pace-of-technology-requires-perpetual-learning/","title":"Fast pace of technology requires perpetual learning","created":"2023-02-11T08:46:22.000+03:00","updated":"2024-02-14T20:18:32.324+03:00"}
 ---
 
 
