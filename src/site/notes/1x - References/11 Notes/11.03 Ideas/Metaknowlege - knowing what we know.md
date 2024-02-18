@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Metaknowlege - knowing what we know/","title":"Metaknowlege - knowing what we know","created":"2023-03-08T23:56:53.000+03:00","updated":"2024-02-14T20:18:27.217+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/metaknowlege-knowing-what-we-know/","title":"Metaknowlege - knowing what we know","created":"2023-03-08T23:56:53.000+03:00","updated":"2024-02-14T20:18:27.217+03:00"}
 ---
 
 
