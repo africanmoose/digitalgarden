@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/P G Wodehouse/","title":"P G Wodehouse","created":"2023-05-04T20:46:12.000+03:00","updated":"2024-02-14T20:18:18.070+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/p-g-wodehouse/","title":"P G Wodehouse","created":"2023-05-04T20:46:12.000+03:00","updated":"2024-02-14T20:18:18.070+03:00"}
 ---
 
 
