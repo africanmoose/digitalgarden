@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Notes should be for jogging memory not substituting memory/","title":"Notes should be for jogging memory not substituting memory","created":"2024-02-15T09:40:43.572+03:00","updated":"2024-02-15T09:45:16.997+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/notes-should-be-for-jogging-memory-not-substituting-memory/","title":"Notes should be for jogging memory not substituting memory","created":"2024-02-15T09:40:43.572+03:00","updated":"2024-02-15T09:45:16.997+03:00"}
 ---
 
 
