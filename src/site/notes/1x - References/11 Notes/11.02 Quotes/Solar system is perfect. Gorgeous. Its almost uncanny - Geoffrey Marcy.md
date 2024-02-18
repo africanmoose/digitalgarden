@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Solar system is perfect. Gorgeous. Its almost uncanny - Geoffrey Marcy/","title":"Solar system is perfect. Gorgeous. Its almost uncanny - Geoffrey Marcy","created":"2023-08-29T17:21:58.171+03:00","updated":"2024-02-14T20:18:39.202+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/solar-system-is-perfect-gorgeous-its-almost-uncanny-geoffrey-marcy/","title":"Solar system is perfect. Gorgeous. Its almost uncanny - Geoffrey Marcy","created":"2023-08-29T17:21:58.171+03:00","updated":"2024-02-14T20:18:39.202+03:00"}
 ---
 
 
