@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Illusion of control/","title":"Illusion of control","created":"2022-12-08T20:38:34.000+03:00","updated":"2024-02-14T20:18:29.433+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/illusion-of-control/","title":"Illusion of control","created":"2022-12-08T20:38:34.000+03:00","updated":"2024-02-14T20:18:29.433+03:00"}
 ---
 
 
