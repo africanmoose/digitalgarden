@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Coffee is concentrated sunshine - Humboldt/","title":"Coffee is concentrated sunshine - Humboldt","created":"2023-08-01T20:40:20.032+03:00","updated":"2024-02-14T20:18:46.204+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/coffee-is-concentrated-sunshine-humboldt/","title":"Coffee is concentrated sunshine - Humboldt","created":"2023-08-01T20:40:20.032+03:00","updated":"2024-02-14T20:18:46.204+03:00"}
 ---
 
 
