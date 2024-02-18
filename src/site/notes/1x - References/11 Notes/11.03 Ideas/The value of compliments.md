@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The value of compliments/","title":"The value of compliments","created":"2022-11-10T20:58:07.000+03:00","updated":"2024-02-14T20:18:21.950+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-value-of-compliments/","title":"The value of compliments","created":"2022-11-10T20:58:07.000+03:00","updated":"2024-02-14T20:18:21.950+03:00"}
 ---
 
 ---
