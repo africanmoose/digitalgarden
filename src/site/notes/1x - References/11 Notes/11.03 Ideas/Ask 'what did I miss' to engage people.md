@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask 'what did I miss' to engage people/","title":"Ask 'what did I miss' to engage people","created":"2023-12-12T21:39:54.000+03:00","updated":"2024-02-14T20:18:35.912+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-what-did-i-miss-to-engage-people/","title":"Ask 'what did I miss' to engage people","created":"2023-12-12T21:39:54.000+03:00","updated":"2024-02-14T20:18:35.912+03:00"}
 ---
 
 
