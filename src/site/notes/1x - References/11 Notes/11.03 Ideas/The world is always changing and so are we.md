@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The world is always changing and so are we/","title":"The world is always changing and so are we","created":"2023-03-23T18:49:34.000+03:00","updated":"2024-02-14T20:18:21.940+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-world-is-always-changing-and-so-are-we/","title":"The world is always changing and so are we","created":"2023-03-23T18:49:34.000+03:00","updated":"2024-02-14T20:18:21.940+03:00"}
 ---
 
 
