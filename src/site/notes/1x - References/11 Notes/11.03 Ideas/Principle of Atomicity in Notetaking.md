@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Principle of Atomicity in Notetaking/","title":"Principle of Atomicity in Notetaking","created":"2023-07-16T19:22:56.000+03:00","updated":"2024-02-14T20:18:25.305+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/principle-of-atomicity-in-notetaking/","title":"Principle of Atomicity in Notetaking","created":"2023-07-16T19:22:56.000+03:00","updated":"2024-02-14T20:18:25.305+03:00"}
 ---
 
 18.13 - Ideas - Principle of Atomicity in Notetaking
