@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Being good at self-control not necessarily because of effort made/","title":"Being good at self-control not necessarily because of effort made","created":"2023-04-21T00:14:57.000+03:00","updated":"2024-02-14T20:18:35.603+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/being-good-at-self-control-not-necessarily-because-of-effort-made/","title":"Being good at self-control not necessarily because of effort made","created":"2023-04-21T00:14:57.000+03:00","updated":"2024-02-14T20:18:35.603+03:00"}
 ---
 
 
