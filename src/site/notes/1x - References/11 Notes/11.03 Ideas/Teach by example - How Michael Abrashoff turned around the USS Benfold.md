@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Teach by example - How Michael Abrashoff turned around the USS Benfold/","title":"Teach by example - How Michael Abrashoff turned around the USS Benfold","created":"2023-12-11T22:40:36.000+03:00","updated":"2024-02-14T20:18:22.970+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/teach-by-example-how-michael-abrashoff-turned-around-the-uss-benfold/","title":"Teach by example - How Michael Abrashoff turned around the USS Benfold","created":"2023-12-11T22:40:36.000+03:00","updated":"2024-02-14T20:18:22.970+03:00"}
 ---
 
 
