@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Philip Tetlock/","title":"Philip Tetlock","created":"2022-12-20T22:33:09.000+03:00","updated":"2024-02-14T20:18:18.045+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/philip-tetlock/","title":"Philip Tetlock","created":"2022-12-20T22:33:09.000+03:00","updated":"2024-02-14T20:18:18.045+03:00"}
 ---
 
 
