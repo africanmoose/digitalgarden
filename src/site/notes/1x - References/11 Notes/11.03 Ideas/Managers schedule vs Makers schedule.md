@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Managers schedule vs Makers schedule/","title":"Managers schedule vs Makers schedule","created":"2023-06-05T12:53:20.000+03:00","updated":"2024-02-14T20:18:27.452+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/managers-schedule-vs-makers-schedule/","title":"Managers schedule vs Makers schedule","created":"2023-06-05T12:53:20.000+03:00","updated":"2024-02-14T20:18:27.452+03:00"}
 ---
 
 
