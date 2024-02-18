@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/If social media didnt exist what would you do/","title":"If social media didnt exist what would you do","created":"2023-11-17T20:43:36.000+03:00","updated":"2024-02-14T20:18:29.713+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/if-social-media-didnt-exist-what-would-you-do/","title":"If social media didnt exist what would you do","created":"2023-11-17T20:43:36.000+03:00","updated":"2024-02-14T20:18:29.713+03:00"}
 ---
 
 
