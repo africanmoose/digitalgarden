@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Zettelkasten Method/","title":"Zettelkasten Method","created":"2023-07-02T11:52:30.000+03:00","updated":"2024-02-14T20:18:19.622+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/zettelkasten-method/","title":"Zettelkasten Method","created":"2023-07-02T11:52:30.000+03:00","updated":"2024-02-14T20:18:19.622+03:00"}
 ---
 
 
