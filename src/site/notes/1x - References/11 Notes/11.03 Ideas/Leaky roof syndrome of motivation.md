@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Leaky roof syndrome of motivation/","title":"Leaky roof syndrome of motivation","created":"2023-11-04T23:50:25.000+03:00","updated":"2024-02-14T20:18:28.770+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/leaky-roof-syndrome-of-motivation/","title":"Leaky roof syndrome of motivation","created":"2023-11-04T23:50:25.000+03:00","updated":"2024-02-14T20:18:28.770+03:00"}
 ---
 
 
