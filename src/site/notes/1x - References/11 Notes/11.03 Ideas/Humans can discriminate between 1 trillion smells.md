@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Humans can discriminate between 1 trillion smells/","title":"Humans can discriminate between 1 trillion smells","created":"2023-12-29T11:35:16.000+03:00","updated":"2024-02-14T20:18:30.152+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/humans-can-discriminate-between-1-trillion-smells/","title":"Humans can discriminate between 1 trillion smells","created":"2023-12-29T11:35:16.000+03:00","updated":"2024-02-14T20:18:30.152+03:00"}
 ---
 
 
