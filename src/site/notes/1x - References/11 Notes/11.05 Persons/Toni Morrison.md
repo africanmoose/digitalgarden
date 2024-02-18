@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Toni Morrison/","title":"Toni Morrison","created":"2023-04-30T23:58:09.000+03:00","updated":"2024-02-14T20:18:18.034+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/toni-morrison/","title":"Toni Morrison","created":"2023-04-30T23:58:09.000+03:00","updated":"2024-02-14T20:18:18.034+03:00"}
 ---
 
 
