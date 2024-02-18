@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/It isnt talent its continuing - Kyohei Sakaguchi/","title":"It isnt talent its continuing - Kyohei Sakaguchi","created":"2023-01-18T20:39:52.000+03:00","updated":"2024-02-14T20:18:41.566+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/it-isnt-talent-its-continuing-kyohei-sakaguchi/","title":"It isnt talent its continuing - Kyohei Sakaguchi","created":"2023-01-18T20:39:52.000+03:00","updated":"2024-02-14T20:18:41.566+03:00"}
 ---
 
 
