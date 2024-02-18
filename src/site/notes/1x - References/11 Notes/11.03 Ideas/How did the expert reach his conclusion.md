@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How did the expert reach his conclusion/","title":"How did the expert reach his conclusion","created":"2023-03-09T00:03:58.000+03:00","updated":"2024-02-14T20:18:30.582+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-did-the-expert-reach-his-conclusion/","title":"How did the expert reach his conclusion","created":"2023-03-09T00:03:58.000+03:00","updated":"2024-02-14T20:18:30.582+03:00"}
 ---
 
 
