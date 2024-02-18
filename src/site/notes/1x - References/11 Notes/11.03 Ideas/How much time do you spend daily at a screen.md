@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/How much time do you spend daily at a screen/","title":"How much time do you spend daily at a screen","created":"2023-10-29T23:42:58.000+03:00","updated":"2024-02-14T20:18:30.541+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/how-much-time-do-you-spend-daily-at-a-screen/","title":"How much time do you spend daily at a screen","created":"2023-10-29T23:42:58.000+03:00","updated":"2024-02-14T20:18:30.541+03:00"}
 ---
 
 
