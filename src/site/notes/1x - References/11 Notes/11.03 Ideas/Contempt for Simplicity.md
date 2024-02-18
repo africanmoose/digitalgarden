@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Contempt for Simplicity/","title":"Contempt for Simplicity","created":"2022-11-11T13:40:47.000+03:00","updated":"2024-02-14T20:18:34.165+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/contempt-for-simplicity/","title":"Contempt for Simplicity","created":"2022-11-11T13:40:47.000+03:00","updated":"2024-02-14T20:18:34.165+03:00"}
 ---
 
 
