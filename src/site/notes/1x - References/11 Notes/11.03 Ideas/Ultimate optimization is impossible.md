@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ultimate optimization is impossible/","title":"Ultimate optimization is impossible","created":"2023-03-06T06:45:33.000+03:00","updated":"2024-02-14T20:18:21.783+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ultimate-optimization-is-impossible/","title":"Ultimate optimization is impossible","created":"2023-03-06T06:45:33.000+03:00","updated":"2024-02-14T20:18:21.783+03:00"}
 ---
 
 
