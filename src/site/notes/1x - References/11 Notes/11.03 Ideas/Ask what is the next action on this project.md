@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Ask what is the next action on this project/","title":"Ask what is the next action on this project","created":"2023-10-22T23:15:47.000+03:00","updated":"2024-02-14T20:18:35.898+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/ask-what-is-the-next-action-on-this-project/","title":"Ask what is the next action on this project","created":"2023-10-22T23:15:47.000+03:00","updated":"2024-02-14T20:18:35.898+03:00"}
 ---
 
 
