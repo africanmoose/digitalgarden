@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Paradox of choice/","title":"Paradox of choice","created":"2022-12-15T08:01:48.000+03:00","updated":"2024-02-14T20:18:25.891+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/paradox-of-choice/","title":"Paradox of choice","created":"2022-12-15T08:01:48.000+03:00","updated":"2024-02-14T20:18:25.891+03:00"}
 ---
 
 
