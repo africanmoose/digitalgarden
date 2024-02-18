@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Following the rules may impede expertise/","title":"Following the rules may impede expertise","created":"2023-07-17T22:08:47.000+03:00","updated":"2024-02-14T20:18:31.916+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/following-the-rules-may-impede-expertise/","title":"Following the rules may impede expertise","created":"2023-07-17T22:08:47.000+03:00","updated":"2024-02-14T20:18:31.916+03:00"}
 ---
 
 
