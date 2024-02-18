@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Problem based learning/","title":"Problem based learning","created":"2022-11-01T15:01:26.000+03:00","updated":"2024-02-14T20:18:25.186+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/problem-based-learning/","title":"Problem based learning","created":"2022-11-01T15:01:26.000+03:00","updated":"2024-02-14T20:18:25.186+03:00"}
 ---
 
 ---
