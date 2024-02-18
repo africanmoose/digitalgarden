@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Self-expression is a vital human need/","title":"Self-expression is a vital human need","created":"2023-09-16T13:03:32.582+03:00","updated":"2024-02-14T20:18:24.401+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/self-expression-is-a-vital-human-need/","title":"Self-expression is a vital human need","created":"2023-09-16T13:03:32.582+03:00","updated":"2024-02-14T20:18:24.401+03:00"}
 ---
 
 
