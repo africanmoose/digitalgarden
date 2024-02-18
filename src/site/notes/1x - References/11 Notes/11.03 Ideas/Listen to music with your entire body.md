@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Listen to music with your entire body/","title":"Listen to music with your entire body","created":"2023-03-23T18:38:32.000+03:00","updated":"2024-02-14T20:18:28.089+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/listen-to-music-with-your-entire-body/","title":"Listen to music with your entire body","created":"2023-03-23T18:38:32.000+03:00","updated":"2024-02-14T20:18:28.089+03:00"}
 ---
 
 
