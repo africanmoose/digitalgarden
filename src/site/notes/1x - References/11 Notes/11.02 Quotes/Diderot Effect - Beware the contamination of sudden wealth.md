@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Diderot Effect - Beware the contamination of sudden wealth/","title":"Diderot Effect - Beware the contamination of sudden wealth","created":"2022-11-14T10:57:00.000+03:00","updated":"2024-02-14T20:18:45.960+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/diderot-effect-beware-the-contamination-of-sudden-wealth/","title":"Diderot Effect - Beware the contamination of sudden wealth","created":"2022-11-14T10:57:00.000+03:00","updated":"2024-02-14T20:18:45.960+03:00"}
 ---
 
 
