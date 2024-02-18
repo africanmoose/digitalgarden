@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Halo Effect/","title":"Halo Effect","created":"2022-12-17T10:17:35.000+03:00","updated":"2024-02-14T20:18:31.358+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/halo-effect/","title":"Halo Effect","created":"2022-12-17T10:17:35.000+03:00","updated":"2024-02-14T20:18:31.358+03:00"}
 ---
 
 
