@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Spend 5 minutes a day savoring something/","title":"Spend 5 minutes a day savoring something","created":"2023-11-10T21:18:58.000+03:00","updated":"2024-02-14T20:18:23.702+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/spend-5-minutes-a-day-savoring-something/","title":"Spend 5 minutes a day savoring something","created":"2023-11-10T21:18:58.000+03:00","updated":"2024-02-14T20:18:23.702+03:00"}
 ---
 
 
