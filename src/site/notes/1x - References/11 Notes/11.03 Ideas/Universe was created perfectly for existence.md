@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Universe was created perfectly for existence/","title":"Universe was created perfectly for existence","created":"2023-08-29T17:18:29.517+03:00","updated":"2024-02-14T20:18:21.742+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/universe-was-created-perfectly-for-existence/","title":"Universe was created perfectly for existence","created":"2023-08-29T17:18:29.517+03:00","updated":"2024-02-14T20:18:21.742+03:00"}
 ---
 
 
