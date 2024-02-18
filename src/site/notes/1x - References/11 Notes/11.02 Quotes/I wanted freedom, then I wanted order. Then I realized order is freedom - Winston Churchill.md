@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/I wanted freedom, then I wanted order. Then I realized order is freedom - Winston Churchill/","title":"I wanted freedom, then I wanted order. Then I realized order is freedom - Winston Churchill","created":"2023-10-22T22:24:34.000+03:00","updated":"2024-02-14T20:18:42.965+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/i-wanted-freedom-then-i-wanted-order-then-i-realized-order-is-freedom-winston-churchill/","title":"I wanted freedom, then I wanted order. Then I realized order is freedom - Winston Churchill","created":"2023-10-22T22:24:34.000+03:00","updated":"2024-02-14T20:18:42.965+03:00"}
 ---
 
 
