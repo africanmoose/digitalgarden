@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/The standard pace is for average/","title":"The standard pace is for average","created":"2023-06-25T17:55:49.000+03:00","updated":"2024-02-14T20:18:22.042+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/the-standard-pace-is-for-average/","title":"The standard pace is for average","created":"2023-06-25T17:55:49.000+03:00","updated":"2024-02-14T20:18:22.042+03:00"}
 ---
 
 
