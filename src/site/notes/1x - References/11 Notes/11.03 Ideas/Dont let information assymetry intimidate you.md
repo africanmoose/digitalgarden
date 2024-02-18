@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Dont let information assymetry intimidate you/","title":"Dont let information assymetry intimidate you","created":"2023-03-06T06:49:35.000+03:00","updated":"2024-02-14T20:18:33.218+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/dont-let-information-assymetry-intimidate-you/","title":"Dont let information assymetry intimidate you","created":"2023-03-06T06:49:35.000+03:00","updated":"2024-02-14T20:18:33.218+03:00"}
 ---
 
 
