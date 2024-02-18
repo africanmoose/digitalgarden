@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Hermann Ebinghaus/","title":"Hermann Ebinghaus","created":"2023-04-26T00:20:42.000+03:00","updated":"2024-02-14T20:18:18.390+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/hermann-ebinghaus/","title":"Hermann Ebinghaus","created":"2023-04-26T00:20:42.000+03:00","updated":"2024-02-14T20:18:18.390+03:00"}
 ---
 
 
