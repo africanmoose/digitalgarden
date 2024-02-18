@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan/","title":"What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan","created":"2024-01-20T11:59:23.000+03:00","updated":"2024-02-15T09:07:15.307+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/what-an-astonishing-thing-a-book-is-writing-is-perhaps-the-greatest-of-human-inventions-binding-together-people-who-never-knew-each-other-carl-sagan/","title":"What an astonishing thing a book is. Writing is perhaps the greatest of human inventions binding together people who never knew each other. - Carl Sagan","created":"2024-01-20T11:59:23.000+03:00","updated":"2024-02-15T09:07:15.307+03:00"}
 ---
 
 
