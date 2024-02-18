@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-18T16:21:56.957+03:00"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","title":"AfricanMoose Digital Garden","tags":["gardenEntry"],"created":"2024-01-20T11:59:40.000+03:00","updated":"2024-02-18T16:25:38.459+03:00"}
 ---
 
 ## Pic of the week
