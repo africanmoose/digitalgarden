@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists - Eric Hoffer/","title":"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists - Eric Hoffer","created":"2023-11-06T13:10:48.000+03:00","updated":"2024-02-14T20:18:42.052+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/in-times-of-change-learners-inherit-the-earth-while-the-learned-find-themselves-beautifully-equipped-to-deal-with-a-world-that-no-longer-exists-eric-hoffer/","title":"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists - Eric Hoffer","created":"2023-11-06T13:10:48.000+03:00","updated":"2024-02-14T20:18:42.052+03:00"}
 ---
 
 
