@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Confront the reality of our limited control over events/","title":"Confront the reality of our limited control over events","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:34.270+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/confront-the-reality-of-our-limited-control-over-events/","title":"Confront the reality of our limited control over events","created":"2023-11-30T19:13:59.000+03:00","updated":"2024-02-14T20:18:34.270+03:00"}
 ---
 
 
