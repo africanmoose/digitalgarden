@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Moving is a good way to reset what we need in our lives/","title":"Moving is a good way to reset what we need in our lives","created":"2023-12-25T17:35:32.772+03:00","updated":"2024-02-14T20:18:26.824+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/moving-is-a-good-way-to-reset-what-we-need-in-our-lives/","title":"Moving is a good way to reset what we need in our lives","created":"2023-12-25T17:35:32.772+03:00","updated":"2024-02-14T20:18:26.824+03:00"}
 ---
 
 
