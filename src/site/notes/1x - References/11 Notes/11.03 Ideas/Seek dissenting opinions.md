@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Seek dissenting opinions/","title":"Seek dissenting opinions","created":"2022-11-01T15:02:02.000+03:00","updated":"2024-02-14T20:18:24.591+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/seek-dissenting-opinions/","title":"Seek dissenting opinions","created":"2022-11-01T15:02:02.000+03:00","updated":"2024-02-14T20:18:24.591+03:00"}
 ---
 
 ---
