@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Inspiration and creativity/","title":"Inspiration and creativity","created":"2023-03-27T19:45:50.000+03:00","updated":"2024-02-14T20:18:29.348+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/inspiration-and-creativity/","title":"Inspiration and creativity","created":"2023-03-27T19:45:50.000+03:00","updated":"2024-02-14T20:18:29.348+03:00"}
 ---
 
 
