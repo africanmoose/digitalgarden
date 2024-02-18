@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Do not spoil what you have by desiring what you have not - Epicurus/","title":"Do not spoil what you have by desiring what you have not - Epicurus","created":"2023-03-20T17:17:02.000+03:00","updated":"2024-02-14T20:18:33.436+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/do-not-spoil-what-you-have-by-desiring-what-you-have-not-epicurus/","title":"Do not spoil what you have by desiring what you have not - Epicurus","created":"2023-03-20T17:17:02.000+03:00","updated":"2024-02-14T20:18:33.436+03:00"}
 ---
 
 
