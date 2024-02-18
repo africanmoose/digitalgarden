@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Henry David Thoreau/","title":"Henry David Thoreau","created":"2023-05-08T07:12:24.000+03:00","updated":"2024-02-14T20:18:18.451+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/henry-david-thoreau/","title":"Henry David Thoreau","created":"2023-05-08T07:12:24.000+03:00","updated":"2024-02-14T20:18:18.451+03:00"}
 ---
 
 ![Henry David Thoreau.png](/img/user/1x%20-%20References/11%20Notes/11.05%20Persons/Henry%20David%20Thoreau.png)
