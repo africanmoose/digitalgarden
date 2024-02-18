@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Drawing a vital skill like reading/","title":"Drawing a vital skill like reading","created":"2023-02-14T07:33:24.000+03:00","updated":"2024-02-14T20:18:33.155+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/drawing-a-vital-skill-like-reading/","title":"Drawing a vital skill like reading","created":"2023-02-14T07:33:24.000+03:00","updated":"2024-02-14T20:18:33.155+03:00"}
 ---
 
 
