@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Motivation starts when you start moving/","title":"Motivation starts when you start moving","created":"2023-01-17T21:51:37.000+03:00","updated":"2024-02-14T20:18:26.873+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/motivation-starts-when-you-start-moving/","title":"Motivation starts when you start moving","created":"2023-01-17T21:51:37.000+03:00","updated":"2024-02-14T20:18:26.873+03:00"}
 ---
 
 
