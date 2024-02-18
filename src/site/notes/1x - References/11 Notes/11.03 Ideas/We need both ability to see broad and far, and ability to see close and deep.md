@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/We need both ability to see broad and far, and ability to see close and deep/","title":"We need both ability to see broad and far, and ability to see close and deep","created":"2024-02-13T07:46:06.643+03:00","updated":"2024-02-14T20:18:21.071+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/we-need-both-ability-to-see-broad-and-far-and-ability-to-see-close-and-deep/","title":"We need both ability to see broad and far, and ability to see close and deep","created":"2024-02-13T07:46:06.643+03:00","updated":"2024-02-14T20:18:21.071+03:00"}
 ---
 
 
