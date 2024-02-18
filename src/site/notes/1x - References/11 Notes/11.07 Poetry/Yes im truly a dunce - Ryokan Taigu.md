@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.07 Poetry/Yes im truly a dunce - Ryokan Taigu/","title":"Yes im truly a dunce - Ryokan Taigu","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:18:17.905+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-07-poetry/yes-im-truly-a-dunce-ryokan-taigu/","title":"Yes im truly a dunce - Ryokan Taigu","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:18:17.905+03:00"}
 ---
 
 
