@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Variability in learning - Contextual interference/","title":"Variability in learning - Contextual interference","created":"2023-11-15T19:08:31.000+03:00","updated":"2024-02-14T20:18:21.490+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/variability-in-learning-contextual-interference/","title":"Variability in learning - Contextual interference","created":"2023-11-15T19:08:31.000+03:00","updated":"2024-02-14T20:18:21.490+03:00"}
 ---
 
 
