@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Motivation is not permanent, but neither is bathing - Zig Ziglari/","title":"Motivation is not permanent, but neither is bathing - Zig Ziglari","created":"2024-02-17T12:07:13.491+03:00","updated":"2024-02-17T12:09:06.074+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/motivation-is-not-permanent-but-neither-is-bathing-zig-ziglari/","title":"Motivation is not permanent, but neither is bathing - Zig Ziglari","created":"2024-02-17T12:07:13.491+03:00","updated":"2024-02-17T12:09:06.074+03:00"}
 ---
 
 
