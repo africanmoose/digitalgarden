@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/4 Stages of learning/","title":"4 Stages of learning","created":"2022-10-30T21:23:40.000+03:00","updated":"2024-02-14T20:18:36.289+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/4-stages-of-learning/","title":"4 Stages of learning","created":"2022-10-30T21:23:40.000+03:00","updated":"2024-02-14T20:18:36.289+03:00"}
 ---
 
 ---
