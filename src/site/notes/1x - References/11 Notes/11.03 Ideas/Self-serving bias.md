@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Self-serving bias/","title":"Self-serving bias","created":"2022-12-22T00:05:14.000+03:00","updated":"2024-02-14T20:18:24.361+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/self-serving-bias/","title":"Self-serving bias","created":"2022-12-22T00:05:14.000+03:00","updated":"2024-02-14T20:18:24.361+03:00"}
 ---
 
 
