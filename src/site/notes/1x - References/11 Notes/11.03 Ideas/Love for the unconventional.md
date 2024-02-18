@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Love for the unconventional/","title":"Love for the unconventional","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:18:27.664+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/love-for-the-unconventional/","title":"Love for the unconventional","created":"2023-10-18T12:57:12.000+03:00","updated":"2024-02-14T20:18:27.664+03:00"}
 ---
 
 
