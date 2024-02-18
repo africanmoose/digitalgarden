@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/A small daily task will beat a spasmodic Hercules - Anthony Trollope/","title":"A small daily task will beat a spasmodic Hercules - Anthony Trollope","created":"2023-01-18T21:02:31.000+03:00","updated":"2024-02-14T20:18:47.602+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/a-small-daily-task-will-beat-a-spasmodic-hercules-anthony-trollope/","title":"A small daily task will beat a spasmodic Hercules - Anthony Trollope","created":"2023-01-18T21:02:31.000+03:00","updated":"2024-02-14T20:18:47.602+03:00"}
 ---
 
 
