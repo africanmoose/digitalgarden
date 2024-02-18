@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Two things are infinite the universe and human stupidity - Albert Einstein/","title":"Two things are infinite the universe and human stupidity - Albert Einstein","created":"2023-09-25T21:23:06.000+03:00","updated":"2024-02-14T20:18:36.733+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/two-things-are-infinite-the-universe-and-human-stupidity-albert-einstein/","title":"Two things are infinite the universe and human stupidity - Albert Einstein","created":"2023-09-25T21:23:06.000+03:00","updated":"2024-02-14T20:18:36.733+03:00"}
 ---
 
 
