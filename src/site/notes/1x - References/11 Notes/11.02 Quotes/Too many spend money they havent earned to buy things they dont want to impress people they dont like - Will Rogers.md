@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Too many spend money they havent earned to buy things they dont want to impress people they dont like - Will Rogers/","title":"Too many spend money they havent earned to buy things they dont want to impress people they dont like - Will Rogers","created":"2023-08-25T17:12:41.058+03:00","updated":"2024-02-14T20:18:36.883+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/too-many-spend-money-they-havent-earned-to-buy-things-they-dont-want-to-impress-people-they-dont-like-will-rogers/","title":"Too many spend money they havent earned to buy things they dont want to impress people they dont like - Will Rogers","created":"2023-08-25T17:12:41.058+03:00","updated":"2024-02-14T20:18:36.883+03:00"}
 ---
 
 
