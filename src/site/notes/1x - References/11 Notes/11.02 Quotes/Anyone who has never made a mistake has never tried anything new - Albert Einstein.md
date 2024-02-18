@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/Anyone who has never made a mistake has never tried anything new - Albert Einstein/","title":"Anyone who has never made a mistake has never tried anything new - Albert Einstein","created":"2023-09-17T23:20:50.000+03:00","updated":"2024-02-14T20:18:46.879+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/anyone-who-has-never-made-a-mistake-has-never-tried-anything-new-albert-einstein/","title":"Anyone who has never made a mistake has never tried anything new - Albert Einstein","created":"2023-09-17T23:20:50.000+03:00","updated":"2024-02-14T20:18:46.879+03:00"}
 ---
 
 
