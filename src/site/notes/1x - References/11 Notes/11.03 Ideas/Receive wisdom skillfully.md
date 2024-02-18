@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Receive wisdom skillfully/","title":"Receive wisdom skillfully","created":"2023-03-26T21:39:07.000+03:00","updated":"2024-02-14T20:18:24.916+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/receive-wisdom-skillfully/","title":"Receive wisdom skillfully","created":"2023-03-26T21:39:07.000+03:00","updated":"2024-02-14T20:18:24.916+03:00"}
 ---
 
 
