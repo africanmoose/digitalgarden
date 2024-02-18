@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Having a reservoir of ideas allows you to develop ideas over a long period of time/","title":"Having a reservoir of ideas allows you to develop ideas over a long period of time","created":"2023-11-10T21:45:41.000+03:00","updated":"2024-02-14T20:18:31.079+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/having-a-reservoir-of-ideas-allows-you-to-develop-ideas-over-a-long-period-of-time/","title":"Having a reservoir of ideas allows you to develop ideas over a long period of time","created":"2023-11-10T21:45:41.000+03:00","updated":"2024-02-14T20:18:31.079+03:00"}
 ---
 
 
