@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4x - Reading/41 Books/41.02 Book reviews/Personal Kanban - Mapping Work Navigating Life/","title":"Personal Kanban - Mapping Work Navigating Life","created":"2023-01-08T08:48:13.000+03:00","updated":"2024-02-14T20:17:40.663+03:00"}
+{"dg-publish":true,"permalink":"/4x-reading/41-books/41-02-book-reviews/personal-kanban-mapping-work-navigating-life/","title":"Personal Kanban - Mapping Work Navigating Life","created":"2023-01-08T08:48:13.000+03:00","updated":"2024-02-14T20:17:40.663+03:00"}
 ---
 
 
