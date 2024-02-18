@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Curiousity as a management style/","title":"Curiousity as a management style","created":"2023-09-28T22:20:58.000+03:00","updated":"2024-02-14T20:18:34.097+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/curiousity-as-a-management-style/","title":"Curiousity as a management style","created":"2023-09-28T22:20:58.000+03:00","updated":"2024-02-14T20:18:34.097+03:00"}
 ---
 
 
