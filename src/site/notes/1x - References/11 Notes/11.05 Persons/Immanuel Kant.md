@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Immanuel Kant/","title":"Immanuel Kant","created":"2023-01-22T09:39:27.000+03:00","updated":"2024-02-14T20:18:18.350+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/immanuel-kant/","title":"Immanuel Kant","created":"2023-01-22T09:39:27.000+03:00","updated":"2024-02-14T20:18:18.350+03:00"}
 ---
 
 
