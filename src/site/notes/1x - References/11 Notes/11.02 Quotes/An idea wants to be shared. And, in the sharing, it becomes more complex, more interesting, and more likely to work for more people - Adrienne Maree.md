@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.02 Quotes/An idea wants to be shared. And, in the sharing, it becomes more complex, more interesting, and more likely to work for more people - Adrienne Maree/","title":"An idea wants to be shared. And, in the sharing, it becomes more complex, more interesting, and more likely to work for more people - Adrienne Maree","created":"2023-09-16T12:57:04.753+03:00","updated":"2024-02-14T20:18:46.928+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/an-idea-wants-to-be-shared-and-in-the-sharing-it-becomes-more-complex-more-interesting-and-more-likely-to-work-for-more-people-adrienne-maree/","title":"An idea wants to be shared. And, in the sharing, it becomes more complex, more interesting, and more likely to work for more people - Adrienne Maree","created":"2023-09-16T12:57:04.753+03:00","updated":"2024-02-14T20:18:46.928+03:00"}
 ---
 
 
