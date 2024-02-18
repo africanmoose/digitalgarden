@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7x - Financial/75 Financial Education/75.01 Financial Notes/Joe Dominguez rules for investment/","title":"Joe Dominguez rules for investment","created":"2023-10-17T20:07:57.000+03:00","updated":"2024-02-14T20:17:37.982+03:00"}
+{"dg-publish":true,"permalink":"/7x-financial/75-financial-education/75-01-financial-notes/joe-dominguez-rules-for-investment/","title":"Joe Dominguez rules for investment","created":"2023-10-17T20:07:57.000+03:00","updated":"2024-02-14T20:17:37.982+03:00"}
 ---
 
 
