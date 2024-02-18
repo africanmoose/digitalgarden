@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/London coffeehouses eventually become institutions/","title":"London coffeehouses eventually become institutions","created":"2023-08-01T21:09:52.503+03:00","updated":"2024-02-14T20:18:27.995+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/london-coffeehouses-eventually-become-institutions/","title":"London coffeehouses eventually become institutions","created":"2023-08-01T21:09:52.503+03:00","updated":"2024-02-14T20:18:27.995+03:00"}
 ---
 
 
