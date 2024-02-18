@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.05 Persons/Thomas Young/","title":"Thomas Young","created":"2023-09-10T12:55:10.071+03:00","updated":"2024-02-14T20:18:18.037+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-05-persons/thomas-young/","title":"Thomas Young","created":"2023-09-10T12:55:10.071+03:00","updated":"2024-02-14T20:18:18.037+03:00"}
 ---
 
 
