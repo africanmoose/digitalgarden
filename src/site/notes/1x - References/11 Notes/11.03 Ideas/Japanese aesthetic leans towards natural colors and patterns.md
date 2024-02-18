@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1x - References/11 Notes/11.03 Ideas/Japanese aesthetic leans towards natural colors and patterns/","title":"Japanese aesthetic leans towards natural colors and patterns","created":"2022-11-27T10:37:38.000+03:00","updated":"2024-02-14T20:18:29.091+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-03-ideas/japanese-aesthetic-leans-towards-natural-colors-and-patterns/","title":"Japanese aesthetic leans towards natural colors and patterns","created":"2022-11-27T10:37:38.000+03:00","updated":"2024-02-14T20:18:29.091+03:00"}
 ---
 
 
