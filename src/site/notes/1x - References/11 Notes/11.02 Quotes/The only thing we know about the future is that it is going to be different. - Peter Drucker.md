@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-only-thing-we-know-about-the-future-is-that-it-is-going-to-be-different-peter-drucker/","title":"The only thing we know about the future is that it is going to be different. - Peter Drucker","created":"2024-02-18T21:14:10.611+03:00","updated":"2024-02-18T21:15:16.077+03:00"}
+{"dg-publish":true,"permalink":"/1x-references/11-notes/11-02-quotes/the-only-thing-we-know-about-the-future-is-that-it-is-going-to-be-different-peter-drucker/","title":"The only thing we know about the future is that it is going to be different. - Peter Drucker","created":"2024-02-18T21:14:10.611+03:00","updated":"2024-02-18T21:41:37.237+03:00"}
 ---
 
 
 ## Quote
-The only thing we know about the future is that it is going to be different.
+The only thing we know about the future is that it is going to be different. 
 
 ## Author
 Peter Drucker
